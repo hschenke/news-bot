@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:01:03 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI löst sein eigenständiges Robotikteam auf</title>
+      <link>https://www.all-ai.de/news/news26top/openai-robotik-ende</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-robotik-ende</guid>
+      <pubDate>Sat, 14 Nov 2026 13:33:40 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[OpenAI löst sein eigenständiges Robotikteam auf und verteilt die Mitarbeiter auf zwei Abteilungen. Das Unternehmen will die Entwicklung vielseitig einsetzbarer Roboter mit KI-Modellen wie GPT-6 Astra beschleunigen. In einer Nvidia-Simulation erreichte GPT-6 Astra je nach Aufbau rund 66% oder 75% Erfolg bei Greif- und Ablageaufgaben. Sam Altman peilt für 2027 die erste öffentliche Vorführung eines eigenen humanoiden Roboters an. Fortune – OpenAI bestätigt die Auflösung des eigenständigen Robotikteams Nvidia Research – Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy OpenAI verteilt die Mitarbeiter seines eigenständigen Robotikteams auf zwei andere Bereiche auf. Das Unternehmen bestätigte den Umbau gegenüber »Fortune«. Ein Grund dafür sind Versuche mit GPT-6 Astra, das einige Roboteraufgaben übernehmen kann. Anzeige Die Robotikforscher wechseln in die Hauptforschung Die Robotikforscher arbeiten künftig in der zentralen Forschungsabteilung unter Mark Chen. Die Mitarbeiter für angewandte Robotik und Hardware wechseln in den Bereich Applied unter OpenAI-Präsident Greg Brockman. OpenAI will mit dem Umbau die Entwicklung von Robotern beschleunigen, die sich für unt...]]></description>
+    </item>
+    <item>
+      <title>Papst Leo XIV. warnt vor Effizienz als oberstem Maßstab</title>
+      <link>https://www.all-ai.de/news/news26top/papst-ki-effizienz-uni</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/papst-ki-effizienz-uni</guid>
+      <pubDate>Sat, 14 Nov 2026 13:25:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Papst Leo XIV. rief Studenten und Wissenschaftler in Peru dazu auf, Technik kritisch zu prüfen. Er warnte davor, Effizienz zum höchsten Maßstab zu machen, und betonte den Wert menschlicher Urteilskraft. In seiner Enzyklika »Magnifica Humanitas« plädiert Leo für einen zurückhaltenden Umgang mit KI in der Bildung. Vatikan – Ansprache von Papst Leo XIV. an der Universität in Chiclayo (deutsche Fassung) Presseamt des Heiligen Stuhls – Universitätsbesuch und Rede im spanischen Original Vatikan – Enzyklika »Magnifica Humanitas«, besonders Abschnitte 143 bis 147 Papst Leo XIV. hat Studenten und Wissenschaftler dazu aufgerufen, technische Fortschritte kritisch zu prüfen. Bei einem Besuch an der katholischen Universität Santo Toribio de Mogrovejo im peruanischen Chiclayo warnte er am Freitag davor, Effizienz zum höchsten Maßstab zu machen. Die Rede behandelt Technologie im Allgemeinen und knüpft an eine Frage aus seiner KI-Enzyklika an: Wie lernen Studenten, sich ein eigenes Urteil zu bilden? Anzeige Was Maschinen laut Leo XIV. fehlt Leo forderte sein Publikum auf, nach »jener Weisheit« zu suchen, »über die weder Maschinen noch Computerprogramme verfügen können«. Wer Technik beurteilt, m...]]></description>
+    </item>
     <item>
       <title>Higgsfield startet Talent Contest mit 1 Million Dollar Preisgeld</title>
       <link>https://www.all-ai.de/news/news26/higgsfield-talent-contest-1-million-start</link>
@@ -43,24 +61,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Die Initiative »Stand with Jensen« fordert, Huang während einer unabhängigen Untersuchung wieder als Nvidia-Chef einzusetzen. Elon Musk unterstützt die Rückkehr und kündigte an, zu unterschreiben. Bei OpenAI drohte 2023 ein Großteil der Belegschaft mit Kündigung, bevor sich das Unternehmen mit Sam Altman einigte. Bei Nvidia führt Colette Kress vorübergehend das Unternehmen, während der Verwaltungsrat einen dauerhaften Nachfolger sucht. Stand with Jensen – offener Brief und Unterstützerliste Elon Musk – archivierter X-Beitrag zur Petition Nvidia – Bekanntgabe des Rücktritts und der Nachfolgesuche Politico – Stimmen aus der Branche zu einem Comeback Britische Wettbewerbsbehörde CMA – Chronologie von Altmans Entlassung und Rückkehr Eine Petition fordert Nvidia auf, Jensen Huang wieder als CEO einzusetzen. Elon Musk kündigte auf X an, ebenfalls zu unterschreiben. Bei Sam Altman reichten 2023 vier Tage bis zur Einigung über seine Rückkehr zu OpenAI. Anzeige Was die Petition von Nvidia fordert Nvidia gab am 12. November bekannt, dass Huang als CEO, Präsident und Mitglied des Verwaltungsrats zurückgetreten ist. Er hatte den Chiphersteller 33 Jahre lang geführt. Finanzchefin Colette Kre...]]></description>
-    </item>
-    <item>
-      <title>ChatGPT Wallet lässt KI-Agenten im Auftrag ihrer Nutzer bezahlen</title>
-      <link>https://www.all-ai.de/news/news26/chatgpt-agenten-wallet</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/chatgpt-agenten-wallet</guid>
-      <pubDate>Fri, 13 Nov 2026 15:19:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Persönliche KI-Agenten in ChatGPT können mit einer hinterlegten Karte Bestellungen bezahlen. Nutzer prüfen den Kauf und geben ihn per Gesichtserkennung oder Fingerabdruck frei. Der KI-Agent bezahlt mit einer virtuellen Kartennummer. Zum Start steht die Wallet volljährigen Pro-Abonnenten in den USA mit geeigneter US-Karte zur Verfügung. OpenAI – Introducing ChatGPT Wallet (Text aus der Anlage, Link beim Abruf mit HTTP 404) OpenAI Help Center – Making purchases with ChatGPT Wallet OpenAI – ChatGPT Wallet terms OpenAI Help Center – ChatGPT release notes (Meet your dot) Mit ChatGPT Wallet kann ein persönlicher KI-Agent in ChatGPT Bestellungen für seinen Nutzer abschließen. Der Nutzer hinterlegt eine Kreditkarte und gibt jeden Kauf per Gesichtserkennung oder Fingerabdruck frei. OpenAI führt die Funktion zunächst für volljährige Pro-Abonnenten in den USA ein. Anzeige Der Nutzer prüft die Bestellung, der KI-Agent bezahlt Die Wallet funktioniert im Gespräch mit einem »Dot«, so nennt OpenAI seine persönlichen KI-Agenten. Wer etwa ein Hotel buchen will, kann seinen Dot nach einem passenden Zimmer suchen lassen und ihn anschließend mit der Buchung beauftragen. Vor der Freigabe sieht der Nu...]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang: Darum könnte die ganze KI-Branche untergehen</title>
-      <link>https://www.all-ai.de/news/news26top/jensen-huang-ki-rechenzentren</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/jensen-huang-ki-rechenzentren</guid>
-      <pubDate>Fri, 13 Nov 2026 14:27:26 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Nvidia prüft Finanzhilfen für KI-Rechenzentren strenger und hat einige geplante Deals pausiert. Interimschefin Colette Kress hat Nvidias Garantie für ein OpenAI-Projekt in Ohio schon als Finanzchefin heruntergehandelt. Ein separates Vorhaben, das mehr als 500 Milliarden $ von externen Geldgebern mobilisieren soll, stockt. Kleinere Cloud-Anbieter könnten künftig höhere Zinsen zahlen oder ihre Projekte verschieben. The Wall Street Journal – Before His Ouster, Jensen Huang Belittled the Executive Replacing Him Nvidia – NVIDIA Announces CEO Transition Nvidia bei der SEC – Quartalsbericht zu den Garantien und Finanzierungsplänen Bloomberg – Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit Jensen Huang wollte mehr Nvidia-Chips verkaufen, indem der Konzern seinen Kunden bei der Finanzierung neuer Rechenzentren hilft. Finanzchefin Colette Kress stellte schon im Frühjahr infrage, welche Garantien Nvidia dafür übernehmen sollte. Nach Huangs Rücktritt führt sie Nvidia vorerst selbst und muss entscheiden, wie viel Risiko der Konzern bei künftigen Projekten trägt. Anzeige Huang wollte Chipverkäufe sichern, Kress rechnete nach Garantien von Nvidia sollten Cloud-Anbietern helfe...]]></description>
     </item>
   </channel>
 </rss>

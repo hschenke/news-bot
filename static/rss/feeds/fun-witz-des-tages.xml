@@ -5,17 +5,17 @@
     <link>https://news-bot.streamlit.app/?category=Fun&amp;feed=Witz+des+Tages</link>
     <description>RSS-Feed für die Quelle 'Witz des Tages' (Kategorie: Fun).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:01:03 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fun-witz-des-tages.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gott schwebt über Afrika, und weil er so</title>
-      <link>https://www.hahaha.de/witze/menschen/fiese/12902/gott-schwebt-ueber-afrika-und-weil-er-so.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/fiese/12902/gott-schwebt-ueber-afrika-und-weil-er-so.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Der Bundeskanzler hat eine Audienz beim Papst.</title>
+      <link>https://www.hahaha.de/witze/politik-gesellschaft/politiker/6962/der-bundeskanzler-hat-eine-audienz-beim-papst.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/politik-gesellschaft/politiker/6962/der-bundeskanzler-hat-eine-audienz-beim-papst.html</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
       <category>Fun</category>
       <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[Gott schwebt über Afrika, und weil er so gut gelaunt ist, denkt er sich: "Ich werde hundert Afrikanern einen Wunsch erfüllen." Er fragt den ersten Schwarzen: "Was wünscht Du Dir?" Der Schwarze antwortet: "Ich möchte weiß werden." Der Wunsch wird Ihn erfüllt. Auch der zweite, dritte, vierte, fünfte wünscht sich das gleiche. Gott fällt auf, dass der Letzte in der Schlange sich krümmt vor Lachen. Gott fragt den Allerletzten: "Und was wünscht Du Dir?" Der Schwarze: "Ich wünsche mir, dass alle wieder schwarz werden..."]]></description>
+      <description><![CDATA[Der Bundeskanzler hat eine Audienz beim Papst. "Ich freue mich ja so, dass ich gerade heute an Ihrem Namenstag hier sein kann, heiliger Vater", strahlt Schröder. Meint der Papst: "Aber, Herr Schröder, heut ist weder Johannes noch Paul." Schröder: "Nein, aber der zweite."]]></description>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,126 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:01:03 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where was Nvidia’s security team?</title>
+      <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188673</guid>
+      <pubDate>Sun, 15 Nov 2026 00:08:07 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.]]></description>
+    </item>
+    <item>
+      <title>SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf</title>
+      <link>https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525437</guid>
+      <pubDate>Sat, 14 Nov 2026 22:29:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.]]></description>
+    </item>
+    <item>
+      <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
+      <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188741</guid>
+      <pubDate>Sat, 14 Nov 2026 21:41:22 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The petition had attracted more than 115,000 signatures as of Saturday afternoon.]]></description>
+    </item>
+    <item>
+      <title>Top 10: Das beste Outdoor-Handy im Test – ideal für Baustelle, Camping &amp; Wildnis</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test-ideal-fuer-baustelle-camping-und-wildnis/l7bnxjv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525361</guid>
+      <pubDate>Sat, 14 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Outdoor-Handys aus den Tests.]]></description>
+    </item>
+    <item>
+      <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+      <link>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
+      <pubDate>Sat, 14 Nov 2026 17:30:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.]]></description>
+    </item>
+    <item>
+      <title>US-Regulierungsbehörde genehmigt Ausnahmen vom Router-Verbot</title>
+      <link>https://www.heise.de/news/US-Regulierungsbehoerde-genehmigt-Ausnahmen-vom-Router-Verbot-11525357.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525357</guid>
+      <pubDate>Sat, 14 Nov 2026 17:07:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Für das im März in den USA verhängte Verbot für im Ausland hergestellte Router verteilt die Regulierungsbehörde FCC weitere Ausnahmegenehmigungen.]]></description>
+    </item>
+    <item>
+      <title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
+      <link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188720</guid>
+      <pubDate>Sat, 14 Nov 2026 16:34:15 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.]]></description>
+    </item>
+    <item>
+      <title>Deutscher TikToker muss wegen heimlichen Filmens ins Gefängnis</title>
+      <link>https://www.heise.de/news/TikTok-Prankster-muss-wegen-heimlich-aufgenommener-Videos-ins-Gefaengnis-11525377.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525377</guid>
+      <pubDate>Sat, 14 Nov 2026 16:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Unter dem Namen „langlebepapa“ demütigte ein 33-Jähriger Opfer in TikTok-Videos. Nun verurteilte ihn das Amtsgericht Hamburg zu einer Haftstrafe ohne Bewährung.]]></description>
+    </item>
+    <item>
+      <title>Anker Nano Dockingstation A83C3 im Test: Kompakt &amp; mit herausnehmbarem USB-C-Hub</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/anker-nano-dockingstation-a83c3-im-test-kompakt-und-mit-herausnehmbarem-usb-c-hub/nmntb6d?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525115</guid>
+      <pubDate>Sat, 14 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die kompakte Anker Nano Dockingstation ist fair bepreist und bringt einen herausnehmbaren USB-C-Hub für unterwegs mit. Was sie taugt, zeigt der Test.]]></description>
+    </item>
+    <item>
+      <title>O2 mit mäßigen Geschäftszahlen</title>
+      <link>https://www.heise.de/news/O2-mit-maessigen-Geschaeftszahlen-11525319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525319</guid>
+      <pubDate>Sat, 14 Nov 2026 14:29:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Mobilfunker O2 Telefónica verzeichnet weiter zurückgehende Umsätze, nur im Festnetz gibt es noch Wachstum. Um Kosten zu senken, baut der Konzern Jobs ab.]]></description>
+    </item>
+    <item>
+      <title>Inference Manager: neues Ubuntu-Tool verwaltet lokale KI-Modelle</title>
+      <link>https://www.heise.de/news/Inference-Manager-neues-Ubuntu-Tool-verwaltet-lokale-KI-Modelle-11525275.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525275</guid>
+      <pubDate>Sat, 14 Nov 2026 13:46:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Canonical hat auf dem Ubuntu Summit den Inference Manager vorgestellt, ein neues Werkzeug zur Verwaltung lokal installierter KI-Modelle.]]></description>
+    </item>
+    <item>
+      <title>OpenAI löst sein eigenständiges Robotikteam auf</title>
+      <link>https://www.all-ai.de/news/news26top/openai-robotik-ende</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-robotik-ende</guid>
+      <pubDate>Sat, 14 Nov 2026 13:33:40 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[OpenAI löst sein eigenständiges Robotikteam auf und verteilt die Mitarbeiter auf zwei Abteilungen. Das Unternehmen will die Entwicklung vielseitig einsetzbarer Roboter mit KI-Modellen wie GPT-6 Astra beschleunigen. In einer Nvidia-Simulation erreichte GPT-6 Astra je nach Aufbau rund 66% oder 75% Erfolg bei Greif- und Ablageaufgaben. Sam Altman peilt für 2027 die erste öffentliche Vorführung eines eigenen humanoiden Roboters an. Fortune – OpenAI bestätigt die Auflösung des eigenständigen Robotikteams Nvidia Research – Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy OpenAI verteilt die Mitarbeiter seines eigenständigen Robotikteams auf zwei andere Bereiche auf. Das Unternehmen bestätigte den Umbau gegenüber »Fortune«. Ein Grund dafür sind Versuche mit GPT-6 Astra, das einige Roboteraufgaben übernehmen kann. Anzeige Die Robotikforscher wechseln in die Hauptforschung Die Robotikforscher arbeiten künftig in der zentralen Forschungsabteilung unter Mark Chen. Die Mitarbeiter für angewandte Robotik und Hardware wechseln in den Bereich Applied unter OpenAI-Präsident Greg Brockman. OpenAI will mit dem Umbau die Entwicklung von Robotern beschleunigen, die sich für unt...]]></description>
+    </item>
+    <item>
+      <title>Papst Leo XIV. warnt vor Effizienz als oberstem Maßstab</title>
+      <link>https://www.all-ai.de/news/news26top/papst-ki-effizienz-uni</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/papst-ki-effizienz-uni</guid>
+      <pubDate>Sat, 14 Nov 2026 13:25:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Papst Leo XIV. rief Studenten und Wissenschaftler in Peru dazu auf, Technik kritisch zu prüfen. Er warnte davor, Effizienz zum höchsten Maßstab zu machen, und betonte den Wert menschlicher Urteilskraft. In seiner Enzyklika »Magnifica Humanitas« plädiert Leo für einen zurückhaltenden Umgang mit KI in der Bildung. Vatikan – Ansprache von Papst Leo XIV. an der Universität in Chiclayo (deutsche Fassung) Presseamt des Heiligen Stuhls – Universitätsbesuch und Rede im spanischen Original Vatikan – Enzyklika »Magnifica Humanitas«, besonders Abschnitte 143 bis 147 Papst Leo XIV. hat Studenten und Wissenschaftler dazu aufgerufen, technische Fortschritte kritisch zu prüfen. Bei einem Besuch an der katholischen Universität Santo Toribio de Mogrovejo im peruanischen Chiclayo warnte er am Freitag davor, Effizienz zum höchsten Maßstab zu machen. Die Rede behandelt Technologie im Allgemeinen und knüpft an eine Frage aus seiner KI-Enzyklika an: Wie lernen Studenten, sich ein eigenes Urteil zu bilden? Anzeige Was Maschinen laut Leo XIV. fehlt Leo forderte sein Publikum auf, nach »jener Weisheit« zu suchen, »über die weder Maschinen noch Computerprogramme verfügen können«. Wer Technik beurteilt, m...]]></description>
+    </item>
     <item>
       <title>Higgsfield startet Talent Contest mit 1 Million Dollar Preisgeld</title>
       <link>https://www.all-ai.de/news/news26/higgsfield-talent-contest-1-million-start</link>
@@ -97,546 +214,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[AWS-Anwendungen ohne Cloud-Konto und Gebühren lokal testen: Wie der neue, kontroverse AWS Emulator unter der Haube funktioniert und was er leistet.]]></description>
-    </item>
-    <item>
-      <title>Blende zu, KI an – wohin entwickelt sich die Smartphone-Fotografie? | c’t uplink</title>
-      <link>https://www.heise.de/news/Blende-zu-KI-an-wohin-entwickelt-sich-die-Smartphone-Fotografie-c-t-uplink-11524072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524072</guid>
-      <pubDate>Sat, 14 Nov 2026 05:30:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Ob variable Blende, Telekonverter oder KI: Smartphone-Kameras rüsten sowohl bei Hard- als auch Software auf. Doch was bringt die Fotografie wirklich voran?]]></description>
-    </item>
-    <item>
-      <title>Monkey Island: all 13 versions side by side</title>
-      <link>https://monkeyisland.pages.dev/</link>
-      <guid isPermaLink="false">https://monkeyisland.pages.dev/</guid>
-      <pubDate>Sat, 14 Nov 2026 04:23:30 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
-      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-      <guid isPermaLink="false">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</guid>
-      <pubDate>Sat, 14 Nov 2026 02:52:59 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Ggml v1.0.0</title>
-      <link>https://github.com/ggml-org/ggml/releases/tag/v1.0.0</link>
-      <guid isPermaLink="false">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</guid>
-      <pubDate>Sat, 14 Nov 2026 02:28:29 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Elephants found to be increasingly isolated leading to fractured social networks</title>
-      <link>https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks</link>
-      <guid isPermaLink="false">https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks</guid>
-      <pubDate>Sat, 14 Nov 2026 02:02:42 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Amtrak booking system experiencing major issues amid nationwide FAA ground stop</title>
-      <link>https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026</link>
-      <guid isPermaLink="false">https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026</guid>
-      <pubDate>Sat, 14 Nov 2026 00:52:29 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update</title>
-      <link>https://unsloth.ai/docs/models/qwen3.8</link>
-      <guid isPermaLink="false">https://unsloth.ai/docs/models/qwen3.8</guid>
-      <pubDate>Sat, 14 Nov 2026 00:06:04 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>What happened to 3Com?</title>
-      <link>https://dfarq.homeip.net/what-happened-to-3com/</link>
-      <guid isPermaLink="false">https://dfarq.homeip.net/what-happened-to-3com/</guid>
-      <pubDate>Fri, 13 Nov 2026 23:48:59 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop</title>
-      <link>https://grounds.top/</link>
-      <guid isPermaLink="false">https://grounds.top/</guid>
-      <pubDate>Fri, 13 Nov 2026 23:17:39 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Terminal borders that don't cost a cell</title>
-      <link>https://www.joshka.net/cell-borders/</link>
-      <guid isPermaLink="false">https://www.joshka.net/cell-borders/</guid>
-      <pubDate>Fri, 13 Nov 2026 23:06:40 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>How Not to Build a Music Player</title>
-      <link>https://alichraghi.github.io/blog/how-not-to-build-a-music-player/</link>
-      <guid isPermaLink="false">https://alichraghi.github.io/blog/how-not-to-build-a-music-player/</guid>
-      <pubDate>Fri, 13 Nov 2026 23:04:30 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
-      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188596</guid>
-      <pubDate>Fri, 13 Nov 2026 22:43:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.]]></description>
-    </item>
-    <item>
-      <title>USA: Alle Flughäfen stundenlang gesperrt</title>
-      <link>https://www.heise.de/news/USA-Alle-Flughaefen-gesperrt-11525181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525181</guid>
-      <pubDate>Fri, 13 Nov 2026 22:05:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[In den USA mussten am Freitag alle Luftfahrzeuge mehr als vier Stunden auf dem Boden bleiben. Grund waren technische Probleme der Flugsicherung.]]></description>
-    </item>
-    <item>
-      <title>Live airband on all frequencies from KORS. Victoria, CA also ground stopped</title>
-      <link>https://orcasairband.com/</link>
-      <guid isPermaLink="false">https://orcasairband.com/</guid>
-      <pubDate>Fri, 13 Nov 2026 22:04:24 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>FAA issues national ground stop – lifted 4.5 hours later</title>
-      <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
-      <guid isPermaLink="false">https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</guid>
-      <pubDate>Fri, 13 Nov 2026 21:05:53 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth</title>
-      <link>https://atg.science/careers</link>
-      <guid isPermaLink="false">https://atg.science/careers</guid>
-      <pubDate>Fri, 13 Nov 2026 21:01:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Live-migration support in FreeBSD and bhyve coming</title>
-      <link>https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/</link>
-      <guid isPermaLink="false">https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/</guid>
-      <pubDate>Fri, 13 Nov 2026 19:58:42 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>AI agent startup LangChain hits $3B valuation</title>
-      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188474</guid>
-      <pubDate>Fri, 13 Nov 2026 19:37:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.]]></description>
-    </item>
-    <item>
-      <title>Found: A protein that drives ageing without unleashing inflammation</title>
-      <link>https://www.nature.com/articles/d41586-026-03638-3</link>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-03638-3</guid>
-      <pubDate>Fri, 13 Nov 2026 19:25:21 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Perplexity Decider v1.3: Training, eval, and use cases</title>
-      <link>https://www.perplexity.ai/hub/blog/perplexity-decider</link>
-      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-decider</guid>
-      <pubDate>Fri, 13 Nov 2026 19:24:47 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>FM-1 Workbench</title>
-      <link>https://open.m-vave.com/fm1-workbench</link>
-      <guid isPermaLink="false">https://open.m-vave.com/fm1-workbench</guid>
-      <pubDate>Fri, 13 Nov 2026 19:14:02 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Bloß keine Schokolade: Der beste Adventskalender 2026 für Schlaumeier &amp; Co.</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/bloss-keine-schokolade-der-beste-adventskalender-2026-fuer-schlaumeier-und-co/30ewgv3?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524682</guid>
-      <pubDate>Fri, 13 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Adventskalender können mehr als nur Schokolade: Sie laden zum Werkeln, Rätseln, Experimentieren und Spielen ein. Wir zeigen unsere Top-5-Adventskalender 2026.]]></description>
-    </item>
-    <item>
-      <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!</title>
-      <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188067</guid>
-      <pubDate>Fri, 13 Nov 2026 18:40:30 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[New research shows the most advanced AI models from China were trained on banned Nvidia chips.]]></description>
-    </item>
-    <item>
-      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
-      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
-      <pubDate>Fri, 13 Nov 2026 18:00:39 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Show HN: Isometric SF – A pixel-art map of the SF Bay Area</title>
-      <link>https://isometricsf.com/</link>
-      <guid isPermaLink="false">https://isometricsf.com/</guid>
-      <pubDate>Fri, 13 Nov 2026 17:58:37 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>After 600 experiments, here's what I discovered about JEPA world models</title>
-      <link>https://haddyalchaer.com/jepa</link>
-      <guid isPermaLink="false">https://haddyalchaer.com/jepa</guid>
-      <pubDate>Fri, 13 Nov 2026 17:55:28 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>DSGVO: Tinder muss Millionen-Bußgeld zahlen</title>
-      <link>https://www.heise.de/news/DSGVO-Tinder-muss-Millionen-Bussgeld-zahlen-11525093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525093</guid>
-      <pubDate>Fri, 13 Nov 2026 17:42:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die irische Data Protection Commission hat gegen die europäische Tochter der Match Group ein Bußgeld wegen eines DSGVO-Verstoßes verhängt.]]></description>
-    </item>
-    <item>
-      <title>Generative KI stiftet Chaos in Brüssel und Straßburg</title>
-      <link>https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525079</guid>
-      <pubDate>Fri, 13 Nov 2026 17:21:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Chatbots sorgen in Brüssel und Straßburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete schlagen Alarm wegen demokratischer Risiken.]]></description>
-    </item>
-    <item>
-      <title>XYBench: Helping with the problem behind the question</title>
-      <link>https://huggingface.co/blog/allenai/xybench</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/xybench</guid>
-      <pubDate>Fri, 13 Nov 2026 17:02:35 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Japan: Sony und JR East wollen 40 Bahnhöfe mit UWB-Ticketgates ausstatten</title>
-      <link>https://www.heise.de/news/Japan-Sony-und-JR-East-wollen-40-Bahnhoefe-mit-UWB-Ticketgates-ausstatten-11524971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524971</guid>
-      <pubDate>Fri, 13 Nov 2026 16:47:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[UWB kennt man vor allem von Apples Airtags. Die Präzision im Nahbereich lässt sich aber auch für Tickets nutzen. Das Smartphone kann dann in der Tasche bleiben.]]></description>
-    </item>
-    <item>
-      <title>Apple liefert iPhone Duo offenbar früher als erwartet aus</title>
-      <link>https://www.heise.de/news/Apple-liefert-iPhone-Duo-offenbar-frueher-als-erwartet-aus-11524981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524981</guid>
-      <pubDate>Fri, 13 Nov 2026 16:41:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Einige Vorbesteller des iPhone Duo sollen das faltbare iPhone bereits vor Weihnachten statt erst Ende Januar erhalten.]]></description>
-    </item>
-    <item>
-      <title>Vorsicht, Umbruch: Word zerschießt bald das Layout alter Dokumente</title>
-      <link>https://www.heise.de/news/Vorsicht-Umbruch-Word-zerschiesst-bald-das-Layout-alter-Dokumente-11524878.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524878</guid>
-      <pubDate>Fri, 13 Nov 2026 16:35:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Microsoft entfernt einige alte Kompatibilitätseinstellungen in Word. Bei älteren Dokumenten drohen deshalb ab Dezember 2026 Layout-Verschiebungen.]]></description>
-    </item>
-    <item>
-      <title>Bit-Rauschen, der Prozessor-Podcast: Nvidia nach dem Rücktritt von Jensen Huang</title>
-      <link>https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Nvidia-nach-dem-Ruecktritt-von-Jensen-Huang-11524919.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524919</guid>
-      <pubDate>Fri, 13 Nov 2026 16:15:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nach Affären und Spionageverdacht tritt Nvidia-Boss Huang ab. Was wir wissen und wie es weitergehen könnte bei Nvidia: Folge 2026/23 des Podcasts Bit-Rauschen.]]></description>
-    </item>
-    <item>
-      <title>Neue PC-Spiele im Dezember 2026: „Warhammer 40,000: Dawn of War IV“</title>
-      <link>https://www.heise.de/news/Neue-PC-Spiele-im-Dezember-2026-Warhammer-40-000-Dawn-of-War-IV-11524600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524600</guid>
-      <pubDate>Fri, 13 Nov 2026 16:12:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Im Dezember werden unter anderem „Warhammer 40,000: Dawn of War IV“ und „Thief: The Dark Project Remastered“ veröffentlicht.]]></description>
-    </item>
-    <item>
-      <title>ChatGPT’s new Wallet lets AI agents shop and check out for you</title>
-      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188368</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:12 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.]]></description>
-    </item>
-    <item>
-      <title>The unfolding Jensen Huang scandal: a timeline</title>
-      <link>https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186475</guid>
-      <pubDate>Fri, 13 Nov 2026 15:58:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.]]></description>
-    </item>
-    <item>
-      <title>Lizenz zum Einbruch: Bundestag winkt umkämpfte Geheimdienstreform durch</title>
-      <link>https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524886</guid>
-      <pubDate>Fri, 13 Nov 2026 15:33:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Trotz Warnungen vor Grundrechtsbrüchen erhalten BND und Verfassungsschutz weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation.]]></description>
-    </item>
-    <item>
-      <title>Gestohlene Token: Secret-Stealer in Tausenden GitHub-Repositories</title>
-      <link>https://www.heise.de/news/Gestohlene-Token-Secret-Stealer-in-Tausenden-GitHub-Repositories-11524706.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524706</guid>
-      <pubDate>Fri, 13 Nov 2026 15:30:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Über gekaperte GitHub-Konten richten Angreifer Hintertüren bei AWS und Azure ein. Secrets auszutauschen reicht deshalb nicht.]]></description>
-    </item>
-    <item>
-      <title>Siri AI: Dann kommt Apples KI-System auf ältere Apple-TV-4K-Geräte</title>
-      <link>https://www.heise.de/news/Siri-AI-Dann-kommt-Apples-KI-System-auf-aeltere-Apple-TV-4K-Geraete-11524528.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524528</guid>
-      <pubDate>Fri, 13 Nov 2026 15:24:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Apple hat Details genannt, wann sein verbessertes KI-System auf die Multimediaboxen früherer Bauart kommt. Ein Problem bleibt allerdings die EU-Thematik.]]></description>
-    </item>
-    <item>
-      <title>ChatGPT Wallet lässt KI-Agenten im Auftrag ihrer Nutzer bezahlen</title>
-      <link>https://www.all-ai.de/news/news26/chatgpt-agenten-wallet</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/chatgpt-agenten-wallet</guid>
-      <pubDate>Fri, 13 Nov 2026 15:19:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Persönliche KI-Agenten in ChatGPT können mit einer hinterlegten Karte Bestellungen bezahlen. Nutzer prüfen den Kauf und geben ihn per Gesichtserkennung oder Fingerabdruck frei. Der KI-Agent bezahlt mit einer virtuellen Kartennummer. Zum Start steht die Wallet volljährigen Pro-Abonnenten in den USA mit geeigneter US-Karte zur Verfügung. OpenAI – Introducing ChatGPT Wallet (Text aus der Anlage, Link beim Abruf mit HTTP 404) OpenAI Help Center – Making purchases with ChatGPT Wallet OpenAI – ChatGPT Wallet terms OpenAI Help Center – ChatGPT release notes (Meet your dot) Mit ChatGPT Wallet kann ein persönlicher KI-Agent in ChatGPT Bestellungen für seinen Nutzer abschließen. Der Nutzer hinterlegt eine Kreditkarte und gibt jeden Kauf per Gesichtserkennung oder Fingerabdruck frei. OpenAI führt die Funktion zunächst für volljährige Pro-Abonnenten in den USA ein. Anzeige Der Nutzer prüft die Bestellung, der KI-Agent bezahlt Die Wallet funktioniert im Gespräch mit einem »Dot«, so nennt OpenAI seine persönlichen KI-Agenten. Wer etwa ein Hotel buchen will, kann seinen Dot nach einem passenden Zimmer suchen lassen und ihn anschließend mit der Buchung beauftragen. Vor der Freigabe sieht der Nu...]]></description>
-    </item>
-    <item>
-      <title>Jonathan Blow – If AI solved coding, why is my software still the same? [video]</title>
-      <link>https://www.youtube.com/watch?v=IRK8h67ol7Q</link>
-      <guid isPermaLink="false">https://www.youtube.com/watch?v=IRK8h67ol7Q</guid>
-      <pubDate>Fri, 13 Nov 2026 15:08:44 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Minnesota guitarist's "palmfrets" invention strikes a new chord</title>
-      <link>https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord</link>
-      <guid isPermaLink="false">https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord</guid>
-      <pubDate>Fri, 13 Nov 2026 15:08:07 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Home Assistant mit KI: Gruselig und gut</title>
-      <link>https://www.heise.de/news/Home-Assistant-mit-KI-Gruselig-und-gut-11524108.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524108</guid>
-      <pubDate>Fri, 13 Nov 2026 15:02:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Ist es eine gute Idee, einem LLM Admin-Rechte auf die eigene Wohnung zu geben? Wir haben es mit Home Assistant und HA-MCP ausprobiert.]]></description>
-    </item>
-    <item>
-      <title>WiiM Bar im Test: Viel Ausstattung und klare Stimmen für 499 Euro</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/wiim-bar-im-test-viel-ausstattung-und-klare-stimmen-fuer-499-euro/8dtfsc8?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524809</guid>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die WiiM Bar kombiniert Dolby Atmos, DTS:X, einen Touchscreen und umfangreiche Streamingfunktionen. Doch überzeugt auch der Heimkinoklang?]]></description>
-    </item>
-    <item>
-      <title>ElevenLabs’ new app combines meeting note-taking and dictation for teams</title>
-      <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188328</guid>
-      <pubDate>Fri, 13 Nov 2026 14:44:48 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.]]></description>
-    </item>
-    <item>
-      <title>A technical vision for the Haskell ecosystem</title>
-      <link>https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078</link>
-      <guid isPermaLink="false">https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078</guid>
-      <pubDate>Fri, 13 Nov 2026 14:43:12 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Lonewolf 0.3 – A standalone XMPP server written in Rust</title>
-      <link>https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0</link>
-      <guid isPermaLink="false">https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0</guid>
-      <pubDate>Fri, 13 Nov 2026 14:28:40 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang: Darum könnte die ganze KI-Branche untergehen</title>
-      <link>https://www.all-ai.de/news/news26top/jensen-huang-ki-rechenzentren</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/jensen-huang-ki-rechenzentren</guid>
-      <pubDate>Fri, 13 Nov 2026 14:27:26 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Nvidia prüft Finanzhilfen für KI-Rechenzentren strenger und hat einige geplante Deals pausiert. Interimschefin Colette Kress hat Nvidias Garantie für ein OpenAI-Projekt in Ohio schon als Finanzchefin heruntergehandelt. Ein separates Vorhaben, das mehr als 500 Milliarden $ von externen Geldgebern mobilisieren soll, stockt. Kleinere Cloud-Anbieter könnten künftig höhere Zinsen zahlen oder ihre Projekte verschieben. The Wall Street Journal – Before His Ouster, Jensen Huang Belittled the Executive Replacing Him Nvidia – NVIDIA Announces CEO Transition Nvidia bei der SEC – Quartalsbericht zu den Garantien und Finanzierungsplänen Bloomberg – Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit Jensen Huang wollte mehr Nvidia-Chips verkaufen, indem der Konzern seinen Kunden bei der Finanzierung neuer Rechenzentren hilft. Finanzchefin Colette Kress stellte schon im Frühjahr infrage, welche Garantien Nvidia dafür übernehmen sollte. Nach Huangs Rücktritt führt sie Nvidia vorerst selbst und muss entscheiden, wie viel Risiko der Konzern bei künftigen Projekten trägt. Anzeige Huang wollte Chipverkäufe sichern, Kress rechnete nach Garantien von Nvidia sollten Cloud-Anbietern helfe...]]></description>
-    </item>
-    <item>
-      <title>KI-App Gemini fährt nun im CarPlay-Auto mit</title>
-      <link>https://www.heise.de/news/Google-KI-Gemini-kommt-in-CarPlay-Autos-11522718.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11522718</guid>
-      <pubDate>Fri, 13 Nov 2026 14:22:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Bereits jetzt ist es möglich, Googles KI-System über die Maps-App im CarPlay-Fahrzeug aufzurufen. Nun wurde auch die Gemini-App selbst angepasst.]]></description>
-    </item>
-    <item>
-      <title>Algorithmische Wutwende &amp; Memokratie: Wie Memes Politik zur Gefühlssache machen</title>
-      <link>https://www.heise.de/news/Algorithmische-Wutwende-Memokratie-Wie-Memes-Politik-zur-Gefuehlssache-machen-11524568.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524568</guid>
-      <pubDate>Fri, 13 Nov 2026 14:19:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Politische Macht wird heute nicht mehr nur über Programme und Debatten ausgeübt, sondern immer stärker über Memes und KI-generierte Bilder.]]></description>
-    </item>
-    <item>
-      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-      <pubDate>Fri, 13 Nov 2026 14:05:22 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Ceph in Rust: Neuer Code, alter Cluster</title>
-      <link>https://www.heise.de/news/Ceph-in-Rust-Neuer-Code-alter-Cluster-11524238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524238</guid>
-      <pubDate>Fri, 13 Nov 2026 14:03:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Ceph schrittweise auf Rust umstellen: Croits neuer NVMe-OSD läuft neben klassischen OSDs. Die Komponenten stehen jetzt als Preview bereit.]]></description>
-    </item>
-    <item>
-      <title>KI-Update kompakt: Wirbel um Nvidia, Grundrechte, Gemini 4 Hydrogen, Roboter</title>
-      <link>https://www.heise.de/news/KI-Update-kompakt-Wirbel-um-Nvidia-Grundrechte-Gemini-4-Hydrogen-Roboter-11522165.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11522165</guid>
-      <pubDate>Fri, 13 Nov 2026 14:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></description>
-    </item>
-    <item>
-      <title>c't-Podcast: „Zentrale Kryptobörsen wie Binance sind attraktive Angriffsziele“</title>
-      <link>https://www.heise.de/news/c-t-Podcast-Zentrale-Kryptoboersen-wie-Binance-sind-attraktive-Angriffsziele-11524576.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524576</guid>
-      <pubDate>Fri, 13 Nov 2026 13:51:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die Ursache des Binance-Hack liegt nicht in der Technik, sondern darin, dass viele Nutzer das Versprechen der Kryptowelt gar nicht in Anspruch nehmen.]]></description>
-    </item>
-    <item>
-      <title>Operation Endgame: Weltweiter Schlag gegen Cybercrime</title>
-      <link>https://www.heise.de/news/Operation-Endgame-Weltweiter-Schlag-gegen-Cybercrime-11524460.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524460</guid>
-      <pubDate>Fri, 13 Nov 2026 13:32:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Europol koordiniert in der Operation Endgame Aktionen gegen Malware-Netzwerke. Strafverfolger sicherten nun Millionen Datensätze von Opfern.]]></description>
-    </item>
-    <item>
-      <title>„Empire Earth“: Eine legendäre RTS-Ikone, die keine Fortsetzung zuließ</title>
-      <link>https://www.heise.de/hintergrund/25-Jahre-Empire-Earth-500-000-Jahre-Menschheitsgeschichte-in-einem-Spiel-11524408.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524408</guid>
-      <pubDate>Fri, 13 Nov 2026 13:21:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[„Empire Earth“ erschien heute vor 25 Jahren. Das RTS-Spiel des AoE-Erfinders veränderte den Markt nicht, hat aber bis heute eine große Fangemeinschaft.]]></description>
-    </item>
-    <item>
-      <title>Israel’s VCs see opportunity for challengers in Nvidia’s turmoil</title>
-      <link>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187846</guid>
-      <pubDate>Fri, 13 Nov 2026 12:52:19 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.]]></description>
-    </item>
-    <item>
-      <title>Tiefstpreis für Testsieger: E-Scooter Navee UT5 Max mit Kuhfänger nur 777 Euro</title>
-      <link>https://www.heise.de/bestenlisten/deals/tiefstpreis-fuer-den-testsieger-e-scooter-navee-ut5-max-mit-kuhfaenger-nur-777-euro/cryge3w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524466</guid>
-      <pubDate>Fri, 13 Nov 2026 12:30:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Unser E-Scooter-Testsieger Navee UT5 Max kostet bei Mediamarkt und Saturn 777 Euro. So günstig war der Elektroroller mit 2400 W noch nie.]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang didn’t show confidence in his successor, report says</title>
-      <link>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188240</guid>
-      <pubDate>Fri, 13 Nov 2026 12:28:23 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Huang described Kress as a "deer in the headlights" during a meeting in summer.]]></description>
-    </item>
-    <item>
-      <title>#TGIQF: „Wing Commander“ – Das Quiz</title>
-      <link>https://www.heise.de/news/TGIQF-Wing-Commander-Das-Quiz-11523850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11523850</guid>
-      <pubDate>Fri, 13 Nov 2026 12:24:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[EA hat zum 35. Geburtstag von „Wing Commander 2“ gleich mehreren Teilen der Weltraum-Saga eine Überarbeitung spendiert. Wir spendieren ein Quiz.]]></description>
     </item>
   </channel>
 </rss>
