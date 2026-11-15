@@ -5,62 +5,17 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fable - New Details @ MG</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60579</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60579</guid>
-      <pubDate>Sat, 14 Nov 2026 11:53:32 GMT</pubDate>
+      <title>RPG Crawler - CRPG News Roundup</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60580</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60580</guid>
+      <pubDate>Sun, 15 Nov 2026 05:48:03 GMT</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Mortismal Gaming presents new details about Fable: Fable - New Gameplay & Story Details Revealed]]></description>
-    </item>
-    <item>
-      <title>Queen's Domain - Review @ Console Creatures</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60578</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60578</guid>
-      <pubDate>Sat, 14 Nov 2026 11:15:39 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Console Creatures reviewed Queen's Domain: Review: Queen's Domain I really, really love going back and playing retro games. Whether it’s the first time or a replay decades later, I tend to learn something new and reflect on my experience in a whole new way....]]></description>
-    </item>
-    <item>
-      <title>Phantom Blade Zero - Review @ Kotaku</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60577</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60577</guid>
-      <pubDate>Sat, 14 Nov 2026 11:11:59 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Kotaku reviewed Phantom Blade Zero: Phantom Blade Zero: The Kotaku Review S-Game’s character action title is the very definition of something great being dragged below the surface by smaller grievances As I launched Phantom Blade Zero for the first time and began what I can only describe as a belabored compiling of shaders, I used the time to dig out a notebook buried at the bottom of a moving box containing notes I took during a preview of the game in 2024....]]></description>
-    </item>
-    <item>
-      <title>Queen's Domain - 200K Copies sold</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60576</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60576</guid>
-      <pubDate>Sat, 14 Nov 2026 06:41:55 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[RPG Site reports that Queen's Domain sold 200K copies already.]]></description>
-    </item>
-    <item>
-      <title>Guild Saga: Vanished Worlds - Release: May 2027</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60575</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60575</guid>
-      <pubDate>Sat, 14 Nov 2026 06:39:17 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The tactical RPG Guild Saga: Vanished Worlds will be released in May 2027: Guild Saga: Vanished Worlds - Announcement Trailer On your maiden voyage with the Heroes Guild, your ship was capsized by an enigmatic maelstrom, stranding your party on Respite Island....]]></description>
-    </item>
-    <item>
-      <title>Dragon's Tear - New Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60574</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60574</guid>
-      <pubDate>Sat, 14 Nov 2026 06:27:24 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Here's a new short trailer for the dungeon crawler Dragon's Tear: Dragon's Tear - Official Trailer]]></description>
+      <description><![CDATA[Like every week the RPG Crawler sums up the CRPG news: CRPG News Roundup (11-14-2026)]]></description>
     </item>
   </channel>
 </rss>

@@ -5,14 +5,14 @@
     <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basketball-Bundesliga: Alba gelingt erster Liga-Auswärtssieg in dieser Saison</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-oldenburg-alba-berlin.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-oldenburg-alba-berlin.html</guid>
-      <pubDate>Sat, 14 Nov 2026 21:13:26 GMT</pubDate>
+      <title>Trotz Sturz unbesiegbar: Hase/Volodin gewinnen bei Skate America</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/berlin-eiskunstlauf-sport-hase-volodin-grand-prix-skate-america-sieg-sturz.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/berlin-eiskunstlauf-sport-hase-volodin-grand-prix-skate-america-sieg-sturz.html</guid>
+      <pubDate>Sun, 15 Nov 2026 09:41:48 GMT</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[]]></description>
@@ -21,7 +21,16 @@
       <title>Landespokal Brandenburg: Oberligisten Rathenow und Klosterfelde im Halbfinale</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-landespokal-brandenburg-viertelfinale-falkensee-rathenow-eberswalde-klosterfelde-neuruppin-viktoria-bsc-sued-babelsberg.html</link>
       <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-landespokal-brandenburg-viertelfinale-falkensee-rathenow-eberswalde-klosterfelde-neuruppin-viktoria-bsc-sued-babelsberg.html</guid>
-      <pubDate>Sat, 14 Nov 2026 17:17:10 GMT</pubDate>
+      <pubDate>Sun, 15 Nov 2026 09:27:35 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Basketball-Bundesliga: Alba gelingt erster Liga-Auswärtssieg in dieser Saison</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-oldenburg-alba-berlin.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-oldenburg-alba-berlin.html</guid>
+      <pubDate>Sat, 14 Nov 2026 21:13:26 GMT</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[]]></description>
@@ -61,33 +70,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Die Frauen von Union Berlin haben nach der langen Positiv-Serie in der Liga die insgesamt fünfte Niederlage einstecken müssen. Bei Werder Bremen leisteten sich die Köpenickerinnen zwei individuelle Fehler und unterlagen mit 0:2.]]></description>
-    </item>
-    <item>
-      <title>Deutschland-Niederlande in Berlin: Scherhants Traum im historischen Duell</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-nations-league-deutschland-niederlande-berlin-olympiastadion-faq.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-nations-league-deutschland-niederlande-berlin-olympiastadion-faq.html</guid>
-      <pubDate>Sat, 14 Nov 2026 10:37:29 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Die Ausgangslage vor dem letzten Gruppen-Spieltag in der Nations League ist knifflig, der historische Rahmen riesig: Zum 50. Mal treffen die beiden Fußball-Großmächte aufeinander. Hier kommt alles Wissenswerte zum Spiel im Berliner Olympiastadion.]]></description>
-    </item>
-    <item>
-      <title>Energie Cottbus: Verein plant Ausgliederung der Profiabteilung</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-liga-energie-cottbus-mitgliederversammlung-ausgliederung.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-liga-energie-cottbus-mitgliederversammlung-ausgliederung.html</guid>
-      <pubDate>Sat, 14 Nov 2026 10:29:32 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Eiskunstlauf-Grand-Prix: Hase/Volodin nach Kurzprogramm in Führung</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-hase-volodin-grand-prix-skate-america-kurzprogramm-fuehrung.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-hase-volodin-grand-prix-skate-america-kurzprogramm-fuehrung.html</guid>
-      <pubDate>Sat, 14 Nov 2026 10:04:36 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
     </item>
   </channel>
 </rss>

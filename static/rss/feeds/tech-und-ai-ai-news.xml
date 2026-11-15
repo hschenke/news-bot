@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huaweis KI-Rechenzentrum erreicht 7% der Leistung von Colossus 2</title>
+      <link>https://www.all-ai.de/news/news26top/huawei-china-ki-leistung</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/huawei-china-ki-leistung</guid>
+      <pubDate>Sun, 15 Nov 2026 10:07:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Huaweis Rechenzentrum in Horinger erreicht laut Epoch AI rund 7% der KI-Rechenleistung von Colossus 2. Die Forscher stützen ihre Schätzung unter anderem auf Satellitenbilder der Kühlanlagen. Bis Anfang 2028 könnte Horinger über 70% mehr KI-Rechenleistung erreichen. Auch Colossus 2 soll weiter wachsen. Epoch AI – Kurzfassung der Analyse zu Huawei Horinger Epoch AI – Vollständige Analyse mit Methodik und Prognose Epoch AI – Datenbankeintrag zu Colossus 2 Huaweis Rechenzentrum in Horinger zählt zu den größten KI-Standorten Chinas. Eine Analyse von Epoch AI beziffert seine Rechenleistung auf rund 7% der Kapazität von Colossus 2, dem größten KI-Rechenzentrum in der Datenbank der Forscher. Bis Anfang 2028 könnte Huawei in Horinger über 70% zulegen, doch auch SpaceX baut Colossus 2 aus. Anzeige Was die Kühltürme über Huaweis Rechenzentrum verraten Wie viele KI-Chips in Horinger laufen, haben die Forscher mithilfe von Satellitenbildern und öffentlichen Angaben geschätzt. Die Bilder zeigen vier Gebäude mit großen Kühlanlagen. Aus deren Größe und Anzahl leiteten die Forscher ab, dass die vier Gebäude zusammen bis zu 286 Megawatt elektrische Leistung für die IT bereitstellen können. Drei d...]]></description>
+    </item>
+    <item>
+      <title>Grok Imagine verliert den Großteil seines Teams</title>
+      <link>https://www.all-ai.de/news/news26/grok-imagine-spacex-ende</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/grok-imagine-spacex-ende</guid>
+      <pubDate>Sun, 15 Nov 2026 09:02:44 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Ein kleines Team soll den KI-Videogenerator weiter betreuen. SpaceX führt die Videomodelle weiterhin in seiner API-Dokumentation. Die KI-Sparte soll sich stärker auf Programmierwerkzeuge und Grok Bot konzentrieren. In zwei Video-Benchmarks von Artificial Analysis liegen Alibabas Wan 3.0 und ByteDances Seedance 2.5 vorn. The Information – Originalbericht und öffentliche Kurzfassung zum Stellenabbau SpaceXSI – Grok Imagine API und Einstiegspreise OpenAI – Termine zur Einstellung von Sora Artificial Analysis – Rangliste für Videos aus Text Artificial Analysis – Rangliste für Videos aus Standbildern Die KI-Sparte von SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Eine kleine Gruppe soll den Bild- und Videogenerator weiter betreuen. Mehr Ressourcen sollen in KI-Programmierwerkzeuge und den KI-Agenten Grok Bot fließen. Anzeige Im März kündigte Musk noch mehr Einsatz an Elon Musk versprach im März auf X, bei Grok Imagine nachzulegen. Die nächste Version werde besonders beeindruckend, schrieb er damals. Nach den Stellenstreichungen soll sich nur noch eine Handvoll Mitarbeiter...]]></description>
+    </item>
     <item>
       <title>OpenAI löst sein eigenständiges Robotikteam auf</title>
       <link>https://www.all-ai.de/news/news26top/openai-robotik-ende</link>
@@ -25,42 +43,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Papst Leo XIV. rief Studenten und Wissenschaftler in Peru dazu auf, Technik kritisch zu prüfen. Er warnte davor, Effizienz zum höchsten Maßstab zu machen, und betonte den Wert menschlicher Urteilskraft. In seiner Enzyklika »Magnifica Humanitas« plädiert Leo für einen zurückhaltenden Umgang mit KI in der Bildung. Vatikan – Ansprache von Papst Leo XIV. an der Universität in Chiclayo (deutsche Fassung) Presseamt des Heiligen Stuhls – Universitätsbesuch und Rede im spanischen Original Vatikan – Enzyklika »Magnifica Humanitas«, besonders Abschnitte 143 bis 147 Papst Leo XIV. hat Studenten und Wissenschaftler dazu aufgerufen, technische Fortschritte kritisch zu prüfen. Bei einem Besuch an der katholischen Universität Santo Toribio de Mogrovejo im peruanischen Chiclayo warnte er am Freitag davor, Effizienz zum höchsten Maßstab zu machen. Die Rede behandelt Technologie im Allgemeinen und knüpft an eine Frage aus seiner KI-Enzyklika an: Wie lernen Studenten, sich ein eigenes Urteil zu bilden? Anzeige Was Maschinen laut Leo XIV. fehlt Leo forderte sein Publikum auf, nach »jener Weisheit« zu suchen, »über die weder Maschinen noch Computerprogramme verfügen können«. Wer Technik beurteilt, m...]]></description>
-    </item>
-    <item>
-      <title>Higgsfield startet Talent Contest mit 1 Million Dollar Preisgeld</title>
-      <link>https://www.all-ai.de/news/news26/higgsfield-talent-contest-1-million-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/higgsfield-talent-contest-1-million-start</guid>
-      <pubDate>Sat, 14 Nov 2026 12:08:29 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Higgsfield vergibt beim Talent Contest 1 Million $ in 20 Geldpreisen. Bis zum 26. November um 20 Uhr deutscher Zeit können Teilnehmer drei bis sieben Minuten lange Kurzfilme einreichen. Zur Einreichung gehört ein öffentliches YouTube-Video. Zum Einsendeschluss werden auch die Projektdateien öffentlich. Beim vorherigen Global Film Festival gewann »Listen to Meh« den Hauptpreis von 500.000$. Higgsfield Talent Contest – Startseite und Einreichung Higgsfield Talent Contest – offizielle Wettbewerbsregeln Higgsfield Global Film Festival – Gewinner Higgsfield – Nutzungsbedingungen Higgsfield – Datenschutzrichtlinie Higgsfield startet heute einen neuen Talent Contest mit einem Preisgeld von insgesamt 1 Million $. Für neue KI-Kurzfilme mit freier Themenwahl stehen 20 Geldpreise bereit. Einsendeschluss ist am 26. November 2026 um 20 Uhr deutscher Zeit. Beim letzten Festival gingen 500.000$ an einen Film Beim vorherigen Millionenwettbewerb, dem Global Film Festival, gewann »Listen to Meh« den Hauptpreis von 500.000$. Der Kurzfilm erzählt von einem Gaucho und einem Schaf, das immer wieder auf seinem Dach landet. Den Publikumspreis von 100.000$ holte »The Tortoise and the Hare«. So verteilt ...]]></description>
-    </item>
-    <item>
-      <title>Seedance 2.5 Flash macht KI-Videos schneller und günstiger</title>
-      <link>https://www.all-ai.de/news/news26top/seedance-2-5-flash-besser-guenstiger</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/seedance-2-5-flash-besser-guenstiger</guid>
-      <pubDate>Sat, 14 Nov 2026 11:50:49 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Seedance 2.5 Flash generiert laut BytePlus fast doppelt so schnell wie Seedance 2.5. Ein 720p-Video aus Text oder einem Bild kostet 0,152$ pro Sekunde und damit rund 34% weniger als bei Seedance 2.5. Das Modell erzeugt bis zu 30 Sekunden lange Videos und startet mit 480p und 720p. Higgsfield bietet Flash bereits an, die ModelArk-API startet am 15. November. BytePlus – Ankündigung und technische Daten zu Seedance 2.5 Flash BytePlus ModelArk – Starttermin und Modellvergleich BytePlus ModelArk – Preisbeispiele für Seedance 2.0 Higgsfield – Seedance 2.5 Flash im Changelog ByteDance hat mit Seedance 2.5 Flash ein KI-Modell für schnellere Videogenerierung vorgestellt. Es soll fast doppelt so schnell arbeiten wie Seedance 2.5 und kostet bei 720p rund ein Drittel weniger. Higgsfield bietet das Modell bereits an, bei BytePlus startet die API am 15. November. Anzeige Was ein Clip mit Seedance 2.5 Flash kostet Für Videos aus Text oder einem Bild verlangt BytePlus bei 720p 0,152$ pro Sekunde. Ein zehn Sekunden langer Clip kostet damit 1,52$ statt 2,31$ bei Seedance 2.5. Bei 480p sinkt der Preis von 0,103$ auf 0,070$ pro Sekunde. BytePlus zufolge kommen die Ergebnisse qualitativ nah an Seeda...]]></description>
-    </item>
-    <item>
-      <title>Im Gemini Pro und Ultra Abo gibt es gratis API Credits</title>
-      <link>https://www.all-ai.de/news/news26top/google-gemini-api-credits-abo</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-gemini-api-credits-abo</guid>
-      <pubDate>Sat, 14 Nov 2026 10:55:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Google AI Pro enthält monatlich 10$ für die Gemini API. Bei Ultra sind es je nach Tarif 40$ oder 100$. Abonnenten können das Guthaben jetzt direkt in Google AI Studio einlösen. Bei Prepaid-Abrechnung ist zunächst eine Einzahlung von mindestens 5$ nötig. Im Make-Beispiel hat das Pro-Guthaben 4,05€ an Gemini-API-Kosten abgedeckt. Google-Blog – Cloud-Guthaben in Google AI Studio einlösen Google Developer Program – Guthaben und Abrechnung Google AI for Developers – Abrechnung der Gemini API Schon im Google-AI-Pro-Abo stecken jeden Monat 10$ Guthaben für die Gemini API. Bei Ultra sind es je nach Tarif 40$ oder 100$. Seit dem 13. November können Abonnenten das bereits enthaltene Guthaben direkt in Google AI Studio einlösen. Anzeige Wie viel Guthaben im Abo steckt Google AI Pro enthält monatlich 10$, Google AI Ultra 5x kommt auf 40$, Ultra 20x sogar auf 100$. Heißt beim 200$ Abo bekommt man gratis 100$ API-Guthaben. Google AI Plus ist bei diesem Abo-Vorteil ausgenommen. Das Guthaben steht dem Hauptabonnenten zu. + Quelle: Google Mit dem Guthaben lassen sich auch kostenpflichtige Gemini-Modelle per API nutzen. So kann etwa ein eigener Chatbot Antworten erzeugen oder eine Automatisierung...]]></description>
-    </item>
-    <item>
-      <title>Macht Jensen Huang den Sam Altman?</title>
-      <link>https://www.all-ai.de/news/news26top/macht-jensen-huang-den-sam-altman</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/macht-jensen-huang-den-sam-altman</guid>
-      <pubDate>Sat, 14 Nov 2026 10:10:40 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Die Initiative »Stand with Jensen« fordert, Huang während einer unabhängigen Untersuchung wieder als Nvidia-Chef einzusetzen. Elon Musk unterstützt die Rückkehr und kündigte an, zu unterschreiben. Bei OpenAI drohte 2023 ein Großteil der Belegschaft mit Kündigung, bevor sich das Unternehmen mit Sam Altman einigte. Bei Nvidia führt Colette Kress vorübergehend das Unternehmen, während der Verwaltungsrat einen dauerhaften Nachfolger sucht. Stand with Jensen – offener Brief und Unterstützerliste Elon Musk – archivierter X-Beitrag zur Petition Nvidia – Bekanntgabe des Rücktritts und der Nachfolgesuche Politico – Stimmen aus der Branche zu einem Comeback Britische Wettbewerbsbehörde CMA – Chronologie von Altmans Entlassung und Rückkehr Eine Petition fordert Nvidia auf, Jensen Huang wieder als CEO einzusetzen. Elon Musk kündigte auf X an, ebenfalls zu unterschreiben. Bei Sam Altman reichten 2023 vier Tage bis zur Einigung über seine Rückkehr zu OpenAI. Anzeige Was die Petition von Nvidia fordert Nvidia gab am 12. November bekannt, dass Huang als CEO, Präsident und Mitglied des Verwaltungsrats zurückgetreten ist. Er hatte den Chiphersteller 33 Jahre lang geführt. Finanzchefin Colette Kre...]]></description>
     </item>
   </channel>
 </rss>

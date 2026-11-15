@@ -5,9 +5,153 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Megaspeed bestätigt: Alice Huang hat Unternehmen verlassen</title>
+      <link>https://www.heise.de/news/Megaspeed-bestaetigt-Alice-Huang-hat-Unternehmen-verlassen-11525549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525549</guid>
+      <pubDate>Sun, 15 Nov 2026 12:22:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Alice Huang soll eine chinesische Spionin gewesen sein und hatte eine Affäre mit dem Nvidia-Chef. Sie hat das Unternehmen Megaspeed vor Monaten verlassen.]]></description>
+    </item>
+    <item>
+      <title>Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways</title>
+      <link>https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525531</guid>
+      <pubDate>Sun, 15 Nov 2026 11:25:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Angreifer nutzten verkettete Lücken für Hintertüren auf Check-Point-Gateways. In einem Fall löschten sie Daten auf einem ESXi-Host. Patches sind verfügbar.]]></description>
+    </item>
+    <item>
+      <title>Stopp von KI-Entwicklung per Klage gefordert</title>
+      <link>https://www.heise.de/news/Kalifornien-Klage-fordert-Stopp-der-KI-Entwicklung-wegen-katastrophaler-Risiken-11525487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525487</guid>
+      <pubDate>Sun, 15 Nov 2026 10:17:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Verbraucherschützer und Sicherheitsinitiativen verklagen in den USA fünf Tech-Giganten wie OpenAI und Google, um den unkontrollierten KI-Fortschritt zu stoppen.]]></description>
+    </item>
+    <item>
+      <title>Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet</title>
+      <link>https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525491</guid>
+      <pubDate>Sun, 15 Nov 2026 10:14:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Angreifer attackieren derzeit die Fernwartungslösung N-central von N-able. Gegen einen neuen Angriffsweg gibt es bislang nur eine Übergangslösung.]]></description>
+    </item>
+    <item>
+      <title>Huaweis KI-Rechenzentrum erreicht 7% der Leistung von Colossus 2</title>
+      <link>https://www.all-ai.de/news/news26top/huawei-china-ki-leistung</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/huawei-china-ki-leistung</guid>
+      <pubDate>Sun, 15 Nov 2026 10:07:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Huaweis Rechenzentrum in Horinger erreicht laut Epoch AI rund 7% der KI-Rechenleistung von Colossus 2. Die Forscher stützen ihre Schätzung unter anderem auf Satellitenbilder der Kühlanlagen. Bis Anfang 2028 könnte Horinger über 70% mehr KI-Rechenleistung erreichen. Auch Colossus 2 soll weiter wachsen. Epoch AI – Kurzfassung der Analyse zu Huawei Horinger Epoch AI – Vollständige Analyse mit Methodik und Prognose Epoch AI – Datenbankeintrag zu Colossus 2 Huaweis Rechenzentrum in Horinger zählt zu den größten KI-Standorten Chinas. Eine Analyse von Epoch AI beziffert seine Rechenleistung auf rund 7% der Kapazität von Colossus 2, dem größten KI-Rechenzentrum in der Datenbank der Forscher. Bis Anfang 2028 könnte Huawei in Horinger über 70% zulegen, doch auch SpaceX baut Colossus 2 aus. Anzeige Was die Kühltürme über Huaweis Rechenzentrum verraten Wie viele KI-Chips in Horinger laufen, haben die Forscher mithilfe von Satellitenbildern und öffentlichen Angaben geschätzt. Die Bilder zeigen vier Gebäude mit großen Kühlanlagen. Aus deren Größe und Anzahl leiteten die Forscher ab, dass die vier Gebäude zusammen bis zu 286 Megawatt elektrische Leistung für die IT bereitstellen können. Drei d...]]></description>
+    </item>
+    <item>
+      <title>Why did some Apollo missions carry a grenade launcher?</title>
+      <link>https://space.stackexchange.com/questions/37775</link>
+      <guid isPermaLink="false">https://space.stackexchange.com/questions/37775</guid>
+      <pubDate>Sun, 15 Nov 2026 09:06:43 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Grok Imagine verliert den Großteil seines Teams</title>
+      <link>https://www.all-ai.de/news/news26/grok-imagine-spacex-ende</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/grok-imagine-spacex-ende</guid>
+      <pubDate>Sun, 15 Nov 2026 09:02:44 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Ein kleines Team soll den KI-Videogenerator weiter betreuen. SpaceX führt die Videomodelle weiterhin in seiner API-Dokumentation. Die KI-Sparte soll sich stärker auf Programmierwerkzeuge und Grok Bot konzentrieren. In zwei Video-Benchmarks von Artificial Analysis liegen Alibabas Wan 3.0 und ByteDances Seedance 2.5 vorn. The Information – Originalbericht und öffentliche Kurzfassung zum Stellenabbau SpaceXSI – Grok Imagine API und Einstiegspreise OpenAI – Termine zur Einstellung von Sora Artificial Analysis – Rangliste für Videos aus Text Artificial Analysis – Rangliste für Videos aus Standbildern Die KI-Sparte von SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Eine kleine Gruppe soll den Bild- und Videogenerator weiter betreuen. Mehr Ressourcen sollen in KI-Programmierwerkzeuge und den KI-Agenten Grok Bot fließen. Anzeige Im März kündigte Musk noch mehr Einsatz an Elon Musk versprach im März auf X, bei Grok Imagine nachzulegen. Die nächste Version werde besonders beeindruckend, schrieb er damals. Nach den Stellenstreichungen soll sich nur noch eine Handvoll Mitarbeiter...]]></description>
+    </item>
+    <item>
+      <title>Daten-GAU in Berlin: Forensiker über den Rhysida-Leak</title>
+      <link>https://www.heise.de/news/Berliner-Daten-GAU-Wie-man-einen-Leak-seziert-11524771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11524771</guid>
+      <pubDate>Sun, 15 Nov 2026 07:16:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach ihrer Attacke gegen die Berliner Verwaltung stellte die Hackergruppe Rhysida mehrere Terabyte Daten ins Netz. Doch wie analysiert man solche Dateimassen?]]></description>
+    </item>
+    <item>
+      <title>Book list for streetfighting computer scientists</title>
+      <link>https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</link>
+      <guid isPermaLink="false">https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</guid>
+      <pubDate>Sun, 15 Nov 2026 07:08:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Missing Link: Happy Birthday, Master Chief – 25 Jahre Xbox</title>
+      <link>https://www.heise.de/hintergrund/Missing-Link-Happy-Birthday-Master-Chief-25-Jahre-Xbox-11525339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525339</guid>
+      <pubDate>Sun, 15 Nov 2026 06:47:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Am 15. November 2001 veröffentlicht Microsoft in den USA seine erste Spielkonsole. Über vier Generationen hinweg verkauft sich die Xbox 200 Millionen Mal.]]></description>
+    </item>
+    <item>
+      <title>Disk encryption on NetBSD – achieving secrecy</title>
+      <link>https://netbsd.org/~nia/disk-encrypt/</link>
+      <guid isPermaLink="false">https://netbsd.org/~nia/disk-encrypt/</guid>
+      <pubDate>Sun, 15 Nov 2026 05:29:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Kiri – The Modern Container Runtime</title>
+      <link>https://runkiri.com/</link>
+      <guid isPermaLink="false">https://runkiri.com/</guid>
+      <pubDate>Sun, 15 Nov 2026 04:40:41 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</title>
+      <link>https://github.com/Tthanh2k6/turbo-browser-mcp</link>
+      <guid isPermaLink="false">https://github.com/Tthanh2k6/turbo-browser-mcp</guid>
+      <pubDate>Sun, 15 Nov 2026 04:09:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>My favourite modern NES games</title>
+      <link>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</link>
+      <guid isPermaLink="false">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</guid>
+      <pubDate>Sun, 15 Nov 2026 02:41:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>We're Asking an Appeals Court to Require a Warrant for ALPR Searches</title>
+      <link>https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</link>
+      <guid isPermaLink="false">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</guid>
+      <pubDate>Sun, 15 Nov 2026 02:00:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Court denies motion to dismiss DRAM price fixing case</title>
+      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
+      <guid isPermaLink="false">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</guid>
+      <pubDate>Sun, 15 Nov 2026 01:18:36 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
     <item>
       <title>Where was Nvidia’s security team?</title>
       <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
@@ -27,6 +171,15 @@
       <description><![CDATA[Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.]]></description>
     </item>
     <item>
+      <title>How did Woz write the Apple 1 BASIC before building the computer?</title>
+      <link>https://retrocomputing.stackexchange.com/questions/17957</link>
+      <guid isPermaLink="false">https://retrocomputing.stackexchange.com/questions/17957</guid>
+      <pubDate>Sat, 14 Nov 2026 22:22:49 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
       <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3188741</guid>
@@ -36,13 +189,40 @@
       <description><![CDATA[The petition had attracted more than 115,000 signatures as of Saturday afternoon.]]></description>
     </item>
     <item>
-      <title>Top 10: Das beste Outdoor-Handy im Test – ideal für Baustelle, Camping &amp; Wildnis</title>
+      <title>SpaceX catches the Starship to end Flight 15</title>
+      <link>https://www.spacex.com/launches/starship-flight-15</link>
+      <guid isPermaLink="false">https://www.spacex.com/launches/starship-flight-15</guid>
+      <pubDate>Sat, 14 Nov 2026 21:22:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Top 10: Das beste Outdoor-Handy im Test</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test-ideal-fuer-baustelle-camping-und-wildnis/l7bnxjv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11525361</guid>
       <pubDate>Sat, 14 Nov 2026 19:00:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Outdoor-Handys aus den Tests.]]></description>
+      <description><![CDATA[Nachtsicht, Wärmebildkamera oder Monster-Akku: Wir zeigen die besten stabilen Outdoor-Smartphones aus den Tests.]]></description>
+    </item>
+    <item>
+      <title>A family tree of software job titles</title>
+      <link>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</link>
+      <guid isPermaLink="false">https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</guid>
+      <pubDate>Sat, 14 Nov 2026 17:45:19 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Lovable apps expose passport details and more than 200K private messages</title>
+      <link>https://www.crissyfield.de/research/lovable-en/</link>
+      <guid isPermaLink="false">https://www.crissyfield.de/research/lovable-en/</guid>
+      <pubDate>Sat, 14 Nov 2026 17:43:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
     </item>
     <item>
       <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
@@ -81,6 +261,24 @@
       <description><![CDATA[Unter dem Namen „langlebepapa“ demütigte ein 33-Jähriger Opfer in TikTok-Videos. Nun verurteilte ihn das Amtsgericht Hamburg zu einer Haftstrafe ohne Bewährung.]]></description>
     </item>
     <item>
+      <title>PyPI's redesigned project pages with clearer security signals are now live</title>
+      <link>https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</link>
+      <guid isPermaLink="false">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</guid>
+      <pubDate>Sat, 14 Nov 2026 15:40:52 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
+      <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+      <guid isPermaLink="false">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</guid>
+      <pubDate>Sat, 14 Nov 2026 15:04:15 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>Anker Nano Dockingstation A83C3 im Test: Kompakt &amp; mit herausnehmbarem USB-C-Hub</title>
       <link>https://www.heise.de/bestenlisten/testbericht/anker-nano-dockingstation-a83c3-im-test-kompakt-und-mit-herausnehmbarem-usb-c-hub/nmntb6d?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11525115</guid>
@@ -108,6 +306,15 @@
       <description><![CDATA[Canonical hat auf dem Ubuntu Summit den Inference Manager vorgestellt, ein neues Werkzeug zur Verwaltung lokal installierter KI-Modelle.]]></description>
     </item>
     <item>
+      <title>KDE: The documentary [video]</title>
+      <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
+      <guid isPermaLink="false">https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</guid>
+      <pubDate>Sat, 14 Nov 2026 13:43:28 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>OpenAI löst sein eigenständiges Robotikteam auf</title>
       <link>https://www.all-ai.de/news/news26top/openai-robotik-ende</link>
       <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-robotik-ende</guid>
@@ -126,94 +333,13 @@
       <description><![CDATA[Papst Leo XIV. rief Studenten und Wissenschaftler in Peru dazu auf, Technik kritisch zu prüfen. Er warnte davor, Effizienz zum höchsten Maßstab zu machen, und betonte den Wert menschlicher Urteilskraft. In seiner Enzyklika »Magnifica Humanitas« plädiert Leo für einen zurückhaltenden Umgang mit KI in der Bildung. Vatikan – Ansprache von Papst Leo XIV. an der Universität in Chiclayo (deutsche Fassung) Presseamt des Heiligen Stuhls – Universitätsbesuch und Rede im spanischen Original Vatikan – Enzyklika »Magnifica Humanitas«, besonders Abschnitte 143 bis 147 Papst Leo XIV. hat Studenten und Wissenschaftler dazu aufgerufen, technische Fortschritte kritisch zu prüfen. Bei einem Besuch an der katholischen Universität Santo Toribio de Mogrovejo im peruanischen Chiclayo warnte er am Freitag davor, Effizienz zum höchsten Maßstab zu machen. Die Rede behandelt Technologie im Allgemeinen und knüpft an eine Frage aus seiner KI-Enzyklika an: Wie lernen Studenten, sich ein eigenes Urteil zu bilden? Anzeige Was Maschinen laut Leo XIV. fehlt Leo forderte sein Publikum auf, nach »jener Weisheit« zu suchen, »über die weder Maschinen noch Computerprogramme verfügen können«. Wer Technik beurteilt, m...]]></description>
     </item>
     <item>
-      <title>Higgsfield startet Talent Contest mit 1 Million Dollar Preisgeld</title>
-      <link>https://www.all-ai.de/news/news26/higgsfield-talent-contest-1-million-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/higgsfield-talent-contest-1-million-start</guid>
-      <pubDate>Sat, 14 Nov 2026 12:08:29 GMT</pubDate>
+      <title>Advancing science and engineering with Antigravity's /teamwork</title>
+      <link>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</link>
+      <guid isPermaLink="false">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</guid>
+      <pubDate>Sat, 14 Nov 2026 13:20:43 GMT</pubDate>
       <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Higgsfield vergibt beim Talent Contest 1 Million $ in 20 Geldpreisen. Bis zum 26. November um 20 Uhr deutscher Zeit können Teilnehmer drei bis sieben Minuten lange Kurzfilme einreichen. Zur Einreichung gehört ein öffentliches YouTube-Video. Zum Einsendeschluss werden auch die Projektdateien öffentlich. Beim vorherigen Global Film Festival gewann »Listen to Meh« den Hauptpreis von 500.000$. Higgsfield Talent Contest – Startseite und Einreichung Higgsfield Talent Contest – offizielle Wettbewerbsregeln Higgsfield Global Film Festival – Gewinner Higgsfield – Nutzungsbedingungen Higgsfield – Datenschutzrichtlinie Higgsfield startet heute einen neuen Talent Contest mit einem Preisgeld von insgesamt 1 Million $. Für neue KI-Kurzfilme mit freier Themenwahl stehen 20 Geldpreise bereit. Einsendeschluss ist am 26. November 2026 um 20 Uhr deutscher Zeit. Beim letzten Festival gingen 500.000$ an einen Film Beim vorherigen Millionenwettbewerb, dem Global Film Festival, gewann »Listen to Meh« den Hauptpreis von 500.000$. Der Kurzfilm erzählt von einem Gaucho und einem Schaf, das immer wieder auf seinem Dach landet. Den Publikumspreis von 100.000$ holte »The Tortoise and the Hare«. So verteilt ...]]></description>
-    </item>
-    <item>
-      <title>Seedance 2.5 Flash macht KI-Videos schneller und günstiger</title>
-      <link>https://www.all-ai.de/news/news26top/seedance-2-5-flash-besser-guenstiger</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/seedance-2-5-flash-besser-guenstiger</guid>
-      <pubDate>Sat, 14 Nov 2026 11:50:49 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Seedance 2.5 Flash generiert laut BytePlus fast doppelt so schnell wie Seedance 2.5. Ein 720p-Video aus Text oder einem Bild kostet 0,152$ pro Sekunde und damit rund 34% weniger als bei Seedance 2.5. Das Modell erzeugt bis zu 30 Sekunden lange Videos und startet mit 480p und 720p. Higgsfield bietet Flash bereits an, die ModelArk-API startet am 15. November. BytePlus – Ankündigung und technische Daten zu Seedance 2.5 Flash BytePlus ModelArk – Starttermin und Modellvergleich BytePlus ModelArk – Preisbeispiele für Seedance 2.0 Higgsfield – Seedance 2.5 Flash im Changelog ByteDance hat mit Seedance 2.5 Flash ein KI-Modell für schnellere Videogenerierung vorgestellt. Es soll fast doppelt so schnell arbeiten wie Seedance 2.5 und kostet bei 720p rund ein Drittel weniger. Higgsfield bietet das Modell bereits an, bei BytePlus startet die API am 15. November. Anzeige Was ein Clip mit Seedance 2.5 Flash kostet Für Videos aus Text oder einem Bild verlangt BytePlus bei 720p 0,152$ pro Sekunde. Ein zehn Sekunden langer Clip kostet damit 1,52$ statt 2,31$ bei Seedance 2.5. Bei 480p sinkt der Preis von 0,103$ auf 0,070$ pro Sekunde. BytePlus zufolge kommen die Ergebnisse qualitativ nah an Seeda...]]></description>
-    </item>
-    <item>
-      <title>Nvidia-Angestellte wollen Jensen Huang zurück</title>
-      <link>https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525279</guid>
-      <pubDate>Sat, 14 Nov 2026 11:42:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nachdem eine dritte Affäre des vormaligen Nvidia-Chefs Jensen Huang bekannt wurde, setzt der Fallout ein. Trotzdem wollen manche, dass er wiederkehrt.]]></description>
-    </item>
-    <item>
-      <title>Im Gemini Pro und Ultra Abo gibt es gratis API Credits</title>
-      <link>https://www.all-ai.de/news/news26top/google-gemini-api-credits-abo</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-gemini-api-credits-abo</guid>
-      <pubDate>Sat, 14 Nov 2026 10:55:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Google AI Pro enthält monatlich 10$ für die Gemini API. Bei Ultra sind es je nach Tarif 40$ oder 100$. Abonnenten können das Guthaben jetzt direkt in Google AI Studio einlösen. Bei Prepaid-Abrechnung ist zunächst eine Einzahlung von mindestens 5$ nötig. Im Make-Beispiel hat das Pro-Guthaben 4,05€ an Gemini-API-Kosten abgedeckt. Google-Blog – Cloud-Guthaben in Google AI Studio einlösen Google Developer Program – Guthaben und Abrechnung Google AI for Developers – Abrechnung der Gemini API Schon im Google-AI-Pro-Abo stecken jeden Monat 10$ Guthaben für die Gemini API. Bei Ultra sind es je nach Tarif 40$ oder 100$. Seit dem 13. November können Abonnenten das bereits enthaltene Guthaben direkt in Google AI Studio einlösen. Anzeige Wie viel Guthaben im Abo steckt Google AI Pro enthält monatlich 10$, Google AI Ultra 5x kommt auf 40$, Ultra 20x sogar auf 100$. Heißt beim 200$ Abo bekommt man gratis 100$ API-Guthaben. Google AI Plus ist bei diesem Abo-Vorteil ausgenommen. Das Guthaben steht dem Hauptabonnenten zu. + Quelle: Google Mit dem Guthaben lassen sich auch kostenpflichtige Gemini-Modelle per API nutzen. So kann etwa ein eigener Chatbot Antworten erzeugen oder eine Automatisierung...]]></description>
-    </item>
-    <item>
-      <title>Microsoft-Ausfall: Woran es lag und wer besonders litt</title>
-      <link>https://www.heise.de/news/Microsoft-Ausfall-Woran-es-lag-und-wer-besonders-litt-11525257.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525257</guid>
-      <pubDate>Sat, 14 Nov 2026 10:26:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Keine KI, keine Cyberattacke, soweit Microsofts erste Erklärung. Bei kritischen Strukturen in Deutschland waren die Auswirkungen gering.]]></description>
-    </item>
-    <item>
-      <title>Macht Jensen Huang den Sam Altman?</title>
-      <link>https://www.all-ai.de/news/news26top/macht-jensen-huang-den-sam-altman</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/macht-jensen-huang-den-sam-altman</guid>
-      <pubDate>Sat, 14 Nov 2026 10:10:40 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Die Initiative »Stand with Jensen« fordert, Huang während einer unabhängigen Untersuchung wieder als Nvidia-Chef einzusetzen. Elon Musk unterstützt die Rückkehr und kündigte an, zu unterschreiben. Bei OpenAI drohte 2023 ein Großteil der Belegschaft mit Kündigung, bevor sich das Unternehmen mit Sam Altman einigte. Bei Nvidia führt Colette Kress vorübergehend das Unternehmen, während der Verwaltungsrat einen dauerhaften Nachfolger sucht. Stand with Jensen – offener Brief und Unterstützerliste Elon Musk – archivierter X-Beitrag zur Petition Nvidia – Bekanntgabe des Rücktritts und der Nachfolgesuche Politico – Stimmen aus der Branche zu einem Comeback Britische Wettbewerbsbehörde CMA – Chronologie von Altmans Entlassung und Rückkehr Eine Petition fordert Nvidia auf, Jensen Huang wieder als CEO einzusetzen. Elon Musk kündigte auf X an, ebenfalls zu unterschreiben. Bei Sam Altman reichten 2023 vier Tage bis zur Einigung über seine Rückkehr zu OpenAI. Anzeige Was die Petition von Nvidia fordert Nvidia gab am 12. November bekannt, dass Huang als CEO, Präsident und Mitglied des Verwaltungsrats zurückgetreten ist. Er hatte den Chiphersteller 33 Jahre lang geführt. Finanzchefin Colette Kre...]]></description>
-    </item>
-    <item>
-      <title>Adobe, VSCO und Hyänen – die Fotonews der Woche 46/2026</title>
-      <link>https://www.heise.de/news/Adobe-VSCO-und-Hyaenen-die-Fotonews-der-Woche-46-2026-11524154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524154</guid>
-      <pubDate>Sat, 14 Nov 2026 09:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Adobe zeigt die KI-Zukunft, VSCO verspricht Datenschutz, südkoreanische Fotografen fordern Ermittlungen und Netflix würdigt Avedon.]]></description>
-    </item>
-    <item>
-      <title>Polarlicht bis Porträt: Licht und Himmel in den Bildern der Woche 46</title>
-      <link>https://www.heise.de/news/Polarlicht-bis-Portraet-Licht-und-Himmel-in-den-Bildern-der-Woche-46-11522926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11522926</guid>
-      <pubDate>Sat, 14 Nov 2026 08:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Dramatische Himmel, stille Momente und starke Kontraste: Sieben Aufnahmen zwischen Naturschauspiel und präziser Beobachtung.]]></description>
-    </item>
-    <item>
-      <title>Developer-Häppchen: Kiro schickt Bots los, Rider durchleuchtet Godot-Szenen</title>
-      <link>https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11523808</guid>
-      <pubDate>Sat, 14 Nov 2026 07:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Storm, Lima, PhpStorm, AWS Kiro, ReSharper, Laravel, Node.js, Spring AI und Rider.]]></description>
-    </item>
-    <item>
-      <title>AWS Emulator im Detail: Die ganze Cloud auf dem eigenen Rechner?</title>
-      <link>https://www.heise.de/news/AWS-Emulator-im-Detail-Die-ganze-Cloud-auf-dem-eigenen-Rechner-11524450.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524450</guid>
-      <pubDate>Sat, 14 Nov 2026 06:32:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[AWS-Anwendungen ohne Cloud-Konto und Gebühren lokal testen: Wie der neue, kontroverse AWS Emulator unter der Haube funktioniert und was er leistet.]]></description>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
     </item>
   </channel>
 </rss>
