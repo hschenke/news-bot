@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -22,132 +22,6 @@
       <link>https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</link>
       <guid isPermaLink="false">https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</guid>
       <pubDate>Sun, 15 Nov 2026 07:08:50 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Disk encryption on NetBSD – achieving secrecy</title>
-      <link>https://netbsd.org/~nia/disk-encrypt/</link>
-      <guid isPermaLink="false">https://netbsd.org/~nia/disk-encrypt/</guid>
-      <pubDate>Sun, 15 Nov 2026 05:29:54 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Kiri – The Modern Container Runtime</title>
-      <link>https://runkiri.com/</link>
-      <guid isPermaLink="false">https://runkiri.com/</guid>
-      <pubDate>Sun, 15 Nov 2026 04:40:41 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</title>
-      <link>https://github.com/Tthanh2k6/turbo-browser-mcp</link>
-      <guid isPermaLink="false">https://github.com/Tthanh2k6/turbo-browser-mcp</guid>
-      <pubDate>Sun, 15 Nov 2026 04:09:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>My favourite modern NES games</title>
-      <link>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</link>
-      <guid isPermaLink="false">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</guid>
-      <pubDate>Sun, 15 Nov 2026 02:41:25 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>We're Asking an Appeals Court to Require a Warrant for ALPR Searches</title>
-      <link>https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</link>
-      <guid isPermaLink="false">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</guid>
-      <pubDate>Sun, 15 Nov 2026 02:00:54 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Court denies motion to dismiss DRAM price fixing case</title>
-      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
-      <guid isPermaLink="false">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</guid>
-      <pubDate>Sun, 15 Nov 2026 01:18:36 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>How did Woz write the Apple 1 BASIC before building the computer?</title>
-      <link>https://retrocomputing.stackexchange.com/questions/17957</link>
-      <guid isPermaLink="false">https://retrocomputing.stackexchange.com/questions/17957</guid>
-      <pubDate>Sat, 14 Nov 2026 22:22:49 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>SpaceX catches the Starship to end Flight 15</title>
-      <link>https://www.spacex.com/launches/starship-flight-15</link>
-      <guid isPermaLink="false">https://www.spacex.com/launches/starship-flight-15</guid>
-      <pubDate>Sat, 14 Nov 2026 21:22:24 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>A family tree of software job titles</title>
-      <link>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</link>
-      <guid isPermaLink="false">https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</guid>
-      <pubDate>Sat, 14 Nov 2026 17:45:19 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Lovable apps expose passport details and more than 200K private messages</title>
-      <link>https://www.crissyfield.de/research/lovable-en/</link>
-      <guid isPermaLink="false">https://www.crissyfield.de/research/lovable-en/</guid>
-      <pubDate>Sat, 14 Nov 2026 17:43:10 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>PyPI's redesigned project pages with clearer security signals are now live</title>
-      <link>https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</link>
-      <guid isPermaLink="false">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</guid>
-      <pubDate>Sat, 14 Nov 2026 15:40:52 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
-      <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
-      <guid isPermaLink="false">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</guid>
-      <pubDate>Sat, 14 Nov 2026 15:04:15 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>KDE: The documentary [video]</title>
-      <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
-      <guid isPermaLink="false">https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</guid>
-      <pubDate>Sat, 14 Nov 2026 13:43:28 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Advancing science and engineering with Antigravity's /teamwork</title>
-      <link>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</link>
-      <guid isPermaLink="false">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</guid>
-      <pubDate>Sat, 14 Nov 2026 13:20:43 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>

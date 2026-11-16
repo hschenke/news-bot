@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -25,24 +25,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Ein kleines Team soll den KI-Videogenerator weiter betreuen. SpaceX führt die Videomodelle weiterhin in seiner API-Dokumentation. Die KI-Sparte soll sich stärker auf Programmierwerkzeuge und Grok Bot konzentrieren. In zwei Video-Benchmarks von Artificial Analysis liegen Alibabas Wan 3.0 und ByteDances Seedance 2.5 vorn. The Information – Originalbericht und öffentliche Kurzfassung zum Stellenabbau SpaceXSI – Grok Imagine API und Einstiegspreise OpenAI – Termine zur Einstellung von Sora Artificial Analysis – Rangliste für Videos aus Text Artificial Analysis – Rangliste für Videos aus Standbildern Die KI-Sparte von SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Eine kleine Gruppe soll den Bild- und Videogenerator weiter betreuen. Mehr Ressourcen sollen in KI-Programmierwerkzeuge und den KI-Agenten Grok Bot fließen. Anzeige Im März kündigte Musk noch mehr Einsatz an Elon Musk versprach im März auf X, bei Grok Imagine nachzulegen. Die nächste Version werde besonders beeindruckend, schrieb er damals. Nach den Stellenstreichungen soll sich nur noch eine Handvoll Mitarbeiter...]]></description>
-    </item>
-    <item>
-      <title>OpenAI löst sein eigenständiges Robotikteam auf</title>
-      <link>https://www.all-ai.de/news/news26top/openai-robotik-ende</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-robotik-ende</guid>
-      <pubDate>Sat, 14 Nov 2026 13:33:40 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[OpenAI löst sein eigenständiges Robotikteam auf und verteilt die Mitarbeiter auf zwei Abteilungen. Das Unternehmen will die Entwicklung vielseitig einsetzbarer Roboter mit KI-Modellen wie GPT-6 Astra beschleunigen. In einer Nvidia-Simulation erreichte GPT-6 Astra je nach Aufbau rund 66% oder 75% Erfolg bei Greif- und Ablageaufgaben. Sam Altman peilt für 2027 die erste öffentliche Vorführung eines eigenen humanoiden Roboters an. Fortune – OpenAI bestätigt die Auflösung des eigenständigen Robotikteams Nvidia Research – Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy OpenAI verteilt die Mitarbeiter seines eigenständigen Robotikteams auf zwei andere Bereiche auf. Das Unternehmen bestätigte den Umbau gegenüber »Fortune«. Ein Grund dafür sind Versuche mit GPT-6 Astra, das einige Roboteraufgaben übernehmen kann. Anzeige Die Robotikforscher wechseln in die Hauptforschung Die Robotikforscher arbeiten künftig in der zentralen Forschungsabteilung unter Mark Chen. Die Mitarbeiter für angewandte Robotik und Hardware wechseln in den Bereich Applied unter OpenAI-Präsident Greg Brockman. OpenAI will mit dem Umbau die Entwicklung von Robotern beschleunigen, die sich für unt...]]></description>
-    </item>
-    <item>
-      <title>Papst Leo XIV. warnt vor Effizienz als oberstem Maßstab</title>
-      <link>https://www.all-ai.de/news/news26top/papst-ki-effizienz-uni</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/papst-ki-effizienz-uni</guid>
-      <pubDate>Sat, 14 Nov 2026 13:25:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Papst Leo XIV. rief Studenten und Wissenschaftler in Peru dazu auf, Technik kritisch zu prüfen. Er warnte davor, Effizienz zum höchsten Maßstab zu machen, und betonte den Wert menschlicher Urteilskraft. In seiner Enzyklika »Magnifica Humanitas« plädiert Leo für einen zurückhaltenden Umgang mit KI in der Bildung. Vatikan – Ansprache von Papst Leo XIV. an der Universität in Chiclayo (deutsche Fassung) Presseamt des Heiligen Stuhls – Universitätsbesuch und Rede im spanischen Original Vatikan – Enzyklika »Magnifica Humanitas«, besonders Abschnitte 143 bis 147 Papst Leo XIV. hat Studenten und Wissenschaftler dazu aufgerufen, technische Fortschritte kritisch zu prüfen. Bei einem Besuch an der katholischen Universität Santo Toribio de Mogrovejo im peruanischen Chiclayo warnte er am Freitag davor, Effizienz zum höchsten Maßstab zu machen. Die Rede behandelt Technologie im Allgemeinen und knüpft an eine Frage aus seiner KI-Enzyklika an: Wie lernen Studenten, sich ein eigenes Urteil zu bilden? Anzeige Was Maschinen laut Leo XIV. fehlt Leo forderte sein Publikum auf, nach »jener Weisheit« zu suchen, »über die weder Maschinen noch Computerprogramme verfügen können«. Wer Technik beurteilt, m...]]></description>
     </item>
   </channel>
 </rss>

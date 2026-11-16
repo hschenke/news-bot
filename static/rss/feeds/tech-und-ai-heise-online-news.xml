@@ -5,9 +5,81 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montag: Rufe nach Rückkehr Jensen Huangs, Huang-Affäre nicht mehr bei Megaspeed</title>
+      <link>https://www.heise.de/news/Montag-Rufe-nach-Rueckkehr-Jensen-Huangs-Huang-Affaere-nicht-mehr-bei-Megaspeed-11525681.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525681</guid>
+      <pubDate>Mon, 16 Nov 2026 05:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Jensen-Comeback gefordert + Alice Huang raus aus Megaspeed + Amazons Satelliten-Mission gescheitert + Gründe für Microsoft-Ausfall + Haft für heimliches Filmen]]></description>
+    </item>
+    <item>
+      <title>Vulcan-Trägerrakete verliert nach Problem Amazon-Satelliten im All</title>
+      <link>https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525671</guid>
+      <pubDate>Mon, 16 Nov 2026 04:05:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Vulcan-Rakete sollte 40 Satelliten für Amazon Leo in den Orbit bringen. Doch diese wurden nicht ausgesetzt - ein Rückschlag für den Starlink-Konkurrenten.]]></description>
+    </item>
+    <item>
+      <title>Top 10: Die beste Dockingstation mit USB-C im Test</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-dockingstation-im-test-strom-bild-und-daten-ueber-ein-kabel/nvxfwxg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525521</guid>
+      <pubDate>Sun, 15 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ob Macbook oder Windows-Laptop: Anschlüsse für LAN & Co. sind Mangelware. Wir zeigen die zehn besten USB-C-Dockingstations.]]></description>
+    </item>
+    <item>
+      <title>Facebook-App las Fotogalerien von Millionen italienischen Nutzern ohne Erlaubnis</title>
+      <link>https://www.heise.de/news/Datenschutzverstoss-Meta-soll-in-Italien-805-Millionen-Euro-Strafe-zahlen-11525635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525635</guid>
+      <pubDate>Sun, 15 Nov 2026 17:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Über die Facebook-App las Meta auf Android-Geräten Fotos von 20 Millionen Nutzern ohne Einwilligung aus. Nun verhängen Italiens Datenschützer eine Strafe.]]></description>
+    </item>
+    <item>
+      <title>UnrealIRCd: Angreifer nutzen Lücke für Befehle mit Serverrechten aus</title>
+      <link>https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525565</guid>
+      <pubDate>Sun, 15 Nov 2026 15:25:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der IRC-Server UnrealIRCd ist verwundbar und Angreifer nutzen derzeit eine Lücke aus. Ein Sicherheitspatch steht zum Download bereit.]]></description>
+    </item>
+    <item>
+      <title>Verkehrte Welt beim Milbensauger-Test: Kärcher kostet die Hälfte des Jimmy</title>
+      <link>https://www.heise.de/bestenlisten/ratgeber/verkehrte-welt-beim-milbensauger-test-kaercher-kostet-die-haelfte-des-jimmy/c4vs6pm?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525513</guid>
+      <pubDate>Sun, 15 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Kärchers Milbensauger kostet 89 Euro, der Jimmy BX7 Pro Max das Doppelte. Im Test holt der günstige Kärcher trotzdem mehr Staub aus der Matratze.]]></description>
+    </item>
+    <item>
+      <title>OpenAI startet ChatGPT Wallet: KI-Agenten kaufen für Nutzer ein</title>
+      <link>https://www.heise.de/news/OpenAI-startet-ChatGPT-Wallet-KI-Agenten-kaufen-fuer-Nutzer-ein-11525597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525597</guid>
+      <pubDate>Sun, 15 Nov 2026 14:56:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die neue Bezahlmethode von OpenAI befähigt KI-Agenten eigenständig einzukaufen. Das Feature ist zunächst nur für Pro-Abonnenten in den USA verfügbar.]]></description>
+    </item>
+    <item>
+      <title>Phishing-Kampagne nutzt Microsoft-Cloud-Ausfall</title>
+      <link>https://www.heise.de/news/Phishing-Kampagne-nutzt-Microsoft-Cloud-Ausfall-11525471.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525471</guid>
+      <pubDate>Sun, 15 Nov 2026 13:59:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nur kurz nach dem Ende des Microsoft-Cloud-Ausfalls greifen Kriminelle das Thema auf. Microsoft warnt vor einer Phishing-Kampagne.]]></description>
+    </item>
     <item>
       <title>Megaspeed bestätigt: Alice Huang hat Unternehmen verlassen</title>
       <link>https://www.heise.de/news/Megaspeed-bestaetigt-Alice-Huang-hat-Unternehmen-verlassen-11525549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -61,69 +133,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Am 15. November 2001 veröffentlicht Microsoft in den USA seine erste Spielkonsole. Über vier Generationen hinweg verkauft sich die Xbox 200 Millionen Mal.]]></description>
-    </item>
-    <item>
-      <title>SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf</title>
-      <link>https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525437</guid>
-      <pubDate>Sat, 14 Nov 2026 22:29:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.]]></description>
-    </item>
-    <item>
-      <title>Top 10: Das beste Outdoor-Handy im Test</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test-ideal-fuer-baustelle-camping-und-wildnis/l7bnxjv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525361</guid>
-      <pubDate>Sat, 14 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nachtsicht, Wärmebildkamera oder Monster-Akku: Wir zeigen die besten stabilen Outdoor-Smartphones aus den Tests.]]></description>
-    </item>
-    <item>
-      <title>US-Regulierungsbehörde genehmigt Ausnahmen vom Router-Verbot</title>
-      <link>https://www.heise.de/news/US-Regulierungsbehoerde-genehmigt-Ausnahmen-vom-Router-Verbot-11525357.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525357</guid>
-      <pubDate>Sat, 14 Nov 2026 17:07:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Für das im März in den USA verhängte Verbot für im Ausland hergestellte Router verteilt die Regulierungsbehörde FCC weitere Ausnahmegenehmigungen.]]></description>
-    </item>
-    <item>
-      <title>Deutscher TikToker muss wegen heimlichen Filmens ins Gefängnis</title>
-      <link>https://www.heise.de/news/TikTok-Prankster-muss-wegen-heimlich-aufgenommener-Videos-ins-Gefaengnis-11525377.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525377</guid>
-      <pubDate>Sat, 14 Nov 2026 16:15:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Unter dem Namen „langlebepapa“ demütigte ein 33-Jähriger Opfer in TikTok-Videos. Nun verurteilte ihn das Amtsgericht Hamburg zu einer Haftstrafe ohne Bewährung.]]></description>
-    </item>
-    <item>
-      <title>Anker Nano Dockingstation A83C3 im Test: Kompakt &amp; mit herausnehmbarem USB-C-Hub</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/anker-nano-dockingstation-a83c3-im-test-kompakt-und-mit-herausnehmbarem-usb-c-hub/nmntb6d?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525115</guid>
-      <pubDate>Sat, 14 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die kompakte Anker Nano Dockingstation ist fair bepreist und bringt einen herausnehmbaren USB-C-Hub für unterwegs mit. Was sie taugt, zeigt der Test.]]></description>
-    </item>
-    <item>
-      <title>O2 mit mäßigen Geschäftszahlen</title>
-      <link>https://www.heise.de/news/O2-mit-maessigen-Geschaeftszahlen-11525319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525319</guid>
-      <pubDate>Sat, 14 Nov 2026 14:29:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Mobilfunker O2 Telefónica verzeichnet weiter zurückgehende Umsätze, nur im Festnetz gibt es noch Wachstum. Um Kosten zu senken, baut der Konzern Jobs ab.]]></description>
-    </item>
-    <item>
-      <title>Inference Manager: neues Ubuntu-Tool verwaltet lokale KI-Modelle</title>
-      <link>https://www.heise.de/news/Inference-Manager-neues-Ubuntu-Tool-verwaltet-lokale-KI-Modelle-11525275.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525275</guid>
-      <pubDate>Sat, 14 Nov 2026 13:46:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Canonical hat auf dem Ubuntu Summit den Inference Manager vorgestellt, ein neues Werkzeug zur Verwaltung lokal installierter KI-Modelle.]]></description>
     </item>
   </channel>
 </rss>

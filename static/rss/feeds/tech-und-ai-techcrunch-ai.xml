@@ -5,44 +5,44 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Where was Nvidia’s security team?</title>
-      <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188673</guid>
-      <pubDate>Sun, 15 Nov 2026 00:08:07 GMT</pubDate>
+      <title>Apple launches new app to study how people use AI for health</title>
+      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188803</guid>
+      <pubDate>Mon, 16 Nov 2026 01:30:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.]]></description>
+      <description><![CDATA[Apple's new app for a study will answer everyday medical questions]]></description>
     </item>
     <item>
-      <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
-      <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188741</guid>
-      <pubDate>Sat, 14 Nov 2026 21:41:22 GMT</pubDate>
+      <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
+      <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188782</guid>
+      <pubDate>Sun, 15 Nov 2026 23:30:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The petition had attracted more than 115,000 signatures as of Saturday afternoon.]]></description>
+      <description><![CDATA[Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.]]></description>
     </item>
     <item>
-      <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-      <link>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
-      <pubDate>Sat, 14 Nov 2026 17:30:00 GMT</pubDate>
+      <title>Is bad news for Jensen Huang also bad news for the AI industry?</title>
+      <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188757</guid>
+      <pubDate>Sun, 15 Nov 2026 21:56:35 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.]]></description>
+      <description><![CDATA["Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."]]></description>
     </item>
     <item>
-      <title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
-      <link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188720</guid>
-      <pubDate>Sat, 14 Nov 2026 16:34:15 GMT</pubDate>
+      <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
+      <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188820</guid>
+      <pubDate>Sun, 15 Nov 2026 20:20:57 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.]]></description>
+      <description><![CDATA[While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.]]></description>
     </item>
   </channel>
 </rss>
