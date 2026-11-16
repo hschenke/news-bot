@@ -5,9 +5,18 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM</title>
+      <link>https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188528</guid>
+      <pubDate>Mon, 16 Nov 2026 12:30:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.]]></description>
+    </item>
     <item>
       <title>Apple launches new app to study how people use AI for health</title>
       <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>

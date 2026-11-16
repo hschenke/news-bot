@@ -5,9 +5,243 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NASA ruft dazu auf, Voyager 1 mit dem Smartphone Morsezeichen zu senden</title>
+      <link>https://www.heise.de/news/NASA-ruft-dazu-auf-Voyager-1-mit-dem-Smartphone-Morsezeichen-zu-senden-11526207.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526207</guid>
+      <pubDate>Mon, 16 Nov 2026 13:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Am Mittwoch wird sich Voyager 1 als erste Sonde überhaupt mehr als einen Lichttag von uns entfernen. Die NASA fordert uns dazu auf, ein Zeichen zu setzen.]]></description>
+    </item>
+    <item>
+      <title>Auf nach Hogwarts: 25 Jahre „Harry Potter“ im Film</title>
+      <link>https://www.heise.de/news/Auf-nach-Hogwarts-25-Jahre-Harry-Potter-im-Film-11526453.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526453</guid>
+      <pubDate>Mon, 16 Nov 2026 13:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Im November 2001 läuft „Harry Potter und der Stein der Weisen“ an. In Deutschland wird er nach „Titanic“ der erfolgreichste Film der vergangenen 50 Jahre.]]></description>
+    </item>
+    <item>
+      <title>Chatbot als Arzt: Apple erforscht Health AI</title>
+      <link>https://www.heise.de/news/Chatbot-als-Arzt-Apple-erforscht-Health-AI-11526364.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526364</guid>
+      <pubDate>Mon, 16 Nov 2026 12:44:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[In den USA können iPhone-Nutzer mit einer Apple-KI-App ihre Körperdaten teilen und über Gesundheitsthemen chatten. Apple lotet das Genre aus.]]></description>
+    </item>
+    <item>
+      <title>ICQ: 30 Jahre Uh-oh!</title>
+      <link>https://www.heise.de/news/Uh-oh-30-Jahre-ICQ-11526348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526348</guid>
+      <pubDate>Mon, 16 Nov 2026 12:41:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Uh-oh! Der erste populäre Instant-Messenger hätte am 15. November seinen 30. Geburtstag gefeiert. Ein Rückblick auf Anfang und Ende von ICQ.]]></description>
+    </item>
+    <item>
+      <title>BundID: Massenhafte Angriffe führen zu Kontosperrungen</title>
+      <link>https://www.heise.de/news/BundID-Massenhafte-Angriffe-fuehren-zu-Kontosperrungen-11526376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526376</guid>
+      <pubDate>Mon, 16 Nov 2026 12:29:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach einer Häufung von Hinweisen, dass BundID-Konten aufgrund von Login-Fehlversuchen gesperrt wurden, bestätigt das BSI Angriffe.]]></description>
+    </item>
+    <item>
+      <title>Speicherkrise: Unternehmen nutzen Hardware länger und verschieben Anschaffungen</title>
+      <link>https://www.heise.de/news/Speicherkrise-Unternehmen-nutzen-Hardware-laenger-und-verschieben-Anschaffungen-11526344.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526344</guid>
+      <pubDate>Mon, 16 Nov 2026 12:23:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Viele deutsche Unternehmen spüren laut Bitkom-Umfrage die Folgen stark gestiegener Speicherpreise. Unter anderem nutzen sie Hardware länger.]]></description>
+    </item>
+    <item>
+      <title>Zuschauen statt posten: Wie Jugendliche 2026 Medien und KI nutzen</title>
+      <link>https://www.heise.de/hintergrund/JIM-Studie-Kommunikation-per-Messenger-ganz-vorne-passiver-bei-Social-Media-11526368.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526368</guid>
+      <pubDate>Mon, 16 Nov 2026 12:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Laut JIM-Studie 2026 posten Jugendliche seltener selbst, suchen aber häufiger per KI-Chatbot. KI-Antworten nehmen Jüngere eher hin als Ältere.]]></description>
+    </item>
+    <item>
+      <title>„Wolfenstein 3“ angekündigt: MachineGames kehrt zur Hauptreihe zurück</title>
+      <link>https://www.heise.de/news/Wolfenstein-3-ist-offiziell-Xbox-kuendigt-Fortsetzung-nach-neun-Jahren-an-11526331.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526331</guid>
+      <pubDate>Mon, 16 Nov 2026 12:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bethesda und Xbox kündigen einen neuen Teil der „Wolfenstein“-Reihe an. Auf welche Plattformen der Shooter kommt, ist ungewiss.]]></description>
+    </item>
+    <item>
+      <title>Manjaro: Linux-Projekt wird eingetragener Verein</title>
+      <link>https://www.heise.de/news/Manjaro-Linux-Projekt-wird-eingetragener-Verein-11526245.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526245</guid>
+      <pubDate>Mon, 16 Nov 2026 11:47:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das Manjaro-Projekt ist nun offiziell auch ein eingetragener Verein. Die Umstrukturierung soll Vertrauen wiederherstellen und mehr Unterstützung bringen.]]></description>
+    </item>
+    <item>
+      <title>1000 Kilowatt pro Schrank: KI-Chips drohen Rechenzentren zu sprengen</title>
+      <link>https://www.heise.de/news/1000-Kilowatt-pro-Schrank-KI-Chips-drohen-Rechenzentren-zu-sprengen-11526263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526263</guid>
+      <pubDate>Mon, 16 Nov 2026 11:32:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Moderne Prozessoren heizen so stark, dass Wasser direkt an den Chip muss und neue 800-Volt-Stromnetze entstehen. Die Politik streitet über Effizienzregeln.]]></description>
+    </item>
+    <item>
+      <title>Chinesisches Elektroflugzeug CE-25A fliegt mit Menschen an Bord</title>
+      <link>https://www.heise.de/news/Chinesisches-Elektroflugzeug-CE-25A-fliegt-mit-Menschen-an-Bord-11526183.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526183</guid>
+      <pubDate>Mon, 16 Nov 2026 11:20:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach 19 unbemannten Flügen ist das Elektroflugzeug CE-25A des chinesischen Flugzeugherstellers Comac erstmals mit drei Menschen an Bord abgehoben.]]></description>
+    </item>
+    <item>
+      <title>Nach KI-Betrug: Südkorea kontrolliert vor Hochschulprüfung sämtliche Brillen</title>
+      <link>https://www.heise.de/news/Nach-KI-Betrug-Suedkorea-kontrolliert-vor-Hochschulpruefung-saemtliche-Brillen-11526110.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526110</guid>
+      <pubDate>Mon, 16 Nov 2026 10:57:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Mit Mini-Kamera und generativer KI zum fast perfekten Ergebnis: Erfolgreicher KI-Betrug führt zu strengen Kontrollen gegen Smart Glasses und andere Hilfsmittel.]]></description>
+    </item>
+    <item>
+      <title>Studie: Landökosysteme nehmen kaum noch zusätzliches CO₂ auf</title>
+      <link>https://www.heise.de/news/Studie-Landoekosysteme-nehmen-kaum-noch-zusaetzliches-CO-auf-11526097.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526097</guid>
+      <pubDate>Mon, 16 Nov 2026 10:38:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Forscher haben herausgefunden, dass terrestrische Ökosysteme kaum noch zusätzliches CO₂ aufnehmen, Ozeane dagegen immer mehr. Das hat Folgen.]]></description>
+    </item>
+    <item>
+      <title>Qwen4-Max: Alibabas Spitzenmodell legt deutlich zu und wird zugleich günstiger</title>
+      <link>https://www.heise.de/news/Alibaba-startet-Qwen4-Max-Effizienter-und-guenstiger-als-der-Vorgaenger-11526093.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526093</guid>
+      <pubDate>Mon, 16 Nov 2026 10:29:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Alibabas Qwen4-Max ist leistungsfähiger und günstiger als sein Vorgänger. Unabhängige Benchmarks zeigen aber weiterhin Abstand zur westlichen Spitze.]]></description>
+    </item>
+    <item>
+      <title>Apples Smart Glasses sollen Siri AI Augen geben</title>
+      <link>https://www.heise.de/news/Apples-Smart-Glasses-sollen-Siri-AI-Augen-geben-11526106.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526106</guid>
+      <pubDate>Mon, 16 Nov 2026 10:24:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Für 2027 steht bei Apple angeblich ein Pendant zu Metas Ray-Ban-Kamerabrille auf der Produktagenda. Siri AI kommt eine Schlüsselrolle zu.]]></description>
+    </item>
+    <item>
+      <title>ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung</title>
+      <link>https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526055</guid>
+      <pubDate>Mon, 16 Nov 2026 10:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.]]></description>
+    </item>
+    <item>
+      <title>Nach Terroranschlag: Jordanien lässt Telegram sperren</title>
+      <link>https://www.heise.de/news/Nach-Terroranschlag-Jordanien-laesst-Telegram-sperren-11525885.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525885</guid>
+      <pubDate>Mon, 16 Nov 2026 09:27:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine jordanische Strafverfolgungsbehörde hat Telegram landesweit sperren lassen. Dem ist ein islamistischer Anschlag mit mehreren Toten vorausgegangen.]]></description>
+    </item>
+    <item>
+      <title>D-You-Wallet: EUDI-Entwickler planen Support für Android-Custom-ROMs</title>
+      <link>https://www.heise.de/news/D-You-Wallet-EUDI-Entwickler-planen-Support-fuer-Android-Custom-ROMs-11525893.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525893</guid>
+      <pubDate>Mon, 16 Nov 2026 09:06:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die im nächsten Jahr erwartete digitale Brieftasche EUDI-Wallet „D-You“ soll über kurz oder lang auch Android-Geräte mit Custom ROM unterstützen.]]></description>
+    </item>
+    <item>
+      <title>Kommentar zum M365-Ausfall: Warum machen wir das nicht selbst?</title>
+      <link>https://www.heise.de/meinung/Kommentar-Wofuer-nochmal-braucht-man-M365-11525667.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525667</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der weltweite Ausfall von Microsofts Cloud zeigt einmal mehr das Risiko der Zentralisierung. Zeit für ein paar grundsätzliche Fragen, meint Volker Briegleb.]]></description>
+    </item>
+    <item>
+      <title>Windows: Außerplanmäßiges Update korrigiert Lizenzierungsfehler</title>
+      <link>https://www.heise.de/news/Windows-Ausserplanmaessiges-Update-korrigiert-Lizenzierungsfehler-11525787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525787</guid>
+      <pubDate>Mon, 16 Nov 2026 08:31:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Windows-Updates vom November-Patchday können Lizenzierungs- und Aktivierungsfehler erzeugen. Ein ungeplantes Update korrigiert das.]]></description>
+    </item>
+    <item>
+      <title>Elektromobilität: Fast 220.000 Ladepunkte in Deutschland</title>
+      <link>https://www.heise.de/news/Elektromobilitaet-Fast-220-000-Ladepunkte-in-Deutschland-11525759.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525759</guid>
+      <pubDate>Mon, 16 Nov 2026 08:23:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Ausbau der Ladeinfrastruktur kommt weiter voran. Knapp 58.000 der rund 220.000 Ladepunkte arbeiten mit Gleichstrom – und gelten damit als schnell.]]></description>
+    </item>
+    <item>
+      <title>Ab in die Zukunft: Youtuber entwirft kleinen schwebenden Hoverboard-Prototyp</title>
+      <link>https://www.heise.de/news/Ab-in-die-Zukunft-Youtuber-entwirft-kleinen-schwebenden-Hoverboard-Prototyp-11525753.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525753</guid>
+      <pubDate>Mon, 16 Nov 2026 08:13:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Youtuber Jake Rogers will das schwebende Hoverboard aus „Zurück in die Zukunft II“ realisieren. Ein verkleinerter Prototyp funktioniert bereits prinzipiell.]]></description>
+    </item>
+    <item>
+      <title>DE-CIX und Telekom schließen Vertriebspartnerschaft fürs Peering</title>
+      <link>https://www.heise.de/news/DE-CIX-und-Telekom-schliessen-Vertriebspartnerschaft-fuers-Peering-11524856.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11524856</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[DE-CIX und Telekom kooperieren künftig beim Vertrieb: Kunden des Internetknotens sollen leichter an die Telekom angebunden werden können.]]></description>
+    </item>
+    <item>
+      <title>Microsoft-Cloud-Ausfall führte zu 15 Verletzten im Phantasialand</title>
+      <link>https://www.heise.de/news/Microsoft-Cloud-Ausfall-fuehrte-zu-15-Verletzten-im-Phantasialand-11525711.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525711</guid>
+      <pubDate>Mon, 16 Nov 2026 07:01:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Im Phantasialand Brühl gab ein System Alarm – die E-Mails kamen aufgrund des Microsoft-Ausfalls nicht an. Es gab 15 Verletzte.]]></description>
+    </item>
+    <item>
+      <title>Heftiger Kursrutsch nach Geschäftszahlen: Sammelklage gegen Intel</title>
+      <link>https://www.heise.de/news/Nach-heftigem-Kursrutsch-Sammelklage-gegen-Intel-wegen-irrefuehrender-Angaben-11525703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525703</guid>
+      <pubDate>Mon, 16 Nov 2026 06:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die jüngsten Geschäftszahlen von Intel waren unerwartet schlecht, die Aktien haben danach fast 29 Prozent verloren. Nun gibt es eine Sammelklage von Aktionären.]]></description>
+    </item>
+    <item>
+      <title>Tage nach dem Rücktritt: Jensen Huang will angeblich wieder Nvidia-CEO werden</title>
+      <link>https://www.heise.de/news/Tage-nach-dem-Ruecktritt-Jensen-Huang-will-angeblich-wieder-Nvidia-CEO-werden-11525691.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525691</guid>
+      <pubDate>Mon, 16 Nov 2026 06:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Druck auf Nvidia wächst, Jensen Huang zurück an die Spitze zu holen. Auch der zurückgetretene CEO redet darüber, berichtet jetzt die Financial Times.]]></description>
+    </item>
     <item>
       <title>Montag: Rufe nach Rückkehr Jensen Huangs, Huang-Affäre nicht mehr bei Megaspeed</title>
       <link>https://www.heise.de/news/Montag-Rufe-nach-Rueckkehr-Jensen-Huangs-Huang-Affaere-nicht-mehr-bei-Megaspeed-11525681.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -79,60 +313,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Nur kurz nach dem Ende des Microsoft-Cloud-Ausfalls greifen Kriminelle das Thema auf. Microsoft warnt vor einer Phishing-Kampagne.]]></description>
-    </item>
-    <item>
-      <title>Megaspeed bestätigt: Alice Huang hat Unternehmen verlassen</title>
-      <link>https://www.heise.de/news/Megaspeed-bestaetigt-Alice-Huang-hat-Unternehmen-verlassen-11525549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525549</guid>
-      <pubDate>Sun, 15 Nov 2026 12:22:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Alice Huang soll eine chinesische Spionin gewesen sein und hatte eine Affäre mit dem Nvidia-Chef. Sie hat das Unternehmen Megaspeed vor Monaten verlassen.]]></description>
-    </item>
-    <item>
-      <title>Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways</title>
-      <link>https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525531</guid>
-      <pubDate>Sun, 15 Nov 2026 11:25:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Angreifer nutzten verkettete Lücken für Hintertüren auf Check-Point-Gateways. In einem Fall löschten sie Daten auf einem ESXi-Host. Patches sind verfügbar.]]></description>
-    </item>
-    <item>
-      <title>Stopp von KI-Entwicklung per Klage gefordert</title>
-      <link>https://www.heise.de/news/Kalifornien-Klage-fordert-Stopp-der-KI-Entwicklung-wegen-katastrophaler-Risiken-11525487.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525487</guid>
-      <pubDate>Sun, 15 Nov 2026 10:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Verbraucherschützer und Sicherheitsinitiativen verklagen in den USA fünf Tech-Giganten wie OpenAI und Google, um den unkontrollierten KI-Fortschritt zu stoppen.]]></description>
-    </item>
-    <item>
-      <title>Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet</title>
-      <link>https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525491</guid>
-      <pubDate>Sun, 15 Nov 2026 10:14:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Angreifer attackieren derzeit die Fernwartungslösung N-central von N-able. Gegen einen neuen Angriffsweg gibt es bislang nur eine Übergangslösung.]]></description>
-    </item>
-    <item>
-      <title>Daten-GAU in Berlin: Forensiker über den Rhysida-Leak</title>
-      <link>https://www.heise.de/news/Berliner-Daten-GAU-Wie-man-einen-Leak-seziert-11524771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524771</guid>
-      <pubDate>Sun, 15 Nov 2026 07:16:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nach ihrer Attacke gegen die Berliner Verwaltung stellte die Hackergruppe Rhysida mehrere Terabyte Daten ins Netz. Doch wie analysiert man solche Dateimassen?]]></description>
-    </item>
-    <item>
-      <title>Missing Link: Happy Birthday, Master Chief – 25 Jahre Xbox</title>
-      <link>https://www.heise.de/hintergrund/Missing-Link-Happy-Birthday-Master-Chief-25-Jahre-Xbox-11525339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525339</guid>
-      <pubDate>Sun, 15 Nov 2026 06:47:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Am 15. November 2001 veröffentlicht Microsoft in den USA seine erste Spielkonsole. Über vier Generationen hinweg verkauft sich die Xbox 200 Millionen Mal.]]></description>
     </item>
   </channel>
 </rss>

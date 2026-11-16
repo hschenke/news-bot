@@ -5,26 +5,35 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Huaweis KI-Rechenzentrum erreicht 7% der Leistung von Colossus 2</title>
-      <link>https://www.all-ai.de/news/news26top/huawei-china-ki-leistung</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/huawei-china-ki-leistung</guid>
-      <pubDate>Sun, 15 Nov 2026 10:07:01 GMT</pubDate>
+      <title>Black Friday bei ElevenLabs: 55% Rabatt auf Creator und Pro für 1 Jahr</title>
+      <link>https://www.all-ai.de/news/news26/elevenlabs-black-friday-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/elevenlabs-black-friday-start</guid>
+      <pubDate>Mon, 16 Nov 2026 09:40:19 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Huaweis Rechenzentrum in Horinger erreicht laut Epoch AI rund 7% der KI-Rechenleistung von Colossus 2. Die Forscher stützen ihre Schätzung unter anderem auf Satellitenbilder der Kühlanlagen. Bis Anfang 2028 könnte Horinger über 70% mehr KI-Rechenleistung erreichen. Auch Colossus 2 soll weiter wachsen. Epoch AI – Kurzfassung der Analyse zu Huawei Horinger Epoch AI – Vollständige Analyse mit Methodik und Prognose Epoch AI – Datenbankeintrag zu Colossus 2 Huaweis Rechenzentrum in Horinger zählt zu den größten KI-Standorten Chinas. Eine Analyse von Epoch AI beziffert seine Rechenleistung auf rund 7% der Kapazität von Colossus 2, dem größten KI-Rechenzentrum in der Datenbank der Forscher. Bis Anfang 2028 könnte Huawei in Horinger über 70% zulegen, doch auch SpaceX baut Colossus 2 aus. Anzeige Was die Kühltürme über Huaweis Rechenzentrum verraten Wie viele KI-Chips in Horinger laufen, haben die Forscher mithilfe von Satellitenbildern und öffentlichen Angaben geschätzt. Die Bilder zeigen vier Gebäude mit großen Kühlanlagen. Aus deren Größe und Anzahl leiteten die Forscher ab, dass die vier Gebäude zusammen bis zu 286 Megawatt elektrische Leistung für die IT bereitstellen können. Drei d...]]></description>
+      <description><![CDATA[Creator kostet im ersten Jahr 99$ statt 220$, Pro 445,50$ statt 990$. Wer vom Pro-Monatsabo ins Pro-Jahresabo wechselt, zahlt im ersten Jahr 495$. Mit übertragenen Credits können sich bis zu drei Monatskontingente ansammeln. Die Aktion läuft in Deutschland bis zum 2. Dezember 2026 um 5:59 Uhr. ElevenLabs – Aktionsseite mit Preisen, Credits und Leistungsumfang ElevenLabs – Aktionsbedingungen für Black Friday und Cyber Monday 2026 ElevenLabs – reguläre Preise und Übertrag ungenutzter Credits ElevenLabs – Gemini Omni Flash 1.2 und weitere Videomodelle Artificial Analysis – Sprachsynthese-Rangliste mit Eleven v4 und Eleven v4 Turbo Ab heute startet ElevenLabs eine Black-Friday-Aktion für günstige Jahresabos. Sowohl der Creator- als auch der Pro-Plan sind im gesamten ersten Jahr 55 % günstiger. Das ist der mit Abstand beste Deal, den ElevenLabs bisher angeboten hat. Normalerweise gibt es nur 50 % Rabatt auf den Creator-Plan für einen Monat. Mit einem Klick auf folgenden Link gelangt man zum Angebot. Ich selbst habe mir bereits den Pro-Plan gesichert. Anzeige Was Creator und Pro im ersten Jahr kosten Creator kostet 99$ statt 220$ für das erste Jahr und liefert 121.000 Credits pro Mona...]]></description>
     </item>
     <item>
-      <title>Grok Imagine verliert den Großteil seines Teams</title>
-      <link>https://www.all-ai.de/news/news26/grok-imagine-spacex-ende</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/grok-imagine-spacex-ende</guid>
-      <pubDate>Sun, 15 Nov 2026 09:02:44 GMT</pubDate>
+      <title>Anthropic-Forscher erwartet das Ende bezahlter Arbeit für fast alle</title>
+      <link>https://www.all-ai.de/news/news26top/anthropic-ki-forscher-ende-arbeit</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-ki-forscher-ende-arbeit</guid>
+      <pubDate>Mon, 16 Nov 2026 07:22:51 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Ein kleines Team soll den KI-Videogenerator weiter betreuen. SpaceX führt die Videomodelle weiterhin in seiner API-Dokumentation. Die KI-Sparte soll sich stärker auf Programmierwerkzeuge und Grok Bot konzentrieren. In zwei Video-Benchmarks von Artificial Analysis liegen Alibabas Wan 3.0 und ByteDances Seedance 2.5 vorn. The Information – Originalbericht und öffentliche Kurzfassung zum Stellenabbau SpaceXSI – Grok Imagine API und Einstiegspreise OpenAI – Termine zur Einstellung von Sora Artificial Analysis – Rangliste für Videos aus Text Artificial Analysis – Rangliste für Videos aus Standbildern Die KI-Sparte von SpaceX hat laut The Information rund 60 Mitarbeiter von Grok Imagine entlassen. Eine kleine Gruppe soll den Bild- und Videogenerator weiter betreuen. Mehr Ressourcen sollen in KI-Programmierwerkzeuge und den KI-Agenten Grok Bot fließen. Anzeige Im März kündigte Musk noch mehr Einsatz an Elon Musk versprach im März auf X, bei Grok Imagine nachzulegen. Die nächste Version werde besonders beeindruckend, schrieb er damals. Nach den Stellenstreichungen soll sich nur noch eine Handvoll Mitarbeiter...]]></description>
+      <description><![CDATA[Anthropic-Forscher Tao Lin hält es für sehr wahrscheinlich, dass fast alle Menschen langfristig keine bezahlte Arbeit mehr finden. Er rechnet zunächst mit Berufswechseln und später mit einer Abhängigkeit von staatlichen Leistungen. Bis KI auch körperliche Arbeit in großem Stil übernimmt, müssten laut Lin erst Milliarden Roboter gebaut werden. Lin fordert, das Tempo der KI-Forschung auf etwa ein Viertel zu senken. Palisade Research: Interview mit Tao Lin, Abschnitt über Arbeitsplätze ab 15:32 From Inside AI: Interviewreihe von Palisade Research mit Tao Lin Der Anthropic-Forscher Tao Lin hält es für sehr wahrscheinlich, dass fast alle Menschen irgendwann dauerhaft keine bezahlte Arbeit mehr finden. Im Interview mit Eli Tyre von Palisade Research erklärt er, warum auch der Bau von Robotern darüber entscheidet, wann KI Menschen in ihren Berufen ersetzen könnte. Erst ein neuer Beruf, dann staatliche Hilfe In Lins Szenario übernimmt KI zunächst die Arbeit, die Menschen heute erledigen. Wer seinen Job verliert, wechselt den Beruf. Auch die neuen Jobs wären seiner Einschätzung nach nur eine Zwischenstation. Wenn KI schließlich fast jede Arbeit übernehmen kann und Menschen keine Stelle m...]]></description>
+    </item>
+    <item>
+      <title>Qwen4-Max Release: Stärker, schneller und günstiger</title>
+      <link>https://www.all-ai.de/news/news26top/qwen-4-max-release-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/qwen-4-max-release-start</guid>
+      <pubDate>Mon, 16 Nov 2026 06:59:38 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Qwen4-Max erreicht bei Artificial Analysis 43 Punkte und kostet im Schnitt 3,27$ pro Aufgabe. In der WebDev-Rangliste von Arena belegt Qwen4-Max zum Start vorläufig Platz sechs. Das Modell verarbeitet Text, Bilder und Videos in einem Kontextfenster von einer Million Token. Über QwenCloud kostet die API pro Million Token 1,50$ für Eingaben und 4,50$ für Ausgaben. Artificial Analysis – Qwen4 Max Qwen – Qwen4-Max: Your New Teammate Has Arrived Arena – Code Arena WebDev QwenCloud – Qwen4-Max und API-Preise Alibaba Cloud – Technische Daten zu Qwen4-Max Alibaba bringt mit Qwen4-Max sein neues Spitzenmodell heraus. Im unabhängigen Benchmark von Artificial Analysis legt es gegenüber dem Vorgänger neun Punkte zu und kostet pro Aufgabe nur noch rund ein Drittel. Die Spitzenmodelle von Anthropic, Google und OpenAI liegen im Gesamtvergleich weiter deutlich vorn. Anzeige Artificial Analysis misst 43 Punkte und 3,27$ pro Aufgabe Qwen4-Max kommt im Intelligence Index v5.0.1 auf 43 Punkte. Qwen3.8-Max (0902) erreicht 34, Kimi K3.1 Pro liegt mit 46 knapp davor. Claude Fable 5.2 führt mit 65 Punkten, vor Gemini 4 Carbon mit 60. + Quelle: Artificial Analysis Für eine Aufgabe im Index fallen mit Qw...]]></description>
     </item>
   </channel>
 </rss>

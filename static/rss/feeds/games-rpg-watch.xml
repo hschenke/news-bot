@@ -5,9 +5,45 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shade of the Marionette - Announced</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60587</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60587</guid>
+      <pubDate>Mon, 16 Nov 2026 07:08:40 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The story driven RPG Shade of the Marionette: The Story of Piyorita has been announced: Shade of the Marionette - Official Trailer Shade of the Marionette is a story-driven 3D action RPG that blends fast-paced, accessible, and stylish combat with an intricate story that builds on the expansive world of WitchSpring and a rich crafting system....]]></description>
+    </item>
+    <item>
+      <title>Delving The Depths - Announced for January 15, 2027</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60586</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60586</guid>
+      <pubDate>Mon, 16 Nov 2026 06:56:45 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The indie dungeon crawler Delving The Depths has been announced for January 15, 2027: Delving The Depths RPG Trailer Escape imprisonment by delving into the caverns below your cell and exploring until your group reaches the surface in this first-person grid-based dungeon crawler with turn-based combat....]]></description>
+    </item>
+    <item>
+      <title>Queen's Domain - Like Dark Souls 1</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60585</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60585</guid>
+      <pubDate>Mon, 16 Nov 2026 06:45:37 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[PC Gamer thinks that Queen's Domain is the best Dark Souls 1 since Dark Souls 1: Queen's Domain is the best Dark Souls 1 since Dark Souls 1 King's Field of dreams. You are at, I don't know, some sort of family dining experience. There is a stage...]]></description>
+    </item>
+    <item>
+      <title>Wizardry - 45th Anniversary Sale</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60584</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60584</guid>
+      <pubDate>Mon, 16 Nov 2026 06:34:23 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Dr. Incompetent checked out the current Wizardy 45th Anniversary Sale on Steam: Wizardry 45th Anniversary Sale on Steam!]]></description>
+    </item>
     <item>
       <title>Descent Of Lunaris - Gameplay</title>
       <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60583</link>
