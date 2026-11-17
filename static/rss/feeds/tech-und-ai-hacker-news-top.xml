@@ -5,9 +5,260 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Tokendoctor – the same Claude Code for up to 38% less</title>
+      <link>https://github.com/localixai/tokendoctor</link>
+      <guid isPermaLink="false">https://github.com/localixai/tokendoctor</guid>
+      <pubDate>Tue, 17 Nov 2026 02:19:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Running coding agents without handing them my credentials</title>
+      <link>https://blog.antonio.cx/running-agents-with-lend</link>
+      <guid isPermaLink="false">https://blog.antonio.cx/running-agents-with-lend</guid>
+      <pubDate>Tue, 17 Nov 2026 01:18:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Pentagon fails ninth straight audit despite progress in organizing finances</title>
+      <link>https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/</link>
+      <guid isPermaLink="false">https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:23:21 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Why 3dfx 1 cards had such a washed out color output?</title>
+      <link>https://twitter.com/id_aa_carmack/status/2122478083319992513</link>
+      <guid isPermaLink="false">https://twitter.com/id_aa_carmack/status/2122478083319992513</guid>
+      <pubDate>Tue, 17 Nov 2026 00:16:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: Sutra-OS – A self-hosted ontology platform</title>
+      <link>https://github.com/0nelight/sutra-os</link>
+      <guid isPermaLink="false">https://github.com/0nelight/sutra-os</guid>
+      <pubDate>Mon, 16 Nov 2026 23:25:41 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Optimizely compromised, served malware on Zoom, GitLab</title>
+      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
+      <guid isPermaLink="false">https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</guid>
+      <pubDate>Mon, 16 Nov 2026 23:00:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <guid isPermaLink="false">https://xusheng.dev/posts/windows-coding-agent-telemetry/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>How to Break into Security, Ptacek Edition (2012)</title>
+      <link>https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</link>
+      <guid isPermaLink="false">https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:19:23 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>United Airlines experiencing a widespread system outage, airline says</title>
+      <link>https://www.cnn.com/2026/11/16/us/united-airlines-outage</link>
+      <guid isPermaLink="false">https://www.cnn.com/2026/11/16/us/united-airlines-outage</guid>
+      <pubDate>Mon, 16 Nov 2026 22:14:38 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Spamhaus new email sender requirements in November</title>
+      <link>https://www.spamhaus.org/sender-guidelines/</link>
+      <guid isPermaLink="false">https://www.spamhaus.org/sender-guidelines/</guid>
+      <pubDate>Mon, 16 Nov 2026 21:47:19 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>BugMeNot has closed</title>
+      <link>https://www.bugmenot.com/</link>
+      <guid isPermaLink="false">https://www.bugmenot.com/</guid>
+      <pubDate>Mon, 16 Nov 2026 21:32:17 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>OpenCode Browse</title>
+      <link>https://opencode.ai/product/browse</link>
+      <guid isPermaLink="false">https://opencode.ai/product/browse</guid>
+      <pubDate>Mon, 16 Nov 2026 21:20:37 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>My Quest to push native Three.js quality match AAA Game Engines</title>
+      <link>https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs</link>
+      <guid isPermaLink="false">https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs</guid>
+      <pubDate>Mon, 16 Nov 2026 21:07:43 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Comcast's "fiber-powered Wi-Fi" is cable, AT&amp;T says in false advertising case</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</link>
+      <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:48:08 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
+      <link>https://www.cs.cmu.edu/learn/</link>
+      <guid isPermaLink="false">https://www.cs.cmu.edu/learn/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:43:36 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force</title>
+      <link>https://news.ycombinator.com/item?id=50522776</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50522776</guid>
+      <pubDate>Mon, 16 Nov 2026 20:29:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Chemistry is Actually Geometry</title>
+      <link>https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry</link>
+      <guid isPermaLink="false">https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry</guid>
+      <pubDate>Mon, 16 Nov 2026 20:22:18 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Rust changed me as a developer</title>
+      <link>https://blog.startifact.com/posts/how-rust-changed-me/</link>
+      <guid isPermaLink="false">https://blog.startifact.com/posts/how-rust-changed-me/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:16:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
+      <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
+      <guid isPermaLink="false">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</guid>
+      <pubDate>Mon, 16 Nov 2026 18:31:30 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Aristotle Expands into Rust</title>
+      <link>https://www.harmonic.fun/news/aristotle-rust-verification/</link>
+      <guid isPermaLink="false">https://www.harmonic.fun/news/aristotle-rust-verification/</guid>
+      <pubDate>Mon, 16 Nov 2026 17:34:41 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Grazing sheep in fields with solar arrays</title>
+      <link>https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</link>
+      <guid isPermaLink="false">https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</guid>
+      <pubDate>Mon, 16 Nov 2026 17:27:46 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Jiff 1.0: A datetime library for Rust</title>
+      <link>https://burntsushi.net/jiff/</link>
+      <guid isPermaLink="false">https://burntsushi.net/jiff/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:53:39 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Frame – 31.5" color ePaper display</title>
+      <link>https://trmnl.com/blog/introducing-frame</link>
+      <guid isPermaLink="false">https://trmnl.com/blog/introducing-frame</guid>
+      <pubDate>Mon, 16 Nov 2026 16:23:22 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
+      <link>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</link>
+      <guid isPermaLink="false">https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</guid>
+      <pubDate>Mon, 16 Nov 2026 13:18:22 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Do Repeat Yourself</title>
+      <link>https://arcentry.com/blog/do-repeat-yourself/</link>
+      <guid isPermaLink="false">https://arcentry.com/blog/do-repeat-yourself/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:06:46 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Squircles</title>
+      <link>https://linebender.org/wiki/curves/squircle/</link>
+      <guid isPermaLink="false">https://linebender.org/wiki/curves/squircle/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:55:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Test/verification technique effectiveness with Astra</title>
+      <link>https://danluu.com/astra-testing/</link>
+      <guid isPermaLink="false">https://danluu.com/astra-testing/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:33:51 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Atomic Nuked Veteran</title>
+      <link>https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/</link>
+      <guid isPermaLink="false">https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/</guid>
+      <pubDate>Mon, 16 Nov 2026 06:29:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
   </channel>
 </rss>

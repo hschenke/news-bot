@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -43,33 +43,6 @@
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
       <description><![CDATA[Dr. Incompetent checked out the current Wizardy 45th Anniversary Sale on Steam: Wizardry 45th Anniversary Sale on Steam!]]></description>
-    </item>
-    <item>
-      <title>Descent Of Lunaris - Gameplay</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60583</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60583</guid>
-      <pubDate>Sun, 15 Nov 2026 18:36:20 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Splattercatgaming checked out Descent Of Lunaris: A Brutal and Deadly New Cyberpunk Dungeon Crawl RPG! - Descent of Lunaris]]></description>
-    </item>
-    <item>
-      <title>Queen's Domain - Review @ MG</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60582</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60582</guid>
-      <pubDate>Sun, 15 Nov 2026 18:16:01 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Mortismal Gaming reviewed Queen's Domain: Queen's Domain - Review After 100%]]></description>
-    </item>
-    <item>
-      <title>RPGamer - News Round-Up</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60581</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60581</guid>
-      <pubDate>Sun, 15 Nov 2026 18:13:21 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[RPGamer sums up last week's RPG news.]]></description>
     </item>
   </channel>
 </rss>

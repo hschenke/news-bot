@@ -5,17 +5,17 @@
     <link>https://news-bot.streamlit.app/?category=Fun&amp;feed=Witz+des+Tages</link>
     <description>RSS-Feed für die Quelle 'Witz des Tages' (Kategorie: Fun).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fun-witz-des-tages.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An einem zugefrorenen Teich steht ein kleiner</title>
-      <link>https://www.hahaha.de/witze/sonstige/allgemein/13238/an-einem-zugefrorenen-teich-steht-ein-kleiner.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/sonstige/allgemein/13238/an-einem-zugefrorenen-teich-steht-ein-kleiner.html</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Ein betrunkener Mann steht in der Straßenbahn</title>
+      <link>https://www.hahaha.de/witze/menschen/maenner/13004/ein-betrunkener-mann-steht-in-der-strassenbahn.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/maenner/13004/ein-betrunkener-mann-steht-in-der-strassenbahn.html</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <category>Fun</category>
       <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[An einem zugefrorenen Teich steht ein kleiner Junge mit Schlittschuhen in der Hand und zeigt laut heulend auf ein Loch im Eis: "Meine Mutter! Meine Mutter ist da reingefallen!" Beherzt stürzt sich ein Mann ins eiskalte Wasser, taucht nach einiger Zeit wieder auf und schüttelt den Kopf. "Meine Mutter! Meine Mutter", jammert der Junge. Der Mann taucht noch einmal, noch länger, kommt mit letzter Kraft wieder hoch: "Ich kann deine Mutter nicht finden!" "Mist!", sagt der kleine Junge. "Dann kann ich die Schraube ja auch wegwerfen!"]]></description>
+      <description><![CDATA[Ein betrunkener Mann steht in der Straßenbahn und beschimpft die Fahrgäste zu seiner Linken! "Lauter Idioten, lauter Idioten!" Die Leute zu seiner Rechten brüllt er an: "Lauter Ehebrecher, lauter Ehebrecher!" Plötzlich springt ein Mann auf, schreit ihn an: "Was fällt Ihnen ein? Ich bin seit 20 Jahren verheiratet und habe meine Frau noch nie betrogen!" Darauf fuchtelt der Betrunkene mit seinen Armen und erwidert lallend: "Dann setz dich rüber zu den Idioten!"]]></description>
     </item>
   </channel>
 </rss>

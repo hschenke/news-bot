@@ -5,9 +5,531 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dienstag: Schärfere US-Exportregeln für KI-Chips, Störungen bei US-Banken</title>
+      <link>https://www.heise.de/news/Dienstag-Schaerfere-US-Exportregeln-fuer-KI-Chips-Stoerungen-bei-US-Banken-11527091.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11527091</guid>
+      <pubDate>Tue, 17 Nov 2026 05:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[USA schließen Schlupflöcher + Softwareprobleme bei US-Banken + Tesla investiert in Grünheide + Europäer suchen Alternativen + Cyberangriffe auf BundID]]></description>
+    </item>
+    <item>
+      <title>Mafia-Gesetz: Revolut in Italien unter gerichtlicher Aufsicht</title>
+      <link>https://www.heise.de/news/Mafia-Gesetz-Revolut-in-Italien-unter-gerichtlicher-Aufsicht-11527105.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11527105</guid>
+      <pubDate>Tue, 17 Nov 2026 04:45:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Mafiosi und andere Verbrecher haben über Revolut Millionen verschoben. Andere Banken schlugen Alarm, Revolut nicht. Italiens Justiz schreitet ein.]]></description>
+    </item>
+    <item>
+      <title>USA schließen Schlupflöcher des Exportverbots für KI-Chips</title>
+      <link>https://www.heise.de/news/USA-schliessen-Schlupfloecher-des-Exportverbots-fuer-KI-Chips-11527043.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11527043</guid>
+      <pubDate>Tue, 17 Nov 2026 04:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[US-Exportverbote für KI-Chips wirken beschränkt. Die Zielgruppe kann die verbotene Ware in der Cloud nutzen. Das soll schwieriger werden, nächstes Jahr.]]></description>
+    </item>
+    <item>
+      <title>Tokendoctor – the same Claude Code for up to 38% less</title>
+      <link>https://github.com/localixai/tokendoctor</link>
+      <guid isPermaLink="false">https://github.com/localixai/tokendoctor</guid>
+      <pubDate>Tue, 17 Nov 2026 02:19:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Running coding agents without handing them my credentials</title>
+      <link>https://blog.antonio.cx/running-agents-with-lend</link>
+      <guid isPermaLink="false">https://blog.antonio.cx/running-agents-with-lend</guid>
+      <pubDate>Tue, 17 Nov 2026 01:18:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Pentagon fails ninth straight audit despite progress in organizing finances</title>
+      <link>https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/</link>
+      <guid isPermaLink="false">https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:23:21 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Why 3dfx 1 cards had such a washed out color output?</title>
+      <link>https://twitter.com/id_aa_carmack/status/2122478083319992513</link>
+      <guid isPermaLink="false">https://twitter.com/id_aa_carmack/status/2122478083319992513</guid>
+      <pubDate>Tue, 17 Nov 2026 00:16:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
+      <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189297</guid>
+      <pubDate>Mon, 16 Nov 2026 23:32:32 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.]]></description>
+    </item>
+    <item>
+      <title>Show HN: Sutra-OS – A self-hosted ontology platform</title>
+      <link>https://github.com/0nelight/sutra-os</link>
+      <guid isPermaLink="false">https://github.com/0nelight/sutra-os</guid>
+      <pubDate>Mon, 16 Nov 2026 23:25:41 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Optimizely compromised, served malware on Zoom, GitLab</title>
+      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
+      <guid isPermaLink="false">https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</guid>
+      <pubDate>Mon, 16 Nov 2026 23:00:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <guid isPermaLink="false">https://xusheng.dev/posts/windows-coding-agent-telemetry/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Softwareproblem stört US-Banken</title>
+      <link>https://www.heise.de/news/Softwareproblem-stoert-US-Banken-11527077.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11527077</guid>
+      <pubDate>Mon, 16 Nov 2026 22:22:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Kunden mehrerer US-Banken beklagen Problem mit Geldtransaktionen. JPMorgan Chase kämpft mit einem Softwarebug.]]></description>
+    </item>
+    <item>
+      <title>How to Break into Security, Ptacek Edition (2012)</title>
+      <link>https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</link>
+      <guid isPermaLink="false">https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:19:23 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>United Airlines experiencing a widespread system outage, airline says</title>
+      <link>https://www.cnn.com/2026/11/16/us/united-airlines-outage</link>
+      <guid isPermaLink="false">https://www.cnn.com/2026/11/16/us/united-airlines-outage</guid>
+      <pubDate>Mon, 16 Nov 2026 22:14:38 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>All the questions Nvidia should answer on Tuesday — but probably won’t</title>
+      <link>https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189019</guid>
+      <pubDate>Mon, 16 Nov 2026 22:03:02 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.]]></description>
+    </item>
+    <item>
+      <title>Spamhaus new email sender requirements in November</title>
+      <link>https://www.spamhaus.org/sender-guidelines/</link>
+      <guid isPermaLink="false">https://www.spamhaus.org/sender-guidelines/</guid>
+      <pubDate>Mon, 16 Nov 2026 21:47:19 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>BugMeNot has closed</title>
+      <link>https://www.bugmenot.com/</link>
+      <guid isPermaLink="false">https://www.bugmenot.com/</guid>
+      <pubDate>Mon, 16 Nov 2026 21:32:17 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>OpenCode Browse</title>
+      <link>https://opencode.ai/product/browse</link>
+      <guid isPermaLink="false">https://opencode.ai/product/browse</guid>
+      <pubDate>Mon, 16 Nov 2026 21:20:37 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>My Quest to push native Three.js quality match AAA Game Engines</title>
+      <link>https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs</link>
+      <guid isPermaLink="false">https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs</guid>
+      <pubDate>Mon, 16 Nov 2026 21:07:43 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Comcast's "fiber-powered Wi-Fi" is cable, AT&amp;T says in false advertising case</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</link>
+      <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:48:08 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
+      <link>https://www.cs.cmu.edu/learn/</link>
+      <guid isPermaLink="false">https://www.cs.cmu.edu/learn/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:43:36 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force</title>
+      <link>https://news.ycombinator.com/item?id=50522776</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50522776</guid>
+      <pubDate>Mon, 16 Nov 2026 20:29:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Abhängigkeit von US-Militärtechnologie: Europäer suchen Alternativen</title>
+      <link>https://www.heise.de/news/Abhaengigkeit-von-US-Militaertechnologie-Europaeer-suchen-Alternativen-11527013.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11527013</guid>
+      <pubDate>Mon, 16 Nov 2026 20:23:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Europäische Militärs wollen ihre Abhängigkeit von den USA verringern und suchen Alternativen vor allem zur Software von Palantir. Einfach wird das nicht.]]></description>
+    </item>
+    <item>
+      <title>Chemistry is Actually Geometry</title>
+      <link>https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry</link>
+      <guid isPermaLink="false">https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry</guid>
+      <pubDate>Mon, 16 Nov 2026 20:22:18 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>ElevenLabs startet KI-Videowettbewerb mit 200.000$ Preisgeld</title>
+      <link>https://www.all-ai.de/news/news26/elevenlabs-ki-wettbewerb</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/elevenlabs-ki-wettbewerb</guid>
+      <pubDate>Mon, 16 Nov 2026 20:22:08 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[ElevenLabs vergibt beim Wettbewerb »The Year of More« 15 Tagespreise zu je 10.000$ und einen Hauptpreis von 50.000$. Für die kostenlose Teilnahme braucht man ein geschnittenes Video mit Bild und Ton aus ElevenCreative, zwei öffentliche Posts und das Teilnahmeformular. In Deutschland endet die Einreichung am 1. Dezember um 5:59 Uhr. Zum Black Friday sind die Jahresabos Creator und Pro im ersten Jahr bis zu 55% günstiger. Offizielle Teilnahmebedingungen für »The Year of More« Wettbewerbsseite mit Teilnahmeformular und Wasserzeichen Offizielles Wettbewerbs-Wasserzeichen Black-Friday-Angebot von ElevenLabs Aktionsbedingungen für Creator und Pro ElevenLabs startet den Wettbewerb »The Year of More« und vergibt insgesamt 200.000$ an Preisgeld. Gesucht sind Videos, die zum Beispiel ein persönliches Projekt als Trailer erzählen oder für ein erfundenes Produkt werben. Wer mindestens 18 Jahre alt ist, kann mit einem ElevenLabs-Konto teilnehmen. Anzeige So reicht man ein Video ein Gefordert ist ein eigenes, bisher unveröffentlichtes Video von 30 Sekunden bis fünf Minuten. Es muss aus mehreren Einstellungen, Clips oder Bildern geschnitten sein und mindestens ein Bildelement sowie einen Tonbe...]]></description>
+    </item>
+    <item>
+      <title>Rust changed me as a developer</title>
+      <link>https://blog.startifact.com/posts/how-rust-changed-me/</link>
+      <guid isPermaLink="false">https://blog.startifact.com/posts/how-rust-changed-me/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:16:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>California state AG sues OpenAI over rogue agent incidents</title>
+      <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189115</guid>
+      <pubDate>Mon, 16 Nov 2026 20:07:13 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.]]></description>
+    </item>
+    <item>
+      <title>KI-Regeln: Staaten und Firmen fordern Sicherheit und Transparenz</title>
+      <link>https://www.heise.de/news/KI-Regeln-Staaten-und-Firmen-fordern-Sicherheit-und-Transparenz-11526847.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526847</guid>
+      <pubDate>Mon, 16 Nov 2026 19:36:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Achtzehn Länder und zehn KI-Firmen formulieren Rahmenbedingungen für KIs+. Neben den üblichen Floskeln gibt es interessante Details. Deutschland fehlte anfangs.]]></description>
+    </item>
+    <item>
+      <title>Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security</title>
+      <link>https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189047</guid>
+      <pubDate>Mon, 16 Nov 2026 19:12:02 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.]]></description>
+    </item>
+    <item>
+      <title>Top500: Chinas LineShine verteidigt Platz 1 der schnellsten Supercomputer</title>
+      <link>https://www.heise.de/news/Top500-Chinas-LineShine-verteidigt-Platz-1-der-schnellsten-Supercomputer-11526327.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526327</guid>
+      <pubDate>Mon, 16 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die 68. Top500-Liste der schnellsten Supercomputer zeigt auf den Spitzenplätzen keine Änderungen: KI-Rechenzentren stehlen anderen Großinstallationen die Show.]]></description>
+    </item>
+    <item>
+      <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
+      <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
+      <guid isPermaLink="false">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</guid>
+      <pubDate>Mon, 16 Nov 2026 18:31:30 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>iOS 27.3: iPhone Duo bekommt Entsperren per Gesicht</title>
+      <link>https://www.heise.de/news/iOS-27-3-Beta-2-iPhone-Duo-laesst-sich-per-Kamera-entsperren-aber-ohne-Face-ID-11526682.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526682</guid>
+      <pubDate>Mon, 16 Nov 2026 18:12:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Apple testet für das iPhone Duo das Entsperren per Gesichtserkennung. Es ist kein Ersatz für Touch ID. Eine zweite Funktion sperrt das Gerät beim Zuklappen.]]></description>
+    </item>
+    <item>
+      <title>Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’</title>
+      <link>https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189053</guid>
+      <pubDate>Mon, 16 Nov 2026 18:11:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.]]></description>
+    </item>
+    <item>
+      <title>FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</title>
+      <link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188979</guid>
+      <pubDate>Mon, 16 Nov 2026 17:36:43 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.]]></description>
+    </item>
+    <item>
+      <title>Aristotle Expands into Rust</title>
+      <link>https://www.harmonic.fun/news/aristotle-rust-verification/</link>
+      <guid isPermaLink="false">https://www.harmonic.fun/news/aristotle-rust-verification/</guid>
+      <pubDate>Mon, 16 Nov 2026 17:34:41 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Grazing sheep in fields with solar arrays</title>
+      <link>https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</link>
+      <guid isPermaLink="false">https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</guid>
+      <pubDate>Mon, 16 Nov 2026 17:27:46 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’</title>
+      <link>https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188848</guid>
+      <pubDate>Mon, 16 Nov 2026 17:10:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.]]></description>
+    </item>
+    <item>
+      <title>OpenAI will embed safety researchers to investigate AI subversion</title>
+      <link>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188985</guid>
+      <pubDate>Mon, 16 Nov 2026 17:02:43 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.]]></description>
+    </item>
+    <item>
+      <title>Estland baut virtuelle Exilregierung in der Cloud auf</title>
+      <link>https://www.heise.de/news/Estland-baut-virtuelle-Exilregierung-in-der-Cloud-auf-11526903.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526903</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Estland entwickelt ein Konzept, um den Staat im Krisenfall vollständig über Server im Ausland weiterzuführen – als digitale Exilregierung.]]></description>
+    </item>
+    <item>
+      <title>OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</title>
+      <link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188489</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.]]></description>
+    </item>
+    <item>
+      <title>Russland verzögert Verhandlungen über Killer-Roboter-Vertrag</title>
+      <link>https://www.heise.de/news/Russland-verzoegert-Verhandlungen-ueber-Killer-Roboter-Vertrag-11526897.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526897</guid>
+      <pubDate>Mon, 16 Nov 2026 16:59:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[In Genf wird über Regulierungen von autonomen Waffensystemen verhandelt. Russland will davon NGOs ausschließen lassen und behindert so die Verhandlungen.]]></description>
+    </item>
+    <item>
+      <title>Jiff 1.0: A datetime library for Rust</title>
+      <link>https://burntsushi.net/jiff/</link>
+      <guid isPermaLink="false">https://burntsushi.net/jiff/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:53:39 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>ChatGPT Agenten bereiten für Kliniken MRT-Anträge vor</title>
+      <link>https://www.all-ai.de/news/news26/chatgpt-agenten-mrt-antraege</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/chatgpt-agenten-mrt-antraege</guid>
+      <pubDate>Mon, 16 Nov 2026 16:28:17 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Die KI-Agenten in ChatGPT for Healthcare können Kliniksoftware und die Onlineportale von Krankenversicherungen bedienen. In OpenAIs MRT-Demo prüft der Arzt die Entwürfe für die MRT-Anordnung und die Antwort an den Patienten. Ein Sachbearbeiter der Klinik prüft den vom KI-Agenten vorbereiteten Antrag, die Krankenversicherung entscheidet darüber. OpenAI verbessert auch die Suche nach medizinischen Quellen und ergänzt mehr als 20 Plugins für Einrichtungen. OpenAI – Advancing computer-use agents for healthcare teams OpenAI – More ways to move care forward with ChatGPT for Healthcare Bedi et al. – HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks OpenAI erweitert ChatGPT for Healthcare um KI-Agenten, die Kliniksoftware bedienen und zwischen Programmen wechseln können. Ein KI-Agent kann für den Arzt eine Antwort an den Patienten entwerfen und für die Klinik einen Antrag an die Krankenversicherung vorbereiten. Anzeige Von der Patientennachricht zum Antrag In OpenAIs Demo schreibt ein fiktiver Patient seinem Arzt wegen Rückenschmerzen. Der KI-Agent sichtet die Patientenakte und entwirft eine MRT-Anordnung sowie eine Antwort auf die Nachricht. Der Arzt p...]]></description>
+    </item>
+    <item>
+      <title>Frame – 31.5" color ePaper display</title>
+      <link>https://trmnl.com/blog/introducing-frame</link>
+      <guid isPermaLink="false">https://trmnl.com/blog/introducing-frame</guid>
+      <pubDate>Mon, 16 Nov 2026 16:23:22 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Tesla plant eine Robotaxi-Fabrik für 3 Milliarden € in Grünheide</title>
+      <link>https://www.all-ai.de/news/news26top/tesla-robotaxi-deutschland-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/tesla-robotaxi-deutschland-start</guid>
+      <pubDate>Mon, 16 Nov 2026 16:17:14 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Tesla will 3 Milliarden € in sein Werk in Grünheide investieren. Der Bau soll 2027 beginnen, die Fertigung des Cybercab 2029. Die neue Halle soll langfristig Kapazität für bis zu eine Million Robotaxis bieten. Für Bau und Fertigungsplanung sucht Tesla mehrere Hundert Mitarbeiter. Reuters – Teslas Ankündigung zur Investition und zum Zeitplan rbb24 – Produktionshalle, Arbeitsplätze und Reaktion der Landesregierung Tesla – Cybercab und Fahrdienst in Austin Tesla – Quartalsbericht mit dem Starttermin in Austin Tesla will sein Werk in Grünheide bei Berlin für 3 Milliarden € erweitern. In einer neuen Halle soll ab 2029 das Cybercab vom Band laufen, ein Elektroauto, das Fahrgäste ohne Fahrer ans Ziel bringt. Langfristig legt Tesla die Halle auf eine Kapazität von bis zu einer Million Cybercabs aus. Anzeige Der Bau soll 2027 beginnen Tesla will den Genehmigungsantrag bis Ende 2026 einreichen. Er baut auf den Plänen auf, die der Konzern 2023 für den schrittweisen Ausbau eingereicht hatte. Nach Teslas Zeitplan beginnt der Bau in der ersten Jahreshälfte 2027. Mit dem Geld will der Konzern auch Nebengebäude und eine weitere Anlage zur Abwasserbehandlung errichten. Das Cybercab hat zwei Sitz...]]></description>
+    </item>
+    <item>
+      <title>Claude findet Hunderte Beweisansätze in Kurt Gödels Notizbüchern von 1940</title>
+      <link>https://www.all-ai.de/news/news26top/claude-kurt-goedel-beweise</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/claude-kurt-goedel-beweise</guid>
+      <pubDate>Mon, 16 Nov 2026 16:10:53 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Jan von Plato ließ Claude Abschriften von 16 Arbeitsheften Kurt Gödels auswerten. Das KI-Modell fand 663 Aussagen mit Beweisen, Skizzen oder Beweisideen. Rund 400 ließen sich in der erfassten Form beweisen. Auch die mit Claude rekonstruierte Fassung eines Beweises zur Unabhängigkeit des Auswahlaxioms bestand die Prüfung in Coq. The Guardian – Bericht mit Jan von Platos Angaben zur Claude-Auswertung Universität Helsinki – Forschungsprojekt Gödel Enigma Gödel’s First Proof of the Consistency of the Axiom of Choice International Mathematical Union – Fields-Medaillen 1966 The Rocq Prover – Funktionen und früherer Name Coq Der Logiker Jan von Plato hat mit dem KI-Modell Claude 16 Arbeitshefte von Kurt Gödel ausgewertet. Claude fand darin 663 mathematische Aussagen, zu denen Gödel einen Beweis, eine Skizze oder zumindest eine Idee notiert hatte. Rund 400 ließen sich in der erfassten Form beweisen. Anzeige Claude verknüpft Notizen aus 16 Heften Gödel füllte die 1.009 Seiten Anfang der 1940er-Jahre. Einen großen Teil schrieb er in der Gabelsberger-Kurzschrift. Von Plato arbeitete an der Universität Helsinki daran, die Notizen in gewöhnliche Schrift zu übertragen und mathematisch auszuwe...]]></description>
+    </item>
+    <item>
+      <title>Muster erkannt: Großwetterlagen lassen Europas Wälder gleichzeitig brennen</title>
+      <link>https://www.heise.de/news/Muster-erkannt-Grosswetterlagen-lassen-Europas-Waelder-gleichzeitig-brennen-11526825.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526825</guid>
+      <pubDate>Mon, 16 Nov 2026 15:57:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Waldbrände in Europa brechen oft an mehreren Orten zugleich aus. Schweizer Forscher zeigen, welche Großwetterlagen dahinterstecken.]]></description>
+    </item>
+    <item>
+      <title>Audible turns to AI to help users discover audiobooks</title>
+      <link>https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188907</guid>
+      <pubDate>Mon, 16 Nov 2026 15:52:19 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.]]></description>
+    </item>
+    <item>
+      <title>Tracking: Wie US-Soldaten unabsichtlich Ziele für iranische Angriffe lieferten</title>
+      <link>https://www.heise.de/news/Tracking-Wie-US-Soldaten-unabsichtlich-Ziele-fuer-iranische-Angriffe-lieferten-11526829.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526829</guid>
+      <pubDate>Mon, 16 Nov 2026 15:51:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Iran nutzte laut einer Recherche Fitness-Apps, Social Media und darüber anfallende digitale Spuren, um US-Stützpunkte im Nahen Osten ganz präzise anzugreifen.]]></description>
+    </item>
+    <item>
+      <title>Tesla will drei Milliarden Euro in Werk in Grünheide stecken</title>
+      <link>https://www.heise.de/news/Tesla-will-drei-Milliarden-Euro-in-Werk-in-Gruenheide-stecken-11526787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526787</guid>
+      <pubDate>Mon, 16 Nov 2026 15:04:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin liegen schon länger vor. Nun nennt das Unternehmen von Elon Musk konkrete Zahlen.]]></description>
+    </item>
+    <item>
+      <title>US tightens AI chip export controls to deter Chinese companies from accessing compute remotely</title>
+      <link>https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188900</guid>
+      <pubDate>Mon, 16 Nov 2026 15:02:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.]]></description>
+    </item>
+    <item>
+      <title>In-Ears JLab Epic Lab Edition im Test: Hi-Res per Dongle auch für iPhones</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/in-ear-kopfhoerer-jlab-epic-lab-edition-im-test-hi-res-per-dongle-auch-fuer-iphones/fms9s9z?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526726</guid>
+      <pubDate>Mon, 16 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Über einen USB-Dongle funken die In-Ear-Kopfhörer JLab Epic Lab Edition besonders latenzarm und bieten Hi-Res-Sound auch für iPhones ohne LDAC-Unterstützung.]]></description>
+    </item>
+    <item>
+      <title>Google Maps can now build trip itineraries with real-time details about each stop</title>
+      <link>https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188899</guid>
+      <pubDate>Mon, 16 Nov 2026 14:48:13 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.]]></description>
+    </item>
+    <item>
+      <title>Kein Lenkrad, kein Pedal: Tesla verkauft Cybercab für 30.000 Dollar mit Haken</title>
+      <link>https://www.heise.de/news/Kein-Lenkrad-kein-Pedal-Tesla-verkauft-Cybercab-fuer-30-000-Dollar-mit-Haken-11526690.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526690</guid>
+      <pubDate>Mon, 16 Nov 2026 14:42:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Tesla hält sich an das Versprechen, das autonome Cybercab in diesem Jahr für 30.000 Dollar an Privatkunden zu verkaufen. Das Ganze hat jedoch mehrere Haken.]]></description>
+    </item>
+    <item>
+      <title>Samsung will Rechenzentrumsbetreiber für KI-Firmen werden</title>
+      <link>https://www.heise.de/news/Samsung-will-Rechenzentrumsbetreiber-fuer-KI-Firmen-werden-11526352.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11526352</guid>
+      <pubDate>Mon, 16 Nov 2026 14:17:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Samsung möchte wohl für den KI-Boom Rechenzentrumsbetreiber werden und führt Gespräche mit OpenAI und Anthropic über die Vermietung von Kapazitäten.]]></description>
+    </item>
+    <item>
+      <title>KI-Update kompakt: Nvidia-Drama, Berufseinstieg, Siri AI, Home Assistant mit KI</title>
+      <link>https://www.heise.de/news/KI-Update-kompakt-Nvidia-Drama-Berufseinstieg-Siri-AI-Home-Assistant-mit-KI-11524748.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11524748</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></description>
+    </item>
+    <item>
+      <title>Rust 1.100: Never-Type nach zehn Jahren stabil, Cargo hält neue Versionen zurück</title>
+      <link>https://www.heise.de/news/Rust-1-100-Never-Type-nach-zehn-Jahren-stabil-Cargo-haelt-neue-Versionen-zurueck-11525017.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11525017</guid>
+      <pubDate>Mon, 16 Nov 2026 13:55:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das Release stabilisiert zwei lang erwartete Features und nimmt dafür einen kleinen Bruch in Kauf: Für ältere Editionen ändert sich die Typinferenz.]]></description>
+    </item>
+    <item>
+      <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
+      <link>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</link>
+      <guid isPermaLink="false">https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</guid>
+      <pubDate>Mon, 16 Nov 2026 13:18:22 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
     <item>
       <title>NASA ruft dazu auf, Voyager 1 mit dem Smartphone Morsezeichen zu senden</title>
       <link>https://www.heise.de/news/NASA-ruft-dazu-auf-Voyager-1-mit-dem-Smartphone-Morsezeichen-zu-senden-11526207.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -88,6 +610,15 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Bethesda und Xbox kündigen einen neuen Teil der „Wolfenstein“-Reihe an. Auf welche Plattformen der Shooter kommt, ist ungewiss.]]></description>
+    </item>
+    <item>
+      <title>Do Repeat Yourself</title>
+      <link>https://arcentry.com/blog/do-repeat-yourself/</link>
+      <guid isPermaLink="false">https://arcentry.com/blog/do-repeat-yourself/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:06:46 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
     </item>
     <item>
       <title>Manjaro: Linux-Projekt wird eingetragener Verein</title>
@@ -234,6 +765,24 @@
       <description><![CDATA[DE-CIX und Telekom kooperieren künftig beim Vertrieb: Kunden des Internetknotens sollen leichter an die Telekom angebunden werden können.]]></description>
     </item>
     <item>
+      <title>Squircles</title>
+      <link>https://linebender.org/wiki/curves/squircle/</link>
+      <guid isPermaLink="false">https://linebender.org/wiki/curves/squircle/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:55:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Test/verification technique effectiveness with Astra</title>
+      <link>https://danluu.com/astra-testing/</link>
+      <guid isPermaLink="false">https://danluu.com/astra-testing/</guid>
+      <pubDate>Mon, 16 Nov 2026 07:33:51 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>Anthropic-Forscher erwartet das Ende bezahlter Arbeit für fast alle</title>
       <link>https://www.all-ai.de/news/news26top/anthropic-ki-forscher-ende-arbeit</link>
       <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-ki-forscher-ende-arbeit</guid>
@@ -270,6 +819,15 @@
       <description><![CDATA[Die jüngsten Geschäftszahlen von Intel waren unerwartet schlecht, die Aktien haben danach fast 29 Prozent verloren. Nun gibt es eine Sammelklage von Aktionären.]]></description>
     </item>
     <item>
+      <title>Atomic Nuked Veteran</title>
+      <link>https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/</link>
+      <guid isPermaLink="false">https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/</guid>
+      <pubDate>Mon, 16 Nov 2026 06:29:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>Tage nach dem Rücktritt: Jensen Huang will angeblich wieder Nvidia-CEO werden</title>
       <link>https://www.heise.de/news/Tage-nach-dem-Ruecktritt-Jensen-Huang-will-angeblich-wieder-Nvidia-CEO-werden-11525691.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11525691</guid>
@@ -277,114 +835,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Der Druck auf Nvidia wächst, Jensen Huang zurück an die Spitze zu holen. Auch der zurückgetretene CEO redet darüber, berichtet jetzt die Financial Times.]]></description>
-    </item>
-    <item>
-      <title>Montag: Rufe nach Rückkehr Jensen Huangs, Huang-Affäre nicht mehr bei Megaspeed</title>
-      <link>https://www.heise.de/news/Montag-Rufe-nach-Rueckkehr-Jensen-Huangs-Huang-Affaere-nicht-mehr-bei-Megaspeed-11525681.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525681</guid>
-      <pubDate>Mon, 16 Nov 2026 05:15:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Jensen-Comeback gefordert + Alice Huang raus aus Megaspeed + Amazons Satelliten-Mission gescheitert + Gründe für Microsoft-Ausfall + Haft für heimliches Filmen]]></description>
-    </item>
-    <item>
-      <title>Vulcan-Trägerrakete verliert nach Problem Amazon-Satelliten im All</title>
-      <link>https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525671</guid>
-      <pubDate>Mon, 16 Nov 2026 04:05:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Eine Vulcan-Rakete sollte 40 Satelliten für Amazon Leo in den Orbit bringen. Doch diese wurden nicht ausgesetzt - ein Rückschlag für den Starlink-Konkurrenten.]]></description>
-    </item>
-    <item>
-      <title>Apple launches new app to study how people use AI for health</title>
-      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188803</guid>
-      <pubDate>Mon, 16 Nov 2026 01:30:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Apple's new app for a study will answer everyday medical questions]]></description>
-    </item>
-    <item>
-      <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
-      <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188782</guid>
-      <pubDate>Sun, 15 Nov 2026 23:30:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.]]></description>
-    </item>
-    <item>
-      <title>Is bad news for Jensen Huang also bad news for the AI industry?</title>
-      <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188757</guid>
-      <pubDate>Sun, 15 Nov 2026 21:56:35 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA["Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."]]></description>
-    </item>
-    <item>
-      <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
-      <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188820</guid>
-      <pubDate>Sun, 15 Nov 2026 20:20:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.]]></description>
-    </item>
-    <item>
-      <title>Top 10: Die beste Dockingstation mit USB-C im Test</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-dockingstation-im-test-strom-bild-und-daten-ueber-ein-kabel/nvxfwxg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525521</guid>
-      <pubDate>Sun, 15 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Ob Macbook oder Windows-Laptop: Anschlüsse für LAN & Co. sind Mangelware. Wir zeigen die zehn besten USB-C-Dockingstations.]]></description>
-    </item>
-    <item>
-      <title>Facebook-App las Fotogalerien von Millionen italienischen Nutzern ohne Erlaubnis</title>
-      <link>https://www.heise.de/news/Datenschutzverstoss-Meta-soll-in-Italien-805-Millionen-Euro-Strafe-zahlen-11525635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525635</guid>
-      <pubDate>Sun, 15 Nov 2026 17:08:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Über die Facebook-App las Meta auf Android-Geräten Fotos von 20 Millionen Nutzern ohne Einwilligung aus. Nun verhängen Italiens Datenschützer eine Strafe.]]></description>
-    </item>
-    <item>
-      <title>UnrealIRCd: Angreifer nutzen Lücke für Befehle mit Serverrechten aus</title>
-      <link>https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525565</guid>
-      <pubDate>Sun, 15 Nov 2026 15:25:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der IRC-Server UnrealIRCd ist verwundbar und Angreifer nutzen derzeit eine Lücke aus. Ein Sicherheitspatch steht zum Download bereit.]]></description>
-    </item>
-    <item>
-      <title>Verkehrte Welt beim Milbensauger-Test: Kärcher kostet die Hälfte des Jimmy</title>
-      <link>https://www.heise.de/bestenlisten/ratgeber/verkehrte-welt-beim-milbensauger-test-kaercher-kostet-die-haelfte-des-jimmy/c4vs6pm?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525513</guid>
-      <pubDate>Sun, 15 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Kärchers Milbensauger kostet 89 Euro, der Jimmy BX7 Pro Max das Doppelte. Im Test holt der günstige Kärcher trotzdem mehr Staub aus der Matratze.]]></description>
-    </item>
-    <item>
-      <title>OpenAI startet ChatGPT Wallet: KI-Agenten kaufen für Nutzer ein</title>
-      <link>https://www.heise.de/news/OpenAI-startet-ChatGPT-Wallet-KI-Agenten-kaufen-fuer-Nutzer-ein-11525597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525597</guid>
-      <pubDate>Sun, 15 Nov 2026 14:56:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die neue Bezahlmethode von OpenAI befähigt KI-Agenten eigenständig einzukaufen. Das Feature ist zunächst nur für Pro-Abonnenten in den USA verfügbar.]]></description>
-    </item>
-    <item>
-      <title>Phishing-Kampagne nutzt Microsoft-Cloud-Ausfall</title>
-      <link>https://www.heise.de/news/Phishing-Kampagne-nutzt-Microsoft-Cloud-Ausfall-11525471.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11525471</guid>
-      <pubDate>Sun, 15 Nov 2026 13:59:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nur kurz nach dem Ende des Microsoft-Cloud-Ausfalls greifen Kriminelle das Thema auf. Microsoft warnt vor einer Phishing-Kampagne.]]></description>
     </item>
   </channel>
 </rss>
