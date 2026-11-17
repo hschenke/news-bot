@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:39:41 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -211,51 +211,6 @@
       <link>https://trmnl.com/blog/introducing-frame</link>
       <guid isPermaLink="false">https://trmnl.com/blog/introducing-frame</guid>
       <pubDate>Mon, 16 Nov 2026 16:23:22 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
-      <link>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</link>
-      <guid isPermaLink="false">https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</guid>
-      <pubDate>Mon, 16 Nov 2026 13:18:22 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Do Repeat Yourself</title>
-      <link>https://arcentry.com/blog/do-repeat-yourself/</link>
-      <guid isPermaLink="false">https://arcentry.com/blog/do-repeat-yourself/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:06:46 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Squircles</title>
-      <link>https://linebender.org/wiki/curves/squircle/</link>
-      <guid isPermaLink="false">https://linebender.org/wiki/curves/squircle/</guid>
-      <pubDate>Mon, 16 Nov 2026 07:55:10 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Test/verification technique effectiveness with Astra</title>
-      <link>https://danluu.com/astra-testing/</link>
-      <guid isPermaLink="false">https://danluu.com/astra-testing/</guid>
-      <pubDate>Mon, 16 Nov 2026 07:33:51 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Atomic Nuked Veteran</title>
-      <link>https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/</link>
-      <guid isPermaLink="false">https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/</guid>
-      <pubDate>Mon, 16 Nov 2026 06:29:54 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>

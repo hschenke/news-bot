@@ -5,9 +5,63 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:39:41 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isomorphic Labs sammelt 5 Milliarden $ für KI-Medikamente ein</title>
+      <link>https://www.all-ai.de/news/news26top/isomorphic-labs-ki-medikamente</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/isomorphic-labs-ki-medikamente</guid>
+      <pubDate>Tue, 17 Nov 2026 14:33:39 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Isomorphic Labs hat in einer Series-C-Runde 5 Milliarden $ eingesammelt. Greenoaks und Sequoia Capital führen die Runde an, Alphabet investiert erneut. Isomorphic Labs meldet positive präklinische Ergebnisse in der Krebsforschung und der Immunologie. Mit dem Geld will das Unternehmen seine KI-Plattform IsoDDE ausbauen und erste Wirkstoffkandidaten in klinische Studien bringen. Isomorphic Labs – Ankündigung der Series C Isomorphic Labs – Pressemitteilung zur Series C Isomorphic Labs – Pressemitteilung zur Series B vom Mai 2026 Isomorphic Labs – Vorstellung der KI-Plattform IsoDDE Isomorphic Labs hat in einer Series-C-Runde 5 Milliarden $ eingesammelt. Mit dem Geld will das Unternehmen von Google-DeepMind-Chef Demis Hassabis seine KI für die Wirkstoffsuche ausbauen und erste Wirkstoffkandidaten in klinische Studien bringen. Anzeige Mehr als doppelt so viel Kapital wie im Mai Greenoaks und Sequoia Capital führen die Finanzierungsrunde gemeinsam an. Andreessen Horowitz steigt als neuer Investor ein, der Google-Mutterkonzern Alphabet investiert erneut. Auch die übrigen bisherigen Geldgeber beteiligen sich, darunter Thrive Capital, Temasek und der britische UK Sovereign AI Fund. Erst ...]]></description>
+    </item>
+    <item>
+      <title>OpenArt zum Black Friday mit bis zu 40% Rabatt aufs Jahresabo</title>
+      <link>https://www.all-ai.de/news/news26/openart-blackfriday-26-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/openart-blackfriday-26-start</guid>
+      <pubDate>Tue, 17 Nov 2026 13:58:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[OpenArt senkt den Preis fürs erste Abojahr je nach Tarif um 25 bis 40%. Starter kostet im ersten Jahr 126$, Plus 286$, Pro 437$ und Wonder 1.728$. Beim Abschluss oder Upgrade auf Pro oder Wonder kosten acht Videomodelle vorübergehend 20 bis 50% weniger Credits. Die Aktion endet in Deutschland am 1. Dezember 2026 um 8:59 Uhr. OpenArt – Aktionspreise und Bedingungen zum Black Friday 2026 OpenArt – Tarifübersicht und vollständige Liste der rabattierten Videomodelle OpenArt – offizielle Ankündigung mit Modellrabatten OpenArt senkt zum Black Friday die Preise für seine vier Jahresabos. Das erste Jahr kostet je nach Tarif 25 bis 40% weniger. Wer während der Aktion Pro oder Wonder bucht, braucht für ausgewählte KI-Videos außerdem bis zu 50% weniger Credits. Anzeige Was die vier Jahresabos kosten Starter kostet im ersten Jahr 126$ (25% Rabatt), Plus 286$ (30%). Bei Pro sind es 437$ (35%), bei Wonder 1.728$ (40%). OpenArt rechnet den Jahrespreis auf einmal ab und schreibt die Credits monatlich gut. Starter enthält 4.000 Credits pro Monat. Plus kommt auf 12.000 und erlaubt bereits die kommerzielle Nutzung, etwa für Kundenaufträge. Pro liefert 24.000 Credits pro Monat, Wonder 106.000. Das ...]]></description>
+    </item>
+    <item>
+      <title>Hugging Face wechselt bei Sprachmodellen zu OpenRouter</title>
+      <link>https://www.all-ai.de/news/news26/huggingface-openrouter-neu</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/huggingface-openrouter-neu</guid>
+      <pubDate>Tue, 17 Nov 2026 13:45:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[OpenRouter wählt bei Hugging Face den Anbieter für ein Sprachmodell anhand von Preis, Geschwindigkeit und Zuverlässigkeit. Bei einem Fehler kann OpenRouter dieselbe Anfrage bei einem anderen Anbieter wiederholen. Entwickler können einen Anbieter festlegen oder nach Preis beziehungsweise Durchsatz auswählen lassen. Für Sprachmodelle läuft die Abrechnung über Hugging Face zum Tarif des jeweiligen Anbieters. Hugging Face zur Partnerschaft mit OpenRouter OpenRouter zur Integration und zum Startangebot Wenn ein Anbieter für ein Sprachmodell überlastet ist, kann Hugging Face die Anfrage jetzt automatisch bei einem anderen Anbieter wiederholen. Dafür setzt die Plattform bei ihrem Dienst Inference Providers seit dem 16. November auf OpenRouter. Der Dienst gibt Entwicklern über eine gemeinsame API Zugang zu KI-Modellen, die auf den Servern verschiedener Anbieter laufen. Anzeige Dasselbe Modell, ein anderer Anbieter OpenRouter übernimmt die Auswahl, wenn mehrere Anbieter dasselbe Modell bereitstellen. In die Entscheidung fließen der Preis, die Geschwindigkeit und die aktuell gemessene Zuverlässigkeit ein. Meldet der erste Anbieter einen Fehler, kann ein anderer die Anfrage noch im selben ...]]></description>
+    </item>
+    <item>
+      <title>Die abstruse Zensur-KI von Adobe Firefly für Saudi-Arabien</title>
+      <link>https://www.all-ai.de/news/beitrage2026/adobe-humain-ki-zensur-1</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/beitrage2026/adobe-humain-ki-zensur-1</guid>
+      <pubDate>Tue, 17 Nov 2026 13:04:40 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Adobe und das staatlich finanzierte KI-Unternehmen HUMAIN haben ein Bildmodell für Saudi-Arabien entwickelt. Im deutschen Firefly-Test erschien eine Autofahrerin mit Kopftuch, während der Versuch mit offenem Haar abbrach. Das Standard-Abo entspricht bei voller Ausschöpfung rund 27,5 Cent pro Generierung mit HUMAIN Image 1. Gradually AI dokumentiert weitere Abbrüche, und das Oversight Board beschreibt bei Sprachmodellen mögliche Folgen für die Meinungsfreiheit über Landesgrenzen hinweg. Adobe zur gemeinsamen Entwicklung und zum staatlichen Zugangsprogramm Adobe zur Voreinstellung, zur Verfügbarkeit und zum Gratiszugang Adobe zum Credit-Verbrauch von HUMAIN Image 1 Gradually AI zum Test mit drei abgelehnten Motiven und zum deutschen Abopreis Oversight Board zur Meinungsfreiheit bei zehn Sprachmodellen »Eine Frau fährt durch Riad.« Adobe Firefly zeigt sie am Steuer, mit schwarzem Kopftuch. Im nächsten Versuch steht an derselben Stelle im Prompt »mit offenem Haar«, und Firefly bricht die Generierung ab. Die abstruse Geschichte des neuen KI-Bildmodells HUMAIN Image 1, welches auch in Deutschland verfügbar ist. + Ein Bildmodell für das Königreich Adobe und das saudische KI-Unternehmen...]]></description>
+    </item>
+    <item>
+      <title>Apple testet Tageslimits für Siri AI und Apple Intelligence</title>
+      <link>https://www.all-ai.de/news/news26/apple-ki-limits-eu</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/apple-ki-limits-eu</guid>
+      <pubDate>Tue, 17 Nov 2026 09:24:05 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Apple testet Tageslimits für Cloud-Funktionen von Siri AI und Apple Intelligence. Jedes Gerät hat pro Funktionskategorie ein eigenes Grundkontingent. In den USA erhöhen iCloud+-Tarife ab 200 GB das Kontingent. Geräte und Familienmitglieder teilen sich den Zusatz. Die EU ist laut The Threshold vom Zusatzkontingent ausgenommen. Apple Support – iCloud+ mit Apple Intelligence und Siri AI (US) Apple Developer – Siri AI is now open to all developers Apple Developer – Beta-Veröffentlichungen vom 16. November 2026 MacRumors – iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades The Threshold – Siri AI daily limits: what's free and what iCloud+ adds Wer Siri AI eine komplexe Aufgabe mit mehreren Schritten gibt, kann bald an ein Tageslimit stoßen. Apple testet mit der zweiten Beta von iOS 27.3, iPadOS 27.3 und macOS 27.3 höhere Kontingente für iCloud+-Abonnenten. Für Nutzer in der EU gelten dabei eigene Regeln. Anzeige Jedes Gerät hat ein eigenes Grundkontingent Die Tageslimits greifen bei Funktionen, die Apples KI-Modelle auf Servern nutzen. Dazu zählen aufwendige Siri-Aufgaben, KI-Bildbearbeitung und Bildgenerierung, manche Kurzbefehle sowie Apps, die auf Apples Cloud-Modelle zu...]]></description>
+    </item>
+    <item>
+      <title>Black Friday AI-Sammelthread: ElevenLabs, Higgsfield und mehr</title>
+      <link>https://www.all-ai.de/news/news26/black-friday-ai-deals</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/black-friday-ai-deals</guid>
+      <pubDate>Tue, 17 Nov 2026 08:57:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[ElevenLabs senkt die Preise für Creator und Pro im ersten Jahr um bis zu 55%. Higgsfield wirbt mit bis zu 65% Rabatt auf Premium-Tarife. Weitere Angebote kommen laufend hinzu. ElevenLabs – Black-Friday-Angebot ElevenLabs – Aktionsbedingungen ElevenLabs – The Year of More Higgsfield – Black-Friday-Aktion All-AI – frühere 11.11-Aktion von Higgsfield ElevenLabs und Higgsfield machen den Auftakt zum Black Friday 2026. Der Sammelthread wird laufend um weitere Angebote für KI-Tools ergänzt. 1. ElevenLabs – 55% Rabatt auf Creator und Pro Im ersten Jahr kostet das Creator-Jahresabo Kunden nur 99$, das Pro-Jahresabo 445,50$. Wer vom monatlichen Pro-Abo ins Jahresabo wechselt, zahlt 495$. Das bedeutet zwischen 50 und 55% Rabatt. Die Aktion läuft in Deutschland bis zum 2. Dezember um 5:59 Uhr. Parallel vergibt ElevenLabs beim Videowettbewerb »The Year of More« insgesamt 200.000$ Preisgeld. Teilnehmen kann auch, wer ein kostenloses Konto hat.Ausführliche News. ElevenLabs Black Friday Anzeige 2. Higgsfield – bis zu 65% Rabatt auf Premium-Tarife Higgsfield wirbt zum Black Friday mit bis zu 65% Rabatt auf seine Premium-Tarife für KI-Bilder und -Videos. Die verlinkte News dokumentiert die frühe...]]></description>
+    </item>
     <item>
       <title>ElevenLabs startet KI-Videowettbewerb mit 200.000$ Preisgeld</title>
       <link>https://www.all-ai.de/news/news26/elevenlabs-ki-wettbewerb</link>
@@ -43,33 +97,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Jan von Plato ließ Claude Abschriften von 16 Arbeitsheften Kurt Gödels auswerten. Das KI-Modell fand 663 Aussagen mit Beweisen, Skizzen oder Beweisideen. Rund 400 ließen sich in der erfassten Form beweisen. Auch die mit Claude rekonstruierte Fassung eines Beweises zur Unabhängigkeit des Auswahlaxioms bestand die Prüfung in Coq. The Guardian – Bericht mit Jan von Platos Angaben zur Claude-Auswertung Universität Helsinki – Forschungsprojekt Gödel Enigma Gödel’s First Proof of the Consistency of the Axiom of Choice International Mathematical Union – Fields-Medaillen 1966 The Rocq Prover – Funktionen und früherer Name Coq Der Logiker Jan von Plato hat mit dem KI-Modell Claude 16 Arbeitshefte von Kurt Gödel ausgewertet. Claude fand darin 663 mathematische Aussagen, zu denen Gödel einen Beweis, eine Skizze oder zumindest eine Idee notiert hatte. Rund 400 ließen sich in der erfassten Form beweisen. Anzeige Claude verknüpft Notizen aus 16 Heften Gödel füllte die 1.009 Seiten Anfang der 1940er-Jahre. Einen großen Teil schrieb er in der Gabelsberger-Kurzschrift. Von Plato arbeitete an der Universität Helsinki daran, die Notizen in gewöhnliche Schrift zu übertragen und mathematisch auszuwe...]]></description>
-    </item>
-    <item>
-      <title>Black Friday bei ElevenLabs: 55% Rabatt auf Creator und Pro für 1 Jahr</title>
-      <link>https://www.all-ai.de/news/news26/elevenlabs-black-friday-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/elevenlabs-black-friday-start</guid>
-      <pubDate>Mon, 16 Nov 2026 09:40:19 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Creator kostet im ersten Jahr 99$ statt 220$, Pro 445,50$ statt 990$. Wer vom Pro-Monatsabo ins Pro-Jahresabo wechselt, zahlt im ersten Jahr 495$. Mit übertragenen Credits können sich bis zu drei Monatskontingente ansammeln. Die Aktion läuft in Deutschland bis zum 2. Dezember 2026 um 5:59 Uhr. ElevenLabs – Aktionsseite mit Preisen, Credits und Leistungsumfang ElevenLabs – Aktionsbedingungen für Black Friday und Cyber Monday 2026 ElevenLabs – reguläre Preise und Übertrag ungenutzter Credits ElevenLabs – Gemini Omni Flash 1.2 und weitere Videomodelle Artificial Analysis – Sprachsynthese-Rangliste mit Eleven v4 und Eleven v4 Turbo Ab heute startet ElevenLabs eine Black-Friday-Aktion für günstige Jahresabos. Sowohl der Creator- als auch der Pro-Plan sind im gesamten ersten Jahr 55 % günstiger. Das ist der mit Abstand beste Deal, den ElevenLabs bisher angeboten hat. Normalerweise gibt es nur 50 % Rabatt auf den Creator-Plan für einen Monat. Mit einem Klick auf folgenden Link gelangt man zum Angebot. Ich selbst habe mir bereits den Pro-Plan gesichert. Anzeige Was Creator und Pro im ersten Jahr kosten Creator kostet 99$ statt 220$ für das erste Jahr und liefert 121.000 Credits pro Mona...]]></description>
-    </item>
-    <item>
-      <title>Anthropic-Forscher erwartet das Ende bezahlter Arbeit für fast alle</title>
-      <link>https://www.all-ai.de/news/news26top/anthropic-ki-forscher-ende-arbeit</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-ki-forscher-ende-arbeit</guid>
-      <pubDate>Mon, 16 Nov 2026 07:22:51 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Anthropic-Forscher Tao Lin hält es für sehr wahrscheinlich, dass fast alle Menschen langfristig keine bezahlte Arbeit mehr finden. Er rechnet zunächst mit Berufswechseln und später mit einer Abhängigkeit von staatlichen Leistungen. Bis KI auch körperliche Arbeit in großem Stil übernimmt, müssten laut Lin erst Milliarden Roboter gebaut werden. Lin fordert, das Tempo der KI-Forschung auf etwa ein Viertel zu senken. Palisade Research: Interview mit Tao Lin, Abschnitt über Arbeitsplätze ab 15:32 From Inside AI: Interviewreihe von Palisade Research mit Tao Lin Der Anthropic-Forscher Tao Lin hält es für sehr wahrscheinlich, dass fast alle Menschen irgendwann dauerhaft keine bezahlte Arbeit mehr finden. Im Interview mit Eli Tyre von Palisade Research erklärt er, warum auch der Bau von Robotern darüber entscheidet, wann KI Menschen in ihren Berufen ersetzen könnte. Erst ein neuer Beruf, dann staatliche Hilfe In Lins Szenario übernimmt KI zunächst die Arbeit, die Menschen heute erledigen. Wer seinen Job verliert, wechselt den Beruf. Auch die neuen Jobs wären seiner Einschätzung nach nur eine Zwischenstation. Wenn KI schließlich fast jede Arbeit übernehmen kann und Menschen keine Stelle m...]]></description>
-    </item>
-    <item>
-      <title>Qwen4-Max Release: Stärker, schneller und günstiger</title>
-      <link>https://www.all-ai.de/news/news26top/qwen-4-max-release-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/qwen-4-max-release-start</guid>
-      <pubDate>Mon, 16 Nov 2026 06:59:38 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Qwen4-Max erreicht bei Artificial Analysis 43 Punkte und kostet im Schnitt 3,27$ pro Aufgabe. In der WebDev-Rangliste von Arena belegt Qwen4-Max zum Start vorläufig Platz sechs. Das Modell verarbeitet Text, Bilder und Videos in einem Kontextfenster von einer Million Token. Über QwenCloud kostet die API pro Million Token 1,50$ für Eingaben und 4,50$ für Ausgaben. Artificial Analysis – Qwen4 Max Qwen – Qwen4-Max: Your New Teammate Has Arrived Arena – Code Arena WebDev QwenCloud – Qwen4-Max und API-Preise Alibaba Cloud – Technische Daten zu Qwen4-Max Alibaba bringt mit Qwen4-Max sein neues Spitzenmodell heraus. Im unabhängigen Benchmark von Artificial Analysis legt es gegenüber dem Vorgänger neun Punkte zu und kostet pro Aufgabe nur noch rund ein Drittel. Die Spitzenmodelle von Anthropic, Google und OpenAI liegen im Gesamtvergleich weiter deutlich vorn. Anzeige Artificial Analysis misst 43 Punkte und 3,27$ pro Aufgabe Qwen4-Max kommt im Intelligence Index v5.0.1 auf 43 Punkte. Qwen3.8-Max (0902) erreicht 34, Kimi K3.1 Pro liegt mit 46 knapp davor. Claude Fable 5.2 führt mit 65 Punkten, vor Gemini 4 Carbon mit 60. + Quelle: Artificial Analysis Für eine Aufgabe im Index fallen mit Qw...]]></description>
     </item>
   </channel>
 </rss>

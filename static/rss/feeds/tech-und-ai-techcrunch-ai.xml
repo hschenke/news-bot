@@ -5,9 +5,36 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:39:41 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science Corporation’s brain tech is worth $3.5 billion after new funding</title>
+      <link>https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189451</guid>
+      <pubDate>Tue, 17 Nov 2026 14:26:46 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Science Corp raised a $400 million Series D to scale up its anti-blindness business.]]></description>
+    </item>
+    <item>
+      <title>Nvidia’s first big move after Jensen Huang’s exit targets national security</title>
+      <link>https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189442</guid>
+      <pubDate>Tue, 17 Nov 2026 14:05:30 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.]]></description>
+    </item>
+    <item>
+      <title>Spotify’s new tool aims to stop deepfakes from being attributed to real artists</title>
+      <link>https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189147</guid>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.]]></description>
+    </item>
     <item>
       <title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
       <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
@@ -115,15 +142,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
       <description><![CDATA[You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.]]></description>
-    </item>
-    <item>
-      <title>Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM</title>
-      <link>https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188528</guid>
-      <pubDate>Mon, 16 Nov 2026 12:30:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.]]></description>
     </item>
   </channel>
 </rss>

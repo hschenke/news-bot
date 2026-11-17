@@ -5,9 +5,18 @@
     <link>https://news-bot.streamlit.app/?category=Finanzen+%26+Coins</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Finanzen &amp; Coins' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:39:41 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/finanzen-und-coins.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcoin klebt unter 65.000 US-Dollar – Strategy kauft trotzdem weiter zu</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/zinssorgen-halten-bitcoin-unter-65000-dollar--strategy-stockt-bestande-auf-3771750</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/zinssorgen-halten-bitcoin-unter-65000-dollar--strategy-stockt-bestande-auf-3771750</guid>
+      <pubDate>Tue, 17 Nov 2026 06:34:50 GMT</pubDate>
+      <category>Finanzen &amp; Coins</category>
+      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
+      <description><![CDATA[]]></description>
+    </item>
     <item>
       <title>XRP: Erst 0,78 Dollar, dann 18 Dollar</title>
       <link>https://de.investing.com/news/cryptocurrency-news/xrp-erst-078-dollar-dann-18-dollar-3770869</link>
@@ -22,15 +31,6 @@
       <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-ethereum-solana-900-millionen-auf-den-absturz--groste-wette-am-markt-3770835</link>
       <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-ethereum-solana-900-millionen-auf-den-absturz--groste-wette-am-markt-3770835</guid>
       <pubDate>Mon, 16 Nov 2026 15:17:26 GMT</pubDate>
-      <category>Finanzen &amp; Coins</category>
-      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Strategy erwirbt 485 Bitcoin und erlöst 244,7 Millionen $ über ATM-Programm</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/strategy-erwirbt-485-bitcoin-und-erlost-2447-millionen--uber-atmprogramm-432SI-3770270</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/strategy-erwirbt-485-bitcoin-und-erlost-2447-millionen--uber-atmprogramm-432SI-3770270</guid>
-      <pubDate>Mon, 16 Nov 2026 13:07:02 GMT</pubDate>
       <category>Finanzen &amp; Coins</category>
       <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
       <description><![CDATA[]]></description>
