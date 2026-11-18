@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:16:35 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Derby-Wahnsinn: So legendär duellierten sich Hertha und Cottbus</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/hertha-bsc-energie-cottbus-fussball-historie.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/hertha-bsc-energie-cottbus-fussball-historie.html</guid>
+      <pubDate>Wed, 18 Nov 2026 13:42:45 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Zum ersten Mal seit 13 Jahren duellieren sich am Sonntag Hertha BSC und Energie Cottbus in einem Pflichtspiel. Es ist ein Nachbarschaftsduell mit vielen Geschichten. Sie erzählen von Cottbuser Kämpfern, Berliner Titelträumen und gebrochenen Rekorden.]]></description>
+    </item>
+    <item>
+      <title>Ein Leben für Energie Cottbus: Ältestes Mitglied des Klubs wird 90</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-aeltestes-mitglied-horst-berger-90.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-aeltestes-mitglied-horst-berger-90.html</guid>
+      <pubDate>Wed, 18 Nov 2026 07:11:22 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Ob als Nachwuchsleiter, bei historischen Aufstiegen oder auf seinem Stammplatz im Stadion: Horst Berger hat in mehr als vier Jahrzehnten einiges mit dem FC Energie Cottbus erlebt. Auch mit 89 Jahren ist der Brandenburger noch treuer Fan.]]></description>
+    </item>
     <item>
       <title>Unions Heldt über Lustrinelli-Zukunft: "Können den Bock umstoßen"</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-horst-heldt-fussball-bundesliga.html</link>
@@ -25,15 +43,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Während der Corona-Pandemie kletterte er noch über Zäune, um zu trainieren. Nach seinem Debüttor gegen die Niederlande redet nun die ganze Nation über Derry Scherhant. Der Berliner lebt derzeit seinen Traum – und zeigt es allen Kritikern.]]></description>
-    </item>
-    <item>
-      <title>WM in Texas: 17-jähriger Potsdamer erobert die Billard-Welt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/billard-wm-martin-roeser-potsdam.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/billard-wm-martin-roeser-potsdam.html</guid>
-      <pubDate>Tue, 17 Nov 2026 12:41:24 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Poolbillard-Spieler aus aller Welt kämpfen Ende des Monats in San Antonio um den Weltmeistertitel. Einer von ihnen ist Martin Röser, der die Sportart einst bei Motor Babelsberg erlernte.]]></description>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,45 @@
     <link>https://news-bot.streamlit.app/?category=Games</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Games' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:16:35 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/games.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curse of Resthaven - Review @ RPGFan</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60597</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60597</guid>
+      <pubDate>Wed, 18 Nov 2026 10:03:51 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[RPGFan reviewed the adventure roguelike Curse of Resthaven: Review: Curse of Resthaven There’s something about the land and its people in Curse of Resthaven that feels wrong. The wildlands are threatening and alien with odd labyrinths and bleeding trees....]]></description>
+    </item>
+    <item>
+      <title>The Blood of Dawnwalker - Update 1.2</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60596</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60596</guid>
+      <pubDate>Wed, 18 Nov 2026 09:41:02 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[This update adds a Game+ mode to The Blood of Dawnwalker, which is unlocked after completing the game: The Blood of Dawnwalker - Update 1.2 (with New Game+!)]]></description>
+    </item>
+    <item>
+      <title>Exodus - Female Jun Reveal</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60595</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60595</guid>
+      <pubDate>Wed, 18 Nov 2026 09:35:55 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Jun is the main character of Exodus: EXODUS | Female Jun Reveal + Scrappy Salvager Featurette Whether you play as male or female Jun, you’ll shape their story through the choices you make.]]></description>
+    </item>
+    <item>
+      <title>Wartales - Knights of Fardensa Expansion Overview</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60594</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60594</guid>
+      <pubDate>Wed, 18 Nov 2026 09:30:07 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The expansion Wartales - Knights of Fardensa launches on December 9: Wartales - Official Knights of Fardensa Expansion Gameplay Overview Trailer]]></description>
+    </item>
     <item>
       <title>Calame - Announced for February 2027</title>
       <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60593</link>
@@ -52,87 +88,6 @@
       <category>Games</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
       <description><![CDATA[Das kann ich nicht glauben!“ えっ‥！？グラミー賞！？ Really?! Is that true? I can't believe that! #GRAMMYs. — LiSA (@LiSA_OLiVE) November 16 ...]]></description>
-    </item>
-    <item>
-      <title>Heroes of Might and Magic III Remake startet ersten PC-Test | Fragster</title>
-      <link>https://www.fragster.de/heroes-of-might-and-magic-iii-remake-startet-ersten-pc-test/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4508902172416507727</guid>
-      <pubDate>Tue, 17 Nov 2026 10:14:11 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Ubisoft lässt erstmals eine größere Zahl von Spielern an Heroes of Might and Magic III Remake. Am 18. November 2026 startet ein geschlossener ...]]></description>
-    </item>
-    <item>
-      <title>Monster Hunter Outlanders knackt 10 Millionen Dollar - Fragster</title>
-      <link>https://www.fragster.de/monster-hunter-outlanders-knackt-10-millionen-dollar/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8086914514944756439</guid>
-      <pubDate>Tue, 17 Nov 2026 10:14:05 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[... Might and Magic 3 Heroes of Might and Magic III Remake startet ersten PC-Test17. Nov. 2026 · 2024 startet mit neuem Spieler Rekord auf Steam Titel ...]]></description>
-    </item>
-    <item>
-      <title>NBA Highlights | Orlando Magic @ Boston Celtics | Sky Sport - YouTube</title>
-      <link>https://www.youtube.com/watch?v=wUAXvpDpCuk</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7931176958686052938</guid>
-      <pubDate>Tue, 17 Nov 2026 08:47:11 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Tap to unmute. Your browser can't play this video. Learn more.]]></description>
-    </item>
-    <item>
-      <title>Sparen Sie 75 % bei Might &amp; Magic® Heroes® VII auf Steam</title>
-      <link>https://store.steampowered.com/app/321960/Might_Magic_Heroes_VII/?l=german&amp;snr=1_1056_4_franchise_curatorfeatureddiscount&amp;curator_clanid=33075774</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2918624566516523418</guid>
-      <pubDate>Tue, 17 Nov 2026 08:24:53 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Might & Magic® Heroes® VII feiert seine triumphale Rückkehr mit allem, was ein rundenbasiertes Strategiespiel ausmacht. In einem Fantasy-Universum ...]]></description>
-    </item>
-    <item>
-      <title>Turn Based Lovers - Turn-Based J-RPGs of 2027</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60592</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60592</guid>
-      <pubDate>Tue, 17 Nov 2026 07:23:36 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The Turn Based Lovers take a look at upcoming J-RPGs: 10 Gorgeous Retro-Inspired JRPGs Coming Your Way In 2027 Last week I did a piece on 12 of the upcoming old-school RPGs to look out for in 2027. Today I’m doing something rather similar, just with a slightly more focused scope: JRPGs....]]></description>
-    </item>
-    <item>
-      <title>Terminus Historia - Released into Early Access</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60591</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60591</guid>
-      <pubDate>Tue, 17 Nov 2026 07:17:52 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The indie J-RPG Terminus Historia has been relaesed into Early Access: Terminus Historia Branching routes × free-form exploration. A dark fairy-tale pixel-art RPG set in Terminus, between the human and demon worlds. Join the knights, become a mercenary, sail the Sea of Skies, or belong to no faction....]]></description>
-    </item>
-    <item>
-      <title>Queen's Domain - Review @ Noisy Pixel</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60590</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60590</guid>
-      <pubDate>Tue, 17 Nov 2026 07:02:26 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Noisy Pixel reviewed Queen's Domain: Queen's Domain Review - King's Field Learns to Fly]]></description>
-    </item>
-    <item>
-      <title>RPG General News - More Dungeon Crawlers</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60589</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60589</guid>
-      <pubDate>Tue, 17 Nov 2026 06:58:31 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Dr. Incompetent checked out some older dungeon crawlers: 5 MORE Dungeon Crawlers that will Keep You Crawling! Timestamps:00:00:00 -- Intro00:01:20 - Menzoboranzan00:04:32 - Queen's Domain00:07:07 - Shadows of the Dungeon00:08:27 - Islands of th...]]></description>
-    </item>
-    <item>
-      <title>Wardens of Avalon - Overview</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60588</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60588</guid>
-      <pubDate>Tue, 17 Nov 2026 06:55:32 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Learn more about the action RPG Wardens of Avalon: Wardens of Avalon - Official Exploration and Combat Gameplay Developer Overview Video Get a look at the Exploration and Combat Gameplay Developer Overview Video for Wardens of Avalon, an upcoming action-adventure RPG developed by Runes Studio....]]></description>
     </item>
   </channel>
 </rss>

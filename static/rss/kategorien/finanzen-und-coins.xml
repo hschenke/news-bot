@@ -5,14 +5,14 @@
     <link>https://news-bot.streamlit.app/?category=Finanzen+%26+Coins</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Finanzen &amp; Coins' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:16:35 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/finanzen-und-coins.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bitcoin klebt unter 65.000 US-Dollar – Strategy kauft trotzdem weiter zu</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/zinssorgen-halten-bitcoin-unter-65000-dollar--strategy-stockt-bestande-auf-3771750</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/zinssorgen-halten-bitcoin-unter-65000-dollar--strategy-stockt-bestande-auf-3771750</guid>
-      <pubDate>Tue, 17 Nov 2026 06:34:50 GMT</pubDate>
+      <title>Bitcoin kommt nicht über 65.000 US-Dollar: Zinsangst und Tech-Abverkauf bremsen</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-verharrt-unter-65000-dollar-zins-und-techsorgen-belasten--fedprotokoll-im-fokus-3774231</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-verharrt-unter-65000-dollar-zins-und-techsorgen-belasten--fedprotokoll-im-fokus-3774231</guid>
+      <pubDate>Wed, 18 Nov 2026 06:46:34 GMT</pubDate>
       <category>Finanzen &amp; Coins</category>
       <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
       <description><![CDATA[]]></description>

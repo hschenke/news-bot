@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Berlin</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Berlin' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:16:35 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/berlin.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Derby-Wahnsinn: So legendär duellierten sich Hertha und Cottbus</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/hertha-bsc-energie-cottbus-fussball-historie.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/hertha-bsc-energie-cottbus-fussball-historie.html</guid>
+      <pubDate>Wed, 18 Nov 2026 13:42:45 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Zum ersten Mal seit 13 Jahren duellieren sich am Sonntag Hertha BSC und Energie Cottbus in einem Pflichtspiel. Es ist ein Nachbarschaftsduell mit vielen Geschichten. Sie erzählen von Cottbuser Kämpfern, Berliner Titelträumen und gebrochenen Rekorden.]]></description>
+    </item>
+    <item>
+      <title>Ein Leben für Energie Cottbus: Ältestes Mitglied des Klubs wird 90</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-aeltestes-mitglied-horst-berger-90.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-aeltestes-mitglied-horst-berger-90.html</guid>
+      <pubDate>Wed, 18 Nov 2026 07:11:22 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Ob als Nachwuchsleiter, bei historischen Aufstiegen oder auf seinem Stammplatz im Stadion: Horst Berger hat in mehr als vier Jahrzehnten einiges mit dem FC Energie Cottbus erlebt. Auch mit 89 Jahren ist der Brandenburger noch treuer Fan.]]></description>
+    </item>
     <item>
       <title>S5 am Wochenende: Busse statt Bahnen zwischen Kaulsdorf und Strausberg</title>
       <link>https://marzahn-hellersdorf.com/s5-am-wochenende-busse-statt-bahnen-zwischen-kaulsdorf-und-strausberg/</link>
@@ -25,6 +43,24 @@
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
       <description><![CDATA[3289 Likes, 31 Comments. TikTok video from araber_aus_salty_springs (@araber_aus_salty_springs): “Sidney über die Spielweise von Mahlsdorf ...]]></description>
+    </item>
+    <item>
+      <title>Haus 101 m² 430900 € zum Kauf Mahlsdorf,Berlin (12623) - Immowelt</title>
+      <link>https://www.immowelt.de/expose/4f61ace8-22d1-4bc9-89d4-8fde9dd940b2?utm_campaign=koop_seeker_iwt_b2c_immobilo2_x_buy_x_germany_x_x_x_de_x_x_x_x&amp;utm_content=xml&amp;utm_medium=koop&amp;utm_source=immobilo2&amp;utm_term=high</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:736140329697562292</guid>
+      <pubDate>Tue, 17 Nov 2026 22:06:49 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Mahlsdorf, Berlin (12623). Anrufen. Nachricht. Mit dem Anruf stimme ich der Anruf-Kontakt-Funktion zu. Ihr Traumhaus wartet bereits auf Sie ...]]></description>
+    </item>
+    <item>
+      <title>Ortschaftsrat Mahlsdorf - Termine 2024 - Hansestadt Salzwedel</title>
+      <link>https://buergerinfo.salzwedel.de/buergerinfo/si0046.asp?__osidat=d&amp;__cjahr=2024&amp;__cmonat=1&amp;__canz=3&amp;smccont=85&amp;__kgsgrnr=6&amp;__cselect=131072</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16285491461188579619</guid>
+      <pubDate>Tue, 17 Nov 2026 22:01:51 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Ortschaftsrat Mahlsdorf - Termine 2024 · 19:00 Uhr · Dorfgemeinschaftshaus Mahlsdorf, Salzwedeler Str. 11, 29410 Hansestadt Salzwedel.]]></description>
     </item>
     <item>
       <title>Grundstück 980000 € zum Kauf Mahlsdorf,Berlin (12623) - Immowelt</title>
@@ -124,96 +160,6 @@
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
       <description><![CDATA[Willkommen an Ihrem neuen Firmensitz! Dieses freistehende und repräsentative Gewerbehaus am Hultschiner Damm in Berlin-Mahlsdorf bietet auf ca.]]></description>
-    </item>
-    <item>
-      <title>Kaminholz Schnitt - Alles Mahlsdorf</title>
-      <link>https://alles-mahlsdorf.de/kaminholz-schnitt/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17921186725714122809</guid>
-      <pubDate>Tue, 17 Nov 2026 13:52:59 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Wer seinen Holzvorrat auffüllen möchte, findet bei Kaminholz Schnitt in Erkner Buchen- und Birkenholz. David Schnitt bietet Scheite in 29 cm Länge ...]]></description>
-    </item>
-    <item>
-      <title>Räume mieten - ErdGeschoss Mahlsdorf</title>
-      <link>https://erdgeschoss-mahlsdorf.de/raumvermietung/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18269124389483815192</guid>
-      <pubDate>Tue, 17 Nov 2026 13:25:06 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Miete einen Gruppenraum oder Einzelraum in Berlin-Mahlsdorf. Entdecke die Räume im ErdGeschoss für Workshops, Kurse, Beratung und Einzelarbeit.]]></description>
-    </item>
-    <item>
-      <title>WM in Texas: 17-jähriger Potsdamer erobert die Billard-Welt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/billard-wm-martin-roeser-potsdam.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/billard-wm-martin-roeser-potsdam.html</guid>
-      <pubDate>Tue, 17 Nov 2026 12:41:24 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Poolbillard-Spieler aus aller Welt kämpfen Ende des Monats in San Antonio um den Weltmeistertitel. Einer von ihnen ist Martin Röser, der die Sportart einst bei Motor Babelsberg erlernte.]]></description>
-    </item>
-    <item>
-      <title>Taxi, Jobs in Transport, Logistik &amp; Verkehr in Mahlsdorf Berlin | kleinanzeigen.de</title>
-      <link>https://www.kleinanzeigen.de/s-transport-logistik-verkehr/mahlsdorf/taxi/k0c247l27140</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1671095290581549001</guid>
-      <pubDate>Tue, 17 Nov 2026 12:20:43 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Kleinanzeigen: Taxi, Jobs in Transport, Logistik & Verkehr - Jetzt in Berlin Mahlsdorf finden oder inserieren! - kleinanzeigen.de.]]></description>
-    </item>
-    <item>
-      <title>Neubau mit A+ | 5-Zimmer-Townhouse mit eigenem Grundstück in Berlin-Mahlsdorf - ImmoScout24</title>
-      <link>https://www.immobilienscout24.de/expose/172729572</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2522176166963806845</guid>
-      <pubDate>Tue, 17 Nov 2026 11:15:48 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Haus zum Kauf (Haus/Kauf): 5 Zimmer - 173 qm - Schongauerstr. 34, 12623 Berlin, Mahlsdorf (Hellersdorf) bei ImmobilienScout24 (Scout-ID: ...]]></description>
-    </item>
-    <item>
-      <title>Platz für Ihre Zukunft – großzügiges Eckgrundstück mit Neubaupotenzial in Mahlsdorf</title>
-      <link>https://www.immobilienscout24.de/expose/172724080</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16667045097882941222</guid>
-      <pubDate>Tue, 17 Nov 2026 11:14:40 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Grundstück zum Kauf (Grundstück Wohnen Kauf): 870 qm - Mahlsdorf (Hellersdorf) bei ImmobilienScout24 (Scout-ID: 172724080)]]></description>
-    </item>
-    <item>
-      <title>Laub liegen lassen: Bezirksamt Marzahn-Hellersdorf ruft zum naturnahen Umgang mit ...</title>
-      <link>https://marzahn-hellersdorf.com/laub-liegen-lassen-bezirksamt-marzahn-hellersdorf-ruft-zum-naturnahen-umgang-mit-herbstblaettern-auf/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13650308117021132413</guid>
-      <pubDate>Tue, 17 Nov 2026 11:08:54 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Die Hinweise richten sich vor allem an die Siedlungsgebiete in Mahlsdorf, Kaulsdorf und Biesdorf, aber auch im gesamten Bezirk, wo der Laubfall in ...]]></description>
-    </item>
-    <item>
-      <title>Gerhart-Hauptmann-Straße 13, 12623 Berlin (Marzahn-Hellersdorf) - CleanWhale</title>
-      <link>https://cleanwhale.de/gebaeude/berlin/gerhart-hauptmann-strasse/13</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6247806357656843903</guid>
-      <pubDate>Tue, 17 Nov 2026 10:45:20 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Einordnung im Berliner Mietspiegel 2026 für die ortsübliche Vergleichsmiete (Senatsverwaltung Berlin). In Mahlsdorf: einfach 0 % · mittel 22 % · gut ...]]></description>
-    </item>
-    <item>
-      <title>Brandhaus in Mahlsdorf: Ein Jahr nach dem tödlichen Feuer an der Kieler Straße ist die Zukunft offen</title>
-      <link>https://marzahn-hellersdorf.com/brandhaus-in-mahlsdorf-ein-jahr-nach-dem-toedlichen-feuer-an-der-kieler-strasse-ist-die-zukunft-offen/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8857446697939132407</guid>
-      <pubDate>Tue, 17 Nov 2026 10:33:46 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Fast ein Jahr nach dem Brand eines Einfamilienhauses in der Kieler Straße in Mahlsdorf, bei dem Anfang Dezember 2025 ein Kind ums Leben kam, ...]]></description>
-    </item>
-    <item>
-      <title>Stellenangebot: Ausbildung zum Berufskraftfahrer (m/w/d) - Stellenmarkt.de</title>
-      <link>https://www.stellenmarkt.de/anzeige26364221.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14211382583354465591</guid>
-      <pubDate>Tue, 17 Nov 2026 09:25:58 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Stellenangebot: Ausbildung zum Berufskraftfahrer (m/w/d). Berlin-Mahlsdorf Vollzeit. Jetzt bewerben. Unsere Benefits: Das bieten wir dir. Work-Life ...]]></description>
     </item>
   </channel>
 </rss>
