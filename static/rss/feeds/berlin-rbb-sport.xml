@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:01:15 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unions Heldt über Lustrinelli-Zukunft: "Können den Bock umstoßen"</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-horst-heldt-fussball-bundesliga.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-horst-heldt-fussball-bundesliga.html</guid>
+      <pubDate>Tue, 17 Nov 2026 19:13:40 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Der 1. FC Union Berlin steckt in einer echten Krise und die Kritik rückt immer mehr auf Geschäftsführer Horst Heldt. Im Interview mit rbb|24 spricht Heldt über die schwere Saison, die Geduld mit Trainer Lustrinelli, mögliche Wintertransfers und seine eigene Zukunft.]]></description>
+    </item>
+    <item>
+      <title>Die Genugtuung des Derry Scherhant: Gegen jede Wahrscheinlichkeit</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/berlin-fussball-derry-scherhant-hertha-bsc-nationalmannschaft-deutschland-klopp-freiburg-tor.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/berlin-fussball-derry-scherhant-hertha-bsc-nationalmannschaft-deutschland-klopp-freiburg-tor.html</guid>
+      <pubDate>Tue, 17 Nov 2026 14:45:25 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Während der Corona-Pandemie kletterte er noch über Zäune, um zu trainieren. Nach seinem Debüttor gegen die Niederlande redet nun die ganze Nation über Derry Scherhant. Der Berliner lebt derzeit seinen Traum – und zeigt es allen Kritikern.]]></description>
+    </item>
     <item>
       <title>WM in Texas: 17-jähriger Potsdamer erobert die Billard-Welt</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/billard-wm-martin-roeser-potsdam.html</link>
@@ -16,60 +34,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Poolbillard-Spieler aus aller Welt kämpfen Ende des Monats in San Antonio um den Weltmeistertitel. Einer von ihnen ist Martin Röser, der die Sportart einst bei Motor Babelsberg erlernte.]]></description>
-    </item>
-    <item>
-      <title>Fußball: Fünf spannende Derbys aus Berlin und Brandenburg</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-berlin-brandenburg-die-wichtigsten-und-hitzigsten-derbys.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-berlin-brandenburg-die-wichtigsten-und-hitzigsten-derbys.html</guid>
-      <pubDate>Tue, 17 Nov 2026 05:31:52 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[4.703 Zuschauer in der sechsten Liga, ein unvergessenes 8:0 und ein Stadion im Schatten der ehemaligen Stasi-Zentrale: Diese fünf Fußball-Rivalitäten aus Berlin und Brandenburg stecken voller Geschichte, Emotionen und Überraschungen.]]></description>
-    </item>
-    <item>
-      <title>Nations League: Scherhants Heimspiel-Traum – 5:0 gegen Holland</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-nations-league-deutschland-niederlande-berlin-olympiastadion-derry-scherhant.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-nations-league-deutschland-niederlande-berlin-olympiastadion-derry-scherhant.html</guid>
-      <pubDate>Mon, 16 Nov 2026 21:55:34 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Beim furiosen 5:0 im 50. Klassiker gegen den Erzrivalen Niederlande feierte Angreifer Scherhant in seinem vierten Länderspiel eine emotionale Premiere. Das DFB-Team zieht schließlich als Gruppenerster in die K.o.-Runde der Nations League ein.]]></description>
-    </item>
-    <item>
-      <title>Zwischen Boom und Sanierungsstau: Wie es um Berlins Sport steht</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/sport-berlin-lsb-hallen-sportstaetten-sanierungsstau-vereine-mitglieder-trends-padel-bouldern.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/sport-berlin-lsb-hallen-sportstaetten-sanierungsstau-vereine-mitglieder-trends-padel-bouldern.html</guid>
-      <pubDate>Mon, 16 Nov 2026 19:28:24 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Ein Sanierungsstau von über einer Milliarde Euro trifft auf rasant wachsende Mitgliederzahlen: David Kozlowski vom Landessportbund Berlin erklärt, warum es für die Sportstätten der Hauptstadt nur zur Note "Mangelhaft" reicht.]]></description>
-    </item>
-    <item>
-      <title>Von Wolfsburg bis Peking: So läuft es für Herthas Sommer-Abgänge</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-liga-hertha-bsc-so-ergeht-es-den-sommer-abgaengen-eichhorn-reese-winkler-.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-liga-hertha-bsc-so-ergeht-es-den-sommer-abgaengen-eichhorn-reese-winkler-.html</guid>
-      <pubDate>Mon, 16 Nov 2026 19:14:49 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Von Wolfsburg über Rotterdam bis nach Peking: Der Sommer-Aderlass bei Hertha BSC hat die Spieler in alle Himmelsrichtungen verstreut. Doch wie läuft es für Fabian Reese, Tjark Ernst und Co. in der neuen Heimat? Eine Bestandsaufnahme zwischen Scorer-Flut, Helikopter-Landung und 1:9-Debakel.]]></description>
-    </item>
-    <item>
-      <title>Nach Randale bei Hertha-Spiel: Berliner Fan verurteilt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-schalke-fan-randale-verurteilt.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-schalke-fan-randale-verurteilt.html</guid>
-      <pubDate>Mon, 16 Nov 2026 18:47:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Basketball: Nationaltrainer Mumbru nominiert Alba-Block</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-wm-quali-kader-alba-block.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-wm-quali-kader-alba-block.html</guid>
-      <pubDate>Mon, 16 Nov 2026 15:09:17 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
     </item>
   </channel>
 </rss>

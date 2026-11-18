@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:01:15 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT-6.2 Sol Release: Das neue KI-Modell für Alles</title>
+      <link>https://www.all-ai.de/news/news26top/openai-chatgpt-6-2-sol-release</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-chatgpt-6-2-sol-release</guid>
+      <pubDate>Tue, 17 Nov 2026 18:45:39 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[GPT-6.2 Sol startet in ChatGPT Work, Codex und der API. Das Modell legt beim Programmieren und bei Büroaufgaben zu. Die Standardpreise pro Token bleiben auf dem Niveau von GPT-6.1 Sol. Mit GPT-6.2 Sol erhält auch das Pro-200-Abo den Modus Ultrafast. OpenAI · Ankündigung mit Benchmarks und Rollout OpenAI · API-Daten zu GPT-6.2 Sol Cognition · Methodik zu FrontierCode 2.0 OpenAI · LifeVal OpenAI stellt GPT-6.2 Sol in ChatGPT Work und Codex vor. Das neue Modell erzielt bei Programmier- und Büroaufgaben bessere Testergebnisse als GPT-6.1 Sol und kommt bei anspruchsvollen Aufgaben mit weniger Ausgabe-Token aus. Kurz gesagt: Das bisher effizienteste KI-Modell GPT-6.1 Sol wird von GPT-6.2 Sol abgelöst. Anzeige GPT-6.2 Sol legt beim Programmieren und im Büro zu Im Artificial-Intelligence-Benchmark erreicht das Modell gute 57 Punkte und liegt damit 2 Punkte vor dem Vorgänger. Gleichzeitig erreicht es fast das deutlich teurere Claude Opus 5.5. Während Sol bei rund 1$ liegt, genehmigt sich Opus in den Max-Einstellungen ganze 10$. + Quelle: OpenAI In FrontierCode 2.0 kommt GPT-6.2 Sol auf rund 44%, gegenüber 39% für GPT-6.1 Sol. Der Benchmark von Cognition bewertet Änderungen an bestehenden...]]></description>
+    </item>
+    <item>
+      <title>GPT-6.2 Astra Release: Angriff auf Fable 5.2 vor dem Börsengang?</title>
+      <link>https://www.all-ai.de/news/news26top/openai-gpt-6-2-astra-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-gpt-6-2-astra-start</guid>
+      <pubDate>Tue, 17 Nov 2026 18:17:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[OpenAI startet GPT-6.2 Astra in ChatGPT Work, Codex und der API. Im Agents’ Last Exam steigt der Wert gegenüber GPT-6 Astra um 5,2 Prozentpunkte bei weniger als einem Drittel der Kosten. Eine zusätzliche Anweisung in Codex senkt im Test die Quote verschwiegener Hindernisse von 22,28% auf 8,04%. In der API kostet eine Million Token im Standardtarif 8$ für Eingaben und 40$ für Ausgaben. OpenAI – Introducing GPT-6.2 Astra and Sol OpenAI – API-Dokumentation und Preise für GPT-6.2 Astra UC Berkeley RDI – Agents’ Last Exam v1.1 Artificial Analysis – AA-AnalystAgent, Methodik und Rangliste OpenAI – ChatGPT- und Codex-Änderungsprotokoll vom 17. November OpenAI bringt GPT-6.2 Astra in ChatGPT Work und Codex. Das neue Spitzenmodell soll Präsentationen genauer nach Vorlage gestalten, größere Änderungen an bestehender Software umsetzen und wissenschaftliche Analysen günstiger erledigen als GPT-6 Astra. Aber ist es auch besser als Fable 5.2? Anzeige Mehr Punkte bei weniger als einem Drittel der Kosten Im Artificial Analysis Index kommt es auf 63 Punkte und liegt damit nur knapp hinter Fable 5.2 mit 65 Punkten. Dafür ist es aber deutlich preiswerter. In den Max Einstellungen benötigt Astra ru...]]></description>
+    </item>
     <item>
       <title>Isomorphic Labs sammelt 5 Milliarden $ für KI-Medikamente ein</title>
       <link>https://www.all-ai.de/news/news26top/isomorphic-labs-ki-medikamente</link>
@@ -61,42 +79,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[ElevenLabs senkt die Preise für Creator und Pro im ersten Jahr um bis zu 55%. Higgsfield wirbt mit bis zu 65% Rabatt auf Premium-Tarife. Weitere Angebote kommen laufend hinzu. ElevenLabs – Black-Friday-Angebot ElevenLabs – Aktionsbedingungen ElevenLabs – The Year of More Higgsfield – Black-Friday-Aktion All-AI – frühere 11.11-Aktion von Higgsfield ElevenLabs und Higgsfield machen den Auftakt zum Black Friday 2026. Der Sammelthread wird laufend um weitere Angebote für KI-Tools ergänzt. 1. ElevenLabs – 55% Rabatt auf Creator und Pro Im ersten Jahr kostet das Creator-Jahresabo Kunden nur 99$, das Pro-Jahresabo 445,50$. Wer vom monatlichen Pro-Abo ins Jahresabo wechselt, zahlt 495$. Das bedeutet zwischen 50 und 55% Rabatt. Die Aktion läuft in Deutschland bis zum 2. Dezember um 5:59 Uhr. Parallel vergibt ElevenLabs beim Videowettbewerb »The Year of More« insgesamt 200.000$ Preisgeld. Teilnehmen kann auch, wer ein kostenloses Konto hat.Ausführliche News. ElevenLabs Black Friday Anzeige 2. Higgsfield – bis zu 65% Rabatt auf Premium-Tarife Higgsfield wirbt zum Black Friday mit bis zu 65% Rabatt auf seine Premium-Tarife für KI-Bilder und -Videos. Die verlinkte News dokumentiert die frühe...]]></description>
-    </item>
-    <item>
-      <title>ElevenLabs startet KI-Videowettbewerb mit 200.000$ Preisgeld</title>
-      <link>https://www.all-ai.de/news/news26/elevenlabs-ki-wettbewerb</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/elevenlabs-ki-wettbewerb</guid>
-      <pubDate>Mon, 16 Nov 2026 20:22:08 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[ElevenLabs vergibt beim Wettbewerb »The Year of More« 15 Tagespreise zu je 10.000$ und einen Hauptpreis von 50.000$. Für die kostenlose Teilnahme braucht man ein geschnittenes Video mit Bild und Ton aus ElevenCreative, zwei öffentliche Posts und das Teilnahmeformular. In Deutschland endet die Einreichung am 1. Dezember um 5:59 Uhr. Zum Black Friday sind die Jahresabos Creator und Pro im ersten Jahr bis zu 55% günstiger. Offizielle Teilnahmebedingungen für »The Year of More« Wettbewerbsseite mit Teilnahmeformular und Wasserzeichen Offizielles Wettbewerbs-Wasserzeichen Black-Friday-Angebot von ElevenLabs Aktionsbedingungen für Creator und Pro ElevenLabs startet den Wettbewerb »The Year of More« und vergibt insgesamt 200.000$ an Preisgeld. Gesucht sind Videos, die zum Beispiel ein persönliches Projekt als Trailer erzählen oder für ein erfundenes Produkt werben. Wer mindestens 18 Jahre alt ist, kann mit einem ElevenLabs-Konto teilnehmen. Anzeige So reicht man ein Video ein Gefordert ist ein eigenes, bisher unveröffentlichtes Video von 30 Sekunden bis fünf Minuten. Es muss aus mehreren Einstellungen, Clips oder Bildern geschnitten sein und mindestens ein Bildelement sowie einen Tonbe...]]></description>
-    </item>
-    <item>
-      <title>ChatGPT Agenten bereiten für Kliniken MRT-Anträge vor</title>
-      <link>https://www.all-ai.de/news/news26/chatgpt-agenten-mrt-antraege</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/chatgpt-agenten-mrt-antraege</guid>
-      <pubDate>Mon, 16 Nov 2026 16:28:17 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Die KI-Agenten in ChatGPT for Healthcare können Kliniksoftware und die Onlineportale von Krankenversicherungen bedienen. In OpenAIs MRT-Demo prüft der Arzt die Entwürfe für die MRT-Anordnung und die Antwort an den Patienten. Ein Sachbearbeiter der Klinik prüft den vom KI-Agenten vorbereiteten Antrag, die Krankenversicherung entscheidet darüber. OpenAI verbessert auch die Suche nach medizinischen Quellen und ergänzt mehr als 20 Plugins für Einrichtungen. OpenAI – Advancing computer-use agents for healthcare teams OpenAI – More ways to move care forward with ChatGPT for Healthcare Bedi et al. – HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks OpenAI erweitert ChatGPT for Healthcare um KI-Agenten, die Kliniksoftware bedienen und zwischen Programmen wechseln können. Ein KI-Agent kann für den Arzt eine Antwort an den Patienten entwerfen und für die Klinik einen Antrag an die Krankenversicherung vorbereiten. Anzeige Von der Patientennachricht zum Antrag In OpenAIs Demo schreibt ein fiktiver Patient seinem Arzt wegen Rückenschmerzen. Der KI-Agent sichtet die Patientenakte und entwirft eine MRT-Anordnung sowie eine Antwort auf die Nachricht. Der Arzt p...]]></description>
-    </item>
-    <item>
-      <title>Tesla plant eine Robotaxi-Fabrik für 3 Milliarden € in Grünheide</title>
-      <link>https://www.all-ai.de/news/news26top/tesla-robotaxi-deutschland-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/tesla-robotaxi-deutschland-start</guid>
-      <pubDate>Mon, 16 Nov 2026 16:17:14 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Tesla will 3 Milliarden € in sein Werk in Grünheide investieren. Der Bau soll 2027 beginnen, die Fertigung des Cybercab 2029. Die neue Halle soll langfristig Kapazität für bis zu eine Million Robotaxis bieten. Für Bau und Fertigungsplanung sucht Tesla mehrere Hundert Mitarbeiter. Reuters – Teslas Ankündigung zur Investition und zum Zeitplan rbb24 – Produktionshalle, Arbeitsplätze und Reaktion der Landesregierung Tesla – Cybercab und Fahrdienst in Austin Tesla – Quartalsbericht mit dem Starttermin in Austin Tesla will sein Werk in Grünheide bei Berlin für 3 Milliarden € erweitern. In einer neuen Halle soll ab 2029 das Cybercab vom Band laufen, ein Elektroauto, das Fahrgäste ohne Fahrer ans Ziel bringt. Langfristig legt Tesla die Halle auf eine Kapazität von bis zu einer Million Cybercabs aus. Anzeige Der Bau soll 2027 beginnen Tesla will den Genehmigungsantrag bis Ende 2026 einreichen. Er baut auf den Plänen auf, die der Konzern 2023 für den schrittweisen Ausbau eingereicht hatte. Nach Teslas Zeitplan beginnt der Bau in der ersten Jahreshälfte 2027. Mit dem Geld will der Konzern auch Nebengebäude und eine weitere Anlage zur Abwasserbehandlung errichten. Das Cybercab hat zwei Sitz...]]></description>
-    </item>
-    <item>
-      <title>Claude findet Hunderte Beweisansätze in Kurt Gödels Notizbüchern von 1940</title>
-      <link>https://www.all-ai.de/news/news26top/claude-kurt-goedel-beweise</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/claude-kurt-goedel-beweise</guid>
-      <pubDate>Mon, 16 Nov 2026 16:10:53 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Jan von Plato ließ Claude Abschriften von 16 Arbeitsheften Kurt Gödels auswerten. Das KI-Modell fand 663 Aussagen mit Beweisen, Skizzen oder Beweisideen. Rund 400 ließen sich in der erfassten Form beweisen. Auch die mit Claude rekonstruierte Fassung eines Beweises zur Unabhängigkeit des Auswahlaxioms bestand die Prüfung in Coq. The Guardian – Bericht mit Jan von Platos Angaben zur Claude-Auswertung Universität Helsinki – Forschungsprojekt Gödel Enigma Gödel’s First Proof of the Consistency of the Axiom of Choice International Mathematical Union – Fields-Medaillen 1966 The Rocq Prover – Funktionen und früherer Name Coq Der Logiker Jan von Plato hat mit dem KI-Modell Claude 16 Arbeitshefte von Kurt Gödel ausgewertet. Claude fand darin 663 mathematische Aussagen, zu denen Gödel einen Beweis, eine Skizze oder zumindest eine Idee notiert hatte. Rund 400 ließen sich in der erfassten Form beweisen. Anzeige Claude verknüpft Notizen aus 16 Heften Gödel füllte die 1.009 Seiten Anfang der 1940er-Jahre. Einen großen Teil schrieb er in der Gabelsberger-Kurzschrift. Von Plato arbeitete an der Universität Helsinki daran, die Notizen in gewöhnliche Schrift zu übertragen und mathematisch auszuwe...]]></description>
     </item>
   </channel>
 </rss>
