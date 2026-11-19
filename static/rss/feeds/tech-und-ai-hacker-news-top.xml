@@ -5,71 +5,9 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Can Peer Review Survive AI-Generated Text? [pdf]</title>
-      <link>https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</link>
-      <guid isPermaLink="false">https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</guid>
-      <pubDate>Wed, 18 Nov 2026 13:51:03 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy</title>
-      <link>https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</link>
-      <guid isPermaLink="false">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</guid>
-      <pubDate>Wed, 18 Nov 2026 13:18:02 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Evidence (YC S21) Is Hiring</title>
-      <link>https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</link>
-      <guid isPermaLink="false">https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:16 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Show HN: Type Fighter 2</title>
-      <link>https://typefighter2.com/</link>
-      <guid isPermaLink="false">https://typefighter2.com/</guid>
-      <pubDate>Wed, 18 Nov 2026 11:11:53 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Codeberg.org Not Reachable</title>
-      <link>https://social.anoxinon.de/@codebergstatus/117636437840688845</link>
-      <guid isPermaLink="false">https://social.anoxinon.de/@codebergstatus/117636437840688845</guid>
-      <pubDate>Wed, 18 Nov 2026 10:02:17 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Energy-Based Reasoners: 385x more efficient inference</title>
-      <link>https://energy-based-reasoners.github.io/</link>
-      <guid isPermaLink="false">https://energy-based-reasoners.github.io/</guid>
-      <pubDate>Wed, 18 Nov 2026 09:29:32 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>AI is killing All About Berlin</title>
-      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
-      <guid isPermaLink="false">https://nicolasbouliane.com/blog/death-by-ai</guid>
-      <pubDate>Wed, 18 Nov 2026 06:47:26 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
+
   </channel>
 </rss>

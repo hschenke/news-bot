@@ -5,9 +5,18 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic legt den größten Börsengang aller Zeiten hin</title>
+      <link>https://www.all-ai.de/news/news26top/anthropic-aktie-boerse-rekord</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-aktie-boerse-rekord</guid>
+      <pubDate>Thu, 19 Nov 2026 08:50:57 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Anthropic bietet 980 Millionen Aktien zu je 83$ an. Das Volumen von 81,34 Milliarden $ macht den Börsengang zum bisher größten. Der Handel unter dem Kürzel »ANT« soll am 19. November 2026 an der Nasdaq beginnen. Der Nettoverlust von 104,04 Milliarden $ beruht größtenteils auf einem Buchungseffekt. Anthropic prices initial public offering Anthropic, PBC – Prospektnachtrag bei der SEC AP: Anthropic to begin trading after pricing its stock at $83 per share Anthropic verkauft beim Börsengang 980 Millionen Aktien zu je 83$. Das KI-Unternehmen hinter Claude nimmt damit zusammen mit bisherigen Aktionären 81,34 Milliarden $ ein und übertrifft den bisherigen Rekord von SpaceX. Anzeige Anthropic erhöht Preis und Aktienzahl Der endgültige Preis liegt über der zuvor genannten Spanne von 70 bis 78$. Auch die Zahl der angebotenen Aktien stieg deutlich. Ursprünglich hatte Anthropic mit 825 Millionen Aktien geplant. Von den 980 Millionen Aktien stammen rund 956,35 Millionen direkt von Anthropic. Die übrigen 23,65 Millionen verkaufen bisherige Aktionäre. Zusätzlich dürfen die Banken innerhalb von 30 Tagen bis zu 147 Millionen weitere Aktien erwerben. Der Handel soll am 19. November 2026 an der N...]]></description>
+    </item>
     <item>
       <title>Gemini 4 Neon Release: Platz 3 hinter Fable und Astra</title>
       <link>https://www.all-ai.de/news/news26top/gemini-4-neon-start</link>
@@ -34,87 +43,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Google gibt berechtigten AI-Ultra-Abonnenten erstmals Zugriff auf Genie 4 in Project Genie. Welten lassen sich während der Erkundung per Prompt verändern und erhalten passend erzeugtes Audio. Ein neuer Agent hilft beim Aufbau, während eine Galerie das Entdecken und Verändern fremder Welten ermöglicht. Genie 4 bleibt ein Forschungsmodell mit Grenzen bei dauerhafter Bildkonsistenz, Physik und Audio. Genie 4 is now available Genie 4 – Google DeepMind Project Genie DeepMind unveils Genie 4 world model promising more realistic physics and humans Google veröffentlicht Genie 4 und gibt damit erstmals Abonnenten von Google AI Ultra Zugriff auf sein neues Weltmodell. Nutzer können interaktive Welten im Browser erzeugen, während der Erkundung verändern und mit passend erzeugtem Ton erleben. Neue Figuren, anderes Wetter und Gespräche in Echtzeit Genie 4 berechnet eine virtuelle Umgebung fortlaufend, statt ein fertiges Video abzuspielen. Der Nutzer bewegt sich mit Maus und Tastatur durch die Szene und kann jederzeit einen weiteren Prompt eingeben. So lassen sich etwa das Wetter wechseln, eine Figur hinzufügen oder die Handlung in eine andere Richtung lenken. Neu ist auch nativ erzeugtes Aud...]]></description>
-    </item>
-    <item>
-      <title>HeyGen Avatar 6 lässt KI-Doppelgänger natürlicher mit Gesten auftreten</title>
-      <link>https://www.all-ai.de/news/news26/heygen-avatar-6-start-elevenlabs</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/heygen-avatar-6-start-elevenlabs</guid>
-      <pubDate>Wed, 18 Nov 2026 13:48:39 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[HeyGen Avatar 6 stimmt Mimik, Lippenbewegungen und Gesten auf das Skript ab. Im Blindtest von New Measure erreicht das Modell bei persönlichen und fertigen Avataren den ersten Platz. Avatar 6 ist bereits direkt in ElevenCreative bei ElevenLabs verfügbar. Die Black-Friday-Aktion reduziert Creator und Pro im ersten Jahr um bis zu 55%. HeyGen – Avatar 6 HeyGen – Technischer Bericht zu Avatar 6 New Measure – Blindvergleich von acht Avatar-Anbietern ElevenLabs – Image & Video All-AI.de – Black Friday bei ElevenLabs HeyGen hat Avatar 6 veröffentlicht. Aus einem Foto erzeugt das Modell sprechende KI-Doppelgänger, deren Mimik, Lippenbewegungen und Gesten dem Skript folgen. Nutzer können Avatar 6 bereits direkt bei ElevenLabs verwenden, ohne ein zusätzliches Abo abschließen zu müssen. Passend dazu bietet sich der Black-Friday-Deal an, bei dem es 55 % Rabatt auf den Creator- und Pro-Plan für ein Jahr gibt. Anzeige Gesten folgen dem gesprochenen Text Avatar 6 erkennt Aussagen im Skript und wählt passende Bewegungen. Ein Avatar kann zeigen, mit den Fingern zählen oder eine Richtung andeuten. Emotionen und Gesten lassen sich zusätzlich auch gezielt vorgeben im Prompt. Sonst muss man lediglic...]]></description>
-    </item>
-    <item>
-      <title>Wird Gemini 4 Neon das nächste Top-Modell?</title>
-      <link>https://www.all-ai.de/news/news26top/gemini-4-neon-top-ki</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/gemini-4-neon-top-ki</guid>
-      <pubDate>Wed, 18 Nov 2026 11:24:35 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Gemini 4 Neon ist im Webcode von Gemini, im SKU-Katalog von Google Cloud und in Antigravity CLI aufgetaucht. Der Katalog nennt 3$ pro Million Input-Token und 15$ pro Million Output-Token. Damit läge Neon regulär unter Carbon und Argon sowie deutlich unter Claude Fable 5.2 und GPT-6.2 Astra. Google hat das Modell bisher nicht angekündigt oder freigeschaltet. TestingCatalog: Google prepares to release Gemini 4 Neon model on APIs Google Cloud: SKU-Katalog für Gemini 4 Neon Google: Preise der Gemini Developer API OpenAI: API-Preise für GPT-6.2 Astra Anthropic: Claude Fable 5.2 Google bereitet offenbar Gemini 4 Neon für seine API, die Gemini-Webseite und die Entwicklungsumgebung Antigravity vor. Bislang handelt es sich vollständig um Vermutungen, die auf einigen Einträgen im Webcode, im Preiskatalog von Google Cloud und in einer Antigravity-Version beruhen. Anzeige Drei Spuren führen zu Gemini 4 Neon Der Modellname »gemini-4-neon« erschien am 16. November im kostenpflichtigen Bereich der Gemini-Webseite. Zwei Tage später lieferte der öffentliche SKU-Katalog von Google Cloud passende Abrechnungsposten für Text, Bilder, Video und Audio. Für Text nennt der Katalog 3$ pro Million Input-T...]]></description>
-    </item>
-    <item>
-      <title>Suno verwandelt Songs jetzt in KI-Videos</title>
-      <link>https://www.all-ai.de/news/news26/suno-ki-videos-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/suno-ki-videos-start</guid>
-      <pubDate>Wed, 18 Nov 2026 11:02:08 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Suno Visuals erzeugt Bilder, Lyric-Videos und bis zu 15 Sekunden lange Clips passend zu Songs. Die Funktion nutzt H3 Move auf Basis von MiniMax H3 und lässt sich per Text weiterbearbeiten. Bild- und Videogenerierungen verbrauchen separate Visual-Credits. Filter, Prüfungen und Wasserzeichen sollen unerlaubte Nachahmungen und problematische Inhalte begrenzen. Suno: Introducing Visuals Suno Visuals Suno Release Notes: Introducing Visuals Suno Help Center: What are Visual Credits? Suno ergänzt seinen KI-Musikdienst um »Visuals«. Die neue Funktion erzeugt passende Bilder, Lyric-Videos und bis zu 15 Sekunden lange Clips aus Songs und ist über Web, iOS und Android verfügbar. Musik gibt Tempo und Lippenbewegungen vor Für einen Clip zieht der Nutzer einen Titel aus seiner Bibliothek in den Visuals-Bereich. Das Videomodell orientiert sich laut Suno am Aufbau des Songs, greift den Liedtext auf und stimmt Lippenbewegungen auf den Gesang ab. Als Ausgangspunkt dienen eine Textbeschreibung, ein eigenes Bild oder von Suno bereitgestellte Figuren. Erstellte Sequenzen lassen sich anschließend verlängern, bearbeiten und mit neuen Textanweisungen verändern. Bei Lyric-Videos kann der Nutzer unter an...]]></description>
-    </item>
-    <item>
-      <title>KI-Modelle markieren Zivilisten und eine Schule als Angriffsziele</title>
-      <link>https://www.all-ai.de/news/news26top/ki-modelle-angriff-schule-zivilisten</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ki-modelle-angriff-schule-zivilisten</guid>
-      <pubDate>Wed, 18 Nov 2026 08:13:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Im Test von Vals stuften mehrere KI-Modelle Zivilisten und sich ergebende Soldaten als mögliche Angriffsziele ein. Claude Opus 5.5 markierte in 69% der Durchläufe eines Tests ein Schulgebäude als militärisches Ziel. Anthropic und OpenAI arbeiten nach eigenen Angaben an zusätzlichen Schutzmaßnahmen. In Genf beraten die Vertragsstaaten einer UN-Waffenkonvention über autonome Waffen. TechCrunch – Bericht über die Vals-Tests und Stellungnahmen von Anthropic und OpenAI The Next Web – Ergebnisse der Vals-Tests nach Recherchen von Bloomberg Vereinte Nationen – Arbeitsprogramm der siebten Überprüfungskonferenz der UN-Waffenkonvention Internationales Komitee vom Roten Kreuz – Autonome Waffensysteme und der Schutz von Zivilisten KI-Modelle von Anthropic, OpenAI, Google und anderen Anbietern stuften in simulierten Militärszenarien wiederholt Zivilisten und Soldaten, die sich ergaben, als mögliche Angriffsziele ein. Laut TechCrunch stellte das Testunternehmen Vals dabei auch fest, dass die Schutzmechanismen bei fiktiv dargestellten Szenarien weniger verlässlich griffen. Anzeige Claude hält eine Schule für ein militärisches Ziel Vals prüfte kommerziell verfügbare KI-Modelle anhand von Drohne...]]></description>
-    </item>
-    <item>
-      <title>Microsoft schlägt OpenAI bei KI-Bildbearbeitung zum Bruchteil des Preises</title>
-      <link>https://www.all-ai.de/news/news26top/microsoft-mai-image-nummer1</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/microsoft-mai-image-nummer1</guid>
-      <pubDate>Wed, 18 Nov 2026 07:45:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[MAI Image 2.7 führt den aktuellen Bildbearbeitungs-Benchmark von Artificial Analysis an. Mit 34,82$ pro 1.000 Bilder kostet das Microsoft-Modell rund ein Sechstel der verglichenen OpenAI-Modelle. Bei der reinen Bilderzeugung belegt MAI Image 2.7 den vierten Platz. Die Flash-Version kostet 10,24$ pro 1.000 Bilder und treibt Microsofts neue Arbeitsfläche Canvas an. Microsoft stellt MAI Image 2.7 und MAI Image 2.7 Flash vor Artificial Analysis: Rangliste für KI-Bildbearbeitung Artificial Analysis: Rangliste für KI-Bilderzeugung Microsoft Learn: MAI-Bildmodelle in Microsoft Foundry Microsoft hat mit MAI Image 2.7 und MAI Image 2.7 Flash zwei neue KI-Modelle für die Bilderzeugung und Bildbearbeitung vorgestellt. Das große Modell führt einen wichtigen Vergleich für Bildbearbeitung an und kostet rund ein Sechstel des stärksten OpenAI-Angebots. Anzeige MAI Image 2.7 führt bei Bildbearbeitung Im aktuellen AA-Image-Editing-v2.1-Benchmark von Artificial Analysis erreicht MAI Image 2.7 mit 1.215 Elo den ersten Platz. GPT Image 2.6 Sunburst folgt mit 1.211 Elo, GPT Image 2.6 Flare mit 1.205 Elo. + Quelle: Artifical Analysis Der Preisunterschied fällt deutlicher aus als der Abstand bei der Be...]]></description>
-    </item>
-    <item>
-      <title>Microsofts MAI Code 2 ist eine echte Alternative zu OpenAI und Anthropic</title>
-      <link>https://www.all-ai.de/news/news26/microsoft-mai-code-2-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/microsoft-mai-code-2-start</guid>
-      <pubDate>Wed, 18 Nov 2026 07:37:40 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Microsoft veröffentlicht mit MAI Code 2 und MAI Code 2 Flash zwei eigene Coding-Modelle. MAI Code 2 übernimmt komplexe Arbeiten an großen Codebeständen, während Flash auf schnelle Routineaufgaben zielt. In Microsofts Benchmarks liegen beide Modelle nahe an teureren Konkurrenten oder davor. Beide Modelle sind in GitHub Copilot verfügbar, Flash auch in den Tarifen Free und Student. Microsoft AI: MAI Code 2 and Code 2 Flash GitHub Changelog: MAI Code 2 und Flash in Copilot GitHub Docs: Modelle und Preise für Copilot Microsoft AI: Model Card für MAI Code 2 und Flash Microsoft hat mit MAI Code 2 und MAI Code 2 Flash zwei eigene KI-Modelle für Programmieraufgaben veröffentlicht. Beide sind seit dem 17. November in GitHub Copilot verfügbar und richten sich an unterschiedliche Einsätze im Entwickleralltag. Anzeige Zwei Modelle für komplexe und schnelle Aufgaben MAI Code 2 übernimmt größere Arbeiten an bestehenden Projekten. Dazu zählen Fehlersuche, Änderungen über mehrere Dateien, Refactoring und das Verständnis ganzer Codebestände. Das Modell verarbeitet auch Bilder und kann etwa Oberflächen anhand von Screenshots umsetzen. MAI Code 2 Flash ist für häufige, klar begrenzte Aufgaben geda...]]></description>
-    </item>
-    <item>
-      <title>Microsoft Ignite 2026: Das sind Microsofts neue MAI-Modelle</title>
-      <link>https://www.all-ai.de/news/news26/microsoft-ignite-viele-modelle</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/microsoft-ignite-viele-modelle</guid>
-      <pubDate>Wed, 18 Nov 2026 07:30:45 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Microsoft stellt auf der Ignite 2026 neue MAI-Modelle für Code, Bilder, Sprache, Entscheidungen und Cybersicherheit vor. Die Flash-Modelle sollen häufige Aufgaben deutlich günstiger bearbeiten. Microsoft-Decision-1.1 ist allgemein verfügbar und verteilt Anfragen auf geeignete Modelle. MAI Licensed Weights gibt Unternehmen mehr Kontrolle über angepasste Modelle in Azure. Microsoft Ignite 2026: MAI keynote transcript Seven new world class models at scalable price-performance MAI Code 2 and Code 2 Flash: Everyday coding at scalable prices MAI Image 2.7: Frontier quality at a fraction of the cost Microsoft-Decision-1.1 is now generally available Microsoft hat auf der Ignite 2026 mehrere neue MAI-Modelle für Programmierung, Bilder, Sprache, Entscheidungen und Cybersicherheit vorgestellt. Das Unternehmen stellt günstigere Spezialmodelle und die Kontrolle über angepasste Modellgewichte in den Mittelpunkt. Anzeige MAI Code 2 und Code 2 Flash MAI Code 2 übernimmt komplexere Aufgaben wie Debugging, Änderungen über mehrere Dateien und die Entwicklung von Benutzeroberflächen. Microsoft beziffert seine Leistung über vier Coding-Benchmarks auf 98% von GPT-6.1 Sol bei 40% der Kosten. MAI Code ...]]></description>
-    </item>
-    <item>
-      <title>Warum alle GPT-6.2 Astra und Sol hassen</title>
-      <link>https://www.all-ai.de/news/news26top/openai-chatgpt-gpt-6-2-astra-sol-1</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-chatgpt-gpt-6-2-astra-sol-1</guid>
-      <pubDate>Wed, 18 Nov 2026 06:38:15 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Mehrere Frühtester kritisieren GPT-6.2 Astra und Sol ungewöhnlich scharf. Sie bemängeln wirre Erklärungen, schlechte Steuerbarkeit und Stillstand bei langen Aufgaben. Sam Altman räumt ein, dass OpenAI die Zusammenarbeit mit den neuen Modellen verbessern muss. OpenAI: Introducing GPT-6.2 Astra and Sol Sam Altman zur Zusammenarbeit mit GPT-6.2 Theo Browne: Why I hate GPT-6.2 Astra Ethan Mollick über GPT-6.2 Astra Matt Shumer über GPT-6.2 Astra und Sol OpenAI bewirbt GPT-6.2 Astra und Sol als kluge Modelle für professionelle Aufgaben. Doch direkt nach dem Start am 17. November 2026 berichten Frühtester von wirren Antworten, schlechter Steuerbarkeit und frustrierenden Endlosschleifen. Die Reaktion erinnert an Claude Opus. Opus 4.6 schrieb angenehm und verständlich, während Opus 4.8 und Opus 5 oft verworren wirkten. Bei GPT-6.2 zeigt sich derselbe Bruch zwischen Intelligenz und Nutzbarkeit. Anzeige Ein starkes Modell, das sich selbst im Weg steht Entwickler Theo Browne widmete OpenAI während der Testphase einen Beschwerdebrief. Astra sei ein starker Prüfer, finde überraschende Lösungen und liefere gute Ergebnisse bei 3D-Projekten, Computersteuerung und Code. Ein neuer Reverse Proxy s...]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang würde zurückkommen. Nvidias Aufsichtsrat sagt Nein</title>
-      <link>https://www.all-ai.de/news/news26top/nvidia-huang-neuanfang</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/nvidia-huang-neuanfang</guid>
-      <pubDate>Wed, 18 Nov 2026 06:21:48 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Jensen Huang bietet öffentlich seine Rückkehr als CEO von Nvidia an. Der Aufsichtsrat schließt eine erneute Ernennung wenige Stunden später aus. Colette Kress führt Nvidia vorläufig weiter, während intern und extern nach einem Nachfolger gesucht wird. Nvidia meldet parallel 115,8 Milliarden $ Quartalsumsatz und hält an seinem Kurs bei offenen KI-Modellen fest. Jensen Huang: Stellungnahme und Angebot zur Rückkehr Nvidia: Mitteilung zum CEO-Wechsel Nvidia: Ergebnisse des dritten Quartals 2027 Jensen Huang hat sich nach seinem Rücktritt erstmals ausführlich zu Wort gemeldet und eine Rückkehr an die Spitze von Nvidia angeboten. Der Aufsichtsrat erteilte diesem Comeback noch am selben Tag eine klare Absage. Anzeige Huang bietet seine Rückkehr an Huang schrieb am 17. November auf X, er habe seit seinem Ausscheiden zahlreiche Aufforderungen zur Rückkehr erhalten. Mitarbeiter, Investoren, Geschäftspartner und Kunden hätten sich direkt an ihn gewandt, während Nvidia schwierige technische, wirtschaftliche und geopolitische Fragen bewältigen müsse. Falls der Aufsichtsrat seine Rückkehr im Interesse der Aktionäre, Mitarbeiter, des Unternehmens und der USA sehe, würde er erneut als CEO antre...]]></description>
     </item>
   </channel>
 </rss>

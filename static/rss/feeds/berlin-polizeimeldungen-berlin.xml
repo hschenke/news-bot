@@ -5,9 +5,17 @@
     <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Polizeimeldungen+Berlin</link>
     <description>RSS-Feed für die Quelle 'Polizeimeldungen Berlin' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-polizeimeldungen-berlin.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Zwei mutmaßliche Reifendiebe festgenommen</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1741428.php</link>
+      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1741428.php</guid>
+      <pubDate>Thu, 19 Nov 2026 12:31:57 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
+      <description><![CDATA[📍 **Marzahn-Hellersdorf** – Um bei der Suche nach Tatverdächtigen eines Reifendiebstahls in Marzahn zu unterstützen, kam in der vergangenen Nacht auch der Polizeihubschrauber zum Einsatz. Gegen 1:45 Uhr wählte eine Zeugin den Notruf, nachdem sie mehrere Männer dabei beobachtet hatte, wie diese sich an den Hinterreifen eines...]]></description>
+    </item>
   </channel>
 </rss>
