@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:01:16 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -43,15 +43,6 @@
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
       <description><![CDATA[The expansion Wartales - Knights of Fardensa launches on December 9: Wartales - Official Knights of Fardensa Expansion Gameplay Overview Trailer]]></description>
-    </item>
-    <item>
-      <title>Calame - Announced for February 2027</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60593</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60593</guid>
-      <pubDate>Tue, 17 Nov 2026 23:28:58 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The tactical RPG Calame will be released in February 2027: Calame | Gameplay Trailer Calame is an isometric tactical RPG where strategic combat meets the power to reshape the battlefield. Lead rival factions, master tactical encounters, and fight to overthrow the tyrannical King of Light....]]></description>
     </item>
   </channel>
 </rss>

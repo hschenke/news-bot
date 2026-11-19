@@ -5,9 +5,36 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:01:16 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini 4 Neon Release: Platz 3 hinter Fable und Astra</title>
+      <link>https://www.all-ai.de/news/news26top/gemini-4-neon-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/gemini-4-neon-start</guid>
+      <pubDate>Wed, 18 Nov 2026 22:10:45 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Gemini 4 Neon liegt zwischen dem besonders tief arbeitenden Carbon und dem schnellen Hydrogen. Mit 61 Punkten erreicht es Platz drei im Artificial Analysis Intelligence Index 5.0.1. Das Modell punktet vor allem bei Wissensarbeit, Coding, Wissenschaft und Cybersecurity. Die API kostet 3$ pro Million Input-Token und 15$ pro Million Output-Token. Google: Introducing Gemini 4 Neon Google DeepMind: Gemini 4 Google AI Studio: Gemini 4 Neon Pricing Google DeepMind: Gemini 4 Neon Model Card Artificial Analysis: Intelligence Index 5.0.1 Google erweitert seine Gemini-4-Familie um ein Modell für anspruchsvolle Aufgaben, bei denen neben Qualität auch Tempo und Kosten eine Rolle spielen. Obwohl Gemini 4 Neon günstiger ist als Carbon und Argon, landet es im Artificial Analysis Intelligence Index vor diesen beiden auf Platz drei. Anzeige Zwischen Carbon und Hydrogen Gemini 4 Neon besetzt die Mitte zwischen Carbon und Hydrogen. Carbon bleibt für besonders schwierige Langzeitprojekte und umfangreiche Forschung vorgesehen. Hydrogen kümmert sich um schnelle alltägliche Aufgaben, während Neon tiefes Reasoning mit höherem Tempo für häufige komplexe Arbeiten verbindet. + Quelle: Google Die Model Card...]]></description>
+    </item>
+    <item>
+      <title>Sam Altman warnt vor einer Machtübergabe an KI</title>
+      <link>https://www.all-ai.de/news/news26top/sam-altman-ki-macht</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/sam-altman-ki-macht</guid>
+      <pubDate>Wed, 18 Nov 2026 18:53:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Sam Altman lehnt eine schrittweise Machtübergabe an KI-Modelle ab. Greg Brockman warnt, dass die Chain of Thought bei stärkeren Modellen weniger Einblick geben könnte. OpenAI sucht deshalb neue Kontrollen, will die Entwicklung fähiger Cybermodelle aber fortsetzen. TechCrunch: Sam Altman warns against a future where AI, not humans, calls the shots The New York Times: DealBook Summit OpenAI: The Hugging Face incident and the road ahead OpenAI-Chef Sam Altman warnt davor, Entscheidungen über die Zukunft schrittweise an KI-Modelle abzugeben. Beim DealBook Summit der New York Times erklärte er gemeinsam mit OpenAI-Präsident Greg Brockman, dass Menschen dauerhaft die Kontrolle behalten müssten. Anzeige Altman widerspricht einer Idee aus dem Silicon Valley In Teilen des Silicon Valley wird über eine allmähliche Machtübergabe an KI diskutiert. Dahinter steht die Annahme, dass immer fähigere Modelle sich selbst verbessern und schließlich wichtige Entscheidungen in Unternehmen, Institutionen und Gesellschaft treffen könnten. Altman bezeichnete diese Vorstellung als »furchtbare Idee«. OpenAI müsse eine absichtliche oder versehentliche Übergabe verhindern, obwohl Wettbewerbsdruck und die Pl...]]></description>
+    </item>
+    <item>
+      <title>Google startet Genie 4: KI-Welten reagieren jetzt auf Zuruf</title>
+      <link>https://www.all-ai.de/news/news26top/google-projekt-genie-4-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-projekt-genie-4-start</guid>
+      <pubDate>Wed, 18 Nov 2026 18:36:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Google gibt berechtigten AI-Ultra-Abonnenten erstmals Zugriff auf Genie 4 in Project Genie. Welten lassen sich während der Erkundung per Prompt verändern und erhalten passend erzeugtes Audio. Ein neuer Agent hilft beim Aufbau, während eine Galerie das Entdecken und Verändern fremder Welten ermöglicht. Genie 4 bleibt ein Forschungsmodell mit Grenzen bei dauerhafter Bildkonsistenz, Physik und Audio. Genie 4 is now available Genie 4 – Google DeepMind Project Genie DeepMind unveils Genie 4 world model promising more realistic physics and humans Google veröffentlicht Genie 4 und gibt damit erstmals Abonnenten von Google AI Ultra Zugriff auf sein neues Weltmodell. Nutzer können interaktive Welten im Browser erzeugen, während der Erkundung verändern und mit passend erzeugtem Ton erleben. Neue Figuren, anderes Wetter und Gespräche in Echtzeit Genie 4 berechnet eine virtuelle Umgebung fortlaufend, statt ein fertiges Video abzuspielen. Der Nutzer bewegt sich mit Maus und Tastatur durch die Szene und kann jederzeit einen weiteren Prompt eingeben. So lassen sich etwa das Wetter wechseln, eine Figur hinzufügen oder die Handlung in eine andere Richtung lenken. Neu ist auch nativ erzeugtes Aud...]]></description>
+    </item>
     <item>
       <title>HeyGen Avatar 6 lässt KI-Doppelgänger natürlicher mit Gesten auftreten</title>
       <link>https://www.all-ai.de/news/news26/heygen-avatar-6-start-elevenlabs</link>
@@ -88,33 +115,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Jensen Huang bietet öffentlich seine Rückkehr als CEO von Nvidia an. Der Aufsichtsrat schließt eine erneute Ernennung wenige Stunden später aus. Colette Kress führt Nvidia vorläufig weiter, während intern und extern nach einem Nachfolger gesucht wird. Nvidia meldet parallel 115,8 Milliarden $ Quartalsumsatz und hält an seinem Kurs bei offenen KI-Modellen fest. Jensen Huang: Stellungnahme und Angebot zur Rückkehr Nvidia: Mitteilung zum CEO-Wechsel Nvidia: Ergebnisse des dritten Quartals 2027 Jensen Huang hat sich nach seinem Rücktritt erstmals ausführlich zu Wort gemeldet und eine Rückkehr an die Spitze von Nvidia angeboten. Der Aufsichtsrat erteilte diesem Comeback noch am selben Tag eine klare Absage. Anzeige Huang bietet seine Rückkehr an Huang schrieb am 17. November auf X, er habe seit seinem Ausscheiden zahlreiche Aufforderungen zur Rückkehr erhalten. Mitarbeiter, Investoren, Geschäftspartner und Kunden hätten sich direkt an ihn gewandt, während Nvidia schwierige technische, wirtschaftliche und geopolitische Fragen bewältigen müsse. Falls der Aufsichtsrat seine Rückkehr im Interesse der Aktionäre, Mitarbeiter, des Unternehmens und der USA sehe, würde er erneut als CEO antre...]]></description>
-    </item>
-    <item>
-      <title>GPT-6.2 Sol Release: Das neue KI-Modell für Alles</title>
-      <link>https://www.all-ai.de/news/news26top/openai-chatgpt-6-2-sol-release</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-chatgpt-6-2-sol-release</guid>
-      <pubDate>Tue, 17 Nov 2026 18:45:39 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[GPT-6.2 Sol startet in ChatGPT Work, Codex und der API. Das Modell legt beim Programmieren und bei Büroaufgaben zu. Die Standardpreise pro Token bleiben auf dem Niveau von GPT-6.1 Sol. Mit GPT-6.2 Sol erhält auch das Pro-200-Abo den Modus Ultrafast. OpenAI · Ankündigung mit Benchmarks und Rollout OpenAI · API-Daten zu GPT-6.2 Sol Cognition · Methodik zu FrontierCode 2.0 OpenAI · LifeVal OpenAI stellt GPT-6.2 Sol in ChatGPT Work und Codex vor. Das neue Modell erzielt bei Programmier- und Büroaufgaben bessere Testergebnisse als GPT-6.1 Sol und kommt bei anspruchsvollen Aufgaben mit weniger Ausgabe-Token aus. Kurz gesagt: Das bisher effizienteste KI-Modell GPT-6.1 Sol wird von GPT-6.2 Sol abgelöst. Anzeige GPT-6.2 Sol legt beim Programmieren und im Büro zu Im Artificial-Intelligence-Benchmark erreicht das Modell gute 57 Punkte und liegt damit 2 Punkte vor dem Vorgänger. Gleichzeitig erreicht es fast das deutlich teurere Claude Opus 5.5. Während Sol bei rund 1$ liegt, genehmigt sich Opus in den Max-Einstellungen ganze 10$. + Quelle: OpenAI In FrontierCode 2.0 kommt GPT-6.2 Sol auf rund 44%, gegenüber 39% für GPT-6.1 Sol. Der Benchmark von Cognition bewertet Änderungen an bestehenden...]]></description>
-    </item>
-    <item>
-      <title>GPT-6.2 Astra Release: Angriff auf Fable 5.2 vor dem Börsengang?</title>
-      <link>https://www.all-ai.de/news/news26top/openai-gpt-6-2-astra-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-gpt-6-2-astra-start</guid>
-      <pubDate>Tue, 17 Nov 2026 18:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[OpenAI startet GPT-6.2 Astra in ChatGPT Work, Codex und der API. Im Agents’ Last Exam steigt der Wert gegenüber GPT-6 Astra um 5,2 Prozentpunkte bei weniger als einem Drittel der Kosten. Eine zusätzliche Anweisung in Codex senkt im Test die Quote verschwiegener Hindernisse von 22,28% auf 8,04%. In der API kostet eine Million Token im Standardtarif 8$ für Eingaben und 40$ für Ausgaben. OpenAI – Introducing GPT-6.2 Astra and Sol OpenAI – API-Dokumentation und Preise für GPT-6.2 Astra UC Berkeley RDI – Agents’ Last Exam v1.1 Artificial Analysis – AA-AnalystAgent, Methodik und Rangliste OpenAI – ChatGPT- und Codex-Änderungsprotokoll vom 17. November OpenAI bringt GPT-6.2 Astra in ChatGPT Work und Codex. Das neue Spitzenmodell soll Präsentationen genauer nach Vorlage gestalten, größere Änderungen an bestehender Software umsetzen und wissenschaftliche Analysen günstiger erledigen als GPT-6 Astra. Aber ist es auch besser als Fable 5.2? Anzeige Mehr Punkte bei weniger als einem Drittel der Kosten Im Artificial Analysis Index kommt es auf 63 Punkte und liegt damit nur knapp hinter Fable 5.2 mit 65 Punkten. Dafür ist es aber deutlich preiswerter. In den Max Einstellungen benötigt Astra ru...]]></description>
-    </item>
-    <item>
-      <title>Isomorphic Labs sammelt 5 Milliarden $ für KI-Medikamente ein</title>
-      <link>https://www.all-ai.de/news/news26top/isomorphic-labs-ki-medikamente</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/isomorphic-labs-ki-medikamente</guid>
-      <pubDate>Tue, 17 Nov 2026 14:33:39 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Isomorphic Labs hat in einer Series-C-Runde 5 Milliarden $ eingesammelt. Greenoaks und Sequoia Capital führen die Runde an, Alphabet investiert erneut. Isomorphic Labs meldet positive präklinische Ergebnisse in der Krebsforschung und der Immunologie. Mit dem Geld will das Unternehmen seine KI-Plattform IsoDDE ausbauen und erste Wirkstoffkandidaten in klinische Studien bringen. Isomorphic Labs – Ankündigung der Series C Isomorphic Labs – Pressemitteilung zur Series C Isomorphic Labs – Pressemitteilung zur Series B vom Mai 2026 Isomorphic Labs – Vorstellung der KI-Plattform IsoDDE Isomorphic Labs hat in einer Series-C-Runde 5 Milliarden $ eingesammelt. Mit dem Geld will das Unternehmen von Google-DeepMind-Chef Demis Hassabis seine KI für die Wirkstoffsuche ausbauen und erste Wirkstoffkandidaten in klinische Studien bringen. Anzeige Mehr als doppelt so viel Kapital wie im Mai Greenoaks und Sequoia Capital führen die Finanzierungsrunde gemeinsam an. Andreessen Horowitz steigt als neuer Investor ein, der Google-Mutterkonzern Alphabet investiert erneut. Auch die übrigen bisherigen Geldgeber beteiligen sich, darunter Thrive Capital, Temasek und der britische UK Sovereign AI Fund. Erst ...]]></description>
     </item>
   </channel>
 </rss>

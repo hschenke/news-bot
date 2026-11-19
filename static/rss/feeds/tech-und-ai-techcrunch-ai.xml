@@ -5,11 +5,146 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:01:16 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nvidia clarifies when it will — and won’t —keep financing neoclouds</title>
+      <title>Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</title>
+      <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190274</guid>
+      <pubDate>Thu, 19 Nov 2026 00:42:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.]]></description>
+    </item>
+    <item>
+      <title>Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
+      <link>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190239</guid>
+      <pubDate>Wed, 18 Nov 2026 23:45:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.]]></description>
+    </item>
+    <item>
+      <title>Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</title>
+      <link>https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190290</guid>
+      <pubDate>Wed, 18 Nov 2026 23:25:17 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[“I don’t think [Huang is] disloyal to the United States," Musk said.]]></description>
+    </item>
+    <item>
+      <title>Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit</title>
+      <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190266</guid>
+      <pubDate>Wed, 18 Nov 2026 23:17:28 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.]]></description>
+    </item>
+    <item>
+      <title>Satya Nadella predicts AI agents will reshuffle the economics of the web</title>
+      <link>https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190264</guid>
+      <pubDate>Wed, 18 Nov 2026 22:58:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.]]></description>
+    </item>
+    <item>
+      <title>Anthropic prices IPO at $83 a share, above projected range</title>
+      <link>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190228</guid>
+      <pubDate>Wed, 18 Nov 2026 22:11:15 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.]]></description>
+    </item>
+    <item>
+      <title>Nvidia created a weird bit of intrigue by not filing a routine SEC report</title>
+      <link>https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190087</guid>
+      <pubDate>Wed, 18 Nov 2026 21:57:40 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.]]></description>
+    </item>
+    <item>
+      <title>Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’</title>
+      <link>https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190121</guid>
+      <pubDate>Wed, 18 Nov 2026 21:34:13 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.]]></description>
+    </item>
+    <item>
+      <title>Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated</title>
+      <link>https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190132</guid>
+      <pubDate>Wed, 18 Nov 2026 21:31:21 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA["It makes America weaker to knock him out," the Anduril CEO said about ousted Nvidia leader Jensen Huang.]]></description>
+    </item>
+    <item>
+      <title>Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie</title>
+      <link>https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190063</guid>
+      <pubDate>Wed, 18 Nov 2026 20:07:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA["It doesn't feel like it's in like the top 10 weirdest things about my life," Altman said.]]></description>
+    </item>
+    <item>
+      <title>Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor</title>
+      <link>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189677</guid>
+      <pubDate>Wed, 18 Nov 2026 19:56:39 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.]]></description>
+    </item>
+    <item>
+      <title>Google’s AI feature in Search gets its own incognito mode</title>
+      <link>https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190009</guid>
+      <pubDate>Wed, 18 Nov 2026 18:04:05 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.]]></description>
+    </item>
+    <item>
+      <title>More banks say customers using AI agents are on their own — even if they get hacked</title>
+      <link>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189975</guid>
+      <pubDate>Wed, 18 Nov 2026 17:32:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Citi is the latest major financial institution to put the breaks on personal finance AI agents.]]></description>
+    </item>
+    <item>
+      <title>Sam Altman warns against a future where AI, not humans, calls the shots</title>
+      <link>https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189965</guid>
+      <pubDate>Wed, 18 Nov 2026 16:59:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.]]></description>
+    </item>
+    <item>
+      <title>OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’</title>
+      <link>https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189966</guid>
+      <pubDate>Wed, 18 Nov 2026 16:14:09 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.]]></description>
+    </item>
+    <item>
+      <title>Nvidia clarifies when it will — and won’t — keep financing neoclouds</title>
       <link>https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3189866</guid>
       <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
@@ -27,166 +162,13 @@
       <description><![CDATA[With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.]]></description>
     </item>
     <item>
-      <title>India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need</title>
+      <title>India’s Humyn Labs raises $47M to feed US robotics companies the data they need</title>
       <link>https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3188451</guid>
       <pubDate>Wed, 18 Nov 2026 11:30:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.]]></description>
-    </item>
-    <item>
-      <title>Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt</title>
-      <link>https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189878</guid>
-      <pubDate>Wed, 18 Nov 2026 01:44:21 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.]]></description>
-    </item>
-    <item>
-      <title>Nvidia promises that revenue will keep soaring — for now</title>
-      <link>https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189812</guid>
-      <pubDate>Wed, 18 Nov 2026 00:16:50 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.]]></description>
-    </item>
-    <item>
-      <title>Nvidia is abandoning China after Jensen Huang’s ouster</title>
-      <link>https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189789</guid>
-      <pubDate>Tue, 17 Nov 2026 23:37:48 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?]]></description>
-    </item>
-    <item>
-      <title>Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit</title>
-      <link>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189779</guid>
-      <pubDate>Tue, 17 Nov 2026 23:04:35 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.]]></description>
-    </item>
-    <item>
-      <title>Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO</title>
-      <link>https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189778</guid>
-      <pubDate>Tue, 17 Nov 2026 22:42:27 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The former CEO offered to return to his top role at the company after his resignation last week.]]></description>
-    </item>
-    <item>
-      <title>Amazon and Google will together own nearly 30% of Anthropic after its IPO</title>
-      <link>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189746</guid>
-      <pubDate>Tue, 17 Nov 2026 22:29:05 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.]]></description>
-    </item>
-    <item>
-      <title>SEC reportedly investigating Nvidia amid Huang exit</title>
-      <link>https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189752</guid>
-      <pubDate>Tue, 17 Nov 2026 21:48:07 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.]]></description>
-    </item>
-    <item>
-      <title>Google joins the tech outage trend by announcing it’s not having one</title>
-      <link>https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189743</guid>
-      <pubDate>Tue, 17 Nov 2026 21:34:50 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.]]></description>
-    </item>
-    <item>
-      <title>Model ML raises $250M to automate investment banking grunt work</title>
-      <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189688</guid>
-      <pubDate>Tue, 17 Nov 2026 19:32:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.]]></description>
-    </item>
-    <item>
-      <title>Google expands access to Gemini Tasks, which can help with calls, purchases</title>
-      <link>https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189640</guid>
-      <pubDate>Tue, 17 Nov 2026 19:02:20 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.]]></description>
-    </item>
-    <item>
-      <title>Google to keep Gemini chats for 2 months, up from 72 hours, even with history off</title>
-      <link>https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189652</guid>
-      <pubDate>Tue, 17 Nov 2026 18:48:23 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Google's Gemini update extending chat retention will roll out globally over the coming weeks.]]></description>
-    </item>
-    <item>
-      <title>As decision model use skyrockets, is customization the next frontier?</title>
-      <link>https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189001</guid>
-      <pubDate>Tue, 17 Nov 2026 18:10:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.]]></description>
-    </item>
-    <item>
-      <title>Pedestal AI raises $4.7 million to agentify the supply chain</title>
-      <link>https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189612</guid>
-      <pubDate>Tue, 17 Nov 2026 18:04:16 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The company uses agentic AI to make supply chains faster and more reliable.]]></description>
-    </item>
-    <item>
-      <title>Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop</title>
-      <link>https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189535</guid>
-      <pubDate>Tue, 17 Nov 2026 17:32:25 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.]]></description>
-    </item>
-    <item>
-      <title>AI models can be tricked into identifying civilians as military targets by telling them it’s a game</title>
-      <link>https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189496</guid>
-      <pubDate>Tue, 17 Nov 2026 17:20:41 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO</title>
-      <link>https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189502</guid>
-      <pubDate>Tue, 17 Nov 2026 16:44:15 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.]]></description>
-    </item>
-    <item>
-      <title>Daydream’s new AI agent acts as your personal stylist — and can shop for you, too</title>
-      <link>https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3189498</guid>
-      <pubDate>Tue, 17 Nov 2026 16:32:55 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.]]></description>
+      <description><![CDATA[Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.]]></description>
     </item>
   </channel>
 </rss>
