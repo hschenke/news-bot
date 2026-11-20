@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:09:21 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -184,24 +184,6 @@
       <link>https://cornholenews.news</link>
       <guid isPermaLink="false">https://cornholenews.news</guid>
       <pubDate>Thu, 19 Nov 2026 15:38:32 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Making 8-page foldable zines from a single A4 sheet in the browser</title>
-      <link>https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</link>
-      <guid isPermaLink="false">https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:18:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Someone reported java4shell bug in September 2026</title>
-      <link>https://github.com/openjdk/jdk/pull/32781</link>
-      <guid isPermaLink="false">https://github.com/openjdk/jdk/pull/32781</guid>
-      <pubDate>Thu, 19 Nov 2026 11:47:03 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>

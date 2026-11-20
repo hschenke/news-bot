@@ -5,14 +5,32 @@
     <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:09:21 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>"Es hat nach Blut geschmeckt. Und nach Hundekot"</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/energie-cottbus-fanszene-urteil-prozess-koerperverletzung.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/energie-cottbus-fanszene-urteil-prozess-koerperverletzung.html</guid>
+      <pubDate>Fri, 20 Nov 2026 13:15:12 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Eine Menschenjagd durch Cottbus endet in einem Gewaltexzess. Dem Opfer wird unter anderem ins Gesicht getreten. Das Urteil fällt erst vier Jahre später. Einer der Verurteilten ist ein prägendes Mitglied der Fanszene von Energie Cottbus.]]></description>
+    </item>
+    <item>
+      <title>Hertha vor Cottbus: Keine GTA-Ausfälle trotz "Dates mit Lucia"</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-vorbericht-leitl-derby-100-punkte-aufstieg.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-vorbericht-leitl-derby-100-punkte-aufstieg.html</guid>
+      <pubDate>Fri, 20 Nov 2026 11:25:30 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Als ungeschlagener Tabellenführer ist Hertha BSC am Sonntag in der 2. Fußball-Bundesliga beim FC Energie Cottbus zu Gast. Hertha-Trainer Leitl lobt die Lausitzer, hat alle Optionen – und muss auch keine GTA-bedingten Ausfälle verkraften.]]></description>
+    </item>
     <item>
       <title>"Wie ein Star": So erlebt ein Nationalspieler die Amputierten-WM</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/amputierten-fussball-wm-2026-mexiko-berliner-benito-salazar.html</link>
       <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/amputierten-fussball-wm-2026-mexiko-berliner-benito-salazar.html</guid>
-      <pubDate>Fri, 20 Nov 2026 05:19:01 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 05:19:00 GMT</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Der Berliner Benito Salazar nimmt mit dem deutschen Nationalteam bei der Fußball-WM der Beinamputierten in Mexiko teil. Sportlich sind die vorderen Plätze verpasst. Doch die Beigeisterung bleibt.]]></description>
@@ -43,24 +61,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Lukas Michelbrink: Hertha-Leihgabe ist für Cottbus unverzichtbar</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-derby-zweite-bundesliga-energie-cottbus-hertha-bsc-lukas-michelbrink.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-derby-zweite-bundesliga-energie-cottbus-hertha-bsc-lukas-michelbrink.html</guid>
-      <pubDate>Thu, 19 Nov 2026 14:08:20 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Nach mehr als 13 Jahren gibt es wieder ein Pflichtspiel zwischen Energie Cottbus und Hertha BSC. Am Sonntag ist es soweit. Mittendrin: Der Berliner Lukas Michelbrink, der aktuell für den FCE spielt - und von Trainer Claus-Dieter Wollitz geadelt wird.]]></description>
-    </item>
-    <item>
-      <title>Berlins langsamster Run Club: "Viele Horror-Stories gehört"</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/running-laufen-slow-poke-run-club-berlin-joggen-lauftreff-meg-russell.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/running-laufen-slow-poke-run-club-berlin-joggen-lauftreff-meg-russell.html</guid>
-      <pubDate>Thu, 19 Nov 2026 10:14:42 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Vor anderthalb Jahren gründete die US-Amerikanerin Meg Russell den Slow Poke Run Club – Berlins langsamsten Laufclub. Im rbb-Interview erzählt sie dessen frustrierende Vorgeschichte und erklärt das "große Missverständnis" im boomenden Laufsport.]]></description>
     </item>
   </channel>
 </rss>

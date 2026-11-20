@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=Might+%26+Magic+Alert</link>
     <description>RSS-Feed für die Quelle 'Might &amp; Magic Alert' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:09:21 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-might-und-magic-alert.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,15 +16,6 @@
       <category>Games</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
       <description><![CDATA[... Might and Magic 3. Heute gibt es die zweite Folge des 8 Spieler Szenarios aus der letzten Folge. Ist ein Sieg noch erreichbar? Viel Spaß :). Wenn ...]]></description>
-    </item>
-    <item>
-      <title>Marathon: Nominierung als bestes Multiplayer-Spiel - XboxDynasty</title>
-      <link>https://www.xboxdynasty.de/news/marathon/nominierung-als-bestes-multiplayer-spiel/comment-page-1/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18420326786712292547</guid>
-      <pubDate>Thu, 19 Nov 2026 13:21:52 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Völlig fragwürdige Nominierungen ? Das alles fehlt: Palworld (Full Release) Heroes of Might and Magic Olden Era Hell let loose: Vietnam]]></description>
     </item>
   </channel>
 </rss>
