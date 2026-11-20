@@ -5,9 +5,225 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lufthansa will 1000 Stellen an Drehkreuzen streichen</title>
+      <link>https://www.heise.de/news/Lufthansa-will-1000-Stellen-an-Drehkreuzen-streichen-11531961.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531961</guid>
+      <pubDate>Fri, 20 Nov 2026 05:33:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Rund 1000 Stellen an den Lufthansa-Drehkreuzen Frankfurt und München sollen wegfallen – wann und auf welchem Weg, ist noch offen.]]></description>
+    </item>
+    <item>
+      <title>Freitag: London muss Apple-Hintertür zugeben, Niederlande warnen vor KI-Brillen</title>
+      <link>https://www.heise.de/news/Freitag-London-muss-Apple-Hintertuer-zugeben-Niederlande-warnen-vor-KI-Brillen-11531935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531935</guid>
+      <pubDate>Fri, 20 Nov 2026 05:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Gericht für Backdoor-Geständnis + Datenschützer gegen KI-Brillen + Notfallwarnung als Handy-Finder + PHP-Updates gegen akute Lücken + Verbraucherschutz-Podcast]]></description>
+    </item>
+    <item>
+      <title>Vorsicht, Kunde: Paket weg oder beschädigt – wer haftet?</title>
+      <link>https://www.heise.de/news/Vorsicht-Kunde-Paket-weg-oder-beschaedigt-wer-haftet-11531800.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531800</guid>
+      <pubDate>Fri, 20 Nov 2026 05:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Verloren, beschädigt oder manipuliert: Wenn beim Paketversand etwas schiefgeht, droht Streit. Wir klären, wer haftet und wie Sie Ihre Rechte sichern.]]></description>
+    </item>
+    <item>
+      <title>Niederländische Datenschutzbehörde warnt vor Nutzung KI-gestützter Smart Glasses</title>
+      <link>https://www.heise.de/news/Niederlaendische-Datenschutzbehoerde-warnt-vor-Nutzung-KI-gestuetzter-Smart-Glasses-11531921.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531921</guid>
+      <pubDate>Fri, 20 Nov 2026 04:03:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach Studie verschiedener KI-Brillen raten Datenschützer vom Kauf ab. Diese könnten Nutzer falsche oder illegale Ratschläge geben und sie sogar gefährden.]]></description>
+    </item>
+    <item>
+      <title>WTF: Schummelbremse Notfallwarnung: Südkorea lässt bei Aufnahmetests Handys läuten</title>
+      <link>https://www.heise.de/news/Suedkorea-aktiviert-Katastrophenalarmsystem-um-Handys-bei-Uni-Test-zu-finden-11531901.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531901</guid>
+      <pubDate>Thu, 19 Nov 2026 22:07:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Südkorea offenbart Obsession über Uni-Aufnahmetests. Flughäfen werden gesperrt, und das Notfall-Warnsystem muss zum Aufspüren von Handys herhalten.]]></description>
+    </item>
+    <item>
+      <title>Britische Regierung muss gestehen, dass sie Apple eine Hintertür befohlen hat</title>
+      <link>https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531845</guid>
+      <pubDate>Thu, 19 Nov 2026 20:33:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das britische Innenministerium hat Apple befohlen, eine Hintertür in die iCloud einzubauen. Ein Gericht zwingt das Ministerium dazu, das öffentlich zuzugeben.]]></description>
+    </item>
+    <item>
+      <title>Top 10: Die beste Smartwatch im Test – Apple Watch schlägt Samsung, Xiaomi &amp; Co.</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-im-test-apple-watch-schlaegt-samsung-xiaomi-und-co/gee7t5m?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531638</guid>
+      <pubDate>Thu, 19 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Apple, Samsung, Google oder doch Xiaomi? Wearables ergänzen das Smartphone ideal. Wir zeigen die besten Smartwatches aus dutzenden Tests.]]></description>
+    </item>
+    <item>
+      <title>Erstmals braucht die Welt mehr Energie zum Kühlen als zum Heizen</title>
+      <link>https://www.heise.de/news/Erstmals-braucht-die-Welt-mehr-Energie-zum-Kuehlen-als-zum-Heizen-11531700.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531700</guid>
+      <pubDate>Thu, 19 Nov 2026 17:34:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Krise um die Straße von Hormus löst laut IEA den größten Energieversorgungsschock der Geschichte aus. Zudem überholt Kühlen das Heizen beim Verbrauch.]]></description>
+    </item>
+    <item>
+      <title>Project Suncatcher: New Glenn wird Google-Satelliten ins All bringen</title>
+      <link>https://www.heise.de/news/Project-Suncatcher-New-Glenn-wird-Google-Satelliten-ins-All-bringen-11531542.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531542</guid>
+      <pubDate>Thu, 19 Nov 2026 17:19:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Den ersten Rechenzentrums-Satelliten hat Google von SpaceX ins All bringen lassen. Auch Jeff Bezos’ Unternehmen Blue Origin wird für Google fliegen.]]></description>
+    </item>
+    <item>
+      <title>Anthropic-Aktien an der Börse gestartet</title>
+      <link>https://www.heise.de/news/Anthropic-Aktien-an-der-Boerse-gestartet-11528173.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11528173</guid>
+      <pubDate>Thu, 19 Nov 2026 17:11:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Anthropics Aktien sind an der Börse gestartet. Der Kurs bewegt sich wie erwartet über dem Einstiegspreis.]]></description>
+    </item>
+    <item>
+      <title>KI-generierte Präzedenzfälle: Anwältin vom EGMR ausgeschlossen</title>
+      <link>https://www.heise.de/news/KI-generierte-Praezendenzfaelle-Anwaeltin-vom-EGMR-ausgeschlossen-11531620.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531620</guid>
+      <pubDate>Thu, 19 Nov 2026 16:37:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Erstmals hat der Europäische Gerichtshof für Menschenrechte in Straßburg eine Anwältin ausgeschlossen, weil ihr Schriftsatz voller KI-Halluzinationen war.]]></description>
+    </item>
+    <item>
+      <title>Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle</title>
+      <link>https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531596</guid>
+      <pubDate>Thu, 19 Nov 2026 16:27:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.]]></description>
+    </item>
+    <item>
+      <title>Neue Informationsschrift zur Umstellung auf Post-Quanten-Kryptografie</title>
+      <link>https://www.heise.de/news/TeleTrusT-veroeffentlicht-Handreichung-zu-Kryptoagilitaet-11531656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531656</guid>
+      <pubDate>Thu, 19 Nov 2026 16:20:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bei der Umstellung auf Post-Quanten-Kryptografie will der Branchenverband TeleTrusT mit einer Informationsschrift zur Kryptoagilität weiterhelfen.]]></description>
+    </item>
+    <item>
+      <title>Russe soll Palantir-Mitarbeiter im Coffeeshop ausspioniert haben</title>
+      <link>https://www.heise.de/news/Russe-soll-Palantir-Mitarbeiter-im-Coffeeshop-ausspioniert-haben-11531011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531011</guid>
+      <pubDate>Thu, 19 Nov 2026 16:14:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[In den USA wurde ein Russe angeklagt, der versucht haben soll, Angestellte von Palantir auszuspionieren. Sonderlich raffiniert sei er nicht vorgegangen.]]></description>
+    </item>
+    <item>
+      <title>Glasfaserausbau: „Kupfer steht halt im Weg“</title>
+      <link>https://www.heise.de/news/Glasfaserausbau-Kupfer-steht-halt-im-Weg-11531556.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531556</guid>
+      <pubDate>Thu, 19 Nov 2026 16:09:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Digitalminister wartet auf seinen Glasfaseranschluss. Vor Branchenvertretern in Berlin lobt Wildberger die Ausbau-Fortschritte, übt aber auch Selbstkritik.]]></description>
+    </item>
+    <item>
+      <title>Tesla in Grünheide: Werksleiter bekommt Strafbefehl wegen übler Nachrede</title>
+      <link>https://www.heise.de/news/Tesla-in-Gruenheide-Werksleiter-bekommt-Strafbefehl-wegen-uebler-Nachrede-11531454.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531454</guid>
+      <pubDate>Thu, 19 Nov 2026 16:03:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Tesla wirft der IG Metall vor, sie habe eine Betriebsratssitzung heimlich mitgeschnitten. Nun liegt ein Strafbefehl gegen den Werksleiter vor.]]></description>
+    </item>
+    <item>
+      <title>Die erste von 4000? Weltweit höchste Windkraftanlage in Betrieb genommen</title>
+      <link>https://www.heise.de/news/Offshore-auf-dem-Land-Weltweit-hoechste-Windkraftanlage-in-Betrieb-genommen-11531361.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531361</guid>
+      <pubDate>Thu, 19 Nov 2026 15:39:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[In Schipkau in Brandenburg liefert die weltweit höchste Windkraftanlage nun Strom. Weitere sind schon in Planung, 2030 soll die Serienfertigung beginnen.]]></description>
+    </item>
+    <item>
+      <title>DDR6-Arbeitsspeicher: Höhere Transferraten, breiterer Bus, schmalere Module</title>
+      <link>https://www.heise.de/news/DDR6-Arbeitsspeicher-Hoehere-Transferraten-breiterer-Bus-schmalere-Module-11531064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531064</guid>
+      <pubDate>Thu, 19 Nov 2026 15:36:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das Industriegremium JEDEC meldet eine „Vorschau“ auf DDR6-SDRAM. Damit bestückte Speichermodule werden kaum breiter als heutige SO-DIMMs, aber viel schneller.]]></description>
+    </item>
+    <item>
+      <title>Apple will angeblich Pläne für OLED-iMac verschieben</title>
+      <link>https://www.heise.de/news/Apple-will-angeblich-Plaene-fuer-OLED-iMac-verschieben-11531438.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531438</guid>
+      <pubDate>Thu, 19 Nov 2026 15:24:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ein Bericht aus Zuliefererkreisen deutet auf gebremstes Tempo hin: Apple soll Pläne für einen iMac mit OLED-Display zurückstellen.]]></description>
+    </item>
+    <item>
+      <title>Mit KI-Suche durch den Behörden-Dschungel: NRW stellt neues Webportal vor</title>
+      <link>https://www.heise.de/news/Mit-KI-Suche-durch-den-Behoerden-Dschungel-NRW-stellt-neues-Webportal-vor-11531345.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531345</guid>
+      <pubDate>Thu, 19 Nov 2026 15:18:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ein neues Webportal mit KI-Suche soll Bürgern in Nordrhein-Westfalen dabei helfen, sich bei den vielen digitalen Verwaltungsleistungen zurechtzufinden.]]></description>
+    </item>
+    <item>
+      <title>Tesla will Model Y ohne Pedale und Lenkrad bauen</title>
+      <link>https://www.heise.de/news/Tesla-will-Model-Y-ohne-Pedale-und-Lenkrad-bauen-11531422.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531422</guid>
+      <pubDate>Thu, 19 Nov 2026 15:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Tesla plant eine autonome Version des Model Y. Elon Musk sagte, es sei wichtig, ein autonomes Auto für eine Familie oder eine kleine Gruppe anzubieten.]]></description>
+    </item>
+    <item>
+      <title>Mova T1 Station im Test: Fensterputzroboter mit Akku sprüht 40 °C warmes Wasser</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/mova-t1-station-im-test-fensterputzroboter-mit-akku-sprueht-40-degreec-warmes-wasser/nc2r6me?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531418</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Mova T1 Station erwärmt sein Sprühwasser auf bis zu 40 °C und schrubbt mit vier Eckbürsten. Ob das die Fenster sauberer macht, zeigt der Test.]]></description>
+    </item>
+    <item>
+      <title>ruby2ßhell: Remote Code Execution durch 21 ß</title>
+      <link>https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531365</guid>
+      <pubDate>Thu, 19 Nov 2026 14:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.]]></description>
+    </item>
+    <item>
+      <title>PHP behebt 17 Sicherheitslücken, fünf erlauben Ausführung von Schadcode</title>
+      <link>https://www.heise.de/news/PHP-behebt-17-Sicherheitsluecken-vier-erlauben-Ausfuehrung-von-Schadcode-11531249.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11531249</guid>
+      <pubDate>Thu, 19 Nov 2026 14:42:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die kritischen Sicherheitslücken sind nur mit Vorbedingungen und nicht auf Standardinstallationen ausnutzbar; Admins sollten dennoch updaten.]]></description>
+    </item>
     <item>
       <title>Android: Google verschärft Qualitätsanforderungen für Foldable-Apps ab April</title>
       <link>https://www.heise.de/news/Android-Google-verschaerft-Qualitaetsanforderungen-fuer-Foldable-Apps-ab-April-11531191.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -223,258 +439,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Der weltweite Passagierluftverkehr stößt mehr CO₂ aus als vor der Pandemie, die Effizienz steigt nur wenig. Neue Flugzeuge ändern daran bislang kaum etwas.]]></description>
-    </item>
-    <item>
-      <title>Vorbereitung auf Krisenfall: Minister beraten Zusammenarbeit</title>
-      <link>https://www.heise.de/news/Vorbereitung-auf-Krisenfall-Minister-beraten-Zusammenarbeit-11530325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530325</guid>
-      <pubDate>Thu, 19 Nov 2026 06:01:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Cyberangriffe, Sabotage und Drohnenvorfälle auf Verkehrsinfrastruktur und Transportketten: Deutschland, Frankreich und Polen beraten über Gegenmaßnahmen.]]></description>
-    </item>
-    <item>
-      <title>Öltransport durch Hormus-Straße könnte drastisch sinken, warnt IEA</title>
-      <link>https://www.heise.de/news/IEA-Hormus-Blockade-veraendert-globale-Energieversorgung-dauerhaft-11530319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530319</guid>
-      <pubDate>Thu, 19 Nov 2026 06:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die Blockade der Straße von Hormus hat den Energiemarkt in eine schwere Krise gestürzt. Laut IEA wird das auch Folgen für die Zukunft haben.]]></description>
-    </item>
-    <item>
-      <title>EU verschiebt Klimaschutzregeln wegen Energiekrise</title>
-      <link>https://www.heise.de/news/EU-verschiebt-Klimaschutzregeln-wegen-Energiekrise-11530309.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530309</guid>
-      <pubDate>Thu, 19 Nov 2026 05:34:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das Treibhausgas Methan gilt als klimaschädlicher als CO₂ – dennoch will Brüssel bestimmte Regeln erst später anwenden. Warum?]]></description>
-    </item>
-    <item>
-      <title>Donnerstag: Anthropics überzeichneter Börsengang, Meta mit noch einem Messenger</title>
-      <link>https://www.heise.de/news/Donnerstag-Anthropics-ueberzeichneter-Boersengang-Meta-mit-noch-einem-Messenger-11530299.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530299</guid>
-      <pubDate>Thu, 19 Nov 2026 05:15:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Mehr teurere KI-Aktien + Standalone-Messenger von Instagram + Updates für Lücken in nginx und WordPress + PHP mit Sicherheitsproblemen + Lyft schluckt FreeNow]]></description>
-    </item>
-    <item>
-      <title>Meta Platforms bringt mit „Direct“ eigene Messenger-App nicht nur für Instagram</title>
-      <link>https://www.heise.de/news/Meta-Platforms-bringt-mit-Direct-eigene-Messenger-App-nicht-nur-fuer-Instagram-11530277.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530277</guid>
-      <pubDate>Thu, 19 Nov 2026 04:04:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die neue Messaging-App zielt auf Instagram-Nutzer, aber nicht nur. Auch Menschen ohne IG können sie verwenden. „Direct“ wird zunächst in zwei Ländern getestet.]]></description>
-    </item>
-    <item>
-      <title>Anthropic: Finaler IPO-Preis steht fest</title>
-      <link>https://www.heise.de/news/Anthropic-Finaler-IPO-Preis-steht-fest-11528229.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11528229</guid>
-      <pubDate>Thu, 19 Nov 2026 01:25:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Anthropic hat den finalen Preis für seine Aktien bekannt gegeben. Die Aktien sollen am Donnerstag an die Börse NASDAQ kommen.]]></description>
-    </item>
-    <item>
-      <title>Sicherheitsfix: PHP-Admins bekommen Donnerstagnachmittag zu tun</title>
-      <link>https://www.heise.de/news/Sicherheitsfix-PHP-Admins-bekommen-Donnerstagnachmittag-zu-tun-11530253.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530253</guid>
-      <pubDate>Wed, 18 Nov 2026 21:50:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Krachen nginx und WordPress, darf PHP nicht fehlen. Es gibt auch kritische Probleme; Details und Updates folgen am Donnerstag.]]></description>
-    </item>
-    <item>
-      <title>Webserver: nginx-Update schließt schwere Lücken</title>
-      <link>https://www.heise.de/news/Webserver-nginx-Update-schliesst-schwere-Luecken-11530216.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530216</guid>
-      <pubDate>Wed, 18 Nov 2026 20:36:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Für den weltweit meistgenutzten Webserver nginx gibt es frische Patches. Unbedingt unverzüglich updaten.]]></description>
-    </item>
-    <item>
-      <title>WordPress-Update schließt zig Lücken</title>
-      <link>https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530196</guid>
-      <pubDate>Wed, 18 Nov 2026 19:38:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.]]></description>
-    </item>
-    <item>
-      <title>Lyft-Übernahme: FreeNow verschwindet vom Markt</title>
-      <link>https://www.heise.de/news/Nach-FreeNow-Uebernahme-Lyft-steigt-wieder-bei-Mietwagen-ein-11530160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530160</guid>
-      <pubDate>Wed, 18 Nov 2026 19:20:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nach der Übernahme von FreeNow will Lyft wieder Mietwagen vermitteln. Mittelfristig wird die Marke FreeNow vom Markt verschwinden.]]></description>
-    </item>
-    <item>
-      <title>Top 10: Die beste Screenbar im Test</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-screenbar-im-test-monitorlampe-mit-hellem-licht-ab-23-euro/1y3x1w6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530068</guid>
-      <pubDate>Wed, 18 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Screenbars leuchten den Schreibtisch blendfrei aus und kosten keinen Platz. Wir zeigen die besten Monitorlampen aus 21 Tests.]]></description>
-    </item>
-    <item>
-      <title>Dateiformat RUML übersetzt Gesetze in maschinenlesbare Logik</title>
-      <link>https://www.heise.de/news/Dateiformat-RUML-uebersetzt-Gesetze-in-maschinenlesbare-Logik-11530020.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530020</guid>
-      <pubDate>Wed, 18 Nov 2026 17:31:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das JSON-Format RUML soll Gesetze maschinenausführbar machen. Die von SPRIND unterstützte Rulemapping Group startet zudem das Law as Code Institut.]]></description>
-    </item>
-    <item>
-      <title>Live-Talk: GTA VI angezockt – wird es dem Hype gerecht?</title>
-      <link>https://www.heise.de/ratgeber/Live-Talk-GTA-VI-angezockt-wird-es-dem-Hype-gerecht-11524580.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11524580</guid>
-      <pubDate>Wed, 18 Nov 2026 17:25:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[GTA VI ist da! Wir haben es angespielt und teilen im Livestream unsere Eindrücke und beantworten Ihre Fragen.]]></description>
-    </item>
-    <item>
-      <title>AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur</title>
-      <link>https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530042</guid>
-      <pubDate>Wed, 18 Nov 2026 17:14:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.]]></description>
-    </item>
-    <item>
-      <title>DAZN droht Rückzahlung nach unzulässigen Preiserhöhungen</title>
-      <link>https://www.heise.de/news/DAZN-droht-Rueckzahlung-nach-unzulaessigen-Preiserhoehungen-11529888.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529888</guid>
-      <pubDate>Wed, 18 Nov 2026 16:51:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Verbraucherschützer siegen vor dem OLG Hamm gegen DAZN. Das Urteil konkretisiert die Grundlagen für Rückzahlungen an Kunden.]]></description>
-    </item>
-    <item>
-      <title>Kitesurf steht jetzt unter Apache-Lizenz auf GitHub</title>
-      <link>https://www.heise.de/news/Kitesurf-steht-jetzt-unter-Apache-Lizenz-auf-GitHub-11529684.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529684</guid>
-      <pubDate>Wed, 18 Nov 2026 16:48:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Kitesurf nutzt Rust und WebAssembly als Rendering-Stack statt Chromium, was weniger Speicher, aber mehr Zeit frisst. Den Code gibt es nun auf GitHub.]]></description>
-    </item>
-    <item>
-      <title>GLS und DPD fusionieren: Marke DPD verschwindet</title>
-      <link>https://www.heise.de/news/Marke-DPD-verschwindet-Paketdienst-GLS-schliesst-sich-mit-DPD-zusammen-11529986.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529986</guid>
-      <pubDate>Wed, 18 Nov 2026 16:47:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Für Briefe bleibt meist die Post, beim Paketversand gibt es mehr Optionen. Doch die Auswahl für Verbraucher wird künftig wohl kleiner.]]></description>
-    </item>
-    <item>
-      <title>Anthropic und Cisco integrieren Claude Mythos 5 in AI Defense</title>
-      <link>https://www.heise.de/news/Anthropic-und-Cisco-integrieren-Claude-Mythos-5-in-AI-Defense-11529932.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529932</guid>
-      <pubDate>Wed, 18 Nov 2026 16:42:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Anthropic und Cisco kooperieren bei der Absicherung von KI-Agenten. Das Modell Mythos 5 hält Einzug in die KI-Sicherheitsplattform AI Defense.]]></description>
-    </item>
-    <item>
-      <title>BGH: KI-generierte Schriftsätze können unzulässige Rechtsmittel sein</title>
-      <link>https://www.heise.de/news/BGH-KI-generierte-Schriftsaetze-koennen-unzulaessige-Rechtsmittel-sein-11529938.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529938</guid>
-      <pubDate>Wed, 18 Nov 2026 16:42:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wer Revisionsbegründungen ungeprüft von Künstlicher Intelligenz erstellen lässt, riskiert laut Bundesgerichtshof, dass das eingelegte Rechtsmittel ungültig ist.]]></description>
-    </item>
-    <item>
-      <title>App Store Awards 2026: Vier Apps aus Deutschland nominiert</title>
-      <link>https://www.heise.de/news/App-Store-Awards-2026-Vier-Apps-aus-Deutschland-nominiert-11529954.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529954</guid>
-      <pubDate>Wed, 18 Nov 2026 16:33:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Bei den diesjährigen App Store Awards von Apple sind gleich fünf Apps aus dem deutschsprachigen Europa nominiert.]]></description>
-    </item>
-    <item>
-      <title>Experiment: KIs identifizieren Zivilisten als Schussziele</title>
-      <link>https://www.heise.de/news/KI-Modelle-markieren-Zivilisten-als-militaerische-Ziele-11529550.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529550</guid>
-      <pubDate>Wed, 18 Nov 2026 16:23:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Ein Experiment zeigt, dass Frontier-KI-Modelle oft Zivilisten als militärische Ziele markieren. Verweigern tun sich einige nur selten.]]></description>
-    </item>
-    <item>
-      <title>Microsoft Ignite 26: Azure wird agentischer und Windows rückt in die Cloud</title>
-      <link>https://www.heise.de/news/Microsoft-Ignite-26-Azure-wird-agentischer-und-Windows-rueckt-in-die-Cloud-11529788.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529788</guid>
-      <pubDate>Wed, 18 Nov 2026 15:54:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.]]></description>
-    </item>
-    <item>
-      <title>#heiseshow: Anthropic, Cloud-Ausfälle, Voyager 1</title>
-      <link>https://www.heise.de/news/heiseshow-Anthropic-Cloud-Ausfaelle-Voyager-1-11529900.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529900</guid>
-      <pubDate>Wed, 18 Nov 2026 15:44:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[In der #heiseshow: Anthropic plant den Börsengang, die Abhängigkeit von Microsoft, Apple & Co. wird zum Risiko und Voyager 1 ist einen Lichttag entfernt.]]></description>
-    </item>
-    <item>
-      <title>Nebenkostenprivileg: Verfassungsgericht weist Beschwerde gegen TKG zurück</title>
-      <link>https://www.heise.de/news/Nebenkostenprivileg-Verfassungsgericht-weist-Beschwerde-gegen-TKG-zurueck-11529488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529488</guid>
-      <pubDate>Wed, 18 Nov 2026 15:40:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Mit dem Aus des Nebenkostenprivilegs konnten Hausbesitzer ihre Kabel-Verträge kündigen. Verfassungsbeschwerden von Netzbetreibern hat Karlsruhe zurückgewiesen.]]></description>
-    </item>
-    <item>
-      <title>Copilotforce: Wie KI-Agenten Unternehmenssoftware-Oberflächen ablösen</title>
-      <link>https://www.heise.de/news/Copilotforce-Microsoft-macht-Copilot-zur-Bedienoberflaeche-fuer-Salesforce-11529752.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529752</guid>
-      <pubDate>Wed, 18 Nov 2026 15:14:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Microsoft und Salesforce integrieren CRM-Funktionen und Geschäftsprozesse in Copilot. Ersetzt der KI-Assistent bald die klassische Bedienoberfläche?]]></description>
-    </item>
-    <item>
-      <title>Fensterputzroboter Ecovacs Winbot Mini 2 im Test: Kleiner Preis, große Hilfe?</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/fensterputzroboter-ecovacs-winbot-mini-2-im-test-kleiner-preis-grosse-hilfe/vrqx4lm?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529810</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Ecovacs Winbot Mini 2 bekommt Filz-Kantenschrubber und eine neue Navigation. Wie viel besser er putzt als sein Vorgänger, zeigt der Test.]]></description>
-    </item>
-    <item>
-      <title>Für Galaxy S26-Serie: Samsung gibt erste Beta von One UI 9.5 frei</title>
-      <link>https://www.heise.de/news/Fuer-Galaxy-S26-Serie-Samsung-gibt-erste-Beta-von-One-UI-9-5-frei-11529818.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529818</guid>
-      <pubDate>Wed, 18 Nov 2026 14:52:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Samsung hat die erste Betaversion von One UI 9.5 für die Galaxy-S26-Serie mit neuen Funktionen veröffentlicht. Auch in Deutschland lässt sie sich ausprobieren.]]></description>
-    </item>
-    <item>
-      <title>Microsoft stellt neue KI-Modelle vor und erweitert sein Lizenzgeschäft</title>
-      <link>https://www.heise.de/news/Microsoft-stellt-neue-KI-Modelle-vor-und-erweitert-sein-Lizenzgeschaeft-11529784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529784</guid>
-      <pubDate>Wed, 18 Nov 2026 14:33:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Microsoft setzt verstärkt auf spezialisierte KI-Modelle, die preislich mit der Konkurrenz mithalten sollen. Ein Spitzenmodell ist aber weiter in Entwicklung.]]></description>
     </item>
   </channel>
 </rss>

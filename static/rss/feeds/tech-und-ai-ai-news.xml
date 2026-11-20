@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic-Börsengang macht 2800 Mitarbeiter zu Millionären</title>
+      <link>https://www.all-ai.de/news/news26top/anthropic-boerse-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-boerse-start</guid>
+      <pubDate>Thu, 19 Nov 2026 19:52:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Rund 2800 aktuelle und ehemalige Anthropic-Mitarbeiter besitzen laut einer Schätzung Anteile im Wert von mindestens 1 Million $. Der erste Kurs lag bei 111,50$, am frühen Abend notierte die Aktie mit 95,62$ noch 15,2% über dem Ausgabepreis. Mitarbeiter können zunächst nur einen Teil ihrer Anteile verkaufen, deshalb besteht ihr Vermögen vorerst überwiegend auf dem Papier. Anthropic: Ausgabepreis und Umfang des Börsengangs SEC: Anthropic-Börsenprospekt Reuters: Anthropic IPO to mint thousands of millionaires Der Börsengang von Anthropic beschert Tausenden aktuellen und ehemaligen Mitarbeitern ein Vermögen. Rund 2800 von ihnen besitzen nach einer Schätzung Aktienanteile im Wert von mindestens 1 Million $. Die Anthropic-Aktie startete am 19. November 2026 an der Nasdaq mit 111,50$. Später fiel der Kurs deutlich zurück und lag um 19:56 Uhr deutscher Zeit bei 95,62$, weiterhin 15,2% über dem Ausgabepreis. Aktienoptionen schaffen Vermögen auf dem Papier Die Zahl von 2800 Millionären stammt vom Marktforscher Sacra. Das Unternehmen berechnete den Wert der bereits verdienten Mitarbeiteranteile anhand öffentlich verfügbarer Daten und einer Anthropic-Bewertung von 1,35 Billionen $. Die Plat...]]></description>
+    </item>
+    <item>
+      <title>Ideogram 4.6 Release: Natives 4k und Platz 1 in Multi-Image-Edit</title>
+      <link>https://www.all-ai.de/news/news26top/ideogram-4-6-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ideogram-4-6-start</guid>
+      <pubDate>Thu, 19 Nov 2026 19:20:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Ideogram 4.6 erzeugt Bilder direkt in bis zu 4K. Im Ideogram-Test trifft es vorgegebene Produktfarben häufiger als Version 4.5. Rapidata setzt Ideogram 4.6 im Vergleich mehrstufiger Fotoänderungen auf Platz eins. Das Modell ist in der Ideogram-App, über die API und bei Partnern wie fal verfügbar. Ideogram – Vorstellung von Ideogram 4.6 Rapidata – Rangliste für mehrstufige Bildbearbeitung Ideogram – Modellübersicht der API Ideogram 4.6 erzeugt Bilder direkt in bis zu 4K und soll bei gezielten Änderungen weniger ungewollte Spuren im restlichen Motiv hinterlassen. In einem Benchmark mit fünf aufeinanderfolgenden Bearbeitungen erreicht das neue KI-Modell den ersten Platz. Anzeige Mehr Details ohne Upscale Bei der Bilderzeugung berechnet Ideogram 4.6 jeden Bildpunkt in der gewählten Auflösung neu. Ein nachträgliches Upscale entfällt. Dadurch sollen Hautporen, Falten und Stoffe natürlicher wirken und weniger nach geglätteter KI-Grafik aussehen. Das Modell bietet vier Qualitätsstufen. »Very Low« reicht bis 2K, die übrigen Stufen unterstützen auch 4K. Für neue Bilder lassen sich bis zu fünf Referenzbilder einbinden. Änderungen bleiben an der gewählten Stelle Mit »Precise Edit« kann der ...]]></description>
+    </item>
     <item>
       <title>Anthropic legt den größten Börsengang aller Zeiten hin</title>
       <link>https://www.all-ai.de/news/news26top/anthropic-aktie-boerse-rekord</link>
@@ -16,33 +34,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Anthropic bietet 980 Millionen Aktien zu je 83$ an. Das Volumen von 81,34 Milliarden $ macht den Börsengang zum bisher größten. Der Handel unter dem Kürzel »ANT« soll am 19. November 2026 an der Nasdaq beginnen. Der Nettoverlust von 104,04 Milliarden $ beruht größtenteils auf einem Buchungseffekt. Anthropic prices initial public offering Anthropic, PBC – Prospektnachtrag bei der SEC AP: Anthropic to begin trading after pricing its stock at $83 per share Anthropic verkauft beim Börsengang 980 Millionen Aktien zu je 83$. Das KI-Unternehmen hinter Claude nimmt damit zusammen mit bisherigen Aktionären 81,34 Milliarden $ ein und übertrifft den bisherigen Rekord von SpaceX. Anzeige Anthropic erhöht Preis und Aktienzahl Der endgültige Preis liegt über der zuvor genannten Spanne von 70 bis 78$. Auch die Zahl der angebotenen Aktien stieg deutlich. Ursprünglich hatte Anthropic mit 825 Millionen Aktien geplant. Von den 980 Millionen Aktien stammen rund 956,35 Millionen direkt von Anthropic. Die übrigen 23,65 Millionen verkaufen bisherige Aktionäre. Zusätzlich dürfen die Banken innerhalb von 30 Tagen bis zu 147 Millionen weitere Aktien erwerben. Der Handel soll am 19. November 2026 an der N...]]></description>
-    </item>
-    <item>
-      <title>Gemini 4 Neon Release: Platz 3 hinter Fable und Astra</title>
-      <link>https://www.all-ai.de/news/news26top/gemini-4-neon-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/gemini-4-neon-start</guid>
-      <pubDate>Wed, 18 Nov 2026 22:10:45 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Gemini 4 Neon liegt zwischen dem besonders tief arbeitenden Carbon und dem schnellen Hydrogen. Mit 61 Punkten erreicht es Platz drei im Artificial Analysis Intelligence Index 5.0.1. Das Modell punktet vor allem bei Wissensarbeit, Coding, Wissenschaft und Cybersecurity. Die API kostet 3$ pro Million Input-Token und 15$ pro Million Output-Token. Google: Introducing Gemini 4 Neon Google DeepMind: Gemini 4 Google AI Studio: Gemini 4 Neon Pricing Google DeepMind: Gemini 4 Neon Model Card Artificial Analysis: Intelligence Index 5.0.1 Google erweitert seine Gemini-4-Familie um ein Modell für anspruchsvolle Aufgaben, bei denen neben Qualität auch Tempo und Kosten eine Rolle spielen. Obwohl Gemini 4 Neon günstiger ist als Carbon und Argon, landet es im Artificial Analysis Intelligence Index vor diesen beiden auf Platz drei. Anzeige Zwischen Carbon und Hydrogen Gemini 4 Neon besetzt die Mitte zwischen Carbon und Hydrogen. Carbon bleibt für besonders schwierige Langzeitprojekte und umfangreiche Forschung vorgesehen. Hydrogen kümmert sich um schnelle alltägliche Aufgaben, während Neon tiefes Reasoning mit höherem Tempo für häufige komplexe Arbeiten verbindet. + Quelle: Google Die Model Card...]]></description>
-    </item>
-    <item>
-      <title>Sam Altman warnt vor einer Machtübergabe an KI</title>
-      <link>https://www.all-ai.de/news/news26top/sam-altman-ki-macht</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/sam-altman-ki-macht</guid>
-      <pubDate>Wed, 18 Nov 2026 18:53:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Sam Altman lehnt eine schrittweise Machtübergabe an KI-Modelle ab. Greg Brockman warnt, dass die Chain of Thought bei stärkeren Modellen weniger Einblick geben könnte. OpenAI sucht deshalb neue Kontrollen, will die Entwicklung fähiger Cybermodelle aber fortsetzen. TechCrunch: Sam Altman warns against a future where AI, not humans, calls the shots The New York Times: DealBook Summit OpenAI: The Hugging Face incident and the road ahead OpenAI-Chef Sam Altman warnt davor, Entscheidungen über die Zukunft schrittweise an KI-Modelle abzugeben. Beim DealBook Summit der New York Times erklärte er gemeinsam mit OpenAI-Präsident Greg Brockman, dass Menschen dauerhaft die Kontrolle behalten müssten. Anzeige Altman widerspricht einer Idee aus dem Silicon Valley In Teilen des Silicon Valley wird über eine allmähliche Machtübergabe an KI diskutiert. Dahinter steht die Annahme, dass immer fähigere Modelle sich selbst verbessern und schließlich wichtige Entscheidungen in Unternehmen, Institutionen und Gesellschaft treffen könnten. Altman bezeichnete diese Vorstellung als »furchtbare Idee«. OpenAI müsse eine absichtliche oder versehentliche Übergabe verhindern, obwohl Wettbewerbsdruck und die Pl...]]></description>
-    </item>
-    <item>
-      <title>Google startet Genie 4: KI-Welten reagieren jetzt auf Zuruf</title>
-      <link>https://www.all-ai.de/news/news26top/google-projekt-genie-4-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-projekt-genie-4-start</guid>
-      <pubDate>Wed, 18 Nov 2026 18:36:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Google gibt berechtigten AI-Ultra-Abonnenten erstmals Zugriff auf Genie 4 in Project Genie. Welten lassen sich während der Erkundung per Prompt verändern und erhalten passend erzeugtes Audio. Ein neuer Agent hilft beim Aufbau, während eine Galerie das Entdecken und Verändern fremder Welten ermöglicht. Genie 4 bleibt ein Forschungsmodell mit Grenzen bei dauerhafter Bildkonsistenz, Physik und Audio. Genie 4 is now available Genie 4 – Google DeepMind Project Genie DeepMind unveils Genie 4 world model promising more realistic physics and humans Google veröffentlicht Genie 4 und gibt damit erstmals Abonnenten von Google AI Ultra Zugriff auf sein neues Weltmodell. Nutzer können interaktive Welten im Browser erzeugen, während der Erkundung verändern und mit passend erzeugtem Ton erleben. Neue Figuren, anderes Wetter und Gespräche in Echtzeit Genie 4 berechnet eine virtuelle Umgebung fortlaufend, statt ein fertiges Video abzuspielen. Der Nutzer bewegt sich mit Maus und Tastatur durch die Szene und kann jederzeit einen weiteren Prompt eingeben. So lassen sich etwa das Wetter wechseln, eine Figur hinzufügen oder die Handlung in eine andere Richtung lenken. Neu ist auch nativ erzeugtes Aud...]]></description>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,206 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Google is pushing OEMs against GrapheneOS and bootloader unlocking</title>
+      <link>https://grapheneos.social/@GrapheneOS/117645038299496084</link>
+      <guid isPermaLink="false">https://grapheneos.social/@GrapheneOS/117645038299496084</guid>
+      <pubDate>Fri, 20 Nov 2026 05:21:02 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>FFmpeg 9.1 'Gauss'</title>
+      <link>https://ffmpeg.org/download.html#release_9.1</link>
+      <guid isPermaLink="false">https://ffmpeg.org/download.html#release_9.1</guid>
+      <pubDate>Fri, 20 Nov 2026 04:02:39 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>GIMP now has UI tests</title>
+      <link>https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</link>
+      <guid isPermaLink="false">https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</guid>
+      <pubDate>Fri, 20 Nov 2026 04:00:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>PostgreSQL 19</title>
+      <link>https://www.postgresql.org/docs/release/19.0/</link>
+      <guid isPermaLink="false">https://www.postgresql.org/docs/release/19.0/</guid>
+      <pubDate>Fri, 20 Nov 2026 03:45:45 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup</title>
+      <link>https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/</link>
+      <guid isPermaLink="false">https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/</guid>
+      <pubDate>Fri, 20 Nov 2026 02:43:49 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)</title>
+      <link>https://github.com/openssl/openssl/pull/33652</link>
+      <guid isPermaLink="false">https://github.com/openssl/openssl/pull/33652</guid>
+      <pubDate>Fri, 20 Nov 2026 02:01:09 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Vint Cerf on why TCP/IP was never patented</title>
+      <link>https://seremot.com/p/vint-cerf-on-why-tcpip-was-never</link>
+      <guid isPermaLink="false">https://seremot.com/p/vint-cerf-on-why-tcpip-was-never</guid>
+      <pubDate>Fri, 20 Nov 2026 01:06:12 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Postgres 19 is out, and it's available on Neon and Databricks Lakebase</title>
+      <link>https://www.databricks.com/blog/postgresql-19-available-lakebase</link>
+      <guid isPermaLink="false">https://www.databricks.com/blog/postgresql-19-available-lakebase</guid>
+      <pubDate>Fri, 20 Nov 2026 00:37:31 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>ChatGPT for SNES</title>
+      <link>https://www.bxfoundry.com/chatgpt_snes/</link>
+      <guid isPermaLink="false">https://www.bxfoundry.com/chatgpt_snes/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:25:59 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>RegExr: Temporarily Offline</title>
+      <link>https://regexr.com/</link>
+      <guid isPermaLink="false">https://regexr.com/</guid>
+      <pubDate>Thu, 19 Nov 2026 22:27:07 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Synology Security Advisory</title>
+      <link>https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21</link>
+      <guid isPermaLink="false">https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21</guid>
+      <pubDate>Thu, 19 Nov 2026 22:13:40 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Rebuilding my local voice assistant pipeline</title>
+      <link>https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline</link>
+      <guid isPermaLink="false">https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline</guid>
+      <pubDate>Thu, 19 Nov 2026 20:57:14 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]</title>
+      <link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=lwfewYL7X0o</guid>
+      <pubDate>Thu, 19 Nov 2026 18:47:16 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The 98% Slot Machine: How Paid Advertising Became an Extraction Tax</title>
+      <link>https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</link>
+      <guid isPermaLink="false">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</guid>
+      <pubDate>Thu, 19 Nov 2026 18:35:17 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Claude solves two open problems in the physics of black holes</title>
+      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-black-hole-physics</guid>
+      <pubDate>Thu, 19 Nov 2026 17:30:44 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Pancreatic cancer halted by virus injection in three patients</title>
+      <link>https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/</link>
+      <guid isPermaLink="false">https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:25:33 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Anthropic’s Nasdaq debut</title>
+      <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
+      <guid isPermaLink="false">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:02:40 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Launch HN: Onlook (YC W25) – An open-source developer tool for designers</title>
+      <link>https://github.com/onlook-dev/onlook/</link>
+      <guid isPermaLink="false">https://github.com/onlook-dev/onlook/</guid>
+      <pubDate>Thu, 19 Nov 2026 16:34:04 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>UK government forced to admit it issued Apple a secret encryption order</title>
+      <link>https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</link>
+      <guid isPermaLink="false">https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</guid>
+      <pubDate>Thu, 19 Nov 2026 16:21:03 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest</title>
+      <link>https://cornholenews.news</link>
+      <guid isPermaLink="false">https://cornholenews.news</guid>
+      <pubDate>Thu, 19 Nov 2026 15:38:32 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Making 8-page foldable zines from a single A4 sheet in the browser</title>
+      <link>https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</link>
+      <guid isPermaLink="false">https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</guid>
+      <pubDate>Thu, 19 Nov 2026 13:18:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Someone reported java4shell bug in September 2026</title>
+      <link>https://github.com/openjdk/jdk/pull/32781</link>
+      <guid isPermaLink="false">https://github.com/openjdk/jdk/pull/32781</guid>
+      <pubDate>Thu, 19 Nov 2026 11:47:03 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
   </channel>
 </rss>

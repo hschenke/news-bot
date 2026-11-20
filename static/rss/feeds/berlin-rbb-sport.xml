@@ -5,9 +5,45 @@
     <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>"Wie ein Star": So erlebt ein Nationalspieler die Amputierten-WM</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/amputierten-fussball-wm-2026-mexiko-berliner-benito-salazar.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/amputierten-fussball-wm-2026-mexiko-berliner-benito-salazar.html</guid>
+      <pubDate>Fri, 20 Nov 2026 05:19:01 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Der Berliner Benito Salazar nimmt mit dem deutschen Nationalteam bei der Fußball-WM der Beinamputierten in Mexiko teil. Sportlich sind die vorderen Plätze verpasst. Doch die Beigeisterung bleibt.]]></description>
+    </item>
+    <item>
+      <title>Trotz Klassenunterschied: Darum darf Union gegen Leipzig hoffen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/vorbericht-bundesliga-union-berlin-rb-leipzig-gruda-lustrinelli.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/vorbericht-bundesliga-union-berlin-rb-leipzig-gruda-lustrinelli.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:44:22 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Die Kräfteverhältnisse sind vor der Partie Union Berlin gegen RB Leipzig klar definiert: Torflaute gegen Torfabrik. Oder auch: Krisenklub gegen das Team der Stunde. Doch es gibt auch Gründe, warum Union hoffen darf.]]></description>
+    </item>
+    <item>
+      <title>Alba gegen Bayern: (K)ein Spitzenspiel bei Thiemanns Rückkehr</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-fc-bayern-muenchen-johannes-thiemann.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-fc-bayern-muenchen-johannes-thiemann.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:10:15 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Am Sonntag empfängt Alba Berlin den FC Bayern Basketball zu einem Spitzenspiel, das auf dem Papier eigentlich keines ist. Emotional wird's trotzdem - auch weil Ex-Alba-Kapitän Johannes Thiemann erstmals im Trikot des Erzrivalen zu Gast ist.]]></description>
+    </item>
+    <item>
+      <title>Eisbären-Verteidiger Jonas Müller fällt wegen Thrombose aus</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/del-eishockey-thrombose-erkrankung-jonas-mueller-eisbaeren.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/del-eishockey-thrombose-erkrankung-jonas-mueller-eisbaeren.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:52:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
     <item>
       <title>Lukas Michelbrink: Hertha-Leihgabe ist für Cottbus unverzichtbar</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-derby-zweite-bundesliga-energie-cottbus-hertha-bsc-lukas-michelbrink.html</link>
@@ -25,42 +61,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Vor anderthalb Jahren gründete die US-Amerikanerin Meg Russell den Slow Poke Run Club – Berlins langsamsten Laufclub. Im rbb-Interview erzählt sie dessen frustrierende Vorgeschichte und erklärt das "große Missverständnis" im boomenden Laufsport.]]></description>
-    </item>
-    <item>
-      <title>Eisbären Berlin erreichen das Viertelfinale der CHL</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-eishockey-eisbaeren-kouvala-chl-achtelfinale-rueckspiel.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-eishockey-eisbaeren-kouvala-chl-achtelfinale-rueckspiel.html</guid>
-      <pubDate>Wed, 18 Nov 2026 21:10:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>31:34 gegen Aalborg: Füchse in der Champions League unter Druck</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-handball-fuechse-aalborg-champions-league-spielbericht.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-handball-fuechse-aalborg-champions-league-spielbericht.html</guid>
-      <pubDate>Wed, 18 Nov 2026 19:55:40 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Datenanalyse zum Tabellenführer: Hertha ist einfach wirklich so gut</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-fussball-hertha-bsc-statistiken-leitl-daten-tabellenfuehrung-goerlich.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-fussball-hertha-bsc-statistiken-leitl-daten-tabellenfuehrung-goerlich.html</guid>
-      <pubDate>Wed, 18 Nov 2026 19:36:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Hertha BSC führt die 2. Bundesliga mit einer atemberaubenden Dominanz an. Doch wie gut sind die Berliner wirklich? Ein tiefer Blick in die Daten zeigt: die blau-weiße Tabellenführung ist mehr als verdient, Hertha ist im Vergleich zur Vorsaison nicht wiederzuerkennen.]]></description>
-    </item>
-    <item>
-      <title>SC Inklusion gewinnt "Stern des Sports" in Silber</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-sterne-des-sports-gewinner-sc-inklusion-tuerkiyemspor-tsc.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/berlin-sport-sterne-des-sports-gewinner-sc-inklusion-tuerkiyemspor-tsc.html</guid>
-      <pubDate>Wed, 18 Nov 2026 18:00:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
     </item>
   </channel>
 </rss>

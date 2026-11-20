@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Finanzen+%26+Coins</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Finanzen &amp; Coins' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:01:14 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/finanzen-und-coins.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,24 +13,6 @@
       <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-auf-63500-dollar-zinsangste-belasten-kryptomarkt-weiter-3776625</link>
       <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-auf-63500-dollar-zinsangste-belasten-kryptomarkt-weiter-3776625</guid>
       <pubDate>Thu, 19 Nov 2026 06:45:07 GMT</pubDate>
-      <category>Finanzen &amp; Coins</category>
-      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Bitcoin, Ethereum, Solana: Das 15-Fache bis 2031 – Experten halten es für möglich</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-ethereum-solana-das-15fache-bis-2031--experten-halten-es-fur-moglich-3775782</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-ethereum-solana-das-15fache-bis-2031--experten-halten-es-fur-moglich-3775782</guid>
-      <pubDate>Wed, 18 Nov 2026 15:36:51 GMT</pubDate>
-      <category>Finanzen &amp; Coins</category>
-      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>XRP: Jetzt mischt sogar Goldman Sachs mit</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/xrp-jetzt-mischt-sogar-goldman-sachs-mit-3775695</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/xrp-jetzt-mischt-sogar-goldman-sachs-mit-3775695</guid>
-      <pubDate>Wed, 18 Nov 2026 15:01:32 GMT</pubDate>
       <category>Finanzen &amp; Coins</category>
       <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
       <description><![CDATA[]]></description>
