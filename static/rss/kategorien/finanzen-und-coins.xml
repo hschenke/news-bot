@@ -5,23 +5,50 @@
     <link>https://news-bot.streamlit.app/?category=Finanzen+%26+Coins</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Finanzen &amp; Coins' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:34:37 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/finanzen-und-coins.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ethereum fällt um 10% - Wo soll das noch hinführen?</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/ethereum-fallt-um-10--wo-soll-das-noch-hinfuhren-3780503</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/ethereum-fallt-um-10--wo-soll-das-noch-hinfuhren-3780503</guid>
-      <pubDate>Fri, 20 Nov 2026 19:18:06 GMT</pubDate>
+      <title>Bitcoin fällt um 10% - Anleger brauchen starke Nerven</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-um-10--anleger-brauchen-starke-nerven-3780799</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-um-10--anleger-brauchen-starke-nerven-3780799</guid>
+      <pubDate>Sat, 21 Nov 2026 06:02:06 GMT</pubDate>
       <category>Finanzen &amp; Coins</category>
       <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
       <description><![CDATA[]]></description>
     </item>
     <item>
-      <title>Bitcoin rutscht unter 62.000 US-Dollar – siebte Verlustwoche in Folge droht</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-unter-62000-dollar-auf-funfmonatstief--kikorrektur-belastet-risikobereitschaft-3778948</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-unter-62000-dollar-auf-funfmonatstief--kikorrektur-belastet-risikobereitschaft-3778948</guid>
-      <pubDate>Fri, 20 Nov 2026 06:29:31 GMT</pubDate>
+      <title>Cardano fällt um 10% - Geht es weiter abwärts?</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/cardano-fallt-um-10--geht-es-weiter-abwarts-3780797</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/cardano-fallt-um-10--geht-es-weiter-abwarts-3780797</guid>
+      <pubDate>Sat, 21 Nov 2026 05:57:59 GMT</pubDate>
+      <category>Finanzen &amp; Coins</category>
+      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Bitcoin fällt unter $56.000: Zunehmender Liquiditätsengpass verschärft Krypto-Ausverkauf</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-sturzt-unter-56000-usdollar-liquiditatsengpass-verscharft-kryptoausverkauf-3780796</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-sturzt-unter-56000-usdollar-liquiditatsengpass-verscharft-kryptoausverkauf-3780796</guid>
+      <pubDate>Sat, 21 Nov 2026 05:46:26 GMT</pubDate>
+      <category>Finanzen &amp; Coins</category>
+      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>XRP fällt um 10% - Geht es weiter abwärts?</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/xrp-fallt-um-10--geht-es-weiter-abwarts-3780793</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/xrp-fallt-um-10--geht-es-weiter-abwarts-3780793</guid>
+      <pubDate>Sat, 21 Nov 2026 05:44:07 GMT</pubDate>
+      <category>Finanzen &amp; Coins</category>
+      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Ethereum fällt um 10% - Wo soll das noch hinführen?</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/ethereum-fallt-um-10--wo-soll-das-noch-hinfuhren-3780503</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/ethereum-fallt-um-10--wo-soll-das-noch-hinfuhren-3780503</guid>
+      <pubDate>Fri, 20 Nov 2026 19:18:06 GMT</pubDate>
       <category>Finanzen &amp; Coins</category>
       <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
       <description><![CDATA[]]></description>

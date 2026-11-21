@@ -5,9 +5,45 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:34:37 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AetherCycle - Early Access Release</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60614</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60614</guid>
+      <pubDate>Sat, 21 Nov 2026 11:10:57 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[AetherCycle has been released into Early Access: AetherCycle - Official Early Access Launch Trailer AetherCycle is a first-person action RPG featuring fast-paced combat, character leveling, abilities, and loot-driven gear progression. Explore a vast world, conquer dungeons, and grow stronger solo or in co-op as the Cycle affects the world....]]></description>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI - $3.79 Billion in Day One Retail Sales</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60613</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60613</guid>
+      <pubDate>Sat, 21 Nov 2026 11:07:20 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Largh spotted that Grand Theft Auto VI day one retail sales reached $3.79 billion. The budget is estimated somewhere above $1 billion, but not confirmed by Take-Two. (Here: 1 billion = one thousand million - in many countries this is called a millia...]]></description>
+    </item>
+    <item>
+      <title>RPG General News - Crowdfunding: Brany Skeldalu 4</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60612</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60612</guid>
+      <pubDate>Sat, 21 Nov 2026 10:56:46 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Kordanor spotted a crowdfunding project for a dungeon crawler called Brany Skeldalu 4. A successor for the Czech dungeon crawler Gates of Seldal: Brány Skeldalu 4 | Kampaň na Startovači The creator Jindřich is running a crowdfunding campaign on the czech platform startovac....]]></description>
+    </item>
+    <item>
+      <title>Rise of Furax - Announced for April 2027</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60611</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60611</guid>
+      <pubDate>Sat, 21 Nov 2026 10:43:40 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Rap2h, who released the Might and Magic inspired Heroes of the Seven Islands announced that he is going to also make a real Grid Based Dungeon Crawler called Rise of Furax: Rise of Furax A dungeon crawler RPG set in the Heroes of the Seven Islands universe, where every element, from sprites to textures, was hand-drawn on paper....]]></description>
+    </item>
     <item>
       <title>Zenless Zone Zero - Version 3.4 Special Program</title>
       <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60610</link>
@@ -16,60 +52,6 @@
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
       <description><![CDATA[Alrik spotted a new special program for Zenless Zone Zero: Zenless Zone Zero Version 3.4 "The Finality of the Day" Special Program New Code:SUNCHASER]]></description>
-    </item>
-    <item>
-      <title>Warhammer 40K: Dark Heresy - Overview</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60609</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60609</guid>
-      <pubDate>Fri, 20 Nov 2026 08:19:59 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Mortismal Gaming checked out Warhammer 40K: Dark Heresy: WH40k: Dark Heresy - Release Date, Leagues of Votann, & My Thoughts Ahead Of Launch]]></description>
-    </item>
-    <item>
-      <title>Mihoyo - A $30 Billion Gacha Empire</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60608</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60608</guid>
-      <pubDate>Fri, 20 Nov 2026 08:00:17 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[RedJoker tells the story of Mihoyo: How 3 Broke College Weebs Built a $30 Billion Gacha Empire]]></description>
-    </item>
-    <item>
-      <title>Underkeep - Review</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60607</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60607</guid>
-      <pubDate>Fri, 20 Nov 2026 07:42:56 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Twigmaster Gaming reviewed Underkeep: Underkeep - Review After 100%]]></description>
-    </item>
-    <item>
-      <title>Mistfall Hunter - Free Weekend</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60606</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60606</guid>
-      <pubDate>Fri, 20 Nov 2026 07:35:32 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[You can check out Mistfall Hunter from November 19, 12:00 to November 23, 18:00 (UTC+0) for free.]]></description>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI - Review @ Noisy Pixel</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60605</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60605</guid>
-      <pubDate>Fri, 20 Nov 2026 07:17:46 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Noisy Pixel reviewed Grand Theft Auto VI: Grand Theft Auto VI Review - A Crime Action Epic That Remembers to Be a Game Score: 9/10]]></description>
-    </item>
-    <item>
-      <title>Fate/EXTRA Record - Character Introduction</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60604</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60604</guid>
-      <pubDate>Fri, 20 Nov 2026 07:05:11 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Learn more about Julius and Dan - two characters of the remake Fate/EXTRA Record: "Fate/EXTRA Record" Character Introduction Trailer(Julius Faction) "Fate/EXTRA Record" Character Introduction Trailer(Dan Faction)]]></description>
     </item>
   </channel>
 </rss>

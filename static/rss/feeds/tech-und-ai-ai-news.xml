@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:34:37 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,33 +16,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Levent Alpöge erklärt, er habe mit Claude einen Beweis der Riemann-Hypothese gefunden. Der veröffentlichte Lean-Beweis besteht aus 14 Archivteilen und soll auch die verallgemeinerte Riemann-Hypothese abdecken. Der Code und die mathematische Aussage müssen nun von Fachleuten geprüft werden. Eine offizielle Anerkennung durch das Clay Mathematics Institute wäre frühestens nach mehreren Jahren möglich. Levent Alpöge: Erklärung zur behaupteten Lösung der Riemann-Hypothese Scientific American: Anthropic mathematician claims to prove Riemann hypothesis Anthropic: Claude verbessert Ergebnis zur Riemannschen Zetafunktion Clay Mathematics Institute: Regeln für die Millennium-Preise Anthropic: Abschluss des Börsengangs Der Anthropic-Mathematiker Levent Alpöge sorgt mit einer Beweisbehauptung für Aufsehen. Er habe gemeinsam mit Claude die seit 1859 offene Riemann-Hypothese bewiesen und den gesamten Beweis in Lean formalisiert. Anzeige Alpöge veröffentlicht einen riesigen Lean-Beweis Die Riemann-Hypothese beschreibt vereinfacht, wo die wichtigen Nullstellen der Riemannschen Zetafunktion liegen. Diese Nullstellen hängen eng mit der Verteilung der Primzahlen zusammen. Eine Lösung zählt zu den ...]]></description>
-    </item>
-    <item>
-      <title>Die erste KI versteht die physische Welt besser als Menschen</title>
-      <link>https://www.all-ai.de/news/news26/ki-physische-welt-mensch</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/ki-physische-welt-mensch</guid>
-      <pubDate>Fri, 20 Nov 2026 11:54:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[GPT-6.2 Astra erzielt im Blueprint-Bench 2 mit 0,614 Punkten den höchsten Wert. Der menschliche Vergleichswert liegt bei 0,586 Punkten, stammt jedoch nur aus zwölf Wohnungen. Die KI-Agenten rekonstruieren aus rund 20 Innenraumfotos pro Wohnung einen 2D-Grundriss. Die korrekten Verbindungen zwischen Räumen machen 50% der Bewertung aus. Blueprint-Bench 2 von Andon Labs OpenAI: Introducing GPT-6.2 Astra and Sol GPT-6.2 Astra ist das erste KI-Modell, das im Blueprint-Bench 2 einen höheren Wert als menschliche Teilnehmer erreicht hat. Bei diesem Benchmark von Andon Labs müssen sowohl KI-Modelle als auch Menschen aus Innenraumfotos zweidimensionale Wohnungsgrundrisse mit korrekten Räumen, Türen und Größenverhältnissen erstellen. Dadurch soll das räumliche Denken geprüft werden. Anzeige GPT-6.2 Astra übernimmt die Spitze Jeder KI-Agent bearbeitet nacheinander 50 Wohnungen und erhält pro Wohnung rund 20 Fotos aus verschiedenen Blickwinkeln. Aus diesen Ansichten muss er erkennen, welche Räume zusammengehören, wo Türen liegen und wie groß die Räume im Verhältnis zueinander sind. Anschließend erzeugt er einen strukturierten 2D-Grundriss. GPT-6.2 Astra kommt auf 0,614 Punkte. Der menschlich...]]></description>
-    </item>
-    <item>
-      <title>Apple entwickelt eigenen KI-Agenten für Apps, Browser und Code</title>
-      <link>https://www.all-ai.de/news/news26top/apple-ki-agenten</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/apple-ki-agenten</guid>
-      <pubDate>Fri, 20 Nov 2026 10:05:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Apple entwickelt einen autonomen KI-Agenten für Apps, Browser, Geräte und Code. Der Agent soll mehrstufige Aufgaben planen und spezialisierte Sub-Agenten koordinieren. Datenschutz, klare Berechtigungen und nachvollziehbare Aktionen gehören zum Konzept. Eine Einführung ist laut Bloomberg bis Ende 2027 möglich. Apple Jobs: Senior Engineering Manager, Agentic AI – Proactive Bloomberg: Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding Apple entwickelt einen autonomen KI-Agenten, der im Auftrag des Nutzers Apps bedient, im Web surft und Code schreibt. Neue Stellenanzeigen beschreiben eine Plattform, die mehrstufige Aufgaben auf Mac, iPhone und weiteren Geräten selbstständig erledigen soll. Anzeige Apples Agent soll mehrere Programme verbinden Für das Projekt sucht Apple unter anderem einen Senior Engineering Manager für »Agentic AI«. Der künftige Agent soll Browser, Dokumente, Kommandozeilen, Code-Editoren und Online-Dienste miteinander verbinden. Dabei wählt er für jeden Arbeitsschritt die passende Funktion aus. Die Stellenbeschreibung nennt auch das Schreiben und Debuggen von Code. Der Agent soll Aufgaben planen, einzelne Schritte ausführen und bei Bedarf s...]]></description>
-    </item>
-    <item>
-      <title>Deutsche Telekom investiert 100 Millionen € in Mistral AI</title>
-      <link>https://www.all-ai.de/news/news26top/deutsche-telekom-mistral-100m</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/deutsche-telekom-mistral-100m</guid>
-      <pubDate>Fri, 20 Nov 2026 09:59:44 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Die Deutsche Telekom investiert über T.Capital 100 Millionen € in Mistral AI. Beide Unternehmen planen KI-Angebote für deutsche Firmen, Behörden und regulierte Branchen. Die Industrial AI Cloud in München soll die Rechenleistung für die geplante Zusammenarbeit liefern. Mistral baut parallel seinen Münchner Standort für Industrie- und Physik-KI aus. Deutsche Telekom: T.Capital investiert in Mistral AI Deutsche Telekom: Ausbau der KI-Fabrik in München Mistral AI: Neuer Standort in München Die Deutsche Telekom beteiligt sich mit 100 Millionen € am französischen KI-Unternehmen Mistral AI. Aus der Investition soll eine Partnerschaft entstehen, die KI-Modelle und Rechenkapazität für deutsche Unternehmen und Behörden verbindet. Anzeige Telekom und Mistral planen gemeinsames KI-Angebot Das Geld fließt über den T.Capital Tech Fund in die Series-D-Finanzierungsrunde von Mistral AI. T.Capital verwaltet für die Telekom mehr als 2 Milliarden € und investiert in Unternehmen, die zur Strategie des Konzerns passen. Für das geplante Angebot bringt die Telekom ihre Rechenzentren, Kundenkontakte und Erfahrung bei der Einrichtung von KI-Anwendungen ein. Mistral steuert seine KI-Modelle und Unterneh...]]></description>
     </item>
   </channel>
 </rss>
