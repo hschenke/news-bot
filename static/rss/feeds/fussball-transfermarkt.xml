@@ -5,98 +5,89 @@
     <link>https://news-bot.streamlit.app/?category=Fu%C3%9Fball&amp;feed=Transfermarkt</link>
     <description>RSS-Feed für die Quelle 'Transfermarkt' (Kategorie: Fußball).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:01:11 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fussball-transfermarkt.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wollitz kritisiert Nike-Deal des DFB – Verweis auf 50+1</title>
-      <link>https://www.transfermarkt.de/wollitz-kritisiert-nike-deal-des-dfb-konnen-sie-keinem-mehr-erklaren-quot-verweis-auf-50-1/view/news/490976</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/wollitz-kritisiert-nike-deal-des-dfb-konnen-sie-keinem-mehr-erklaren-quot-verweis-auf-50-1/view/news/490976</guid>
-      <pubDate>Fri, 20 Nov 2026 13:36:45 GMT</pubDate>
+      <title>Bundesliga: 1. FC Köln überrascht FC Bayern – Kane und Olise verletzt</title>
+      <link>https://www.transfermarkt.de/koln-uberrascht-in-munchen-kane-fruh-verletzt-raus-olise-nach-halbzeit-auf-krucken-aus-arena/view/news/490963</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/koln-uberrascht-in-munchen-kane-fruh-verletzt-raus-olise-nach-halbzeit-auf-krucken-aus-arena/view/news/490963</guid>
+      <pubDate>Fri, 20 Nov 2026 21:25:07 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Trainer Claus-Dieter Wollitz hat den Deutschen Fußball-Bund scharf wegen des Ausrüsterwechsels von Adidas zu Nike kritisiert. „Wir gehen hin und holen uns ein amerikanisches...]]></description>
+      <description><![CDATA[Beim Comeback von Vincent Kompany auf der Trainerbank hat der FC Bayern nicht überraschend zwei Punkte gegen den 1. FC Köln eingebüßt, sondern vor allem die Offensivstars Harry...]]></description>
     </item>
     <item>
-      <title>FC Bayern: Ibrahimovic bereut Wechsel zum FC Augsburg überhaupt nicht</title>
-      <link>https://www.transfermarkt.de/ibrahimovic-bereut-bayern-abschied-uberhaupt-nicht-quot-augsburg-schon-4-leihstation/view/news/490958</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/ibrahimovic-bereut-bayern-abschied-uberhaupt-nicht-quot-augsburg-schon-4-leihstation/view/news/490958</guid>
-      <pubDate>Fri, 20 Nov 2026 13:09:21 GMT</pubDate>
+      <title>2. Liga: Darmstadt 98 verschafft sich Luft – 1. FC Magdeburg bleibt oben</title>
+      <link>https://www.transfermarkt.de/doppelpacker-kehl-verschafft-kohfeldt-luft-magdeburg-jubelt-auch-auswarts-endlich-wieder/view/news/490966</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/doppelpacker-kehl-verschafft-kohfeldt-luft-magdeburg-jubelt-auch-auswarts-endlich-wieder/view/news/490966</guid>
+      <pubDate>Fri, 20 Nov 2026 19:30:38 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Arijon Ibrahimovic ist angesichts der Konkurrenzsituation beim FC Bayern auf Leihbasis zum FC Augsburg gewechselt und mit diesem Schritt auch im Nachgang im Reinen. Dabei hatte der 20 Jahre alte...]]></description>
+      <description><![CDATA[Darmstadt 98 und Trainer Florian Kohfeldt können erst einmal aufatmen. Die Lilien gewannen mit 3:1 (2:1) gegen den 1. FC Heidenheim und verließen dadurch vorerst die Abstiegsplätze...]]></description>
     </item>
     <item>
-      <title>Bundesliga zahlt Millionen an 128 Amateurklubs für El Mala und Karl</title>
-      <link>https://www.transfermarkt.de/bundesliga-belohnt-128-amateurklubs-mit-millionen-el-mala-amp-karl-sorgen-fur-geldregen/view/news/490972</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/bundesliga-belohnt-128-amateurklubs-mit-millionen-el-mala-amp-karl-sorgen-fur-geldregen/view/news/490972</guid>
-      <pubDate>Fri, 20 Nov 2026 12:51:33 GMT</pubDate>
+      <title>Brighton belohnt starke Form von Ex-BVB-Profi Pascal Groß mit Verlängerung</title>
+      <link>https://www.transfermarkt.de/vor-300-einsatz-brighton-belohnt-starke-form-von-gross-ozils-bestmarke-eingestellt/view/news/490998</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/vor-300-einsatz-brighton-belohnt-starke-form-von-gross-ozils-bestmarke-eingestellt/view/news/490998</guid>
+      <pubDate>Fri, 20 Nov 2026 18:05:43 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Die Bundesliga hat erneut Amateurvereine für ihren Beitrag zur Ausbildung späterer Profis finanziell belohnt. Insgesamt rund 2,1 Millionen Euro wurden für die Debütanten der...]]></description>
+      <description><![CDATA[Brighton & Hove Albion hat die starke Form von Mittelfeldroutinier Pascal Groß (35) mit einem neuen Vertrag belohnt. Vor seinem 300. Einsatz für die Seagulls am Sonntag (15 Uhr) bei...]]></description>
     </item>
     <item>
-      <title>Achillessehne gerissen: Saisonaus für Fulham-Torwart Lecomte</title>
-      <link>https://www.transfermarkt.de/leno-backup-schwer-verletzt-saisonaus-fur-fulham-torwart-lecomte/view/news/490975</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/leno-backup-schwer-verletzt-saisonaus-fur-fulham-torwart-lecomte/view/news/490975</guid>
-      <pubDate>Fri, 20 Nov 2026 12:49:52 GMT</pubDate>
+      <title>Blackpool gratuliert Trainer Evatt zum Geburtstag und schmeißt ihn raus</title>
+      <link>https://www.transfermarkt.de/auf-geburtstagsgruss-folgt-entlassung-blackpools-skurriles-geschenk-an-trainer-evatt/view/news/490997</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/auf-geburtstagsgruss-folgt-entlassung-blackpools-skurriles-geschenk-an-trainer-evatt/view/news/490997</guid>
+      <pubDate>Fri, 20 Nov 2026 17:30:17 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der FC Fulham muss für den Rest der Saison auf Torwart Benjamin Lecomte verzichten. Wie Trainer Álvaro Arbeloa am Freitag bekannt gab, hat sich der Franzose, der bei den Londonern...]]></description>
+      <description><![CDATA[Auf diese Überraschung hätte Ian Evatt sicherlich gern verzichtet: Am Donnerstagmorgen gratulierte der FC Blackpool seinem Trainer noch zum Geburtstag, am Nachmittag war er seinen Job...]]></description>
     </item>
     <item>
-      <title>Real Madrid meldet Courtois-Verlängerung, Valverde soll folgen</title>
-      <link>https://www.transfermarkt.de/real-meldet-courtois-deal-valverde-soll-folgen-275-millionen-kaderwert-verlangern/view/news/490965</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/real-meldet-courtois-deal-valverde-soll-folgen-275-millionen-kaderwert-verlangern/view/news/490965</guid>
-      <pubDate>Fri, 20 Nov 2026 12:11:54 GMT</pubDate>
+      <title>Manchester United: Pochettino bekennt sich zu Fernandes – Heikle Kaderplanung</title>
+      <link>https://www.transfermarkt.de/pochettino-bekennt-sich-zu-fernandes-mochte-in-zukunft-quot-uber-kaderplanung-mitbestimmen/view/news/490991</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/pochettino-bekennt-sich-zu-fernandes-mochte-in-zukunft-quot-uber-kaderplanung-mitbestimmen/view/news/490991</guid>
+      <pubDate>Fri, 20 Nov 2026 15:55:01 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Bei Real Madrid jagt eine Vertragsverlängerung die nächste: Nach den Mittefeldspielern Arda Güler (21) und Aurélien Tchouaméni (26, jeweils bis 2032) haben die...]]></description>
+      <description><![CDATA[Mauricio Pochettino hat sich auf der Pressekonferenz vor seinem ersten Spiel als Trainer von Manchester United sichtlich um einen zukunftsgewandten Eindruck bemüht. „Die Vergangenheit...]]></description>
     </item>
     <item>
-      <title>Nations-League-Auslosung: Deutschlands Gegner fürs Viertelfinale steht fest</title>
-      <link>https://www.transfermarkt.de/deutschlands-gegner-furs-viertelfinale-steht-fest-duell-mit-kane-amp-tuchel-droht-im-final-four/view/news/490951</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/deutschlands-gegner-furs-viertelfinale-steht-fest-duell-mit-kane-amp-tuchel-droht-im-final-four/view/news/490951</guid>
-      <pubDate>Fri, 20 Nov 2026 11:27:07 GMT</pubDate>
+      <title>Schalke: Baumann über Wintertransfers, Abgänge und offene Verträge</title>
+      <link>https://www.transfermarkt.de/trotz-schalker-ergebniskrise-baumann-verteidigt-neuzugange-wintertransfers-moglich/view/news/490987</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/trotz-schalker-ergebniskrise-baumann-verteidigt-neuzugange-wintertransfers-moglich/view/news/490987</guid>
+      <pubDate>Fri, 20 Nov 2026 15:42:32 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Deutschlands Gegner für das Viertelfinale der Nations League steht fest. Das Team von Bundestrainer Jürgen Klopp trifft Ende März 2027 auf Belgien mit Mark van Bommel an der...]]></description>
+      <description><![CDATA[Seit dem 11. September wartet der FC Schalke 04 auf einen Sieg, in der Bundesliga haben die Königsblauen in dieser Saison zu Hause noch kein einziges Tor erzielt. In den Top-5-Ligen zählt...]]></description>
     </item>
     <item>
-      <title>BVB-Talent Inácio muss operiert werden und fehlt monatelang</title>
-      <link>https://www.transfermarkt.de/bvb-talent-inacio-muss-operiert-werden-und-fehlt-monatelang-ist-extrem-bitter-quot-/view/news/490960</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/bvb-talent-inacio-muss-operiert-werden-und-fehlt-monatelang-ist-extrem-bitter-quot-/view/news/490960</guid>
-      <pubDate>Fri, 20 Nov 2026 10:49:31 GMT</pubDate>
+      <title>VfB Stuttgart: Hoeneß mit Sonderlob für Jeltsch: „Da sind keine Grenzen gesetzt“</title>
+      <link>https://www.transfermarkt.de/hoeness-mit-sonderlob-fur-jeltsch-da-sind-keine-grenzen-gesetzt-quot-aufwertung-im-dezember-/view/news/490982</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/hoeness-mit-sonderlob-fur-jeltsch-da-sind-keine-grenzen-gesetzt-quot-aufwertung-im-dezember-/view/news/490982</guid>
+      <pubDate>Fri, 20 Nov 2026 15:07:26 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Bittere Nachrichten für Borussia Dortmund und Talent Samuele Inácio. Der 18 Jahre alte Offensivspieler hat sich beim Länderspiel der italienischen U21-Nationalmannschaft gegen...]]></description>
+      <description><![CDATA[Am Montag folgte mit seinem Debüt für die deutsche Nationalmannschaft das nächste Highlight in der noch jungen Karriere von Finn Jeltsch. Der Profi vom VfB Stuttgart bekommt vor dem...]]></description>
     </item>
     <item>
-      <title>Borussia Mönchengladbach: Batz bleibt Nr. 1 - Geht Nicolas?</title>
-      <link>https://www.transfermarkt.de/blessin-behalt-batz-im-borussia-tor-verlasst-nicolas-gladbach-im-winter-/view/news/490956</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/blessin-behalt-batz-im-borussia-tor-verlasst-nicolas-gladbach-im-winter-/view/news/490956</guid>
-      <pubDate>Fri, 20 Nov 2026 10:31:14 GMT</pubDate>
+      <title>Orbán bald Bundesliga-Rekordspieler für RB Leipzig – Auch Poulsen-Bestmarke rückt näher</title>
+      <link>https://www.transfermarkt.de/orban-vor-bundesliga-rekordeinsatz-fur-rb-leipzig-auch-poulsens-bestmarke-ruckt-naher/view/news/490971</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/orban-vor-bundesliga-rekordeinsatz-fur-rb-leipzig-auch-poulsens-bestmarke-ruckt-naher/view/news/490971</guid>
+      <pubDate>Fri, 20 Nov 2026 14:22:18 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Routinier Daniel Batz (35) bleibt bei Borussia Mönchengladbach offenbar trotz der Rückkehr des zuletzt verletzten Moritz Nicolas (29) im Tor. Alexander Blessin honoriert laut...]]></description>
+      <description><![CDATA[Seit 2016/17 spielt RB Leipzig in der Bundesliga. Damals schon dabei und noch immer Leistungsträger: Willi Orbán. Am Samstag bei Union Berlin steht für den Innenverteidiger ein...]]></description>
     </item>
     <item>
-      <title>Dynamo Dresden holt auch Aaron Riedel zu den Profis</title>
-      <link>https://www.transfermarkt.de/dresden-holt-auch-riedel-zu-den-profis-diese-zweitligisten-haben-die-meisten-eigengewachse/view/news/490954</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/dresden-holt-auch-riedel-zu-den-profis-diese-zweitligisten-haben-die-meisten-eigengewachse/view/news/490954</guid>
-      <pubDate>Fri, 20 Nov 2026 10:22:26 GMT</pubDate>
+      <title>Trotz Spionage-Affäre: FC Southampton verlängert mit Trainer Eckert</title>
+      <link>https://www.transfermarkt.de/trotz-spygate-southampton-bindet-eckert-abgezogene-punkte-fehlen-im-aufstiegsrennen/view/news/490984</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/trotz-spygate-southampton-bindet-eckert-abgezogene-punkte-fehlen-im-aufstiegsrennen/view/news/490984</guid>
+      <pubDate>Fri, 20 Nov 2026 13:58:02 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Dynamo Dresden hat Aaron Riedel mit einem Profivertrag ausgestattet. Im aktuellen Kader der SGD ist das 20 Jahre alte Mittelfeldtalent der fünfte Spieler aus dem eigenen Nachwuchs. Nach...]]></description>
-    </item>
-    <item>
-      <title>Thomas Müller: „Alles offen, von Karriereende bis hin zu Fünfjahresvertrag“</title>
-      <link>https://www.transfermarkt.de/muller-es-ist-alles-offen-von-karriereende-bis-hin-zu-einem-funfjahresvertrag-quot-/view/news/490953</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/muller-es-ist-alles-offen-von-karriereende-bis-hin-zu-einem-funfjahresvertrag-quot-/view/news/490953</guid>
-      <pubDate>Fri, 20 Nov 2026 09:36:41 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Thomas Müller lässt seine sportliche Zukunft beim Vancouver Whitecaps FC über sein Vertragsende hinaus „bewusst offen“, wie der Weltmeister von 2014 in einem Interview...]]></description>
+      <description><![CDATA[Der FC Southampton hält trotz der Verwicklung in die Spionage-Affäre an seinem deutschen Trainer Tonda Eckert fest. Der englische Zweitligist verlängerte den Vertrag mit dem 33 Jahre...]]></description>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:01:11 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zenless Zone Zero - Version 3.4 Special Program</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60610</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60610</guid>
+      <pubDate>Fri, 20 Nov 2026 15:29:06 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Alrik spotted a new special program for Zenless Zone Zero: Zenless Zone Zero Version 3.4 "The Finality of the Day" Special Program New Code:SUNCHASER]]></description>
+    </item>
     <item>
       <title>Warhammer 40K: Dark Heresy - Overview</title>
       <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60609</link>
@@ -61,15 +70,6 @@
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
       <description><![CDATA[Learn more about Julius and Dan - two characters of the remake Fate/EXTRA Record: "Fate/EXTRA Record" Character Introduction Trailer(Julius Faction) "Fate/EXTRA Record" Character Introduction Trailer(Dan Faction)]]></description>
-    </item>
-    <item>
-      <title>Trails in the Sky 2nd Chapter - Accolades Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60603</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60603</guid>
-      <pubDate>Thu, 19 Nov 2026 14:57:32 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The remake Trails in the Sky 2nd Chapter is successful: Trails in the Sky 2nd Chapter - Official Accolades Trailer]]></description>
     </item>
   </channel>
 </rss>

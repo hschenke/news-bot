@@ -5,9 +5,18 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:01:11 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude knackt angeblich das größte offene Problem der Mathematik</title>
+      <link>https://www.all-ai.de/news/news26top/claude-mathematik-riemann-hypothese-loesung</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/claude-mathematik-riemann-hypothese-loesung</guid>
+      <pubDate>Fri, 20 Nov 2026 16:05:42 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Levent Alpöge erklärt, er habe mit Claude einen Beweis der Riemann-Hypothese gefunden. Der veröffentlichte Lean-Beweis besteht aus 14 Archivteilen und soll auch die verallgemeinerte Riemann-Hypothese abdecken. Der Code und die mathematische Aussage müssen nun von Fachleuten geprüft werden. Eine offizielle Anerkennung durch das Clay Mathematics Institute wäre frühestens nach mehreren Jahren möglich. Levent Alpöge: Erklärung zur behaupteten Lösung der Riemann-Hypothese Scientific American: Anthropic mathematician claims to prove Riemann hypothesis Anthropic: Claude verbessert Ergebnis zur Riemannschen Zetafunktion Clay Mathematics Institute: Regeln für die Millennium-Preise Anthropic: Abschluss des Börsengangs Der Anthropic-Mathematiker Levent Alpöge sorgt mit einer Beweisbehauptung für Aufsehen. Er habe gemeinsam mit Claude die seit 1859 offene Riemann-Hypothese bewiesen und den gesamten Beweis in Lean formalisiert. Anzeige Alpöge veröffentlicht einen riesigen Lean-Beweis Die Riemann-Hypothese beschreibt vereinfacht, wo die wichtigen Nullstellen der Riemannschen Zetafunktion liegen. Diese Nullstellen hängen eng mit der Verteilung der Primzahlen zusammen. Eine Lösung zählt zu den ...]]></description>
+    </item>
     <item>
       <title>Die erste KI versteht die physische Welt besser als Menschen</title>
       <link>https://www.all-ai.de/news/news26/ki-physische-welt-mensch</link>
@@ -34,24 +43,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Die Deutsche Telekom investiert über T.Capital 100 Millionen € in Mistral AI. Beide Unternehmen planen KI-Angebote für deutsche Firmen, Behörden und regulierte Branchen. Die Industrial AI Cloud in München soll die Rechenleistung für die geplante Zusammenarbeit liefern. Mistral baut parallel seinen Münchner Standort für Industrie- und Physik-KI aus. Deutsche Telekom: T.Capital investiert in Mistral AI Deutsche Telekom: Ausbau der KI-Fabrik in München Mistral AI: Neuer Standort in München Die Deutsche Telekom beteiligt sich mit 100 Millionen € am französischen KI-Unternehmen Mistral AI. Aus der Investition soll eine Partnerschaft entstehen, die KI-Modelle und Rechenkapazität für deutsche Unternehmen und Behörden verbindet. Anzeige Telekom und Mistral planen gemeinsames KI-Angebot Das Geld fließt über den T.Capital Tech Fund in die Series-D-Finanzierungsrunde von Mistral AI. T.Capital verwaltet für die Telekom mehr als 2 Milliarden € und investiert in Unternehmen, die zur Strategie des Konzerns passen. Für das geplante Angebot bringt die Telekom ihre Rechenzentren, Kundenkontakte und Erfahrung bei der Einrichtung von KI-Anwendungen ein. Mistral steuert seine KI-Modelle und Unterneh...]]></description>
-    </item>
-    <item>
-      <title>Anthropic-Börsengang macht 2800 Mitarbeiter zu Millionären</title>
-      <link>https://www.all-ai.de/news/news26top/anthropic-boerse-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-boerse-start</guid>
-      <pubDate>Thu, 19 Nov 2026 19:52:50 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Rund 2800 aktuelle und ehemalige Anthropic-Mitarbeiter besitzen laut einer Schätzung Anteile im Wert von mindestens 1 Million $. Der erste Kurs lag bei 111,50$, am frühen Abend notierte die Aktie mit 95,62$ noch 15,2% über dem Ausgabepreis. Mitarbeiter können zunächst nur einen Teil ihrer Anteile verkaufen, deshalb besteht ihr Vermögen vorerst überwiegend auf dem Papier. Anthropic: Ausgabepreis und Umfang des Börsengangs SEC: Anthropic-Börsenprospekt Reuters: Anthropic IPO to mint thousands of millionaires Der Börsengang von Anthropic beschert Tausenden aktuellen und ehemaligen Mitarbeitern ein Vermögen. Rund 2800 von ihnen besitzen nach einer Schätzung Aktienanteile im Wert von mindestens 1 Million $. Die Anthropic-Aktie startete am 19. November 2026 an der Nasdaq mit 111,50$. Später fiel der Kurs deutlich zurück und lag um 19:56 Uhr deutscher Zeit bei 95,62$, weiterhin 15,2% über dem Ausgabepreis. Aktienoptionen schaffen Vermögen auf dem Papier Die Zahl von 2800 Millionären stammt vom Marktforscher Sacra. Das Unternehmen berechnete den Wert der bereits verdienten Mitarbeiteranteile anhand öffentlich verfügbarer Daten und einer Anthropic-Bewertung von 1,35 Billionen $. Die Plat...]]></description>
-    </item>
-    <item>
-      <title>Ideogram 4.6 Release: Natives 4k und Platz 1 in Multi-Image-Edit</title>
-      <link>https://www.all-ai.de/news/news26top/ideogram-4-6-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ideogram-4-6-start</guid>
-      <pubDate>Thu, 19 Nov 2026 19:20:24 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Ideogram 4.6 erzeugt Bilder direkt in bis zu 4K. Im Ideogram-Test trifft es vorgegebene Produktfarben häufiger als Version 4.5. Rapidata setzt Ideogram 4.6 im Vergleich mehrstufiger Fotoänderungen auf Platz eins. Das Modell ist in der Ideogram-App, über die API und bei Partnern wie fal verfügbar. Ideogram – Vorstellung von Ideogram 4.6 Rapidata – Rangliste für mehrstufige Bildbearbeitung Ideogram – Modellübersicht der API Ideogram 4.6 erzeugt Bilder direkt in bis zu 4K und soll bei gezielten Änderungen weniger ungewollte Spuren im restlichen Motiv hinterlassen. In einem Benchmark mit fünf aufeinanderfolgenden Bearbeitungen erreicht das neue KI-Modell den ersten Platz. Anzeige Mehr Details ohne Upscale Bei der Bilderzeugung berechnet Ideogram 4.6 jeden Bildpunkt in der gewählten Auflösung neu. Ein nachträgliches Upscale entfällt. Dadurch sollen Hautporen, Falten und Stoffe natürlicher wirken und weniger nach geglätteter KI-Grafik aussehen. Das Modell bietet vier Qualitätsstufen. »Very Low« reicht bis 2K, die übrigen Stufen unterstützen auch 4K. Für neue Bilder lassen sich bis zu fünf Referenzbilder einbinden. Änderungen bleiben an der gewählten Stelle Mit »Precise Edit« kann der ...]]></description>
     </item>
   </channel>
 </rss>
