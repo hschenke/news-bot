@@ -54,6 +54,7 @@ from src.feed_fetcher import (
     FEED_REQUEST_HEADERS_READER,
     FEED_REQUEST_HEADERS_BOT,
     FEED_REQUEST_HEADERS_BROWSER,
+    validate_feed_url,
     determine_stream_type,
     autodiscover_rss_feeds,
     fetch_feed_raw,
@@ -70,6 +71,11 @@ from src.police_scraper import (
 
 from src.sources_manager import (
     PROMPT_KEYS,
+    ConfigSnapshot,
+    ConfigSaveResult,
+    sync_configs_from_storage,
+    invalidate_config_sync_cache,
+    save_and_sync_sources,
     get_streamlit_app_url,
     get_sources_path,
     get_settings_path,
@@ -536,6 +542,7 @@ __all__ = [
     "SECONDS_PER_DAY",
     "SECONDS_PER_WEEK",
     # Feed Fetcher
+    "validate_feed_url",
     "determine_stream_type",
     "autodiscover_rss_feeds",
     "fetch_feed_raw",
@@ -551,6 +558,11 @@ __all__ = [
     "extract_police_teaser",
     # Sources, Settings & Prompts Manager
     "PROMPT_KEYS",
+    "ConfigSnapshot",
+    "ConfigSaveResult",
+    "sync_configs_from_storage",
+    "invalidate_config_sync_cache",
+    "save_and_sync_sources",
     "get_streamlit_app_url",
     "get_sources_path",
     "get_settings_path",

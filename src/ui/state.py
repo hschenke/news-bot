@@ -82,8 +82,6 @@ def init_session_state() -> None:
         except Exception as exc:
             logger.debug("Failed to fetch archived URLs: %s", exc)
             st.session_state["archived_urls"] = set()
-    if "working_config" not in st.session_state:
-        st.session_state["working_config"] = load_sources()
     if "has_unsaved_changes" not in st.session_state:
         st.session_state["has_unsaved_changes"] = False
 
@@ -94,8 +92,6 @@ def get_news_data(force_live_fetch: bool = False) -> dict[str, list[dict[str, An
     Loads active news articles strictly limited to the last 24 hours.
     Tries fast database loading first; falls back to live RSS ingestion if empty or requested.
     """
-    t_start = time.perf_counter()
-
     if not force_live_fetch:
         try:
             storage = get_storage()
@@ -109,6 +105,12 @@ def get_news_data(force_live_fetch: bool = False) -> dict[str, list[dict[str, An
                     for c in sources_cfg.get("categories", [])
                     if c.get("name")
                 }
+                configured_feed_urls = {
+                    str(f.get("url") or "").strip()
+                    for c in sources_cfg.get("categories", [])
+                    for f in c.get("feeds", [])
+                    if str(f.get("url") or "").strip()
+                }
 
                 now_ts = time.time()
                 cutoff_24h = now_ts - (DEFAULT_MAX_ARTICLE_AGE_HOURS * 3600.0)
@@ -116,6 +118,9 @@ def get_news_data(force_live_fetch: bool = False) -> dict[str, list[dict[str, An
                 for art in db_articles:
                     cat = (art.category or "Allgemein").strip()
                     if cat not in configured_categories:
+                        continue
+                    art_source_url = (art.source_url or "").strip()
+                    if art_source_url and configured_feed_urls and art_source_url not in configured_feed_urls:
                         continue
                     # Strictly filter to 24h
                     if art.timestamp > 0.0 and art.timestamp < cutoff_24h:

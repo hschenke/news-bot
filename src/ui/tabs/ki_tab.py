@@ -16,7 +16,6 @@ from ai_brain import AppBrainPolicy, BrainError, BrainTier, default_app_policy
 from src.aggregator import (
     load_prompts,
     save_prompts,
-    sync_sources_to_github,
 )
 from src.rss_generator import export_briefing_rss
 from src.storage import get_storage
@@ -248,24 +247,35 @@ def render_ki_tab(
 
             if save_prompts_clicked:
                 with st.spinner("Speichere Prompts in prompts.yaml..."):
-                    save_prompts({
+                    new_prompts = {
                         "custom_main_prompt": ki_main_prompt.strip(),
                         "custom_prompt_directives": ki_prompt_directives.strip(),
-                    })
-                    sync_sources_to_github(
-                        commit_message="chore(prompt): update custom AI prompts via dashboard",
-                    )
-                    set_dismissible_notice(
-                        "ki_notice", "Prompts erfolgreich in prompts.yaml gespeichert!", icon="✨"
-                    )
+                    }
+                    res = save_prompts(new_prompts, sync_github=True, persist_db=True)
+                    for cfg_key in ("working_sources_config", "last_loaded_saved_config"):
+                        cfg_obj = st.session_state.get(cfg_key)
+                        if isinstance(cfg_obj, dict):
+                            cfg_obj.setdefault("settings", {}).update(new_prompts)
+                    if res.get("success"):
+                        notice = "Prompts dauerhaft in Cloud-Datenbank & GitHub gespeichert!"
+                    elif res.get("db_saved"):
+                        notice = "Prompts dauerhaft in Cloud-Datenbank gespeichert!"
+                    else:
+                        notice = "Prompts in prompts.yaml gespeichert!"
+                    set_dismissible_notice("ki_notice", notice, icon="✨")
                     st.rerun()
 
             if reset_prompts_clicked:
                 with st.spinner("Setze Hauptprompt auf Standard zurück..."):
-                    save_prompts({
+                    reset_prompts = {
                         "custom_main_prompt": DEFAULT_MAIN_PROMPT_TEMPLATE.strip(),
                         "custom_prompt_directives": ki_prompt_directives.strip(),
-                    })
+                    }
+                    save_prompts(reset_prompts, sync_github=True, persist_db=True)
+                    for cfg_key in ("working_sources_config", "last_loaded_saved_config"):
+                        cfg_obj = st.session_state.get(cfg_key)
+                        if isinstance(cfg_obj, dict):
+                            cfg_obj.setdefault("settings", {}).update(reset_prompts)
                     st.session_state["input_ki_main_prompt"] = DEFAULT_MAIN_PROMPT_TEMPLATE.strip()
                     set_dismissible_notice("ki_notice", "Standard-Prompt wiederhergestellt!", icon="✨")
                     st.rerun()

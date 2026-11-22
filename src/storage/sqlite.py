@@ -319,6 +319,40 @@ class SqliteStorage(StorageBackend):
                 (key, value),
             )
 
+    def get_metadata_many(self, keys: list[str]) -> dict[str, str]:
+        clean_keys = [k for k in dict.fromkeys(keys) if k]
+        if not clean_keys:
+            return {}
+        placeholders = ", ".join("?" for _ in clean_keys)
+        sql = f"SELECT key, value FROM metadata WHERE key IN ({placeholders})"
+        with self._get_connection() as conn:
+            rows = conn.execute(sql, clean_keys).fetchall()
+            return {str(r["key"]): str(r["value"]) for r in rows if r["value"] is not None}
+
+    def set_metadata_many(self, items: dict[str, str]) -> None:
+        clean_items = [(k, v) for k, v in items.items() if k]
+        if not clean_items:
+            return
+        with self._get_connection() as conn:
+            conn.executemany(
+                """
+                INSERT INTO metadata (key, value, updated_at)
+                VALUES (?, ?, CURRENT_TIMESTAMP)
+                ON CONFLICT(key) DO UPDATE SET value = excluded.value, updated_at = CURRENT_TIMESTAMP
+                """,
+                clean_items,
+            )
+
+    def delete_articles_by_source_urls(self, source_urls: list[str]) -> int:
+        clean_urls = [u.strip() for u in dict.fromkeys(source_urls) if u and u.strip()]
+        if not clean_urls:
+            return 0
+        placeholders = ", ".join("?" for _ in clean_urls)
+        sql = f"DELETE FROM articles WHERE source_url IN ({placeholders})"
+        with self._get_connection() as conn:
+            cursor = conn.execute(sql, clean_urls)
+            return cursor.rowcount
+
     def save_offline_article(self, article: OfflineArticle | dict[str, Any]) -> bool:
         params_list = prepare_offline_article_params([article])
         if not params_list:

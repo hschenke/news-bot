@@ -536,6 +536,24 @@ class StorageBackend(ABC):
         """Schreibt oder aktualisiert einen Schlüsselwert in der Metadaten-Tabelle."""
         pass
 
+    def get_metadata_many(self, keys: list[str]) -> dict[str, str]:
+        """Liest mehrere Schlüsselwerte aus der Metadaten-Tabelle gesammelt (Batch)."""
+        result: dict[str, str] = {}
+        for key in keys:
+            val = self.get_metadata(key)
+            if val is not None:
+                result[key] = val
+        return result
+
+    def set_metadata_many(self, items: dict[str, str]) -> None:
+        """Schreibt oder aktualisiert mehrere Schlüsselwerte in der Metadaten-Tabelle gesammelt."""
+        for key, value in items.items():
+            self.set_metadata(key, value)
+
+    def delete_articles_by_source_urls(self, source_urls: list[str]) -> int:
+        """Entfernt aktive Artikel, die zu gelöschten Feed-URLs gehören."""
+        return 0
+
     @abstractmethod
     def save_offline_article(self, article: OfflineArticle | dict[str, Any]) -> bool:
         """Speichert einen Artikel inkl. Webseiten-Abbild in offline_articles."""

@@ -4,7 +4,9 @@ Netzwerk-Abruf, Stream-Typerkennung, Auto-Discovery und Verbindungstests für RS
 
 from __future__ import annotations
 
+import ipaddress
 import re
+import socket
 import time
 import urllib.parse
 import logging
@@ -17,6 +19,82 @@ import feedparser
 from src.filters import clean_html_text, unwrap_and_clean_url
 
 logger = logging.getLogger(__name__)
+
+_FORBIDDEN_HOSTNAMES: frozenset[str] = frozenset({
+    "localhost",
+    "localhost.localdomain",
+    "metadata.google.internal",
+    "metadata",
+    "0.0.0.0",
+})
+
+
+def _is_forbidden_ip(ip_obj: ipaddress.IPv4Address | ipaddress.IPv6Address) -> bool:
+    """Prüft, ob eine IP-Adresse zu lokalen, privaten oder reservierten Bereichen gehört (SSRF-Schutz)."""
+    return bool(
+        ip_obj.is_private
+        or ip_obj.is_loopback
+        or ip_obj.is_link_local
+        or ip_obj.is_multicast
+        or ip_obj.is_reserved
+        or ip_obj.is_unspecified
+    )
+
+
+def validate_feed_url(feed_url: str, *, resolve_dns: bool = True) -> tuple[bool, str | None]:
+    """
+    Validiert eine Feed-URL gemäß OWASP A10 (SSRF-Schutz).
+    Erlaubt ausschließlich http/https-URLs auf öffentliche Hosts und blockiert lokale/private IP-Bereiche.
+    """
+    cleaned = (feed_url or "").strip()
+    if not cleaned:
+        return False, "URL ist leer."
+
+    parsed = urllib.parse.urlparse(cleaned)
+    if parsed.scheme.lower() not in ("http", "https"):
+        return False, "URL muss mit http:// oder https:// beginnen."
+
+    hostname = (parsed.hostname or "").strip().lower().rstrip(".")
+    if not hostname:
+        return False, "Ungültige Feed-URL (kein gültiger Hostname)."
+
+    if (
+        hostname in _FORBIDDEN_HOSTNAMES
+        or hostname.endswith(".localhost")
+        or hostname.endswith(".local")
+        or hostname.endswith(".internal")
+    ):
+        return False, "Lokale oder interne Hostnamen sind aus Sicherheitsgründen nicht erlaubt."
+
+    try:
+        ip_literal = ipaddress.ip_address(hostname)
+    except ValueError:
+        ip_literal = None
+
+    if ip_literal is not None:
+        if _is_forbidden_ip(ip_literal):
+            return False, "Private oder lokale IP-Adressen sind aus Sicherheitsgründen nicht erlaubt."
+        return True, None
+
+    if resolve_dns:
+        try:
+            addr_infos = socket.getaddrinfo(hostname, None, proto=socket.IPPROTO_TCP)
+            for info in addr_infos:
+                sockaddr = info[4]
+                if not sockaddr:
+                    continue
+                resolved_ip = ipaddress.ip_address(sockaddr[0])
+                if _is_forbidden_ip(resolved_ip):
+                    return (
+                        False,
+                        "Zieladresse verweist auf einen nicht erlaubten privaten oder lokalen IP-Bereich.",
+                    )
+        except OSError:
+            # DNS-Auflösung im Offline-/Test-Modus nicht blockieren; regulärer HTTP-Client prüft Erreichbarkeit
+            pass
+
+    return True, None
+
 
 FEED_REQUEST_HEADERS_READER = {
     "User-Agent": (
@@ -110,11 +188,12 @@ def fetch_feed_raw(feed_url: str, timeout: int = 10) -> dict[str, Any]:
     WAF-Bypass-Proxy (Jina AI) und lokalen Projekt-Mirror.
     """
     feed_url = (feed_url or "").strip()
-    if not (feed_url.startswith("http://") or feed_url.startswith("https://")):
+    is_valid, validation_err = validate_feed_url(feed_url, resolve_dns=True)
+    if not is_valid:
         return {
             "success": False,
             "status_code": 0,
-            "error": "URL muss mit http:// oder https:// beginnen.",
+            "error": validation_err or "URL muss mit http:// oder https:// beginnen.",
             "content": b"",
             "headers": {},
             "final_url": feed_url,
@@ -260,8 +339,15 @@ def test_feed_connection(feed_url: str, timeout: int = 10) -> dict[str, Any]:
     if not feed_url:
         return {"success": False, "is_valid_feed": False, "error": "URL ist leer.", "item_count": 0, "title": "Keine URL"}
 
-    if not (feed_url.startswith("http://") or feed_url.startswith("https://")):
-        return {"success": False, "is_valid_feed": False, "error": "URL muss mit http:// oder https:// beginnen.", "item_count": 0, "title": "Ungültige URL"}
+    is_valid, validation_err = validate_feed_url(feed_url, resolve_dns=True)
+    if not is_valid:
+        return {
+            "success": False,
+            "is_valid_feed": False,
+            "error": validation_err or "URL muss mit http:// oder https:// beginnen.",
+            "item_count": 0,
+            "title": "Ungültige URL",
+        }
 
     import sys
     _agg_mod = sys.modules.get("src.aggregator")

@@ -461,6 +461,47 @@ class TursoStorage(StorageBackend):
             )
         ])
 
+    def get_metadata_many(self, keys: list[str]) -> dict[str, str]:
+        clean_keys = [k for k in dict.fromkeys(keys) if k]
+        if not clean_keys:
+            return {}
+        placeholders = ", ".join("?" for _ in clean_keys)
+        sql = f"SELECT key, value FROM metadata WHERE key IN ({placeholders})"
+        res = self._execute_pipeline([(sql, clean_keys)])
+        if not res or not res[0].get("rows"):
+            return {}
+        return {
+            str(r["key"]): str(r["value"])
+            for r in res[0]["rows"]
+            if r.get("key") and r.get("value") is not None
+        }
+
+    def set_metadata_many(self, items: dict[str, str]) -> None:
+        stmts = [
+            (
+                """
+                INSERT INTO metadata (key, value, updated_at)
+                VALUES (?, ?, CURRENT_TIMESTAMP)
+                ON CONFLICT(key) DO UPDATE SET value = excluded.value, updated_at = CURRENT_TIMESTAMP
+                """,
+                [k, v],
+            )
+            for k, v in items.items()
+            if k
+        ]
+        if not stmts:
+            return
+        self._execute_pipeline(stmts)
+
+    def delete_articles_by_source_urls(self, source_urls: list[str]) -> int:
+        clean_urls = [u.strip() for u in dict.fromkeys(source_urls) if u and u.strip()]
+        if not clean_urls:
+            return 0
+        placeholders = ", ".join("?" for _ in clean_urls)
+        sql = f"DELETE FROM articles WHERE source_url IN ({placeholders})"
+        res = self._execute_pipeline([(sql, clean_urls)])
+        return int(res[0].get("affected_rows", 0)) if res else 0
+
     def save_offline_article(self, article: OfflineArticle | dict[str, Any]) -> bool:
         params_list = prepare_offline_article_params([article])
         if not params_list:

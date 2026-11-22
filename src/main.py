@@ -12,7 +12,7 @@ if sys.stderr and hasattr(sys.stderr, "reconfigure"):
 # Sicherstellen, dass das Projektverzeichnis im Suchpfad ist
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.aggregator import collect_all_news, save_pool_state
+from src.aggregator import collect_all_news, save_pool_state, sync_configs_from_storage
 from src.notifier import dispatch_digest
 from src.rss_generator import export_briefing_rss
 from src.summarizer import summarize_news_with_gemini
@@ -30,6 +30,18 @@ def run_pipeline() -> None:
     print("=" * 60, flush=True)
     print("🤖 News Bot: Pipeline gestartet...", flush=True)
     print("=" * 60, flush=True)
+
+    # 0. Schritt: Maßgebliche Konfiguration aus Cloud-Datenbank (Turso) abgleichen
+    try:
+        sync_statuses = sync_configs_from_storage(force=True)
+        restored = [fname for fname, st_val in sync_statuses.items() if st_val == "restored_from_db"]
+        if restored:
+            print(
+                f"      -> ☁️ Konfiguration aus Cloud-DB synchronisiert: {', '.join(restored)}",
+                flush=True,
+            )
+    except Exception as exc:  # noqa: BLE001 - Fallback auf lokale YAML-Dateien
+        logger.warning("Cloud-DB Konfigurationsabgleich beim Pipeline-Start fehlgeschlagen: %s", exc)
 
     # 1. Schritt: News aggregieren (save_to_db=False vermeidet redundantes Doppelspeichern vor Schritt 4)
     print("\n[1/3] 📡 Lese konfigurierte RSS-Feeds ein...", flush=True)

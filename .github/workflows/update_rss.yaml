@@ -36,14 +36,18 @@ jobs:
           pip install feedparser pyyaml requests python-dotenv
 
       - name: 📡 RSS-Feeds neu generieren
+        env:
+          TURSO_URL: ${{ secrets.TURSO_URL }}
+          TURSO_KEY: ${{ secrets.TURSO_KEY }}
+          TURSO_TIMEOUT: "30.0"
         run: |
-          python -c "from src.aggregator import collect_all_news; collect_all_news()"
+          python -c "from src.aggregator import sync_configs_from_storage, collect_all_news; sync_configs_from_storage(force=True); collect_all_news()"
 
       - name: 🚀 Aktualisierte RSS-Feeds zu GitHub / CDN pushen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add static/rss/
+          git add static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
           if git diff --staged --quiet; then
             echo "Keine Änderungen in den RSS-Feeds vorhanden."
           else

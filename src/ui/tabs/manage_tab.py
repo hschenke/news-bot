@@ -1,38 +1,315 @@
 """
 Quellen & Feeds verwalten tab module for News Bot UI.
-Provides management of categories, feeds, global settings, database purge, and configuration persistence.
+Provides management of categories, feeds, global settings, and durable Cloud-DB + GitHub configuration persistence.
 """
 
 from __future__ import annotations
 
+import concurrent.futures
 import copy
 import hashlib
 import logging
 from typing import Any
 
-import yaml
 import streamlit as st
+import yaml
 
 from src.aggregator import (
-    PROMPT_KEYS,
-    load_sources,
-    save_sources,
-    add_feed,
-    delete_feed,
-    update_feed,
-    add_category,
-    rename_category,
-    delete_category,
-    test_feed_connection,
-    sync_sources_to_github,
-    get_offline_enabled_feeds,
     DEFAULT_ARCHIVE_RETENTION_DAYS,
+    DEFAULT_MAX_ARTICLE_AGE_HOURS,
+    PROMPT_KEYS,
+    add_category,
+    add_feed,
+    delete_category,
+    delete_feed,
+    fetch_feed_items,
+    get_offline_enabled_feeds,
+    load_prompts,
+    load_sources,
+    rename_category,
+    save_sources,
+    test_feed_connection,
+    update_feed,
+    validate_feed_url,
 )
 from src.offline_archiver import start_offline_archive_task
 from src.storage import get_storage
+from src.ui.background import run_in_background
+from src.ui.state import get_news_data
 from src.ui.styles import embed_client_script, render_dismissible_notice, set_dismissible_notice
 
 logger = logging.getLogger(__name__)
+
+_FORM_KEY_PREFIXES: tuple[str, ...] = (
+    "ed_",
+    "inp_set_",
+    "inp_new_",
+    "sel_ren_cat",
+    "sel_new_feed_cat",
+)
+
+_EDIT_STATE_KEYS: tuple[str, ...] = (
+    "editing_feed_key",
+    "editing_feed_url",
+    "editing_feed_name",
+    "editing_feed_category",
+    "last_edited_category",
+    "last_saved_feed_key",
+)
+
+
+def _feed_widget_hash(cat_name: str, feed_url: str) -> str:
+    """Erzeugt einen stabilen, kollisionsfreien Widget-Key-Hash pro (Kategorie, Feed-URL)."""
+    raw = f"{cat_name.strip().lower()}|{feed_url.strip()}".encode("utf-8")
+    return hashlib.sha256(raw).hexdigest()[:10]
+
+
+def _parse_ad_patterns(raw_text: str) -> list[str]:
+    """Bereinigt und dedupliziert zeilenweise eingegebene Ad-Filter-Patterns."""
+    seen: set[str] = set()
+    parsed: list[str] = []
+    for line in (raw_text or "").splitlines():
+        pat = line.strip()
+        if pat and pat not in seen:
+            seen.add(pat)
+            parsed.append(pat)
+    return parsed
+
+
+def _clear_manage_form_keys() -> None:
+    """Entfernt temporäre Formular- und Editier-Keys aus dem Session State."""
+    keys_to_clear = [
+        k for k in list(st.session_state.keys())
+        if k.startswith(_FORM_KEY_PREFIXES)
+    ]
+    for key in keys_to_clear:
+        del st.session_state[key]
+    for state_key in _EDIT_STATE_KEYS:
+        st.session_state.pop(state_key, None)
+
+
+def _has_pending_settings_edits(working_config: dict[str, Any]) -> bool:
+    """Prüft, ob in den globalen Einstellungs-Widgets unübernommene Änderungen vorliegen."""
+    settings = working_config.get("settings", {})
+    if not isinstance(settings, dict):
+        return False
+
+    if "inp_set_app_url" in st.session_state:
+        if str(st.session_state["inp_set_app_url"]).strip() != str(settings.get("streamlit_app_url", "")).strip():
+            return True
+    if "inp_set_lang" in st.session_state:
+        if str(st.session_state["inp_set_lang"]).strip() != str(settings.get("language", "de")).strip():
+            return True
+    if "inp_set_retention_days" in st.session_state:
+        curr_ret = int(settings.get("archive_retention_days", DEFAULT_ARCHIVE_RETENTION_DAYS))
+        if int(st.session_state["inp_set_retention_days"]) != curr_ret:
+            return True
+    if "inp_set_style" in st.session_state:
+        if str(st.session_state["inp_set_style"]).strip() != str(settings.get("summary_style", "tldr")).strip():
+            return True
+    if "inp_set_filter_ads" in st.session_state:
+        if bool(st.session_state["inp_set_filter_ads"]) != bool(settings.get("filter_ads", True)):
+            return True
+    if "inp_set_ad_patterns" in st.session_state:
+        curr_pat = settings.get("ad_patterns", [])
+        expected = [str(p).strip() for p in curr_pat if str(p).strip()] if isinstance(curr_pat, list) else _parse_ad_patterns(str(curr_pat or ""))
+        if _parse_ad_patterns(str(st.session_state["inp_set_ad_patterns"])) != expected:
+            return True
+    return False
+
+
+def _apply_pending_settings_from_state(working_config: dict[str, Any]) -> None:
+    """Übernimmt noch nicht explizit bestätigte globale Einstellungs-Widgets vor dem Speichern."""
+    settings = working_config.setdefault("settings", {})
+    if not isinstance(settings, dict):
+        settings = {}
+        working_config["settings"] = settings
+
+    if "inp_set_app_url" in st.session_state:
+        settings["streamlit_app_url"] = str(st.session_state["inp_set_app_url"]).strip()
+    if "inp_set_lang" in st.session_state:
+        settings["language"] = str(st.session_state["inp_set_lang"]).strip() or "de"
+    if "inp_set_retention_days" in st.session_state:
+        settings["archive_retention_days"] = int(st.session_state["inp_set_retention_days"])
+    if "inp_set_style" in st.session_state:
+        settings["summary_style"] = str(st.session_state["inp_set_style"]).strip() or "tldr"
+    if "inp_set_filter_ads" in st.session_state:
+        settings["filter_ads"] = bool(st.session_state["inp_set_filter_ads"])
+    if "inp_set_ad_patterns" in st.session_state:
+        settings["ad_patterns"] = _parse_ad_patterns(str(st.session_state["inp_set_ad_patterns"]))
+
+    for deprecated_key in ("strip_ads", "ad_keywords", "max_article_age_weeks", "max_age_weeks", "batch_sync_interval_minutes"):
+        settings.pop(deprecated_key, None)
+
+
+def _preserve_latest_prompts(working_config: dict[str, Any]) -> None:
+    """Stellt sicher, dass im KI-Tab gespeicherte Prompts beim Sichern im Verwalten-Tab erhalten bleiben."""
+    try:
+        latest_prompts = load_prompts()
+    except Exception as exc:  # noqa: BLE001 - Fallback auf bestehende Prompts im Entwurf
+        logger.debug("Aktuelle prompts.yaml konnte vor dem Speichern nicht gelesen werden: %s", exc)
+        return
+    if not isinstance(latest_prompts, dict):
+        return
+    settings = working_config.setdefault("settings", {})
+    for key in PROMPT_KEYS:
+        val = latest_prompts.get(key)
+        if isinstance(val, str) and val.strip():
+            settings[key] = val
+
+
+def _extract_feed_index(config: dict[str, Any]) -> dict[str, tuple[str, dict[str, Any]]]:
+    """Erstellt ein Mapping {feed_url: (category_name, feed_dict)} für Konfigurations-Diffs."""
+    index: dict[str, tuple[str, dict[str, Any]]] = {}
+    for cat in config.get("categories", []):
+        cat_name = str(cat.get("name") or "").strip()
+        if not cat_name:
+            continue
+        for feed in cat.get("feeds", []):
+            f_url = str(feed.get("url") or "").strip()
+            if f_url:
+                index[f_url] = (cat_name, feed)
+    return index
+
+
+def _sync_news_cache_after_save(
+    previous_config: dict[str, Any],
+    saved_config: dict[str, Any],
+) -> int:
+    """
+    Aktualisiert Artikel-Cache & DB unmittelbar nach dem Speichern:
+    - Entfernt Artikel gelöschter Feeds/Kategorien sofort aus Session-Cache und aktiver DB-Tabelle.
+    - Lädt Artikel neu hinzugefügter Feeds gezielt nach, sodass Artikel-Tab & KI-Briefing sofort aktuell sind.
+    Gibt die Anzahl neu geladener Artikel zurück.
+    """
+    prev_feeds = _extract_feed_index(previous_config)
+    new_feeds = _extract_feed_index(saved_config)
+
+    removed_urls = set(prev_feeds.keys()) - set(new_feeds.keys())
+    added_urls = set(new_feeds.keys()) - set(prev_feeds.keys())
+    valid_categories = {
+        str(c.get("name") or "").strip()
+        for c in saved_config.get("categories", [])
+        if str(c.get("name") or "").strip()
+    }
+    removed_pairs = {
+        (prev_feeds[u][0], str(prev_feeds[u][1].get("name") or "").strip())
+        for u in removed_urls
+    }
+
+    # 1. Gelöschte Feeds & Kategorien sofort aus dem Session-Cache entfernen
+    cached_news = st.session_state.get("cached_news_data")
+    if isinstance(cached_news, dict) and (removed_urls or valid_categories):
+        cleaned_news: dict[str, list[dict[str, Any]]] = {}
+        for cat_name, items in cached_news.items():
+            if valid_categories and cat_name not in valid_categories:
+                continue
+            kept_items = [
+                art for art in items
+                if str(art.get("source_url") or "").strip() not in removed_urls
+                and (cat_name, str(art.get("source") or "").strip()) not in removed_pairs
+            ]
+            if kept_items:
+                cleaned_news[cat_name] = kept_items
+        st.session_state["cached_news_data"] = cleaned_news
+
+    # 2. Gelöschte Feed-Artikel im Hintergrund auch aus der aktiven DB-Tabelle entfernen
+    if removed_urls:
+        removed_list = list(removed_urls)
+
+        def _prune_deleted_articles() -> None:
+            try:
+                get_storage().delete_articles_by_source_urls(removed_list)
+            except Exception as exc:  # noqa: BLE001 - Hintergrund-Bereinigung darf UI nicht stören
+                logger.warning("Konnte Artikel gelöschter Feeds nicht aus DB bereinigen: %s", exc)
+
+        run_in_background(_prune_deleted_articles)
+
+    # 3. Caches invalidieren
+    get_news_data.clear()
+    st.session_state.pop("cached_rss_registry", None)
+    st.session_state.pop("_cached_effective_update_ts", None)
+
+    # 4. Neu hinzugefügte Feeds gezielt & parallel nachladen (max. 5 gleichzeitig, schnell)
+    if not added_urls:
+        return 0
+
+    settings = saved_config.get("settings", {})
+    filter_ads = bool(settings.get("filter_ads", True))
+    ad_patterns = settings.get("ad_patterns", [])
+    added_tasks = [(new_feeds[u][0], new_feeds[u][1]) for u in added_urls]
+
+    def _fetch_added(task: tuple[str, dict[str, Any]]) -> tuple[str, str, str, list[dict[str, Any]]]:
+        c_name, f_dict = task
+        f_url = str(f_dict.get("url") or "").strip()
+        f_name = str(f_dict.get("name") or f_url).strip()
+        items = fetch_feed_items(
+            f_url,
+            include_keywords=f_dict.get("include_keywords"),
+            exclude_keywords=f_dict.get("exclude_keywords"),
+            filter_ads=filter_ads,
+            ad_patterns=ad_patterns,
+            max_age_hours=DEFAULT_MAX_ARTICLE_AGE_HOURS,
+        )
+        return c_name, f_name, f_url, items
+
+    fetched_articles: list[dict[str, Any]] = []
+    try:
+        max_workers = min(4, len(added_tasks))
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+            for c_name, f_name, f_url, items in executor.map(_fetch_added, added_tasks):
+                if not items:
+                    continue
+                target_news = st.session_state.setdefault("cached_news_data", {})
+                cat_list = target_news.setdefault(c_name, [])
+                existing_links = {str(a.get("link") or "").strip() for a in cat_list}
+                for art in items:
+                    art["source"] = f_name
+                    art["source_url"] = f_url
+                    art["category"] = c_name
+                    link = str(art.get("link") or "").strip()
+                    if link and link not in existing_links:
+                        existing_links.add(link)
+                        cat_list.append(art)
+                        fetched_articles.append(art)
+                cat_list.sort(key=lambda x: x.get("timestamp", 0.0), reverse=True)
+    except Exception as exc:  # noqa: BLE001 - Fehler beim gezielten Vorabladen darf Speichern nicht abbrechen
+        logger.warning("Gezieltes Nachladen neuer Feeds fehlgeschlagen: %s", exc)
+
+    if fetched_articles:
+        articles_to_persist = list(fetched_articles)
+
+        def _persist_new_articles() -> None:
+            try:
+                get_storage().save_articles(articles_to_persist)
+            except Exception as exc:  # noqa: BLE001 - Hintergrund-Speichern darf UI nicht stören
+                logger.warning("Konnte Artikel neuer Feeds nicht in DB speichern: %s", exc)
+
+        run_in_background(_persist_new_articles)
+
+    return len(fetched_articles)
+
+
+def _build_save_notice(save_res: Any, newly_fetched_count: int = 0) -> tuple[str, str]:
+    """Formatiert eine ehrliche, präzise Statusmeldung für den Speichervorgang."""
+    extra = f" · {newly_fetched_count} neue Artikel geladen" if newly_fetched_count > 0 else ""
+
+    if not isinstance(save_res, dict):
+        return "✅", f"Änderungen dauerhaft gespeichert & synchronisiert{extra}!"
+
+    db_saved = bool(save_res.get("db_saved", False))
+    gh_synced = bool(save_res.get("success", False))
+    gh_err = str(save_res.get("error") or "").strip()
+    db_err = str(save_res.get("db_error") or "").strip()
+
+    if db_saved and gh_synced:
+        return "✅", f"Änderungen dauerhaft in Cloud-Datenbank & GitHub gespeichert{extra}!"
+    if db_saved and not gh_synced:
+        hint = f"GitHub-Sync: {gh_err}" if gh_err else "GitHub-Sync übersprungen"
+        return "✅", f"Änderungen dauerhaft in Cloud-Datenbank gespeichert{extra}! ({hint} – wird beim nächsten Daily-Run abgeglichen.)"
+    if not db_saved and gh_synced:
+        return "✅", f"Änderungen lokal & auf GitHub gespeichert{extra}! (Cloud-Datenbank nicht erreichbar.)"
+    return "⚠️", f"Lokal gespeichert, aber Cloud-Sync fehlgeschlagen (DB: {db_err or '-'} · GitHub: {gh_err or '-'})."
 
 
 def render_feed_test_result(t_res: dict[str, Any]) -> None:
@@ -95,7 +372,7 @@ def render_manage_tab(
     if st.session_state.get("manage_notice"):
         render_dismissible_notice(st.session_state["manage_notice"], notice_key="manage_notice", icon="✅")
 
-    has_unsaved_changes = bool(st.session_state.get("has_unsaved_changes", False))
+    has_unsaved_changes = bool(st.session_state.get("has_unsaved_changes", False)) or _has_pending_settings_edits(working_config)
 
     # Top Status & Save Bar
     with st.container(border=True):
@@ -117,53 +394,46 @@ def render_manage_tab(
                 help="Änderungen sichern" if has_unsaved_changes else "Alles aktuell.",
             ):
                 st.session_state["is_saving_sources"] = True
-                if "settings" in working_config and isinstance(working_config["settings"], dict):
-                    working_config["settings"].pop("ad_keywords", None)
-                save_sources(working_config)
-                if get_offline_enabled_feeds(working_config):
-                    start_offline_archive_task(config=working_config)
-                from src.ui.background import run_in_background
-                run_in_background(
-                    sync_sources_to_github,
-                    config_dict=None,
-                    commit_message="chore(config): update configuration and RSS feeds via web dashboard",
-                    include_rss_feeds=True,
-                )
-                st.session_state["working_sources_config"] = load_sources()
-                st.session_state["has_unsaved_changes"] = False
-                st.session_state["is_saving_sources"] = False
-                keys_to_clear = [
-                    k for k in list(st.session_state.keys())
-                    if k.startswith(("ed_", "inp_set_", "inp_new_", "sel_ren_cat", "sel_new_feed_cat"))
-                ]
-                for k in keys_to_clear:
-                    del st.session_state[k]
-                st.session_state.pop("editing_feed_key", None)
-                st.session_state.pop("editing_feed_url", None)
-                st.session_state.pop("editing_feed_name", None)
-                st.session_state.pop("editing_feed_category", None)
-                st.session_state.pop("last_edited_category", None)
-                st.session_state.pop("last_saved_feed_key", None)
-                set_dismissible_notice("manage_notice", "Änderungen gespeichert & Hintergrund-Synchronisation gestartet!", icon="✅")
-                embed_client_script("setTimeout(function(){ window.location.reload(); }, 60);")
+                try:
+                    previous_config = copy.deepcopy(
+                        st.session_state.get("last_loaded_saved_config") or working_config
+                    )
+                    _apply_pending_settings_from_state(working_config)
+                    _preserve_latest_prompts(working_config)
+                    if "settings" in working_config and isinstance(working_config["settings"], dict):
+                        working_config["settings"].pop("ad_keywords", None)
+
+                    save_res = save_sources(
+                        working_config,
+                        sync_github=True,
+                        persist_db=True,
+                        include_rss_feeds=False,
+                    )
+                    if get_offline_enabled_feeds(working_config):
+                        start_offline_archive_task(config=working_config)
+
+                    reloaded_cfg = load_sources()
+                    newly_fetched = _sync_news_cache_after_save(previous_config, reloaded_cfg)
+
+                    st.session_state["working_sources_config"] = copy.deepcopy(reloaded_cfg)
+                    st.session_state["last_loaded_saved_config"] = copy.deepcopy(reloaded_cfg)
+                    st.session_state["has_unsaved_changes"] = False
+                    _clear_manage_form_keys()
+
+                    notice_icon, notice_msg = _build_save_notice(save_res, newly_fetched_count=newly_fetched)
+                    set_dismissible_notice("manage_notice", notice_msg, icon=notice_icon)
+                finally:
+                    st.session_state["is_saving_sources"] = False
+                st.rerun()
         with col_st3:
             if has_unsaved_changes:
                 if st.button("↩️ Verwerfen", use_container_width=True, key="top_discard_sources_btn"):
                     with st.spinner("Verwerfe ungespeicherte Änderungen..."):
-                        st.session_state["working_sources_config"] = load_sources()
+                        reloaded_cfg = load_sources()
+                        st.session_state["working_sources_config"] = copy.deepcopy(reloaded_cfg)
+                        st.session_state["last_loaded_saved_config"] = copy.deepcopy(reloaded_cfg)
                         st.session_state["has_unsaved_changes"] = False
-                        # Lösche alle Formular-Keys im Session State, damit alle Textfelder sofort zurückgesetzt werden
-                        keys_to_clear = [
-                            k for k in list(st.session_state.keys())
-                            if k.startswith(("ed_", "inp_set_", "inp_new_", "sel_ren_cat", "sel_new_feed_cat"))
-                        ]
-                        for k in keys_to_clear:
-                            del st.session_state[k]
-                        st.session_state.pop("editing_feed_key", None)
-                        st.session_state.pop("editing_feed_url", None)
-                        st.session_state.pop("editing_feed_name", None)
-                        st.session_state.pop("editing_feed_category", None)
-                        st.session_state.pop("last_edited_category", None)
+                        _clear_manage_form_keys()
                         set_dismissible_notice("manage_notice", "Ungespeicherte Änderungen verworfen.", icon="✅")
                         embed_client_script("setTimeout(function(){ window.location.reload(); }, 60);")
 
@@ -179,6 +449,7 @@ def render_manage_tab(
                     with st.spinner("Füge Kategorie hinzu..."):
                         add_category(new_cat_name.strip(), config=working_config, save_to_disk=False)
                         st.session_state["has_unsaved_changes"] = True
+                        st.session_state.pop("inp_new_cat_name", None)
                         set_dismissible_notice("manage_cat_notice", f"Kategorie '{new_cat_name.strip()}' hinzugefügt.", icon="📁")
                         set_dismissible_notice("manage_notice", f"Kategorie '{new_cat_name.strip()}' hinzugefügt.", icon="✅")
                         st.rerun()
@@ -195,12 +466,16 @@ def render_manage_tab(
                     cat_new_name = st.text_input("Neuer Name:", placeholder="Neuer Name...", key="inp_ren_cat_name")
                 if st.button("✏️ Umbenennen", key="btn_ren_cat", use_container_width=True):
                     if cat_new_name.strip() and cat_to_rename:
-                        with st.spinner("Benenne Kategorie um..."):
-                            rename_category(cat_to_rename, cat_new_name.strip(), config=working_config, save_to_disk=False)
-                            st.session_state["has_unsaved_changes"] = True
-                            set_dismissible_notice("manage_cat_notice", f"Kategorie umbenannt in '{cat_new_name.strip()}'.", icon="📁")
-                            set_dismissible_notice("manage_notice", f"Kategorie umbenannt in '{cat_new_name.strip()}'.", icon="✅")
-                            st.rerun()
+                        try:
+                            with st.spinner("Benenne Kategorie um..."):
+                                rename_category(cat_to_rename, cat_new_name.strip(), config=working_config, save_to_disk=False)
+                                st.session_state["has_unsaved_changes"] = True
+                                st.session_state.pop("inp_ren_cat_name", None)
+                                set_dismissible_notice("manage_cat_notice", f"Kategorie umbenannt in '{cat_new_name.strip()}'.", icon="📁")
+                                set_dismissible_notice("manage_notice", f"Kategorie umbenannt in '{cat_new_name.strip()}'.", icon="✅")
+                                st.rerun()
+                        except ValueError as exc:
+                            st.error(str(exc))
 
     # --- Sektion 2: Neuen RSS-Feed hinzufügen (standardmäßig zugeklappt) ---
     with st.expander("➕ Neuen RSS-Feed hinzufügen", expanded=False):
@@ -236,26 +511,40 @@ def render_manage_tab(
                     st.error("Bitte eine Feed-URL eingeben.")
         with col_add:
             if st.button("➕ Feed hinzufügen", type="primary", key="btn_submit_new_feed", use_container_width=True):
-                if feed_url_input.strip() and feed_name_input.strip():
-                    with st.spinner("Füge Feed hinzu..."):
-                        add_feed(
-                            category_name=target_cat,
-                            feed_name=feed_name_input.strip(),
-                            feed_url=feed_url_input.strip(),
-                            include_keywords=inc_kw_input.strip(),
-                            exclude_keywords=exc_kw_input.strip(),
-                            offline_download=bool(offline_dl_input),
-                            config=working_config,
-                            save_to_disk=False,
-                        )
-                        if offline_dl_input:
-                            start_offline_archive_task(
+                clean_url = feed_url_input.strip()
+                clean_name = feed_name_input.strip()
+                if clean_url and clean_name:
+                    url_ok, url_err = validate_feed_url(clean_url, resolve_dns=False)
+                    if not url_ok:
+                        st.error(url_err or "Ungültige Feed-URL.")
+                    else:
+                        with st.spinner("Füge Feed hinzu..."):
+                            add_feed(
+                                category_name=target_cat,
+                                feed_name=clean_name,
+                                feed_url=clean_url,
+                                include_keywords=inc_kw_input.strip(),
+                                exclude_keywords=exc_kw_input.strip(),
+                                offline_download=bool(offline_dl_input),
                                 config=working_config,
-                                target_feed_url=feed_url_input.strip(),
+                                save_to_disk=False,
                             )
-                        st.session_state["has_unsaved_changes"] = True
-                        set_dismissible_notice("manage_notice", f"Feed '{feed_name_input.strip()}' hinzugefügt!", icon="✅")
-                        st.rerun()
+                            if offline_dl_input:
+                                start_offline_archive_task(
+                                    config=working_config,
+                                    target_feed_url=clean_url,
+                                )
+                            st.session_state["has_unsaved_changes"] = True
+                            for k in (
+                                "inp_new_feed_url",
+                                "inp_new_feed_name",
+                                "inp_new_feed_inc",
+                                "inp_new_feed_exc",
+                                "inp_new_feed_offline",
+                            ):
+                                st.session_state.pop(k, None)
+                            set_dismissible_notice("manage_notice", f"Feed '{clean_name}' hinzugefügt!", icon="✅")
+                            st.rerun()
                 else:
                     st.error("Bitte Feed-URL und Feed-Name ausfüllen.")
 
@@ -268,6 +557,7 @@ def render_manage_tab(
     for cat_idx, cat in enumerate(categories):
         cat_name = cat.get("name", "Allgemein")
         feeds = sorted(cat.get("feeds", []), key=lambda f: f.get("name", "").strip().lower())
+        cat_hash = hashlib.sha256(cat_name.strip().lower().encode("utf-8")).hexdigest()[:8]
 
         is_cat_expanded = (
             st.session_state.get("last_edited_category") == cat_name
@@ -281,19 +571,19 @@ def render_manage_tab(
             with col_cdel:
                 with st.popover("🗑️ Kategorie löschen", use_container_width=True):
                     st.markdown(f"Kategorie **'{cat_name}'** samt aller Feeds wirklich löschen?")
-                    if st.button("Kategorie löschen", key=f"del_cat_{cat_idx}", type="primary", use_container_width=True):
+                    if st.button("Kategorie löschen", key=f"del_cat_{cat_hash}_{cat_idx}", type="primary", use_container_width=True):
                         delete_category(cat_name, config=working_config, save_to_disk=False)
                         st.session_state["has_unsaved_changes"] = True
                         set_dismissible_notice("manage_notice", f"Kategorie '{cat_name}' gelöscht.", icon="✅")
                         st.rerun()
 
-            for feed_idx, feed in enumerate(feeds):
+            for feed in feeds:
                 f_name = feed.get("name", "Unbenannt")
                 f_url = feed.get("url", "")
                 f_inc = feed.get("include_keywords", [])
                 f_exc = feed.get("exclude_keywords", [])
                 f_offline = bool(feed.get("offline_download", False))
-                key_hash = hashlib.md5(f_url.encode("utf-8")).hexdigest()[:8]
+                key_hash = _feed_widget_hash(cat_name, f_url)
 
                 with st.container(border=True):
                     col_top1, col_top2 = st.columns([5, 1], vertical_alignment="center")
@@ -304,8 +594,9 @@ def render_manage_tab(
                     with col_top2:
                         with st.popover("🗑️ Löschen", use_container_width=True):
                             st.markdown(f"Feed **'{f_name}'** wirklich entfernen?")
-                            if st.button("Löschen bestätigen", key=f"del_feed_{cat_idx}_{feed_idx}", type="primary", use_container_width=True):
+                            if st.button("Löschen bestätigen", key=f"del_feed_{key_hash}", type="primary", use_container_width=True):
                                 delete_feed(cat_name, f_url, config=working_config, save_to_disk=False)
+                                st.session_state["last_edited_category"] = cat_name
                                 st.session_state["has_unsaved_changes"] = True
                                 set_dismissible_notice("manage_notice", f"Feed '{f_name}' entfernt.", icon="✅")
                                 st.rerun()
@@ -365,37 +656,43 @@ def render_manage_tab(
                                     icon="✅",
                                 )
                             if st.button("✔️ Im Entwurf merken", key=f"btn_save_feed_{key_hash}", type="primary", use_container_width=True):
-                                if edit_name_val.strip() and edit_url_val.strip():
-                                    with st.spinner("Merke Feed-Änderungen im Arbeitsentwurf..."):
-                                        update_feed(
-                                            cat_name,
-                                            f_url,
-                                            new_name=edit_name_val.strip(),
-                                            new_url=edit_url_val.strip(),
-                                            new_category=edit_cat_val.strip(),
-                                            include_keywords=edit_inc_val.strip(),
-                                            exclude_keywords=edit_exc_val.strip(),
-                                            offline_download=bool(edit_offline_val),
-                                            config=working_config,
-                                            save_to_disk=False,
-                                        )
-                                        if edit_offline_val:
-                                            start_offline_archive_task(
+                                clean_edit_name = edit_name_val.strip()
+                                clean_edit_url = edit_url_val.strip()
+                                if clean_edit_name and clean_edit_url:
+                                    url_ok, url_err = validate_feed_url(clean_edit_url, resolve_dns=False)
+                                    if not url_ok:
+                                        st.error(url_err or "Ungültige Feed-URL.")
+                                    else:
+                                        with st.spinner("Merke Feed-Änderungen im Arbeitsentwurf..."):
+                                            update_feed(
+                                                cat_name,
+                                                f_url,
+                                                new_name=clean_edit_name,
+                                                new_url=clean_edit_url,
+                                                new_category=edit_cat_val.strip(),
+                                                include_keywords=edit_inc_val.strip(),
+                                                exclude_keywords=edit_exc_val.strip(),
+                                                offline_download=bool(edit_offline_val),
                                                 config=working_config,
-                                                target_feed_url=edit_url_val.strip(),
+                                                save_to_disk=False,
                                             )
-                                        new_hash = hashlib.md5(edit_url_val.strip().encode("utf-8")).hexdigest()[:8]
-                                        # State merken, damit der Expander OFFEN bleibt!
-                                        st.session_state["editing_feed_key"] = new_hash
-                                        st.session_state["last_saved_feed_key"] = new_hash
-                                        st.session_state["editing_feed_url"] = edit_url_val.strip()
-                                        st.session_state["editing_feed_name"] = edit_name_val.strip()
-                                        st.session_state["editing_feed_category"] = edit_cat_val.strip()
-                                        st.session_state["last_edited_category"] = edit_cat_val.strip()
-                                        st.session_state["has_unsaved_changes"] = True
-                                        set_dismissible_notice(f"feed_saved_{new_hash}", "Änderungen im Entwurf gemerkt!", icon="✅")
-                                        set_dismissible_notice("manage_notice", f"Änderungen für '{edit_name_val.strip()}' im Entwurf gemerkt!", icon="✅")
-                                        st.rerun()
+                                            if edit_offline_val:
+                                                start_offline_archive_task(
+                                                    config=working_config,
+                                                    target_feed_url=clean_edit_url,
+                                                )
+                                            new_hash = _feed_widget_hash(edit_cat_val.strip(), clean_edit_url)
+                                            # State merken, damit der Expander OFFEN bleibt!
+                                            st.session_state["editing_feed_key"] = new_hash
+                                            st.session_state["last_saved_feed_key"] = new_hash
+                                            st.session_state["editing_feed_url"] = clean_edit_url
+                                            st.session_state["editing_feed_name"] = clean_edit_name
+                                            st.session_state["editing_feed_category"] = edit_cat_val.strip()
+                                            st.session_state["last_edited_category"] = edit_cat_val.strip()
+                                            st.session_state["has_unsaved_changes"] = True
+                                            set_dismissible_notice(f"feed_saved_{new_hash}", "Änderungen im Entwurf gemerkt!", icon="✅")
+                                            set_dismissible_notice("manage_notice", f"Änderungen für '{clean_edit_name}' im Entwurf gemerkt!", icon="✅")
+                                            st.rerun()
                                 else:
                                     st.error("Name und URL dürfen nicht leer sein.")
 
@@ -463,15 +760,7 @@ def render_manage_tab(
                 settings["filter_ads"] = bool(filter_ads_val)
                 settings.pop("strip_ads", None)
                 settings.pop("ad_keywords", None)
-
-                raw_pat_lines = [p.strip() for p in ad_pat_val.splitlines() if p.strip()]
-                seen_pat = set()
-                parsed_ad_patterns = []
-                for pat in raw_pat_lines:
-                    if pat not in seen_pat:
-                        seen_pat.add(pat)
-                        parsed_ad_patterns.append(pat)
-                settings["ad_patterns"] = parsed_ad_patterns
+                settings["ad_patterns"] = _parse_ad_patterns(ad_pat_val)
 
                 # Wochenschema sicherstellen, dass es weg ist
                 settings.pop("max_article_age_weeks", None)
@@ -487,3 +776,4 @@ def render_manage_tab(
     with st.expander("⚙️ Vorschau der settings.yaml", expanded=False):
         settings_preview = {k: v for k, v in working_config.get("settings", {}).items() if k not in PROMPT_KEYS}
         st.code(yaml.dump(settings_preview, allow_unicode=True, sort_keys=False), language="yaml")
+

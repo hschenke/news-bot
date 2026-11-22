@@ -183,13 +183,14 @@ def on_toggle_feed_offline(
         config=working_config,
         save_to_disk=False,
     )
-    config_copy = dict(working_config)
+    import copy
+    config_copy = copy.deepcopy(working_config)
 
     def _bg_persist() -> None:
         from src.aggregator import save_sources
-        save_sources(config_copy)
+        save_sources(config_copy, sync_github=False, persist_db=True)
         sync_sources_to_github(
-            config_dict=config_copy,
+            config_dict=None,
             commit_message=f"chore(archive): set offline_download={new_state} for {f_name}",
             include_rss_feeds=False,
         )
@@ -311,7 +312,10 @@ def _render_settings_backups_block(working_config: dict[str, Any]) -> None:
                         if st.button("🔄 Laden", key=f"btn_restore_sb_{b_id}", help="Dieses Backup in den aktuellen Einstellungen laden"):
                             restored_dict = yaml.safe_load(b["settings_yaml"]) or {}
                             save_settings(restored_dict, backup_label=f"Auto-Backup vor Wiederherstellung von #{b_id}")
-                            working_config["settings"] = restored_dict
+                            preserved_prompts = {
+                                k: v for k, v in working_config.get("settings", {}).items() if k in PROMPT_KEYS
+                            }
+                            working_config["settings"] = {**restored_dict, **preserved_prompts}
                             st.session_state["has_unsaved_changes"] = True
                             st.session_state["_reload_settings_backups"] = True
                             st.session_state["settings_backups_expanded"] = True
