@@ -5,9 +5,18 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Donald Trump droht US-Konzernen mit Strafsteuer für Rechenzentren im Ausland</title>
+      <link>https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</guid>
+      <pubDate>Sun, 22 Nov 2026 12:59:45 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[US-Präsident Donald Trump droht amerikanischen Technologiekonzernen mit einer hohen Strafsteuer, wenn sie Rechenzentren im Ausland statt in den USA bauen. Im Inland wächst jedoch der Widerstand der Wähler gegen hohe Strompreise und Lärm: In Ohio gefährden 21 lokale Bürgerentscheide und eine 25-Megawatt-Obergrenze geplante Amazon-Investitionen über 17 Milliarden $. Ein konkretes Gesetz oder einen Steuersatz nannte Trump noch nicht und räumte ein, seinen eigenen Regierungsstab vorab nicht über den Vorstoß informiert zu haben. Gleichzeitig behauptete Trump eine Einigung mit Chinas Staatschef Xi Jinping über gemeinsame Grundregeln für KI und lobte Anthropic-Chef Dario Amodei kurz nach dem Börsengang des KI-Unternehmens. Financial Times: Donald Trump threatens 'tremendous' tax on data centres built outside US SiliconANGLE: Trump announces plan to tax US companies that build data centers abroad Ballotpedia: Sunbury, Ohio, Prohibit Construction of Data Centers Initiative (November 2026) US-Präsident Donald Trump will den Bau von Rechenzentren durch amerikanische Technologiekonzerne im Ausland mit einer hohen Strafsteuer belegen. Firmen wie Google oder Amazon sollen ihre Milliardenproje...]]></description>
+    </item>
     <item>
       <title>Google Gemini Pro mit 50% Rabatt zum Black Friday</title>
       <link>https://www.all-ai.de/news/news26top/google-gemini-pro-abo-bf</link>

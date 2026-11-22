@@ -5,9 +5,63 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Donald Trump droht US-Konzernen mit Strafsteuer für Rechenzentren im Ausland</title>
+      <link>https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</guid>
+      <pubDate>Sun, 22 Nov 2026 12:59:45 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[US-Präsident Donald Trump droht amerikanischen Technologiekonzernen mit einer hohen Strafsteuer, wenn sie Rechenzentren im Ausland statt in den USA bauen. Im Inland wächst jedoch der Widerstand der Wähler gegen hohe Strompreise und Lärm: In Ohio gefährden 21 lokale Bürgerentscheide und eine 25-Megawatt-Obergrenze geplante Amazon-Investitionen über 17 Milliarden $. Ein konkretes Gesetz oder einen Steuersatz nannte Trump noch nicht und räumte ein, seinen eigenen Regierungsstab vorab nicht über den Vorstoß informiert zu haben. Gleichzeitig behauptete Trump eine Einigung mit Chinas Staatschef Xi Jinping über gemeinsame Grundregeln für KI und lobte Anthropic-Chef Dario Amodei kurz nach dem Börsengang des KI-Unternehmens. Financial Times: Donald Trump threatens 'tremendous' tax on data centres built outside US SiliconANGLE: Trump announces plan to tax US companies that build data centers abroad Ballotpedia: Sunbury, Ohio, Prohibit Construction of Data Centers Initiative (November 2026) US-Präsident Donald Trump will den Bau von Rechenzentren durch amerikanische Technologiekonzerne im Ausland mit einer hohen Strafsteuer belegen. Firmen wie Google oder Amazon sollen ihre Milliardenproje...]]></description>
+    </item>
+    <item>
+      <title>US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken</title>
+      <link>https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533750</guid>
+      <pubDate>Sun, 22 Nov 2026 11:46:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bevor ein neuer US-Kongress strengere Regeln erzwingen könnte, soll das umstrittene NSA-Spionageprogramm mithilfe der Demokraten noch rasch verlängert werden.]]></description>
+    </item>
+    <item>
+      <title>Was das Videospiel GTA 6 über unsere Gegenwart erzählt</title>
+      <link>https://www.heise.de/news/Was-das-Videospiel-GTA-6-ueber-unsere-Gegenwart-erzaehlt-11533740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533740</guid>
+      <pubDate>Sun, 22 Nov 2026 11:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!]]></description>
+    </item>
+    <item>
+      <title>GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
+      <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533722</guid>
+      <pubDate>Sun, 22 Nov 2026 10:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.]]></description>
+    </item>
+    <item>
+      <title>Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes</title>
+      <link>https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533616</guid>
+      <pubDate>Sun, 22 Nov 2026 08:12:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Bundesrat hält den Gesetzentwurf gegen digitale Gewalt für zu lasch und fordert höhere Strafen sowie schärfere Regeln für Smart Glasses.]]></description>
+    </item>
+    <item>
+      <title>Missing Link: Der Arcade-Automat aus der DDR – 40 Jahre Poly-Play</title>
+      <link>https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11532459</guid>
+      <pubDate>Sun, 22 Nov 2026 07:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
+    </item>
     <item>
       <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
       <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
@@ -106,132 +160,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Medienberichten zufolge haben Hacker die FBI-Datenbank NCIC angegriffen. Ein Ex-FBI-Ermittler fürchtet vor allem manipulierte Datensätze.]]></description>
-    </item>
-    <item>
-      <title>Start von „GTA 6“ schlägt sämtliche Entertainment-Rekorde</title>
-      <link>https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533544</guid>
-      <pubDate>Sat, 21 Nov 2026 12:16:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nach ersten Schätzungen gibt es nun eine offizielle Zahl von Take-Two: 3,79 Milliarden US-Dollar nahm das Spiel am ersten Tag ein. Das ist auch nötig.]]></description>
-    </item>
-    <item>
-      <title>Adult-only households accounted for 55% of toy sales in the first half of 2026</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic</link>
-      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic</guid>
-      <pubDate>Sat, 21 Nov 2026 12:15:41 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Windows-Update-Vorschau: Gesichts-Unlock im Dunkeln</title>
-      <link>https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533459</guid>
-      <pubDate>Sat, 21 Nov 2026 10:52:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Microsoft hat die Vorschau der kommenden Patchday-Updates veröffentlicht. Windows Hello lernt darin Gesichtserkennung im Dunkeln.]]></description>
-    </item>
-    <item>
-      <title>My Monitor Was Cutting My Download Speed by 75%</title>
-      <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
-      <guid isPermaLink="false">https://blog.tymscar.com/posts/studiodisplayethernet/</guid>
-      <pubDate>Sat, 21 Nov 2026 10:36:32 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>FBI reportedly investigating apparent hack of its criminal database</title>
-      <link>https://www.bbc.com/news/articles/cvze7de86pk3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvze7de86pk3o</guid>
-      <pubDate>Sat, 21 Nov 2026 10:33:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben</title>
-      <link>https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533452</guid>
-      <pubDate>Sat, 21 Nov 2026 09:09:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.]]></description>
-    </item>
-    <item>
-      <title>KI-Kennzeichnung und National Geographic – die Fotonews der Woche 47/2026</title>
-      <link>https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532822</guid>
-      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern. National Geographic kürt Pictures of the Year. Und VSCO startet einen Desktop-Editor.]]></description>
-    </item>
-    <item>
-      <title>RCE in Gnupg</title>
-      <link>https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</link>
-      <guid isPermaLink="false">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</guid>
-      <pubDate>Sat, 21 Nov 2026 08:32:58 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize</title>
-      <link>https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</link>
-      <guid isPermaLink="false">https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</guid>
-      <pubDate>Sat, 21 Nov 2026 08:32:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät</title>
-      <link>https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533280</guid>
-      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.]]></description>
-    </item>
-    <item>
-      <title>Sicherheitsframework fürs Gesundheitswesen – Cyberresilienz richtig testen</title>
-      <link>https://www.heise.de/hintergrund/Sicherheitsframework-fuers-Gesundheitswesen-Cyberresilienz-richtig-testen-11510081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11510081</guid>
-      <pubDate>Sat, 21 Nov 2026 07:35:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wie lässt sich die Cyberresilienz von Kliniken testen und bewerten? Ein Ansatz berücksichtigt das Zusammenspiel von Software, Infrastruktur und Mensch.]]></description>
-    </item>
-    <item>
-      <title>Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig</title>
-      <link>https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532884</guid>
-      <pubDate>Sat, 21 Nov 2026 07:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.]]></description>
-    </item>
-    <item>
-      <title>Ebene für Ebene: Die Bilder der Woche 47</title>
-      <link>https://www.heise.de/news/Ebene-fuer-Ebene-Die-Bilder-der-Woche-47-11529700.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529700</guid>
-      <pubDate>Sat, 21 Nov 2026 07:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Jedes der sieben Bilder spielt bewusst mit Vorder- und Hintergrund und gewinnt durch verschiedene Ebenen an Tiefe und Spannung.]]></description>
-    </item>
-    <item>
-      <title>Surprisingly Adorable Insect Portraits</title>
-      <link>https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</link>
-      <guid isPermaLink="false">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:44:14 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
     </item>
   </channel>
 </rss>

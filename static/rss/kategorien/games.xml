@@ -5,9 +5,63 @@
     <link>https://news-bot.streamlit.app/?category=Games</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Games' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/games.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOMM 3 - Remake Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</guid>
+      <pubDate>Sun, 22 Nov 2026 07:57:15 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[IGN shared a new trailer for the Heroes of Might and Magic III remake: Heroes of Might and Magic 3 Remake - Official Closed Playtest Trailer Take a look at the Heroes of Might and Magic 3 Remake in this trailer for the upcoming remake of the turn-based strategy classic and its two expansions, rebuilt in full 3D and 4K....]]></description>
+    </item>
+    <item>
+      <title>Darkest Dungeon 2 - The Butcher's Asylum Gameplay</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</guid>
+      <pubDate>Sun, 22 Nov 2026 07:52:12 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Some gameplay for the DLC Darkest Dungeon 2: The Butcher's Asylum: Darkest Dungeon 2: The Butcher's Asylum - Official Gameplay Trailer Take a look at gameplay from Darkest Dungeon 2: The Butcher's Asylum in this trailer for the upcoming DLC....]]></description>
+    </item>
+    <item>
+      <title>One Fenix Down - Review</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60618</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60618</guid>
+      <pubDate>Sun, 22 Nov 2026 07:44:27 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Tech-Gaming reviewed the J-RPG One Fenix Down: One Fenix Down Review A Real Gem (Knight) Retro role-playing games often take their time building toward conflict, but One Fenix Down opens with a siege that feels impressively large. Torloria’s defenders make a desperate attempt to destroy a bridge and slow the Goa Empire’s advance....]]></description>
+    </item>
+    <item>
+      <title>Shadows of the Dungeon - Kickstarter at 36%</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</guid>
+      <pubDate>Sun, 22 Nov 2026 07:30:13 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The dungeon crawler Shadows of the Dungeon reached 36% of the funding goal on Kickstarter. 17 days are left to reach 5000 Euro.]]></description>
+    </item>
+    <item>
+      <title>The Bell Tolls - Announced</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</guid>
+      <pubDate>Sun, 22 Nov 2026 07:12:46 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The roguelike The Bell Tolls has been announced: The Bell Tolls - Gameplay Trailer A turn-based party roguelike RPG with the 5e tabletop ruleset. Every midnight the Bell tolls and the Corruption spreads. Gather your party and venture forth to destroy the source before the Corruption reaches town....]]></description>
+    </item>
+    <item>
+      <title>RPG Crawler - CRPG News Roundup</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60615</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60615</guid>
+      <pubDate>Sun, 22 Nov 2026 07:01:00 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Like every week the RPG Crawler sums up the CRPG news: CRPG News Roundup (11-21-2026)]]></description>
+    </item>
     <item>
       <title>Might &amp; Magic Heroes VI Collector's Edition Set ohne Spiel in Osterholz - Tenever</title>
       <link>https://www.kleinanzeigen.de/s-anzeige/might-magic-heroes-vi-collector-s-edition-set-ohne-spiel/3578677104-23-17</link>
@@ -16,51 +70,6 @@
       <category>Games</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
       <description><![CDATA[Ich biete hier das Sammlerset zur Collector's Edition von Might & Magic Heroes VI an. Das Set wurde lediglich ausgepackt und stand zur Dekoration in ...]]></description>
-    </item>
-    <item>
-      <title>AetherCycle - Early Access Release</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60614</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60614</guid>
-      <pubDate>Sat, 21 Nov 2026 11:10:57 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[AetherCycle will be released into Early Access on December 4: AetherCycle - Official Early Access Launch Trailer AetherCycle is a first-person action RPG featuring fast-paced combat, character leveling, abilities, and loot-driven gear progression....]]></description>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI - $3.79 Billion in Day One Retail Sales</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60613</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60613</guid>
-      <pubDate>Sat, 21 Nov 2026 11:07:20 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Largh spotted that Grand Theft Auto VI day one retail sales reached $3.79 billion. The budget is estimated somewhere above $1 billion, but not confirmed by Take-Two. (Here: 1 billion = one thousand million - in many countries this is called a millia...]]></description>
-    </item>
-    <item>
-      <title>RPG General News - Crowdfunding: Brany Skeldalu 4</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60612</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60612</guid>
-      <pubDate>Sat, 21 Nov 2026 10:56:46 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Kordanor spotted a crowdfunding project for a dungeon crawler called Brany Skeldalu 4. A successor for the Czech dungeon crawler Gates of Skeldal: Brány Skeldalu 4 | Kampaň na Startovači The creator Jindřich is running a crowdfunding campaign on the czech platform startovac....]]></description>
-    </item>
-    <item>
-      <title>Rise of Furax - Announced for April 2027</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60611</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60611</guid>
-      <pubDate>Sat, 21 Nov 2026 10:43:40 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Rap2h, who released the Might and Magic inspired Heroes of the Seven Islands announced that he is going to also make a real Grid Based Dungeon Crawler called Rise of Furax: Rise of Furax A dungeon crawler RPG set in the Heroes of the Seven Islands universe, where every element, from sprites to textures, was hand-drawn on paper....]]></description>
-    </item>
-    <item>
-      <title>Game-Musik im Konzert: Game on Symphony in München | News und Kritik | BR-KLASSIK</title>
-      <link>https://www.br-klassik.de/aktuell/news-kritik/game-on-symphony-2026-muenchen-berlin-koeln-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12187372327469042654</guid>
-      <pubDate>Sat, 21 Nov 2026 10:23:07 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Dazu kommen die Fantasywelten von "Might and Magic X" und die raue, weite Landschaft von "The Elder Scrolls V: Skyrim". Durch den Abend führt Euch ...]]></description>
     </item>
   </channel>
 </rss>

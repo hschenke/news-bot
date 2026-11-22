@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energie Cottbus vs. Hertha: Das Derby im Liveticker und Audiostream</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</guid>
+      <pubDate>Sun, 22 Nov 2026 13:24:43 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Zweitliga-Tabellenführer Hertha BSC auf der Mission "100 Punkte" zu Gast bei Energie "Wir gegen Alle" Cottbus. Das erste Berlin-Brandenburg-Duell seit 13 Jahren hier im rbb|24-Liveticker und im Audiostream.]]></description>
+    </item>
+    <item>
+      <title>Unions 1:5 gegen Leipzig: Mut allein reicht nicht</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</guid>
+      <pubDate>Sun, 22 Nov 2026 07:24:55 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Union Berlin tritt bei der 1:5-Niederlage gegen RB Leipzig mutiger auf, offenbart aber erneut große Schwächen in der Defensive. Die Mannschaft von Mauro Lustrinelli findet weiterhin nicht die richtige Balance.]]></description>
+    </item>
     <item>
       <title>Bundesliga: Berlin Volleys siegen souverän gegen Ludwigsburg</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/volleyball-bundesliga-br-volleys-ludwigsburg-netzhoppers-rottenburg.html</link>
@@ -40,42 +58,6 @@
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-u19-derby-union-berlin-hertha-bsc-spielbericht-ergebnis.html</link>
       <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-u19-derby-union-berlin-hertha-bsc-spielbericht-ergebnis.html</guid>
       <pubDate>Sat, 21 Nov 2026 14:55:45 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Eiskunstlauf-Paar Hocke/Kunkel gewinnt überraschend Gold in Finnland</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-paarlauf-kuer-grand-prix-finnland-annika-hocke-robert-kunkel.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-paarlauf-kuer-grand-prix-finnland-annika-hocke-robert-kunkel.html</guid>
-      <pubDate>Sat, 21 Nov 2026 13:00:28 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Hertha-Trainer Leitl: "Als Glück würde ich das nicht bezeichnen"</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-hertha-bsc-stefan-leitl-trainer-interview-energie-cottbus.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-hertha-bsc-stefan-leitl-trainer-interview-energie-cottbus.html</guid>
-      <pubDate>Sat, 21 Nov 2026 11:44:52 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Hertha BSC im Kreise der Aufstiegskandidaten der 2. Bundesliga hatten vor der Saison nur wenige auf dem Zettel. Nun stehen die Berliner ungeschlagen an der Tabellenspitze. Im Interview spricht Trainer Stefan Leitl über die Gründe.]]></description>
-    </item>
-    <item>
-      <title>"Ganz merkwürdig": Franz Wagner gewinnt in der NBA gegen Bruder Moritz</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/nba-franz-moritz-wagner-bruderduell-orlando-magic-brooklyn-nets.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/nba-franz-moritz-wagner-bruderduell-orlando-magic-brooklyn-nets.html</guid>
-      <pubDate>Sat, 21 Nov 2026 09:34:55 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Fünf Jahre spielten Franz und Moritz Wagner gemeinsam für Orlando, nun trafen die Berliner Basketball-Brüder erstmals als Gegner in der NBA aufeinander. Das Familienduell entschied Franz für sich - mit dem letzten Korb zwei Sekunden vor dem Ende.]]></description>
-    </item>
-    <item>
-      <title>Altglienicke chancenlos bei Regionalliga-Spitzenreiter Erfurt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-lok-leipzig-rsv-eintracht-erfurt-altglienic.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-lok-leipzig-rsv-eintracht-erfurt-altglienic.html</guid>
-      <pubDate>Sat, 21 Nov 2026 07:36:24 GMT</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[]]></description>

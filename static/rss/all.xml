@@ -5,9 +5,540 @@
     <link>https://news-bot.streamlit.app</link>
     <description>Alle aggregierten Nachrichten aus sämtlichen Kategorien und Quellen im News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Berlin] Energie Cottbus vs. Hertha: Das Derby im Liveticker und Audiostream</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</guid>
+      <pubDate>Sun, 22 Nov 2026 13:24:43 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Zweitliga-Tabellenführer Hertha BSC auf der Mission "100 Punkte" zu Gast bei Energie "Wir gegen Alle" Cottbus. Das erste Berlin-Brandenburg-Duell seit 13 Jahren hier im rbb|24-Liveticker und im Audiostream.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Liveticker: Energie Cottbus gegen Hertha BSC – Hertha gewinnt 1. Halbzeit - T-Online</title>
+      <link>https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59692/liveticker-energie-cottbus-gegen-hertha-bsc-hertha-gewinnt-1-halbzeit.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14224081033857860004</guid>
+      <pubDate>Sun, 22 Nov 2026 13:24:14 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Läuft nach Plan für die Hertha, auf jeden Fall, was den Spielstand betrifft. Die Berliner nutzten gleich die erste Großchance in der Frühphase der ...]]></description>
+    </item>
+    <item>
+      <title>[Fun] Welchen Weg wählst du?</title>
+      <link>https://debeste.de/639496/Welchen-Weg-w-hlst-du</link>
+      <guid isPermaLink="false">https://debeste.de/639496/Welchen-Weg-w-hlst-du</guid>
+      <pubDate>Sun, 22 Nov 2026 13:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] 2. Bundesliga - Energie Cottbus vs. Hertha BSC Berlin heute live im Ticker - Eurosport</title>
+      <link>https://www.eurosport.de/fussball/2.-bundesliga/2026-2027/fc-energie-cottbus-hertha-bsc_mtc21894035/live-commentary.shtml</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11854197716076780855</guid>
+      <pubDate>Sun, 22 Nov 2026 13:11:34 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Holen Sie sich die neuesten Fußball Updates auf Eurosport. Verfolgen Sie FC Energie Cottbus - Hertha BSC live am 22/11/2026.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC bei Energie Cottbus gefordert: 2. Bundesliga heute im Liveticker - Berliner Morgenpost</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413732642/hertha-bsc-bei-energie-cottbus-gefordert-2-bundesliga-heute-im-liveticker.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16961970569920798158</guid>
+      <pubDate>Sun, 22 Nov 2026 13:03:36 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC tritt zum ersten Mal seit 14 Jahren wieder bei Energie Cottbus an und will seine Erfolgsserie fortsetzen. Das Spiel im Liveticker.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Cottbus 0:1 HERTHA BSC - Gronning (5') | Fußball News - Sky Sport</title>
+      <link>https://sport.sky.de/fussball/artikel/cottbus-0-1-hertha-bsc-gronning-5/13615211/43553</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16964041402166688902</guid>
+      <pubDate>Sun, 22 Nov 2026 13:02:29 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Cottbus 0:1 HERTHA BSC - Gronning (5')]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Donald Trump droht US-Konzernen mit Strafsteuer für Rechenzentren im Ausland</title>
+      <link>https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</guid>
+      <pubDate>Sun, 22 Nov 2026 12:59:45 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[US-Präsident Donald Trump droht amerikanischen Technologiekonzernen mit einer hohen Strafsteuer, wenn sie Rechenzentren im Ausland statt in den USA bauen. Im Inland wächst jedoch der Widerstand der Wähler gegen hohe Strompreise und Lärm: In Ohio gefährden 21 lokale Bürgerentscheide und eine 25-Megawatt-Obergrenze geplante Amazon-Investitionen über 17 Milliarden $. Ein konkretes Gesetz oder einen Steuersatz nannte Trump noch nicht und räumte ein, seinen eigenen Regierungsstab vorab nicht über den Vorstoß informiert zu haben. Gleichzeitig behauptete Trump eine Einigung mit Chinas Staatschef Xi Jinping über gemeinsame Grundregeln für KI und lobte Anthropic-Chef Dario Amodei kurz nach dem Börsengang des KI-Unternehmens. Financial Times: Donald Trump threatens 'tremendous' tax on data centres built outside US SiliconANGLE: Trump announces plan to tax US companies that build data centers abroad Ballotpedia: Sunbury, Ohio, Prohibit Construction of Data Centers Initiative (November 2026) US-Präsident Donald Trump will den Bau von Rechenzentren durch amerikanische Technologiekonzerne im Ausland mit einer hohen Strafsteuer belegen. Firmen wie Google oder Amazon sollen ihre Milliardenproje...]]></description>
+    </item>
+    <item>
+      <title>[Fun] Wenn Polizei klopft an Tür, du klopf zurück...</title>
+      <link>https://debeste.de/639489/Wenn-Polizei-klopft-an-T-r,-du-klopf-zur-ck</link>
+      <guid isPermaLink="false">https://debeste.de/639489/Wenn-Polizei-klopft-an-T-r,-du-klopf-zur-ck</guid>
+      <pubDate>Sun, 22 Nov 2026 12:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Wenn Polizei klopft an Tür, du klopf zurück... ...jetzt beide warten]]></description>
+    </item>
+    <item>
+      <title>[Fußball] 2. Bundesliga heute: Energie Cottbus – Hertha BSC im Liveticker, TV &amp; Stream - SPORT1</title>
+      <link>https://www.sport1.de/news/fussball/2-bundesliga/2026/11/2-bundesliga-heute-cottbus-hertha-live-im-tv-liveticker-livestream</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15788965191463876226</guid>
+      <pubDate>Sun, 22 Nov 2026 12:57:21 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Der FC Energie Cottbus empfängt heute die Hertha BSC. Der Anstoß ist um 13.30 Uhr im LEAG Energie Stadion. SPORT1 erklärt Ihnen, wo Sie das Spiel ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus - Hertha BSC im Liveticker: Zweite Ecke, erstes Tor! - TAG24</title>
+      <link>https://www.tag24.de/sport/fussball/verein/energie-cottbus/cottbus-gegen-hertha-live-zweite-ecke-erstes-tor-3551305</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16117179252345545126</guid>
+      <pubDate>Sun, 22 Nov 2026 12:53:15 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Energie Cottbus - Hertha BSC im Liveticker: Die zweite Hertha-Ecke des Spiels mündet im Führungstreffer der Gäste. | TAG24.]]></description>
+    </item>
+    <item>
+      <title>[Fun] Touristenfalle.</title>
+      <link>https://debeste.de/639485/Touristenfalle</link>
+      <guid isPermaLink="false">https://debeste.de/639485/Touristenfalle</guid>
+      <pubDate>Sun, 22 Nov 2026 12:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Liveticker 2. Bundesliga: Energie Cottbus gegen Hertha BSC – Aufstellung - T-Online</title>
+      <link>https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59692/liveticker-2-bundesliga-energie-cottbus-gegen-hertha-bsc-aufstellung.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1054979859345689364</guid>
+      <pubDate>Sun, 22 Nov 2026 12:36:49 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Und jetzt kommt das Überteam der Saison in die Niederlausitz. Die scheinbar übermächtige Hertha. Das Team, das als einziges in Liga 2 noch ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] 2. Fußball-Bundesliga: Energie Cottbus vs. Hertha: Das Derby im Liveticker und Audiostream</title>
+      <link>https://www.sportschau.de/regional/rbb/rbb-energie-cottbus-vs-hertha-das-derby-im-liveticker-und-audiostream-100.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5950436731844962676</guid>
+      <pubDate>Sun, 22 Nov 2026 12:23:38 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Zweitliga-Tabellenführer Hertha BSC auf der Mission "100 Punkte" zu Gast bei Energie "Wir gegen Alle" Cottbus. Das erste Berlin-Brandenburg-Duell ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus - Hertha BSC im Liveticker: Fans stimmen Hass-Rufe an - TAG24</title>
+      <link>https://www.tag24.de/sport/fussball/verein/energie-cottbus/cottbus-gegen-hertha-live-derby-vorgeplaenkel-auf-den-raengen-fans-stimmen-hass-rufe-an-3551305</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2741844958324530383</guid>
+      <pubDate>Sun, 22 Nov 2026 12:21:58 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Energie Cottbus - Hertha BSC im Liveticker: Während Pele Wollitz am Spielfeldrand ein Interview gibt, erschallen von den Rängen die ersten ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] PSG bestätigt Befürchtungen bei Doué – „So ist das Leben als Profi“</title>
+      <link>https://www.transfermarkt.de/psg-bestatigt-befurchtungen-bei-doue-so-ist-das-leben-als-profi-auf-hochstem-niveau-quot-/view/news/491032</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/psg-bestatigt-befurchtungen-bei-doue-so-ist-das-leben-als-profi-auf-hochstem-niveau-quot-/view/news/491032</guid>
+      <pubDate>Sun, 22 Nov 2026 12:15:01 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Veröffentlicht am 22.11.2026 um 09.29 Uhr, aktualisiert um 13:15 Uhr. Paris Saint-Germain hat die Befürchtungen nach der Verletzung von Désiré Doué bestätigt....]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Trainingsplan KW48: Nach dem Auswärtssieg wartet Hertha BSC II - Chemnitzer FC</title>
+      <link>https://www.chemnitzerfc.de/cfc/aktuell/neuigkeiten/detailansicht/trainingsplan-kw48-nach-dem-auswaertssieg-wartet-hertha-bsc-ii</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7456160865081166979</guid>
+      <pubDate>Sun, 22 Nov 2026 12:14:47 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Nun richtet sich der Blick auf den Rückrundenauftakt in der Regionalliga Nordost. Am Freitagabend empfängt der CFC die zweite Mannschaft von Hertha ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Fußball-Derby: Hochrisikospiel in Cottbus - Polizei begleitet Hertha-Fans | DIE ZEIT</title>
+      <link>https://www.zeit.de/news/2026-11/22/hochrisikospiel-in-cottbus-polizei-begleitet-hertha-fans</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13718471896238581965</guid>
+      <pubDate>Sun, 22 Nov 2026 12:12:17 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Zum Berlin-Brandenburg-Derby zwischen Energie Cottbus und Hertha BSC in der zweiten Fußball-Bundesliga rechnet die Polizei mit sehr vollen Zügen.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Lustrinelli kritisiert Union-Kader: Nach Wechseln „wirklich ein großer Unterschied auf dem Platz“</title>
+      <link>https://www.transfermarkt.de/lustrinelli-kritisiert-union-kader-nach-wechseln-wirklich-ein-grosser-unterschied-auf-dem-platz-quot-/view/news/491036</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/lustrinelli-kritisiert-union-kader-nach-wechseln-wirklich-ein-grosser-unterschied-auf-dem-platz-quot-/view/news/491036</guid>
+      <pubDate>Sun, 22 Nov 2026 12:01:27 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Der Druck auf Trainer Mauro Lustrinelli und Geschäftsführer Horst Heldt ist nach der nächsten heftigen Abreibung für den 1. FC Union Berlin massiv gewachsen. Nach der 1:5...]]></description>
+    </item>
+    <item>
+      <title>[Fun] Meine Logik beim Nudeln kochen: Es sind ja eh schon zu..</title>
+      <link>https://debeste.de/639457/Meine-Logik-beim-Nudeln-kochen-Es-sind-ja-eh-schon-zu</link>
+      <guid isPermaLink="false">https://debeste.de/639457/Meine-Logik-beim-Nudeln-kochen-Es-sind-ja-eh-schon-zu</guid>
+      <pubDate>Sun, 22 Nov 2026 11:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Meine Logik beim Nudeln kochen: Es sind ja eh schon zu viele Nudeln im Topf gelandet, also damit sich die wenigen Nudeln, die jetzt noch in der Tüte sind, nicht einsam fühlen, schmeiß ich die einfach noch hinterher]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus vs. Hertha BSC: Die offiziellen Aufstellungen sind da! - Tipico</title>
+      <link>https://www.tipico.de/wett-tipps/sportwetten-news/energie-cottbus-vs-hertha-bsc-die-offiziellen-aufstellungen-sind-da</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2407961503969535978</guid>
+      <pubDate>Sun, 22 Nov 2026 11:48:32 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Die offiziellen Energie Cottbus - Hertha BSC Startaufstellungen sind live! Wer spielt von Beginn an? Alle Infos hier im Überblick.]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken</title>
+      <link>https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533750</guid>
+      <pubDate>Sun, 22 Nov 2026 11:46:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bevor ein neuer US-Kongress strengere Regeln erzwingen könnte, soll das umstrittene NSA-Spionageprogramm mithilfe der Demokraten noch rasch verlängert werden.]]></description>
+    </item>
+    <item>
+      <title>[Fun] Existenzieller Ballast..</title>
+      <link>https://debeste.de/639543/Existenzieller-Ballast</link>
+      <guid isPermaLink="false">https://debeste.de/639543/Existenzieller-Ballast</guid>
+      <pubDate>Sun, 22 Nov 2026 11:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Inter Miami droht frühes Aus in MLS-Playoffs: Columbus-Trainer fordert Rot für Messi</title>
+      <link>https://www.transfermarkt.de/inter-miami-droht-fruhes-aus-in-mls-playoffs-columbus-trainer-fordert-rot-fur-messi/view/news/491035</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/inter-miami-droht-fruhes-aus-in-mls-playoffs-columbus-trainer-fordert-rot-fur-messi/view/news/491035</guid>
+      <pubDate>Sun, 22 Nov 2026 11:24:55 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Lionel Messi muss mit Inter Miami um das frühe Playoff-Aus in der MLS bangen. Zum Auftakt der Endrunde verlor Miami das erste Spiel der „Best of Three“-Serie gegen Columbus Crew...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus vs. Hertha BSC live: GTA VI - Edition Lausitz - rbb24</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6643135888367986301</guid>
+      <pubDate>Sun, 22 Nov 2026 11:19:25 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Zweitliga-Tabellenführer Hertha BSC auf der Mission "100 Punkte" zu Gast bei Energie "Wir gegen Alle" Cottbus. Mehr Open World geht nicht.]]></description>
+    </item>
+    <item>
+      <title>[Fun] Die Ungebildeten nennen mich einen Rassisten..</title>
+      <link>https://debeste.de/639602/Die-Ungebildeten-nennen-mich-einen-Rassisten</link>
+      <guid isPermaLink="false">https://debeste.de/639602/Die-Ungebildeten-nennen-mich-einen-Rassisten</guid>
+      <pubDate>Sun, 22 Nov 2026 11:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Die Ungebildeten nennen mich einen Rassisten. Ich bin kein Rassist. Ich bin ein Culturalist. Ich glaube, dass manche Kulturen besser sind als andere. Ich bevorzuge Kulturen, die keine Steinigung, Pädophilie, das Schlagen von Ehefrauen, weibliche Genitalverstümmelung und das Enthaupten von Gegnern befürworten. Nennt mich altmodisch... ~John Cleese]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus vs Hertha BSC, 2. Bundesliga, 12. Spieltag, Saison 2026 2027</title>
+      <link>https://www.reutersconnect.com/item/energie-cottbus-vs-hertha-bsc-2-bundesliga-12-spieltag-saison-2026-2027/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQ0hLSk0</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5062076777504042242</guid>
+      <pubDate>Sun, 22 Nov 2026 11:16:44 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Vor dem Spiel 22.11.2026, Energie Cottbus vs Hertha BSC, Fussball, 2. Bundesliga, 12. Spieltag, LEAG Energie Stadion, Cottbus DFL regulations ...]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Was das Videospiel GTA 6 über unsere Gegenwart erzählt</title>
+      <link>https://www.heise.de/news/Was-das-Videospiel-GTA-6-ueber-unsere-Gegenwart-erzaehlt-11533740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533740</guid>
+      <pubDate>Sun, 22 Nov 2026 11:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!]]></description>
+    </item>
+    <item>
+      <title>[Fun] Ein großer Metalltresor mit einem Gewicht von etwa 500 bis..</title>
+      <link>https://debeste.de/639466/Ein-gro-er-Metalltresor-mit-einem-Gewicht-von-etwa-500-bis</link>
+      <guid isPermaLink="false">https://debeste.de/639466/Ein-gro-er-Metalltresor-mit-einem-Gewicht-von-etwa-500-bis</guid>
+      <pubDate>Sun, 22 Nov 2026 10:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ein großer Metalltresor mit einem Gewicht von etwa 500 bis 600 kg ist auf mysteriöse Weise mitten auf einem Feld in Barre im US-Bundesstaat New York aufgetaucht. Daran war eine Notiz befestigt: „Wenn du ihn öffnen kannst, darfst du behalten, was drin ist.“ Trotz mehrerer Versuche konnte ihn niemand öffnen, und niemand weiß, wer ihn dort abgestellt hat oder was sich darin befindet.]]></description>
+    </item>
+    <item>
+      <title>[Fun] Ich glaube, das Universum versucht mir etwas..</title>
+      <link>https://debeste.de/639444/Ich-glaube,-das-Universum-versucht-mir-etwas</link>
+      <guid isPermaLink="false">https://debeste.de/639444/Ich-glaube,-das-Universum-versucht-mir-etwas</guid>
+      <pubDate>Sun, 22 Nov 2026 10:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ich glaube, das Universum versucht mir etwas mitzuteilen…]]></description>
+    </item>
+    <item>
+      <title>[Fußball] 12. Spieltag: FC Energie Cottbus - Hertha BSC - Hertha BSC - Fórum | Página 1 | Transfermarkt</title>
+      <link>https://www.transfermarkt.pt/12-spieltag-fc-energie-cottbus-hertha-bsc/thread/forum/14/thread_id/275860</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5113882374137014714</guid>
+      <pubDate>Sun, 22 Nov 2026 10:37:17 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Tópico: 12. Spieltag: FC Energie Cottbus - Hertha BSC, entradas: 15, última resposta: 22/11/2026 - 09:41.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Goretzka dachte an Karriereende – Emery überzeugte mit neuer Rolle: „Mehr Freiheit“</title>
+      <link>https://www.transfermarkt.de/goretzka-dachte-an-karriereende-emery-uberzeugte-mit-neuer-rolle-mehr-freiheit-quot-/view/news/491034</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/goretzka-dachte-an-karriereende-emery-uberzeugte-mit-neuer-rolle-mehr-freiheit-quot-/view/news/491034</guid>
+      <pubDate>Sun, 22 Nov 2026 10:27:54 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Leon Goretzka hat im Sommer vor seinem Wechsel in die Premier League über ein Ende seiner Karriere nachgedacht. „Vielleicht war es die lange Sommerpause, in der ich realisiert habe, dass...]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Gebraucht Skoda Fabia Elegance 105 PS (2009) in Berlin - Mahlsdorf - 3.490 € | AutoUncle</title>
+      <link>https://www.autouncle.de/de/d/230409470-gebraucht-2009-skoda-fabia-elegance-105-ps</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1646278788918014509</guid>
+      <pubDate>Sun, 22 Nov 2026 10:27:23 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Gebraucht Skoda Fabia Elegance in Schwarz. 179.900 km, Schaltgetriebe, 105 PS. Fairer Preis: 3.490 €. Jetzt beim Händler in 12623 Berlin - Mahlsdorf]]></description>
+    </item>
+    <item>
+      <title>[Fun] Damit ihr wisst, warum manche Karotten so krumm..</title>
+      <link>https://debeste.de/639425/Damit-ihr-wisst,-warum-manche-Karotten-so-krumm</link>
+      <guid isPermaLink="false">https://debeste.de/639425/Damit-ihr-wisst,-warum-manche-Karotten-so-krumm</guid>
+      <pubDate>Sun, 22 Nov 2026 10:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Damit ihr wisst, warum manche Karotten so krumm wachsen.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Ex-Hertha-Star Ascacibar räumt für Maradona-Klub die Titel ab - Berliner Kurier</title>
+      <link>https://www.berliner-kurier.de/article/ex-hertha-star-ascacibar-raeumt-fuer-maradona-klub-die-titel-ab-10623328</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4206383200092019038</guid>
+      <pubDate>Sun, 22 Nov 2026 10:14:27 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Die Fans von Hertha BSC kennen ihn als kleinen Giftzwerg im Mittelfeld, mit Diego Maradona auf der Wade. Santiago Ascacibar (29) kämpfte in Berlin ...]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
+      <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533722</guid>
+      <pubDate>Sun, 22 Nov 2026 10:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.]]></description>
+    </item>
+    <item>
+      <title>[Fun] Er ist entwischt.</title>
+      <link>https://debeste.de/639486/Er-ist-entwischt</link>
+      <guid isPermaLink="false">https://debeste.de/639486/Er-ist-entwischt</guid>
+      <pubDate>Sun, 22 Nov 2026 09:59:02 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] After victory in Cottbus: Hertha is the Bundesliga leader #shorts - YouTube</title>
+      <link>https://www.youtube.com/shorts/vTb1tViCVTY</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13347105530166637330</guid>
+      <pubDate>Sun, 22 Nov 2026 09:43:05 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[WERBUNG Nach Sieg in Cottbus: Hertha ist Tabellenführer in der Bundesliga #shorts Erleben Sie den Hertha BSC Bundesliga Auftritt aus dem März 2009 ...]]></description>
+    </item>
+    <item>
+      <title>[Fun] "Sturmtruppler im Spülbecken"..</title>
+      <link>https://debeste.de/639460/Sturmtruppler-im-Sp-lbecken</link>
+      <guid isPermaLink="false">https://debeste.de/639460/Sturmtruppler-im-Sp-lbecken</guid>
+      <pubDate>Sun, 22 Nov 2026 09:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Sturmtruppler im Spülbecken]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus gegen Hertha BSC heute im TV: Wer überträgt im Free-TV und Live-Stream?</title>
+      <link>https://www.swp.de/sport/sport-mix/energie-cottbus-gegen-hertha-bsc-heute-im-tv-wer-uebertraegt-im-free-tv-und-live-stream-79710834.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11556166823790796060</guid>
+      <pubDate>Sun, 22 Nov 2026 09:23:14 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Energie Cottbus gegen Hertha BSC am 22. November 2026 live: Wer überträgt das Ostduell im TV und Stream? Alle Infos zu Sky, WOW, Free-TV und ...]]></description>
+    </item>
+    <item>
+      <title>[Fun] Genau meine Art von Sixpack..</title>
+      <link>https://debeste.de/639447/Genau-meine-Art-von-Sixpack</link>
+      <guid isPermaLink="false">https://debeste.de/639447/Genau-meine-Art-von-Sixpack</guid>
+      <pubDate>Sun, 22 Nov 2026 09:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Genau meine Art von Sixpack]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hochrisikospiel in Cottbus - Polizei begleitet Hertha-Fans - WELT</title>
+      <link>https://www.welt.de/regionales/berlin/article6b02b1ce25b618a0b5d5b931/hochrisikospiel-in-cottbus-polizei-begleitet-hertha-fans.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9329429747502758747</guid>
+      <pubDate>Sun, 22 Nov 2026 09:18:17 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Vor und nach dem Fußball-Derby zwischen Cottbus und Hertha BSC dürfte es in den Zügen eng werden. Die Polizei ist auf den Bahnhöfen präsent ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Wintertransfers beim FC Bayern nötig? Gab Fehlkäufe von Boey bis Breno</title>
+      <link>https://www.transfermarkt.de/muss-bayern-agieren-hainer-will-wintertransfer-vermeiden-gab-fehlkaufe-von-boey-bis-breno/view/news/491033</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/muss-bayern-agieren-hainer-will-wintertransfer-vermeiden-gab-fehlkaufe-von-boey-bis-breno/view/news/491033</guid>
+      <pubDate>Sun, 22 Nov 2026 09:17:25 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Angesichts der großen Verletzungsmisere mit dem Schock um Harry Kane schließt der FC Bayern München Wintertransfers nicht aus und hätte dafür auch den nötigen...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus gegen Hertha BSC im Liveticker: Lausitz-Duo begleitet TV-Übertragung</title>
+      <link>https://www.tag24.de/sport/fussball/verein/energie-cottbus/cottbus-gegen-hertha-live-lausitz-duo-begleitet-tv-uebertragung-3551305</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18053938270205876746</guid>
+      <pubDate>Sun, 22 Nov 2026 09:11:41 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[... Hertha BSC. Guten Morgen zum Derby-Sonntag! Wir begleiten heute das Aufeinandertreffen von Energie Cottbus und Hertha BSC am zwölften Spieltag der 2.]]></description>
+    </item>
+    <item>
+      <title>[Fun] Meine Motivation bei der Arbeit.</title>
+      <link>https://debeste.de/639454/Meine-Motivation-bei-der-Arbeit</link>
+      <guid isPermaLink="false">https://debeste.de/639454/Meine-Motivation-bei-der-Arbeit</guid>
+      <pubDate>Sun, 22 Nov 2026 08:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fun] Gern geschehen!</title>
+      <link>https://debeste.de/639450/Gern-geschehen</link>
+      <guid isPermaLink="false">https://debeste.de/639450/Gern-geschehen</guid>
+      <pubDate>Sun, 22 Nov 2026 08:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes</title>
+      <link>https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533616</guid>
+      <pubDate>Sun, 22 Nov 2026 08:12:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Bundesrat hält den Gesetzentwurf gegen digitale Gewalt für zu lasch und fordert höhere Strafen sowie schärfere Regeln für Smart Glasses.]]></description>
+    </item>
+    <item>
+      <title>[Games] HOMM 3 - Remake Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</guid>
+      <pubDate>Sun, 22 Nov 2026 07:57:15 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[IGN shared a new trailer for the Heroes of Might and Magic III remake: Heroes of Might and Magic 3 Remake - Official Closed Playtest Trailer Take a look at the Heroes of Might and Magic 3 Remake in this trailer for the upcoming remake of the turn-based strategy classic and its two expansions, rebuilt in full 3D and 4K....]]></description>
+    </item>
+    <item>
+      <title>[Games] Darkest Dungeon 2 - The Butcher's Asylum Gameplay</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</guid>
+      <pubDate>Sun, 22 Nov 2026 07:52:12 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Some gameplay for the DLC Darkest Dungeon 2: The Butcher's Asylum: Darkest Dungeon 2: The Butcher's Asylum - Official Gameplay Trailer Take a look at gameplay from Darkest Dungeon 2: The Butcher's Asylum in this trailer for the upcoming DLC....]]></description>
+    </item>
+    <item>
+      <title>[Games] One Fenix Down - Review</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60618</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60618</guid>
+      <pubDate>Sun, 22 Nov 2026 07:44:27 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Tech-Gaming reviewed the J-RPG One Fenix Down: One Fenix Down Review A Real Gem (Knight) Retro role-playing games often take their time building toward conflict, but One Fenix Down opens with a siege that feels impressively large. Torloria’s defenders make a desperate attempt to destroy a bridge and slow the Goa Empire’s advance....]]></description>
+    </item>
+    <item>
+      <title>[Fun] Das MUSS doch essbar sein!</title>
+      <link>https://debeste.de/639482/Das-MUSS-doch-essbar-sein</link>
+      <guid isPermaLink="false">https://debeste.de/639482/Das-MUSS-doch-essbar-sein</guid>
+      <pubDate>Sun, 22 Nov 2026 07:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Games] Shadows of the Dungeon - Kickstarter at 36%</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</guid>
+      <pubDate>Sun, 22 Nov 2026 07:30:13 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The dungeon crawler Shadows of the Dungeon reached 36% of the funding goal on Kickstarter. 17 days are left to reach 5000 Euro.]]></description>
+    </item>
+    <item>
+      <title>[Finanzen &amp; Coins] Bitcoin verharrt unter der $60.000-Marke: Einbrechende Mining-Margen und Sicherheitsrisiken belasten</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-verharrt-unter-60000-usdollar-einbrechende-miningmargen-und-sicherheitsrisiken-belasten-3781005</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-verharrt-unter-60000-usdollar-einbrechende-miningmargen-und-sicherheitsrisiken-belasten-3781005</guid>
+      <pubDate>Sun, 22 Nov 2026 07:29:58 GMT</pubDate>
+      <category>Finanzen &amp; Coins</category>
+      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Boca Juniors gewinnen Copa Sudamericana – Ex-Herthaner Ascacíbar leitet Sieg ein</title>
+      <link>https://www.transfermarkt.de/boca-juniors-gewinnen-copa-sudamericana-ex-herthaner-ascacibar-leitet-sieg-ein/view/news/491029</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/boca-juniors-gewinnen-copa-sudamericana-ex-herthaner-ascacibar-leitet-sieg-ein/view/news/491029</guid>
+      <pubDate>Sun, 22 Nov 2026 07:28:30 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Die Boca Juniors haben die Copa Sudamericana und damit den ersten internationalen Titel seit 18 Jahren gewonnen. Im Finale gegen Atlético Mineiro setzte sich das Team von Rodolfo...]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Unions 1:5 gegen Leipzig: Mut allein reicht nicht</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</guid>
+      <pubDate>Sun, 22 Nov 2026 07:24:55 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Union Berlin tritt bei der 1:5-Niederlage gegen RB Leipzig mutiger auf, offenbart aber erneut große Schwächen in der Defensive. Die Mannschaft von Mauro Lustrinelli findet weiterhin nicht die richtige Balance.]]></description>
+    </item>
+    <item>
+      <title>[Fun] "Gemoddeter Controller"..</title>
+      <link>https://debeste.de/639478/Gemoddeter-Controller</link>
+      <guid isPermaLink="false">https://debeste.de/639478/Gemoddeter-Controller</guid>
+      <pubDate>Sun, 22 Nov 2026 07:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Gemoddeter Controller]]></description>
+    </item>
+    <item>
+      <title>[Games] The Bell Tolls - Announced</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</guid>
+      <pubDate>Sun, 22 Nov 2026 07:12:46 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The roguelike The Bell Tolls has been announced: The Bell Tolls - Gameplay Trailer A turn-based party roguelike RPG with the 5e tabletop ruleset. Every midnight the Bell tolls and the Corruption spreads. Gather your party and venture forth to destroy the source before the Corruption reaches town....]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Missing Link: Der Arcade-Automat aus der DDR – 40 Jahre Poly-Play</title>
+      <link>https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11532459</guid>
+      <pubDate>Sun, 22 Nov 2026 07:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
+    </item>
+    <item>
+      <title>[Games] RPG Crawler - CRPG News Roundup</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60615</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60615</guid>
+      <pubDate>Sun, 22 Nov 2026 07:01:00 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Like every week the RPG Crawler sums up the CRPG news: CRPG News Roundup (11-21-2026)]]></description>
+    </item>
+    <item>
+      <title>[Fun] Ein Papiertaschentuch in der Waschmaschine verteilt sich..</title>
+      <link>https://debeste.de/639456/Ein-Papiertaschentuch-in-der-Waschmaschine-verteilt-sich</link>
+      <guid isPermaLink="false">https://debeste.de/639456/Ein-Papiertaschentuch-in-der-Waschmaschine-verteilt-sich</guid>
+      <pubDate>Sun, 22 Nov 2026 06:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ein Papiertaschentuch in der Waschmaschine verteilt sich zuverlässig auf sämtliche dunklen Kleidungsstücke. Am Ende weiß niemand, in welcher Tasche es lag, aber alle Sachen sind beteiligt.]]></description>
+    </item>
     <item>
       <title>[Fun] Seine Lieblingsdecke...</title>
       <link>https://debeste.de/639477/Seine-Lieblingsdecke</link>
@@ -27,24 +558,6 @@
       <description><![CDATA[Im Büro gegenüber wird wohl ein Film gedreht Das kann doch nicht die echte Büroausstattung sein]]></description>
     </item>
     <item>
-      <title>[Fußball] Cottbus – Hertha: Wer zeigt die 2. Bundesliga heute live im TV? | Fußball - Sport Bild</title>
-      <link>https://sportbild.bild.de/fussball/2-bundesliga/cottbus-hertha-wer-zeigt-die-2-bundesliga-heute-live-im-tv-6b004a7039a3e8110f0e417a</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12914116115727555847</guid>
-      <pubDate>Sun, 22 Nov 2026 05:25:45 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Bleibt die Hertha weiter ungeschlagen? Jetzt geht es nach Cottbus – live im TV!]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Energie Cottbus – Hertha BSC Berlin: Prognose, Übertragung, Anstoßzeit und Aufstellungen 22-11</title>
-      <link>https://onefootball.com/de/wetten/tipps/energie-cottbus-vs-hertha-bsc-berlin-22-11-2026</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4764521945531473696</guid>
-      <pubDate>Sun, 22 Nov 2026 05:14:23 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Lies die Analyse und Prognose der OneFootball-Experten zu Energie Cottbus - Hertha BSC Berlin am 22.11 und erfahre alle Details zum Spiel.]]></description>
-    </item>
-    <item>
       <title>[Fun] Meister der Balance - bereit zum Angriff.</title>
       <link>https://debeste.de/639465/Meister-der-Balance-bereit-zum-Angriff</link>
       <guid isPermaLink="false">https://debeste.de/639465/Meister-der-Balance-bereit-zum-Angriff</guid>
@@ -54,6 +567,15 @@
       <description><![CDATA[]]></description>
     </item>
     <item>
+      <title>[Berlin] Was für ein leuchtender Abend in Mahlsdorf-Süd! Heute hat unser Sandmännchen auf ... - Facebook</title>
+      <link>https://www.facebook.com/juliane.c.duda/posts/was-f%C3%BCr-ein-leuchtender-abend-in-mahlsdorf-s%C3%BCd-heute-hat-unser-sandm%C3%A4nnchen-auf-/3760594187439501/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6806237522983890581</guid>
+      <pubDate>Sun, 22 Nov 2026 04:53:12 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Was für ein leuchtender Abend in Mahlsdorf-Süd! ✨ Heute hat unser Sandmännchen auf dem Ullrichplatz seinen Geburtstag gefeiert – und der ganze ...]]></description>
+    </item>
+    <item>
       <title>[Fun] Wie alt sie waren, als sie zum ersten Mal in die Rolle von..</title>
       <link>https://debeste.de/639459/Wie-alt-sie-waren,-als-sie-zum-ersten-Mal-in-die-Rolle-von</link>
       <guid isPermaLink="false">https://debeste.de/639459/Wie-alt-sie-waren,-als-sie-zum-ersten-Mal-in-die-Rolle-von</guid>
@@ -61,15 +583,6 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[Wie alt sie waren, als sie zum ersten Mal in die Rolle von James Bond schlüpften]]></description>
-    </item>
-    <item>
-      <title>[Fußball] 2. Fußball-Bundesliga: Erstes Derby seit 2013: Hertha gastiert in Cottbus | DIE ZEIT</title>
-      <link>https://www.zeit.de/news/2026-11/22/erstes-derby-seit-2013-hertha-gastiert-in-cottbus</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4958251773307670229</guid>
-      <pubDate>Sun, 22 Nov 2026 02:33:16 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Zudem sind Hertha-Leihgabe Lukas Michelbrink, Justin Butler, Axel Borgmann und Leonardo Bittencourt noch Wackelkandidaten. Polizei dabei. Bei der als ...]]></description>
     </item>
     <item>
       <title>[Fun] Gene können selbst die eigenen Eltern überraschen!...</title>
@@ -153,6 +666,15 @@
       <description><![CDATA[Wir wissen nicht, wie viel gemeinsame Zeit wir mit den Menschen haben, die wir lieben. Und doch leben wir so, als ließe sie sich endlos aufschieben. Wir rufen morgen an. Wir treffen uns, wenn es ruhiger wird. Wir sagen etwas Wichtiges bei einer besseren Gelegenheit. Manche Menschen begleiten uns über Jahrzehnte. Mit anderen teilen wir nur einen kurzen Lebensabschnitt, aber wir behalten sie lange in Erinnerung. Manchmal verändert ein einziges Gespräch die Art, wie wir über uns selbst denken. Die Gegenwart eines Menschen hilft uns, eine Zeit zu überstehen, die allein nur schwer zu bewältigen wäre. Dieses Diagramm ist nur eine symbolische Geschichte. Jede von uns könnte es anders zeichnen. Es lohnt sich jedoch, dabei innezuhalten und an diejenigen zu denken, deren Anwesenheit so alltäglich geworden ist, dass wir sie beinahe nicht mehr wahrnehmen. Ich selbst muss mich manchmal daran erinnern, dass ein ganz gewöhnlicher Tag mit den Liebsten etwas ist, wonach ich mich eines Tages sehnen könnte. Dieselbe Stimme am Telefon. Vertraute Schritte im Flur. Die Frage, ob ich auch einen Tee möchte. Vielleicht sieht es genau so aus, das Leben wertzuschätzen. Wir nehmen es wahr, bevor es zu einer Erinnerung wird. Wir legen das Handy weg, hören bis zum Ende zu, finden einen Moment für ein Treffen. Wir lassen die Menschen wissen, dass es uns guttut, dass sie da sind.]]></description>
     </item>
     <item>
+      <title>[Berlin] thomas mayer_ archive</title>
+      <link>https://thomasmayerarchive.de/index.php?sessionid=7a76382842f73a9a5e6fd474b2f2224f&amp;l=english</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17848444476513617614</guid>
+      <pubDate>Sat, 21 Nov 2026 23:35:33 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[DEU, Germany, Berlin-Mahlsdorf, ISS Mahlsdorf, integrated secondary school Berlin-Mahlsdorf. IAC world headquarters NYC.]]></description>
+    </item>
+    <item>
       <title>[Berlin] Doppelhaushälfte Mieten, Häuser zur Miete in Mahlsdorf Berlin | kleinanzeigen.de</title>
       <link>https://www.kleinanzeigen.de/s-haus-mieten/mahlsdorf/doppelhaush%C3%A4lfte-mieten/k0c205l27140</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6079734526338158483</guid>
@@ -225,6 +747,15 @@
       <description><![CDATA[Wenn die Mikrowelle streikt.]]></description>
     </item>
     <item>
+      <title>[Fußball] Flamengo verteidigt brasilianischen Meistertitel - Palmeiras noch vor 2 Finals</title>
+      <link>https://www.transfermarkt.de/flamengo-verteidigt-brasilianischen-meistertitel-palmeiras-noch-vor-zwei-finals/view/news/491023</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/flamengo-verteidigt-brasilianischen-meistertitel-palmeiras-noch-vor-zwei-finals/view/news/491023</guid>
+      <pubDate>Sat, 21 Nov 2026 21:17:16 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Flamengo hat die brasilianische Meisterschaft 2026 gewonnen. Die Mannschaft von Ex-Monaco-Trainer Leonardo Jardim holte am 36. Spieltag ein 1:1 gegen Verfolger Palmeiras und ist damit nicht mehr...]]></description>
+    </item>
+    <item>
       <title>[Tech &amp; AI] A tale of two Nvidias</title>
       <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3191145</guid>
@@ -270,60 +801,6 @@
       <description><![CDATA[Europäische Schönheit. Der Rest der Welt kann nur neidisch sein. Das Grand Foyer der Opéra Garnier in Paris - hier trifft Geschichte auf Eleganz, und Schönheit besitzt ihren ganz eigenen, unverwechselbaren Charakter.]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC 3:2 | 12. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27 - Kicker</title>
-      <link>https://www.kicker.de/union-gegen-hertha-2026-u--dfb-nachwuchsliga-5241571/schema</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16806576048425048922</guid>
-      <pubDate>Sat, 21 Nov 2026 20:07:23 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Schema zum Spiel 1. FC Union Berlin - Hertha BSC.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Ein Blick über den Tellerrand - Fussball (inter)national - Hertha BSC - Forum | Seite 1582</title>
-      <link>https://www.transfermarkt.de/ein-blick-uber-den-tellerrand-fussball-inter-national/thread/forum/14/thread_id/274457/page/1582</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1136626745157453958</guid>
-      <pubDate>Sat, 21 Nov 2026 20:07:21 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Geht's nur mit so oder findet ihr die Aussagen von den Bayern "Größen" absolut unangebracht, widerlich und völlig inakzeptabel. Wie kann man bitte ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Energie Cottbus – Hertha BSC: Anstoß, Aufstellung &amp; Liveticker (2. Bundesliga, 22. November 2026)</title>
-      <link>https://fussball-news.de/spiele/spiel/19735396-energie-cottbus-hertha-bsc/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11232300690921096884</guid>
-      <pubDate>Sat, 21 Nov 2026 19:59:56 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Energie Cottbus – Hertha BSC am Sonntag, 22. November 2026 um 13:30 Uhr (2. Bundesliga): Anstoßzeit, Aufstellungen und Liveticker.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Regionalliga Nordost: Torreiches Berlin-Duell, Rückschlag für Babelsberg - rbb24</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-tasmania-berlin-hertha-aue-babelsberg-luckenwalde-chemnitz.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17873419585161039952</guid>
-      <pubDate>Sat, 21 Nov 2026 19:57:48 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Viel los im Berliner Duell. Tasmania Berlin und Hertha BSC II lieferten den Fans im Werner-Seelenbinder-Sportpark allerbeste Fußball-Unterhaltung.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Bayern-Abgang hat sich Stammplatz bei neuem Klub erkämpft</title>
-      <link>https://www.tz.de/sport/fc-bayern/bayern-abgang-hat-sich-stammplatz-neuem-klub-erkaempft-94600728.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4796708536339215734</guid>
-      <pubDate>Sat, 21 Nov 2026 19:48:53 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Aséko wurde bei Hertha Zehlendorf und später bei Hertha BSC ausgebildet. Im Juli 2022 wechselte der Sohn äquatorialguineischer Eltern in die ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Die zwölf verrückten Minuten des FKP bei der Hertha - Fußball - DIE RHEINPFALZ</title>
-      <link>https://www.rheinpfalz.de/rheinpfalz-am-sonntag_artikel,-die-zw%C3%B6lf-verr%C3%BCckten-minuten-des-fkp-bei-der-hertha-_arid,5950798.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15018622453960569447</guid>
-      <pubDate>Sat, 21 Nov 2026 19:46:59 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[... Hertha-Verteidiger Maximilian Schneider), ließ sich bei seiner Entscheidung wohl von den heftig Rot fordernden Saarländern beeinflussen.]]></description>
-    </item>
-    <item>
       <title>[Fun] Gib die Karotte zurück!</title>
       <link>https://debeste.de/639490/Gib-die-Karotte-zur-ck</link>
       <guid isPermaLink="false">https://debeste.de/639490/Gib-die-Karotte-zur-ck</guid>
@@ -351,33 +828,6 @@
       <description><![CDATA[Wer hat eigentlich entschieden, dass das Skelett der gruselige Teil des Menschen ist? Ich würde mich zu Tode erschrecken, wenn ich im Flur einem Nervensystem begegnen würde.]]></description>
     </item>
     <item>
-      <title>[Fußball] U19 von Union Berlin krönt sich gegen Hertha spät zum Derby-Sieger - Sportschau</title>
-      <link>https://www.sportschau.de/regional/rbb/rbb-u19-von-union-berlin-kroent-sich-gegen-hertha-spaet-zum-derby-sieger-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10019742795481696488</guid>
-      <pubDate>Sat, 21 Nov 2026 19:13:50 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[U19 von Union Berlin krönt sich gegen Hertha spät zum Derby-Sieger. Stand: 21.11.2026 • 00:00 Uhr. Player: audioU19 von Union Berlin krönt sich ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Bundespolizei erwartet volle Züge zum Spiel Cottbus gegen Hertha - NIEDERLAUSITZ aktuell</title>
-      <link>https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/333075/cottbus-energie-hertha-bsc-22-november-2026-bundespolizei-volle-zuege-anreise-bahn.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15688735323750429737</guid>
-      <pubDate>Sat, 21 Nov 2026 19:10:06 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Energie Cottbus gegen Hertha BSC am Sonntag: Die Bundespolizei rechnet vor dem Anpfiff um 13.30 Uhr und nach dem Spiel mit sehr vollen Zügen.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Aufstellung SV Tasmania Berlin - Hertha BSC II 3:3 | 17. Spieltag, Regionalliga Nordost 2026/2027</title>
-      <link>https://www.sport.de/fussball/deutschland-regionalliga-nordost/ma12278458/sv-tasmania-berlin_hertha-bsc-ii/aufstellung/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:902280639393899062</guid>
-      <pubDate>Sat, 21 Nov 2026 19:06:02 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Die offizielle Aufstellung für SV Tasmania Berlin vs. Hertha BSC II: So spielen SV Tasmania Berlin und Hertha BSC II heute um 14:00 Uhr | 17.]]></description>
-    </item>
-    <item>
       <title>[Tech &amp; AI] Top 10: Das beste Smartphone im Test – Motorola überraschender Testsieger</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test-motorola-ueberraschender-testsieger/5qx1bd1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11533467</guid>
@@ -394,15 +844,6 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[Wenn das die Eröffnungsszene eines Films wäre, gefolgt von einer Rückblende - ich würde ihn definitiv schauen.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] FC Hertha 03 sichert sich knappen Sieg gegen SC Borea Dresden mit 1:0</title>
-      <link>https://www.mz.de/sport/fussball-a-junioren-regionalliga-nordost/fc-hertha-03-sichert-sich-knappen-sieg-gegen-sc-borea-dresden-mit-1-0-4360458</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11984072161913530059</guid>
-      <pubDate>Sat, 21 Nov 2026 18:50:52 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Einen 1:0 (0:0)-Heimerfolg gegen den SC Borea Dresden fuhr der FC Hertha 03 am 13. Spieltag der Fußball-A-Junioren-Regionalliga Nordost ein.]]></description>
     </item>
     <item>
       <title>[Fun] Ich glaube, Hunde würden mit ihren Besitzern lieber..</title>
@@ -432,13 +873,13 @@
       <description><![CDATA[]]></description>
     </item>
     <item>
-      <title>[Fußball] Spielergewerkschaft Fifpro kritisiert FC Bayern wegen Umgang mit Musiala</title>
+      <title>[Fußball] Spielergewerkschaft FIFPro kritisiert FC Bayern wegen Umgang mit Musiala</title>
       <link>https://www.transfermarkt.de/fifpro-kritisiert-fc-bayern-koordinierte-strategie-um-druck-auf-musiala-auszuuben-quot-/view/news/491020</link>
       <guid isPermaLink="false">https://www.transfermarkt.de/fifpro-kritisiert-fc-bayern-koordinierte-strategie-um-druck-auf-musiala-auszuuben-quot-/view/news/491020</guid>
       <pubDate>Sat, 21 Nov 2026 17:58:50 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Die Spielergewerkschaft Fifpro hat die Spitze des FC Bayern wegen ihres Verhaltens in der Debatte um Jamal Musialas Gesundheit und seinen Vertrag gerügt. Bei den Aussagen von...]]></description>
+      <description><![CDATA[Die Spielergewerkschaft FIFPro hat die Spitze des FC Bayern wegen ihres Verhaltens in der Debatte um Jamal Musialas Gesundheit und seinen Vertrag gerügt. Bei den Aussagen von...]]></description>
     </item>
     <item>
       <title>[Fun] Japan ist gefährlich.</title>
@@ -531,15 +972,6 @@
       <description><![CDATA[Trotz viel Unterstützung für strenge Regeln haben Staaten wie Russland und die USA erneut einen klaren Fahrplan gegen autonome Waffensysteme in Genf blockiert.]]></description>
     </item>
     <item>
-      <title>[Fußball] SV Tasmania Berlin - Hertha BSC II: Akoto rettet Berlin einen Punkt - Regionalliga Nordost</title>
-      <link>https://www.welt.de/sport/fussball/regionalliga/regionalliga-nordost/article6afdb290ff9ae12be89e1086/sv-tasmania-berlin-hertha-bsc-ii-akoto-rettet-berlin-einen-punkt-regionalliga-nordost.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8855838287198358675</guid>
-      <pubDate>Sat, 21 Nov 2026 16:20:42 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Im Spiel der SV gegen die Zweitvertretung der Hertha BSC gab es Tore am laufenden Band. Am Ende teilten sich sich beide Kontrahenten die Punkte ...]]></description>
-    </item>
-    <item>
       <title>[Berlin] Regionalliga Nordost: Torreiches Berlin-Duell, Rückschlag für Babelsberg</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-tasmania-berlin-hertha-aue-babelsberg-luckenwalde-chemnitz.html</link>
       <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-tasmania-berlin-hertha-aue-babelsberg-luckenwalde-chemnitz.html</guid>
@@ -556,15 +988,6 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[Die direkte Treppe in die Notaufnahme.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Aufstellung Cottbus gegen Hertha: Wie will Energie den Spitzenreiter stoppen?</title>
-      <link>https://www.fussballnationalmannschaft.net/cottbus-hertha-aufstellung-2-bundesliga-123337254.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12195083477763931435</guid>
-      <pubDate>Sat, 21 Nov 2026 16:16:29 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Aufstellung Cottbus gegen Hertha am Sonntag um 13.30 Uhr: die voraussichtlichen Startelfen, wer fehlt und wann die offizielle Startelf kommt.]]></description>
     </item>
     <item>
       <title>[Tech &amp; AI] Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
@@ -585,33 +1008,6 @@
       <description><![CDATA[]]></description>
     </item>
     <item>
-      <title>[Fußball] VfL Wolfsburg gegen Kiel unter Druck: Jetzt muss eine Serie her</title>
-      <link>https://www.wolfs-blog.de/vfl-wolfsburg-gegen-kiel-unter-druck-jetzt-muss-eine-serie-her/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8594928765657958710</guid>
-      <pubDate>Sat, 21 Nov 2026 15:58:17 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha nutzte die Überzahl zur Führung, doch die Wölfe gaben sich nicht auf und kamen beinahe noch zum Ausgleich. Ein aus Wolfsburger Sicht nicht ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Zündet Hertha-Stürmer Nilsson die Aufstiegsrakete im Cottbus-Derby? - Berliner Kurier</title>
-      <link>https://www.berliner-kurier.de/article/zuendet-hertha-stuermer-nilsson-die-aufstiegsrakete-im-cottbus-derby-10621799</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16968452596403573636</guid>
-      <pubDate>Sat, 21 Nov 2026 15:51:01 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Zweitliga-Spitzenreiter Hertha BSC tritt Sonntag (13.30 Uhr) im Derby bei Energie Cottbus an. Für Gustaf Nilsson ist es die Chance, ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] BVB-Interesse an Linus Gechter: Hertha-Trainer reagiert - Tribuna.com</title>
-      <link>https://tribuna.com/de/news/2026-11-21-der-bvb-zeigt-interesse-an-linus-gechter-herthatrainer-stefan-leitl-reagiert-auf-die-wech/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9273774630317539451</guid>
-      <pubDate>Sat, 21 Nov 2026 15:43:12 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Borussia Dortmund zeigt Interesse an Hertha-Verteidiger Linus Gechter. Nun hat sich Hertha-Trainer Stefan Leitl auf der Pressekonferenz vor dem ...]]></description>
-    </item>
-    <item>
       <title>[Fun] Gepardenmutter stellt dem Fotografen ihre Jungen vor.</title>
       <link>https://debeste.de/639439/Gepardenmutter-stellt-dem-Fotografen-ihre-Jungen-vor</link>
       <guid isPermaLink="false">https://debeste.de/639439/Gepardenmutter-stellt-dem-Fotografen-ihre-Jungen-vor</guid>
@@ -619,24 +1015,6 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Hertha Berlin vs Karlsruher SC Tipp, Prognose &amp; Quoten - 28. November 2026 - Wincomparator</title>
-      <link>https://www.wincomparator.com/de/tipps/hertha-berlin-karlsruher-sc-8596319/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3083062945593089265</guid>
-      <pubDate>Sat, 21 Nov 2026 15:34:36 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Nutzen Sie die Hertha Berlin - Karlsruher SC Prognose für Ihre Wetten. Entdecken Sie die besten 2. Bundesliga Quoten am 28. November 2026.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Milliarde in Sicht: FC Bayern meldet Umsatz- und Mitgliederrekord</title>
-      <link>https://www.transfermarkt.de/milliarde-in-sicht-bayern-meldet-umsatz-amp-mitgliederrekord-ruf-nach-leuchtturmspielern/view/news/491016</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/milliarde-in-sicht-bayern-meldet-umsatz-amp-mitgliederrekord-ruf-nach-leuchtturmspielern/view/news/491016</guid>
-      <pubDate>Sat, 21 Nov 2026 15:25:09 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der FC Bayern München hat bei seiner Jahreshauptversammlung wieder beeindruckende Zahlen und einen weiteren Umsatz-Rekord präsentiert. Beim Konzernumsatz nähert sich der deutsche...]]></description>
     </item>
     <item>
       <title>[Fun] Warum kostet der Golf über 30.000 €? War das nicht mal ein..</title>
@@ -684,15 +1062,6 @@
       <description><![CDATA[Der schlimmste Albtraum - sich Brote machen, einen heißen Tee kochen, alles ins Bett bringen, sich in die Decke einkuscheln... ...und die Fernbedienung vergessen.]]></description>
     </item>
     <item>
-      <title>[Fußball] Orbán Bundesliga-Rekordspieler für RB Leipzig – Poulsen-Bestmarke rückt näher</title>
-      <link>https://www.transfermarkt.de/orban-nun-bundesliga-rekordspieler-fur-rb-leipzig-auch-poulsens-bestmarke-ruckt-naher/view/news/490971</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/orban-nun-bundesliga-rekordspieler-fur-rb-leipzig-auch-poulsens-bestmarke-ruckt-naher/view/news/490971</guid>
-      <pubDate>Sat, 21 Nov 2026 14:58:40 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Seit 2016/17 spielt RB Leipzig in der Bundesliga. Damals schon dabei und noch immer Leistungsträger: Willi Orbán. Am Samstag bei Union Berlin erlebte der Innenverteidiger ein besonderes...]]></description>
-    </item>
-    <item>
       <title>[Berlin] U19: Union Berlin krönt sich gegen Hertha spät zum Derby-Sieger</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-u19-derby-union-berlin-hertha-bsc-spielbericht-ergebnis.html</link>
       <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-u19-derby-union-berlin-hertha-bsc-spielbericht-ergebnis.html</guid>
@@ -720,15 +1089,6 @@
       <description><![CDATA[Google gewährt Bestandskunden bis zum 26. November 2026 einen Rabatt von 50% auf das Jahresabo von Google AI Pro, wodurch der Preis für zwölf Monate von 219,99€ auf 109,99€ (9,17€ monatlich) sinkt. Falls in der Google-One-Verwaltung fälschlicherweise nur 16% Ersparnis stehen, aktiviert ein Klick auf »Wechseln« dennoch den vollen Rabatt auf 109,99€. Das Paket umfasst Gemini 4 Neon und Carbon, 5 TB Speicher, YouTube Premium Lite, monatlich 10$ API-Guthaben sowie Zugriff auf Gemini 4 Carbon und Claude Opus 5.5 in der Desktop-App Antigravity. Vikas Kansal auf X Google One AI-Tarife Google startet vor dem Black Friday eine Rabattaktion für seine KI-Abos. Bestehende Abonnenten von Google One und den Google-KI-Tarifen erhalten das Jahresabo für Google AI Pro zum halben Preis. Anzeige Jahresabo für 9,17€ im Monat Für zwölf Monate kostet das Paket damit 109,99€ statt der regulären 219,99€, was umgerechnet nur 9,17€ pro Monat entspricht. Das Angebot für Bestandskunden gilt laut Google-Produktleiter Vikas Kansal noch bis zum 26. November 2026. In der Abo-Verwaltung von Google One taucht der reduzierte Preis allerdings nicht bei allen Nutzern sofort auf. Wer dort unter dem Punkt zum Ändern ...]]></description>
     </item>
     <item>
-      <title>[Fußball] Deutschland in Top-3: Aus diesen Ländern setzen sich die Top-Ligen zusammen</title>
-      <link>https://www.transfermarkt.de/260-deutsche-in-europas-top-ligen-so-viele-wie-englander-und-argentinier-zusammen/view/news/490981</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/260-deutsche-in-europas-top-ligen-so-viele-wie-englander-und-argentinier-zusammen/view/news/490981</guid>
-      <pubDate>Sat, 21 Nov 2026 14:42:20 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Die meisten der etwas mehr als 2.600 Spieler in den Profikadern der europäischen Top-5-Ligen stammen aus Spanien, dem Land des Welt- und Europameisters. 356 Profis – das entspricht 13,57...]]></description>
-    </item>
-    <item>
       <title>[Fun] Mir wird schon vom bloßen Anblick kalt...</title>
       <link>https://debeste.de/639220/Mir-wird-schon-vom-blo-en-Anblick-kalt</link>
       <guid isPermaLink="false">https://debeste.de/639220/Mir-wird-schon-vom-blo-en-Anblick-kalt</guid>
@@ -747,15 +1107,6 @@
       <description><![CDATA[Treppen für Menschen mit Behinderung.]]></description>
     </item>
     <item>
-      <title>[Fußball] 2. Liga: VfL Wolfsburg schlägt Holstein Kiel – Hannover 96 jubelt spät</title>
-      <link>https://www.transfermarkt.de/pechvogel-weiner-leitet-kiel-pleite-in-wolfsburg-ein-last-minute-jubel-bei-96/view/news/491010</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/pechvogel-weiner-leitet-kiel-pleite-in-wolfsburg-ein-last-minute-jubel-bei-96/view/news/491010</guid>
-      <pubDate>Sat, 21 Nov 2026 14:05:57 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der VfL Wolfsburg hat dem neuen Trainer Mitch Kniat den Einstand bei Holstein Kiel verdorben. Der große Aufstiegsfavorit der 2. Bundesliga besiegte den Tabellenletzten mit 3:0 (0:0). Alle...]]></description>
-    </item>
-    <item>
       <title>[Fun] "Die Ernennung zum Bäcker"..</title>
       <link>https://debeste.de/639193/Die-Ernennung-zum-B-cker</link>
       <guid isPermaLink="false">https://debeste.de/639193/Die-Ernennung-zum-B-cker</guid>
@@ -772,519 +1123,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Medienberichten zufolge haben Hacker die FBI-Datenbank NCIC angegriffen. Ein Ex-FBI-Ermittler fürchtet vor allem manipulierte Datensätze.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Zu 50% erfolgreich.</title>
-      <link>https://debeste.de/639185/Zu-50-erfolgreich</link>
-      <guid isPermaLink="false">https://debeste.de/639185/Zu-50-erfolgreich</guid>
-      <pubDate>Sat, 21 Nov 2026 13:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Fußball] BVB: Gadou erklärt PSG-Abschied – Will zu den besten Spielern gehören</title>
-      <link>https://www.transfermarkt.de/gadou-erklart-psg-abschied-will-zu-den-besten-spielern-auf-meiner-position-gehoren-quot-/view/news/491011</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/gadou-erklart-psg-abschied-will-zu-den-besten-spielern-auf-meiner-position-gehoren-quot-/view/news/491011</guid>
-      <pubDate>Sat, 21 Nov 2026 13:31:50 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Joane Gadou zählt zur Riege der zahlreichen Talente, die einst bei Paris Saint-Germain das Rüstzeug für den Profifußball lernten, beim Schritt in den Herrenbereich aber lieber...]]></description>
-    </item>
-    <item>
-      <title>[Fun] Bitte töte mich...</title>
-      <link>https://debeste.de/639169/Bitte-t-te-mich</link>
-      <guid isPermaLink="false">https://debeste.de/639169/Bitte-t-te-mich</guid>
-      <pubDate>Sat, 21 Nov 2026 13:19:02 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Tennis-Ikone Nadal nun Vorstandmitglied bei Real Madrid</title>
-      <link>https://www.transfermarkt.de/tennis-ikone-nadal-vorstandmitglied-bei-real-madrid-unermessliche-verantwortung-quot-/view/news/491014</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/tennis-ikone-nadal-vorstandmitglied-bei-real-madrid-unermessliche-verantwortung-quot-/view/news/491014</guid>
-      <pubDate>Sat, 21 Nov 2026 13:07:28 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Rafael Nadal wird ein Königlicher auf höchster Ebene: Die spanische Tennis-Ikone gehört nun dem Vorstand von Real Madrid an. „Es ist eine unermessliche Verantwortung, die ich...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Altersvorsorge neu aufgestellt: Was sich ab 2027 für Sparer und Familien ändert</title>
-      <link>https://marzahn-hellersdorf.com/altersvorsorge-neu-aufgestellt-was-sich-ab-2027-fuer-sparer-und-familien-aendert/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16956114507230759696</guid>
-      <pubDate>Sat, 21 Nov 2026 13:04:47 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[... Mahlsdorf, Kaulsdorf, Biesdorf, Marzahn & Hellersdorf. ... Mahlsdorf (548) Marzahn (2535) Neubau (66) PKW (63) Polizei (1287) RWH ...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Ihr Familienglück beginnt mit den eigenen vier Wänden! Haus und Grundstück bereits kalkuliert!</title>
-      <link>https://www.okal-ost.com/de/0__41906_2_3_/mahlsdorf-ihr-familienglueck-beginnt-mit-den-eigenen-vier-waenden-haus-und-grundstueck-bereits-kalkuliert.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5407564627172187753</guid>
-      <pubDate>Sat, 21 Nov 2026 13:03:13 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Mahlsdorf: Ihr Familienglück beginnt mit den eigenen vier Wänden! Haus und Grundstück bereits kalkuliert! · Objektbeschreibung. Sie suchen Ihr ...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Kurier, Jobs in Transport, Logistik &amp; Verkehr in Mahlsdorf Berlin | kleinanzeigen.de</title>
-      <link>https://www.kleinanzeigen.de/s-transport-logistik-verkehr/mahlsdorf/kurier/k0c247l27140</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:301731461691384859</guid>
-      <pubDate>Sat, 21 Nov 2026 13:01:25 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Kleinanzeigen: Kurier, Jobs in Transport, Logistik & Verkehr - Jetzt in Berlin Mahlsdorf finden oder inserieren! - kleinanzeigen.de.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] MLS-Gehälter: Lewandowski kriegt das Vierfache von Müller</title>
-      <link>https://www.transfermarkt.de/mls-gehalter-lewandowski-kriegt-das-vierfache-von-muller-5-ex-bundesliga-profis-in-top-10/view/news/491013</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/mls-gehalter-lewandowski-kriegt-das-vierfache-von-muller-5-ex-bundesliga-profis-in-top-10/view/news/491013</guid>
-      <pubDate>Sat, 21 Nov 2026 13:00:56 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Die MLS Player Association hat den Gehaltsleitfaden für die zweite Hälfte der diesjährigen Major League Soccer veröffentlicht. Wenig überraschend bleibt der achtfache...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Eiskunstlauf-Paar Hocke/Kunkel gewinnt überraschend Gold in Finnland</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-paarlauf-kuer-grand-prix-finnland-annika-hocke-robert-kunkel.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-paarlauf-kuer-grand-prix-finnland-annika-hocke-robert-kunkel.html</guid>
-      <pubDate>Sat, 21 Nov 2026 13:00:28 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Fun] Hi Carina Kennst du mich noch aus der Schule?..</title>
-      <link>https://debeste.de/639138/Hi-Carina-Kennst-du-mich-noch-aus-der-Schule</link>
-      <guid isPermaLink="false">https://debeste.de/639138/Hi-Carina-Kennst-du-mich-noch-aus-der-Schule</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Hi Carina Kennst du mich noch aus der Schule? - Was willst du? - Wollte nur mal hallo sagen - Ich will mit Abschaum wie dir nichts mehr zu tun haben Hast mich immer so eklig angesehen du Zwerg. Und gestunken hast du auch - Eigentlich wollte ich dir sagen, dass ich jetzt dein Chef bin.]]></description>
-    </item>
-    <item>
-      <title>[Berlin] 2 Konzertkarten Unheilig &amp; Special Guests FRONT IF STAGE in Berlin - Kleinanzeigen</title>
-      <link>https://www.kleinanzeigen.de/s-anzeige/2-konzertkarten-unheilig-special-guests-front-if-stage/3578078645-255-27141</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7881861694102768418</guid>
-      <pubDate>Sat, 21 Nov 2026 12:25:30 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[2 Konzertkarten Unheilig & Special Guests FRONT IF STAGE. 150 € VB. + Versand ab 3,99 €. 12623 Mahlsdorf. 21.11.2026 ...]]></description>
-    </item>
-    <item>
-      <title>[Fun] Mir haben damals eine orangefarbene Maus, ein blauer..</title>
-      <link>https://debeste.de/639104/Mir-haben-damals-eine-orangefarbene-Maus,-ein-blauer</link>
-      <guid isPermaLink="false">https://debeste.de/639104/Mir-haben-damals-eine-orangefarbene-Maus,-ein-blauer</guid>
-      <pubDate>Sat, 21 Nov 2026 12:19:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Mir haben damals eine orangefarbene Maus, ein blauer Elefant und ein Mann, der in einem Bauwagen wohnt, alles beigebracht.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Start von „GTA 6“ schlägt sämtliche Entertainment-Rekorde</title>
-      <link>https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533544</guid>
-      <pubDate>Sat, 21 Nov 2026 12:16:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nach ersten Schätzungen gibt es nun eine offizielle Zahl von Take-Two: 3,79 Milliarden US-Dollar nahm das Spiel am ersten Tag ein. Das ist auch nötig.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Adult-only households accounted for 55% of toy sales in the first half of 2026</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic</link>
-      <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic</guid>
-      <pubDate>Sat, 21 Nov 2026 12:15:41 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Fun] Oma hat gesagt: Fisch und Besuch stinken am dritten Tag..</title>
-      <link>https://debeste.de/639096/Oma-hat-gesagt-Fisch-und-Besuch-stinken-am-dritten-Tag</link>
-      <guid isPermaLink="false">https://debeste.de/639096/Oma-hat-gesagt-Fisch-und-Besuch-stinken-am-dritten-Tag</guid>
-      <pubDate>Sat, 21 Nov 2026 11:59:02 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Oma hat gesagt: Fisch und Besuch stinken am dritten Tag]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Hertha-Trainer Leitl: "Als Glück würde ich das nicht bezeichnen"</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-hertha-bsc-stefan-leitl-trainer-interview-energie-cottbus.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-hertha-bsc-stefan-leitl-trainer-interview-energie-cottbus.html</guid>
-      <pubDate>Sat, 21 Nov 2026 11:44:52 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Hertha BSC im Kreise der Aufstiegskandidaten der 2. Bundesliga hatten vor der Saison nur wenige auf dem Zettel. Nun stehen die Berliner ungeschlagen an der Tabellenspitze. Im Interview spricht Trainer Stefan Leitl über die Gründe.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Von der Werbung hätte Münchhausen lügen lernen können!..</title>
-      <link>https://debeste.de/639095/Von-der-Werbung-h-tte-M-nchhausen-l-gen-lernen-k-nnen</link>
-      <guid isPermaLink="false">https://debeste.de/639095/Von-der-Werbung-h-tte-M-nchhausen-l-gen-lernen-k-nnen</guid>
-      <pubDate>Sat, 21 Nov 2026 11:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Von der Werbung hätte Münchhausen lügen lernen können!]]></description>
-    </item>
-    <item>
-      <title>[Fun] Wer hat eigentlich entschieden, dass die zweite Klasse der..</title>
-      <link>https://debeste.de/639184/Wer-hat-eigentlich-entschieden,-dass-die-zweite-Klasse-der</link>
-      <guid isPermaLink="false">https://debeste.de/639184/Wer-hat-eigentlich-entschieden,-dass-die-zweite-Klasse-der</guid>
-      <pubDate>Sat, 21 Nov 2026 11:19:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Wer hat eigentlich entschieden, dass die zweite Klasse der ideale Zeitpunkt ist, das Thema Haustiere durchzunehmen? Können wir das bitte noch einmal diskutieren? Liebe Grüße von einer Mutter, die heute Morgen schon eine Stunde lang ihrem weinenden Kind erklären musste, warum wir nicht mal eben Wüstenrennmäuse kaufen, obwohl sie doch einen Zeitfaktor von 2 und einen Kuschelfaktor von 4 haben!!]]></description>
-    </item>
-    <item>
-      <title>[Games] AetherCycle - Early Access Release</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60614</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60614</guid>
-      <pubDate>Sat, 21 Nov 2026 11:10:57 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[AetherCycle will be released into Early Access on December 4: AetherCycle - Official Early Access Launch Trailer AetherCycle is a first-person action RPG featuring fast-paced combat, character leveling, abilities, and loot-driven gear progression....]]></description>
-    </item>
-    <item>
-      <title>[Games] Grand Theft Auto VI - $3.79 Billion in Day One Retail Sales</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60613</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60613</guid>
-      <pubDate>Sat, 21 Nov 2026 11:07:20 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Largh spotted that Grand Theft Auto VI day one retail sales reached $3.79 billion. The budget is estimated somewhere above $1 billion, but not confirmed by Take-Two. (Here: 1 billion = one thousand million - in many countries this is called a millia...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] MAHLSDORF - Facebook</title>
-      <link>https://www.facebook.com/groups/ostberlindievergessenehauptstadt/posts/4699979216992740/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9175141636939987420</guid>
-      <pubDate>Sat, 21 Nov 2026 11:07:04 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[MAHLSDORF Hönower Straße am S-Bahnhof Der S-Bahnhof liegt hinter uns. Rechts die Einmündung wo die Strassenbahn noch heute zur Wendeschleife ...]]></description>
-    </item>
-    <item>
-      <title>[Fun] Kennen wir etwa schon den Nachfolger des Papstes? Leo XIV. traf während seiner Pilgerreise durch Südamerika auf seine Mini-Version.</title>
-      <link>https://debeste.de/639233/Kennen-wir-etwa-schon-den-Nachfolger-des-Papstes-Leo-XIV-traf-w-hrend-seiner</link>
-      <guid isPermaLink="false">https://debeste.de/639233/Kennen-wir-etwa-schon-den-Nachfolger-des-Papstes-Leo-XIV-traf-w-hrend-seiner</guid>
-      <pubDate>Sat, 21 Nov 2026 10:59:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Games] RPG General News - Crowdfunding: Brany Skeldalu 4</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60612</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60612</guid>
-      <pubDate>Sat, 21 Nov 2026 10:56:46 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Kordanor spotted a crowdfunding project for a dungeon crawler called Brany Skeldalu 4. A successor for the Czech dungeon crawler Gates of Skeldal: Brány Skeldalu 4 | Kampaň na Startovači The creator Jindřich is running a crowdfunding campaign on the czech platform startovac....]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Windows-Update-Vorschau: Gesichts-Unlock im Dunkeln</title>
-      <link>https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533459</guid>
-      <pubDate>Sat, 21 Nov 2026 10:52:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Microsoft hat die Vorschau der kommenden Patchday-Updates veröffentlicht. Windows Hello lernt darin Gesichtserkennung im Dunkeln.]]></description>
-    </item>
-    <item>
-      <title>[Games] Rise of Furax - Announced for April 2027</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60611</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60611</guid>
-      <pubDate>Sat, 21 Nov 2026 10:43:40 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Rap2h, who released the Might and Magic inspired Heroes of the Seven Islands announced that he is going to also make a real Grid Based Dungeon Crawler called Rise of Furax: Rise of Furax A dungeon crawler RPG set in the Heroes of the Seven Islands universe, where every element, from sprites to textures, was hand-drawn on paper....]]></description>
-    </item>
-    <item>
-      <title>[Fun] Wenigstens wird die Landung weich sein.</title>
-      <link>https://debeste.de/639218/Wenigstens-wird-die-Landung-weich-sein</link>
-      <guid isPermaLink="false">https://debeste.de/639218/Wenigstens-wird-die-Landung-weich-sein</guid>
-      <pubDate>Sat, 21 Nov 2026 10:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] My Monitor Was Cutting My Download Speed by 75%</title>
-      <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
-      <guid isPermaLink="false">https://blog.tymscar.com/posts/studiodisplayethernet/</guid>
-      <pubDate>Sat, 21 Nov 2026 10:36:32 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] FBI reportedly investigating apparent hack of its criminal database</title>
-      <link>https://www.bbc.com/news/articles/cvze7de86pk3o</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvze7de86pk3o</guid>
-      <pubDate>Sat, 21 Nov 2026 10:33:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Games] Game-Musik im Konzert: Game on Symphony in München | News und Kritik | BR-KLASSIK</title>
-      <link>https://www.br-klassik.de/aktuell/news-kritik/game-on-symphony-2026-muenchen-berlin-koeln-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12187372327469042654</guid>
-      <pubDate>Sat, 21 Nov 2026 10:23:07 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Dazu kommen die Fantasywelten von "Might and Magic X" und die raue, weite Landschaft von "The Elder Scrolls V: Skyrim". Durch den Abend führt Euch ...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] 1. FC Wilmersdorf : | 23. Spieltag | U15 Landesliga Berlin Staffel 1 2026/27 - Kicker</title>
-      <link>https://www.kicker.de/ama-500983491/spielinfo</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1457478572398133095</guid>
-      <pubDate>Sat, 21 Nov 2026 10:19:47 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Eintracht Mahlsdorf - 1. FC Wilmersdorf: Infos, Statistik und Bilanz zum Spiel vom 23. Spieltag der U15 Landesliga Berlin Staffel 1 2026/27.]]></description>
-    </item>
-    <item>
-      <title>[Fun] "Das Königreich des Nachbarn."..</title>
-      <link>https://debeste.de/639212/Das-K-nigreich-des-Nachbarn</link>
-      <guid isPermaLink="false">https://debeste.de/639212/Das-K-nigreich-des-Nachbarn</guid>
-      <pubDate>Sat, 21 Nov 2026 10:19:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Das Königreich des Nachbarn.]]></description>
-    </item>
-    <item>
-      <title>[Fun] "Hast du noch Sojasoße Zuhause?" - "Puh, ich glaub nicht.."</title>
-      <link>https://debeste.de/639177/Hast-du-noch-Sojaso-e-Zuhause-Puh,-ich-glaub-nicht</link>
-      <guid isPermaLink="false">https://debeste.de/639177/Hast-du-noch-Sojaso-e-Zuhause-Puh,-ich-glaub-nicht</guid>
-      <pubDate>Sat, 21 Nov 2026 09:59:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA["Hast du noch Sojasoße Zuhause?" - "Puh, ich glaub nicht, lass mal lieber welche kaufen." Exakt diesen Dialog haben wir offenbar schon öfter geführt.]]></description>
-    </item>
-    <item>
-      <title>[Berlin] drei Punkte im Mommse. Am Sonntag empfangen wir Eintracht Mahlsdorf und brauchen ...</title>
-      <link>https://www.facebook.com/TennisBorussiaBerlin/posts/mommse-vice-on-sunday-n%C3%A4chste-mission-drei-punkte-im-mommse-am-sonntag-empfangen/1796680455790568/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12012678377141972861</guid>
-      <pubDate>Sat, 21 Nov 2026 09:43:10 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Mommse Vice on Sunday?! Nächste Mission: drei Punkte im Mommse. Am Sonntag empfangen wir Eintracht Mahlsdorf und brauchen Euch an unserer Seite.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Wenn sie sagt, dass sie dich liebt und du damit die..</title>
-      <link>https://debeste.de/639165/Wenn-sie-sagt,-dass-sie-dich-liebt-und-du-damit-die</link>
-      <guid isPermaLink="false">https://debeste.de/639165/Wenn-sie-sagt,-dass-sie-dich-liebt-und-du-damit-die</guid>
-      <pubDate>Sat, 21 Nov 2026 09:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Wenn sie sagt, dass sie dich liebt und du damit die endgültige Gewissheit hast, dass sie vollkommen verrückt sein muss.]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Netzwerken in lockerer Atmosphäre, ein Buffet und Live-Fußball: Im Vereinsheim von ... - Facebook</title>
-      <link>https://www.facebook.com/mahlsdorflive/posts/netzwerken-in-lockerer-atmosph%C3%A4re-ein-buffet-und-live-fu%C3%9Fball-im-vereinsheim-von/1745920770726981/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6550356184613595726</guid>
-      <pubDate>Sat, 21 Nov 2026 09:39:48 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Mahlsdorf LIVE. https://alles-mahlsdorf.de/premiere-in- mahlsdorf-erster-business-abend-verbindet- unternehmertum-und-fussball/. alles-mahlsdorf.de.]]></description>
-    </item>
-    <item>
-      <title>[Berlin] "Ganz merkwürdig": Franz Wagner gewinnt in der NBA gegen Bruder Moritz</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/nba-franz-moritz-wagner-bruderduell-orlando-magic-brooklyn-nets.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/nba-franz-moritz-wagner-bruderduell-orlando-magic-brooklyn-nets.html</guid>
-      <pubDate>Sat, 21 Nov 2026 09:34:55 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Fünf Jahre spielten Franz und Moritz Wagner gemeinsam für Orlando, nun trafen die Berliner Basketball-Brüder erstmals als Gegner in der NBA aufeinander. Das Familienduell entschied Franz für sich - mit dem letzten Korb zwei Sekunden vor dem Ende.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Lernen durch Schmerz..</title>
-      <link>https://debeste.de/639245/Lernen-durch-Schmerz</link>
-      <guid isPermaLink="false">https://debeste.de/639245/Lernen-durch-Schmerz</guid>
-      <pubDate>Sat, 21 Nov 2026 09:19:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben</title>
-      <link>https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533452</guid>
-      <pubDate>Sat, 21 Nov 2026 09:09:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] KI-Kennzeichnung und National Geographic – die Fotonews der Woche 47/2026</title>
-      <link>https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532822</guid>
-      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern. National Geographic kürt Pictures of the Year. Und VSCO startet einen Desktop-Editor.]]></description>
-    </item>
-    <item>
-      <title>[Fun] "Fan von Glitzerkram"..</title>
-      <link>https://debeste.de/639230/Fan-von-Glitzerkram</link>
-      <guid isPermaLink="false">https://debeste.de/639230/Fan-von-Glitzerkram</guid>
-      <pubDate>Sat, 21 Nov 2026 08:59:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Fan von Glitzerkram]]></description>
-    </item>
-    <item>
-      <title>[Fun] Oooo, ich sehe, der Weihnachtsmann hat meinen Brief schon..</title>
-      <link>https://debeste.de/639205/Oooo,-ich-sehe,-der-Weihnachtsmann-hat-meinen-Brief-schon</link>
-      <guid isPermaLink="false">https://debeste.de/639205/Oooo,-ich-sehe,-der-Weihnachtsmann-hat-meinen-Brief-schon</guid>
-      <pubDate>Sat, 21 Nov 2026 08:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Oooo, ich sehe, der Weihnachtsmann hat meinen Brief schon gelesen.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] RCE in Gnupg</title>
-      <link>https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</link>
-      <guid isPermaLink="false">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</guid>
-      <pubDate>Sat, 21 Nov 2026 08:32:58 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize</title>
-      <link>https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</link>
-      <guid isPermaLink="false">https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</guid>
-      <pubDate>Sat, 21 Nov 2026 08:32:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Fun] Wenn ich völlig übermüdet ins Büro komme und sofort alle..</title>
-      <link>https://debeste.de/639199/Wenn-ich-v-llig-berm-det-ins-B-ro-komme-und-sofort-alle</link>
-      <guid isPermaLink="false">https://debeste.de/639199/Wenn-ich-v-llig-berm-det-ins-B-ro-komme-und-sofort-alle</guid>
-      <pubDate>Sat, 21 Nov 2026 08:19:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Wenn ich völlig übermüdet ins Büro komme und sofort alle etwas von mir wollen.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät</title>
-      <link>https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533280</guid>
-      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Man sieht sofort, dass Sie zum ersten Mal in einem Museum..</title>
-      <link>https://debeste.de/639198/Man-sieht-sofort,-dass-Sie-zum-ersten-Mal-in-einem-Museum</link>
-      <guid isPermaLink="false">https://debeste.de/639198/Man-sieht-sofort,-dass-Sie-zum-ersten-Mal-in-einem-Museum</guid>
-      <pubDate>Sat, 21 Nov 2026 07:59:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Man sieht sofort, dass Sie zum ersten Mal in einem Museum sind.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Wenn dir alles um dich herum signalisiert, dass es Zeit für einen Jobwechsel ist.</title>
-      <link>https://debeste.de/639196/Wenn-dir-alles-um-dich-herum-signalisiert,-dass-es-Zeit-f-r-einen-Jobwechsel</link>
-      <guid isPermaLink="false">https://debeste.de/639196/Wenn-dir-alles-um-dich-herum-signalisiert,-dass-es-Zeit-f-r-einen-Jobwechsel</guid>
-      <pubDate>Sat, 21 Nov 2026 07:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Altglienicke chancenlos bei Regionalliga-Spitzenreiter Erfurt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-lok-leipzig-rsv-eintracht-erfurt-altglienic.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-lok-leipzig-rsv-eintracht-erfurt-altglienic.html</guid>
-      <pubDate>Sat, 21 Nov 2026 07:36:24 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Sicherheitsframework fürs Gesundheitswesen – Cyberresilienz richtig testen</title>
-      <link>https://www.heise.de/hintergrund/Sicherheitsframework-fuers-Gesundheitswesen-Cyberresilienz-richtig-testen-11510081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11510081</guid>
-      <pubDate>Sat, 21 Nov 2026 07:35:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wie lässt sich die Cyberresilienz von Kliniken testen und bewerten? Ein Ansatz berücksichtigt das Zusammenspiel von Software, Infrastruktur und Mensch.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Mir wird schon beim Zuschauen kalt...</title>
-      <link>https://debeste.de/639190/Mir-wird-schon-beim-Zuschauen-kalt</link>
-      <guid isPermaLink="false">https://debeste.de/639190/Mir-wird-schon-beim-Zuschauen-kalt</guid>
-      <pubDate>Sat, 21 Nov 2026 07:19:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Mir wird schon beim Zuschauen kalt.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig</title>
-      <link>https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532884</guid>
-      <pubDate>Sat, 21 Nov 2026 07:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Auszubildende:r Fachkraft für Gastronomie (m/w/d) Domino's Berlin Mahlsdorf</title>
-      <link>https://www.studentjob.de/stellenangebote/9532515-auszubildende-r-fachkraft-fur-gastronomie-m-w-d-domino-s-berlin-mahlsdorf</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16617242407011346969</guid>
-      <pubDate>Sat, 21 Nov 2026 07:00:32 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Stellenbeschreibung Wir sind der führende Pizza-Lieferservice weltweit und wachsen stetig mit Hilfe unserer leidenschaftlichen Mitarbeiter:innen.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Ebene für Ebene: Die Bilder der Woche 47</title>
-      <link>https://www.heise.de/news/Ebene-fuer-Ebene-Die-Bilder-der-Woche-47-11529700.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529700</guid>
-      <pubDate>Sat, 21 Nov 2026 07:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Jedes der sieben Bilder spielt bewusst mit Vorder- und Hintergrund und gewinnt durch verschiedene Ebenen an Tiefe und Spannung.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Surprisingly Adorable Insect Portraits</title>
-      <link>https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</link>
-      <guid isPermaLink="false">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:44:14 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Fun] Wenn dir im Büro langweilig ist: Apfelsaft ins Glas..</title>
-      <link>https://debeste.de/639156/Wenn-dir-im-B-ro-langweilig-ist-Apfelsaft-ins-Glas</link>
-      <guid isPermaLink="false">https://debeste.de/639156/Wenn-dir-im-B-ro-langweilig-ist-Apfelsaft-ins-Glas</guid>
-      <pubDate>Sat, 21 Nov 2026 06:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Wenn dir im Büro langweilig ist: Apfelsaft ins Glas, Zettel "Urinprobe" drauf und ab in den Kühlschrank damit.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Sich krankmelden..</title>
-      <link>https://debeste.de/639045/Sich-krankmelden</link>
-      <guid isPermaLink="false">https://debeste.de/639045/Sich-krankmelden</guid>
-      <pubDate>Sat, 21 Nov 2026 06:19:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[Sich krankmelden... 1998 • Anrufen • "Gute Besserung" • Auskurieren 2011 • Zum Arzt • Gelber Schein • Per Post an die Firma • Auskurieren 2026 • Online-AU / Video-Sprechstunde • eAU geht digital an die Kasse • Chef fragt trotzdem nach dem Schein • "Kurz ins Daily aus dem Bett?" • Arbeitgeberverband will den Karenztag • Talkshow: "Macht Deutschland blau?" • Kollegen fangen deine Arbeit auf • Schlechtes Gewissen inklusive • Abends doch in die Mails geschaut • Auskurieren? Eher nicht. → Früher war man einfach krank. Heute muss man sich dafür rechtfertigen.]]></description>
-    </item>
-    <item>
-      <title>[Finanzen &amp; Coins] Bitcoin fällt um 10% - Anleger brauchen starke Nerven</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-um-10--anleger-brauchen-starke-nerven-3780799</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-fallt-um-10--anleger-brauchen-starke-nerven-3780799</guid>
-      <pubDate>Sat, 21 Nov 2026 06:02:06 GMT</pubDate>
-      <category>Finanzen &amp; Coins</category>
-      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
-      <description><![CDATA[]]></description>
     </item>
   </channel>
 </rss>

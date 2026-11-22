@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=Might+%26+Magic+Alert</link>
     <description>RSS-Feed für die Quelle 'Might &amp; Magic Alert' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-might-und-magic-alert.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,15 +16,6 @@
       <category>Games</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
       <description><![CDATA[Ich biete hier das Sammlerset zur Collector's Edition von Might & Magic Heroes VI an. Das Set wurde lediglich ausgepackt und stand zur Dekoration in ...]]></description>
-    </item>
-    <item>
-      <title>Game-Musik im Konzert: Game on Symphony in München | News und Kritik | BR-KLASSIK</title>
-      <link>https://www.br-klassik.de/aktuell/news-kritik/game-on-symphony-2026-muenchen-berlin-koeln-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12187372327469042654</guid>
-      <pubDate>Sat, 21 Nov 2026 10:23:07 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Dazu kommen die Fantasywelten von "Might and Magic X" und die raue, weite Landschaft von "The Elder Scrolls V: Skyrim". Durch den Abend führt Euch ...]]></description>
     </item>
   </channel>
 </rss>

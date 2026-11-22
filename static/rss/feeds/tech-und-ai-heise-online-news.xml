@@ -5,9 +5,54 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken</title>
+      <link>https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533750</guid>
+      <pubDate>Sun, 22 Nov 2026 11:46:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bevor ein neuer US-Kongress strengere Regeln erzwingen könnte, soll das umstrittene NSA-Spionageprogramm mithilfe der Demokraten noch rasch verlängert werden.]]></description>
+    </item>
+    <item>
+      <title>Was das Videospiel GTA 6 über unsere Gegenwart erzählt</title>
+      <link>https://www.heise.de/news/Was-das-Videospiel-GTA-6-ueber-unsere-Gegenwart-erzaehlt-11533740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533740</guid>
+      <pubDate>Sun, 22 Nov 2026 11:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!]]></description>
+    </item>
+    <item>
+      <title>GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
+      <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533722</guid>
+      <pubDate>Sun, 22 Nov 2026 10:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.]]></description>
+    </item>
+    <item>
+      <title>Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes</title>
+      <link>https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533616</guid>
+      <pubDate>Sun, 22 Nov 2026 08:12:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Bundesrat hält den Gesetzentwurf gegen digitale Gewalt für zu lasch und fordert höhere Strafen sowie schärfere Regeln für Smart Glasses.]]></description>
+    </item>
+    <item>
+      <title>Missing Link: Der Arcade-Automat aus der DDR – 40 Jahre Poly-Play</title>
+      <link>https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11532459</guid>
+      <pubDate>Sun, 22 Nov 2026 07:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
+    </item>
     <item>
       <title>Top 10: Das beste Smartphone im Test – Motorola überraschender Testsieger</title>
       <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test-motorola-ueberraschender-testsieger/5qx1bd1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -61,78 +106,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Medienberichten zufolge haben Hacker die FBI-Datenbank NCIC angegriffen. Ein Ex-FBI-Ermittler fürchtet vor allem manipulierte Datensätze.]]></description>
-    </item>
-    <item>
-      <title>Start von „GTA 6“ schlägt sämtliche Entertainment-Rekorde</title>
-      <link>https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533544</guid>
-      <pubDate>Sat, 21 Nov 2026 12:16:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nach ersten Schätzungen gibt es nun eine offizielle Zahl von Take-Two: 3,79 Milliarden US-Dollar nahm das Spiel am ersten Tag ein. Das ist auch nötig.]]></description>
-    </item>
-    <item>
-      <title>Windows-Update-Vorschau: Gesichts-Unlock im Dunkeln</title>
-      <link>https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533459</guid>
-      <pubDate>Sat, 21 Nov 2026 10:52:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Microsoft hat die Vorschau der kommenden Patchday-Updates veröffentlicht. Windows Hello lernt darin Gesichtserkennung im Dunkeln.]]></description>
-    </item>
-    <item>
-      <title>Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben</title>
-      <link>https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533452</guid>
-      <pubDate>Sat, 21 Nov 2026 09:09:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.]]></description>
-    </item>
-    <item>
-      <title>KI-Kennzeichnung und National Geographic – die Fotonews der Woche 47/2026</title>
-      <link>https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532822</guid>
-      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern. National Geographic kürt Pictures of the Year. Und VSCO startet einen Desktop-Editor.]]></description>
-    </item>
-    <item>
-      <title>Winzig: XXRI OS setzt den Linux-Desktop auf 75-MByte-Diät</title>
-      <link>https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533280</guid>
-      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wer im Keller noch ein Netbook mit Atom-CPU hortet, bekommt mit XXRI OS ein Spielzeug fürs Wochenende.]]></description>
-    </item>
-    <item>
-      <title>Sicherheitsframework fürs Gesundheitswesen – Cyberresilienz richtig testen</title>
-      <link>https://www.heise.de/hintergrund/Sicherheitsframework-fuers-Gesundheitswesen-Cyberresilienz-richtig-testen-11510081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11510081</guid>
-      <pubDate>Sat, 21 Nov 2026 07:35:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wie lässt sich die Cyberresilienz von Kliniken testen und bewerten? Ein Ansatz berücksichtigt das Zusammenspiel von Software, Infrastruktur und Mensch.]]></description>
-    </item>
-    <item>
-      <title>Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig</title>
-      <link>https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532884</guid>
-      <pubDate>Sat, 21 Nov 2026 07:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.]]></description>
-    </item>
-    <item>
-      <title>Ebene für Ebene: Die Bilder der Woche 47</title>
-      <link>https://www.heise.de/news/Ebene-fuer-Ebene-Die-Bilder-der-Woche-47-11529700.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11529700</guid>
-      <pubDate>Sat, 21 Nov 2026 07:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Jedes der sieben Bilder spielt bewusst mit Vorder- und Hintergrund und gewinnt durch verschiedene Ebenen an Tiefe und Spannung.]]></description>
     </item>
   </channel>
 </rss>
