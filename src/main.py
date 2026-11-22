@@ -1,7 +1,7 @@
+import logging
 import os
 import sys
 import time
-import logging
 from pathlib import Path
 
 # Sicherstellen, dass UTF-8 und Line-Buffering im Terminal unterstützt werden
@@ -14,15 +14,16 @@ if sys.stderr and hasattr(sys.stderr, "reconfigure"):
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.aggregator import collect_all_news, save_pool_state
-from src.summarizer import summarize_news_with_gemini
 from src.notifier import dispatch_digest
 from src.rss_generator import export_briefing_rss
+from src.summarizer import is_ai_brain_configured, summarize_news_with_gemini
 
 logging.basicConfig(
     level=logging.ERROR,
     format="%(asctime)s [%(levelname)s] %(message)s",
     datefmt="%H:%M:%S",
 )
+logging.getLogger("src.summarizer").setLevel(logging.INFO)
 logger = logging.getLogger(__name__)
 
 
@@ -45,13 +46,18 @@ def run_pipeline() -> None:
 
     # 2. Schritt: KI-Zusammenfassung generieren
     gemini_model = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
-    print(f"\n[2/3] 🧠 Generiere kuratierte Zusammenfassung mit LLM (bevorzugt: {gemini_model})...", flush=True)
-    summary = summarize_news_with_gemini(news, model=gemini_model)
-    print("      -> Zusammenfassung erfolgreich generiert.", flush=True)
+    if is_ai_brain_configured():
+        print("\n[2/3] 🧠 Generiere kuratierte Zusammenfassung über AI-Brain (tier=auto)...", flush=True)
+    else:
+        print(f"\n[2/3] 🧠 Generiere kuratierte Zusammenfassung mit LLM (bevorzugt: {gemini_model})...", flush=True)
+    briefing_result = summarize_news_with_gemini(news, model=gemini_model, return_result=True)
+    summary = briefing_result.markdown
+    used_model_label = briefing_result.display_label
+    print(f"      -> Zusammenfassung erfolgreich generiert ({used_model_label}).", flush=True)
     try:
         export_briefing_rss(summary, news_data=news)
         print("      -> KI-Briefing RSS-Feed (briefing.xml) erfolgreich bereitgestellt.", flush=True)
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001 - RSS-Export darf Mail-Versand nicht blockieren
         print(f"      [Hinweis] Briefing-RSS konnte nicht exportiert werden: {e}", flush=True)
 
     # 3. Schritt: Distribution (HTML generieren + E-Mail versenden)
@@ -61,30 +67,32 @@ def run_pipeline() -> None:
 
     # 4. Schritt: Datenbank-Persistenz (Turso Cloud DB mit automatischem lokalem SQLite-Fallback)
     try:
-        from src.storage import get_storage, SqliteStorage
+        from src.storage import SqliteStorage, get_storage
+
         storage = get_storage()
         all_articles = [it for items in news.values() for it in items]
 
         try:
             saved_count = storage.save_articles(all_articles)
             briefing_date = time.strftime("%Y-%m-%d")
-            storage.save_briefing(briefing_date, summary, gemini_model)
+            storage.save_briefing(briefing_date, summary, used_model_label)
             storage.set_metadata("last_feed_refresh_time", str(time.time()))
             print(f"      -> 💾 {saved_count} Artikel & KI-Briefing in Datenbank archiviert.", flush=True)
-        except Exception as db_err:
+        except Exception as db_err:  # noqa: BLE001 - Fallback auf lokale SQLite-DB
             logger.warning("Speichern in primärer DB fehlgeschlagen (%s). Nutze lokalen SQLite-Fallback...", db_err)
             print(f"      [Warnung] Cloud-DB fehlgeschlagen ({db_err}). Speichere lokal in SQLite-Archiv...", flush=True)
             fallback_storage = SqliteStorage()
             fallback_storage.init_db()
             saved_count = fallback_storage.save_articles(all_articles)
             briefing_date = time.strftime("%Y-%m-%d")
-            fallback_storage.save_briefing(briefing_date, summary, gemini_model)
+            fallback_storage.save_briefing(briefing_date, summary, used_model_label)
             fallback_storage.set_metadata("last_feed_refresh_time", str(time.time()))
             print(f"      -> 💾 {saved_count} Artikel & KI-Briefing im lokalen SQLite-Archiv gesichert.", flush=True)
             storage = fallback_storage
 
         # 5. Schritt: Ältere Artikel (> 24h) archivieren und Archiv-Bereinigung (> archive_retention_days)
-        from src.aggregator import load_settings, DEFAULT_ARCHIVE_RETENTION_DAYS
+        from src.aggregator import DEFAULT_ARCHIVE_RETENTION_DAYS, load_settings
+
         settings = load_settings()
         retention_days_raw = settings.get("archive_retention_days", DEFAULT_ARCHIVE_RETENTION_DAYS)
         try:
@@ -103,7 +111,7 @@ def run_pipeline() -> None:
             print(f"      -> 🧹 Archiv-Bereinigung: {cleaned_count} alte Artikel (> {retention_days} Tage) gelöscht.", flush=True)
         else:
             print(f"      -> 🧹 Archiv-Bereinigung: Keine veralteten Artikel im Archiv (> {retention_days} Tage).", flush=True)
-    except Exception as exc:
+    except Exception as exc:  # noqa: BLE001 - DB-Archivierung ist nach erfolgreichem Versand optional
         logger.warning("Datenbank-Archivierung oder Archiv-Bereinigung fehlgeschlagen: %s", exc)
 
     print("\n" + "=" * 60, flush=True)

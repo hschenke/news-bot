@@ -7,7 +7,7 @@ import subprocess
 from functools import lru_cache
 from pathlib import Path
 
-__version__ = "v0.43.0"
+__version__ = "v0.44.0"
 
 
 @lru_cache(maxsize=1)
@@ -32,6 +32,6 @@ def get_app_version() -> str:
             tag = res.stdout.strip()
             if tag.startswith("v"):
                 return tag
-    except Exception:
-        pass
+    except (OSError, subprocess.SubprocessError):
+        return __version__
     return __version__

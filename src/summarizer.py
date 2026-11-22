@@ -1,14 +1,33 @@
-import os
-import sys
-import re
-import urllib.parse
+from __future__ import annotations
+
 import logging
-from typing import Any
+import os
+import re
+import sys
+import urllib.parse
+from dataclasses import dataclass
+from typing import Any, Literal, overload
+
 try:
     from dotenv import load_dotenv
+
     load_dotenv()
 except ImportError:
     pass
+
+try:
+    import ai_brain
+    from ai_brain import AppBrainPolicy, BrainError, BrainTier, default_app_policy
+except ImportError:  # pragma: no cover - minimal CI environments without bot-dashboard
+    ai_brain = None  # type: ignore[assignment]
+    AppBrainPolicy = Any  # type: ignore[assignment,misc]
+    BrainTier = Any  # type: ignore[assignment,misc]
+
+    class BrainError(Exception):  # type: ignore[no-redef]
+        """Fallback exception when ai_brain package is unavailable."""
+
+    def default_app_policy(app_name: str = "") -> Any:  # type: ignore[misc]
+        return None
 
 logger = logging.getLogger(__name__)
 
@@ -22,6 +41,100 @@ AVAILABLE_GEMINI_MODELS: list[str] = [
     "gemini-3.1-flash-lite",
 ]
 DEFAULT_GEMINI_MODEL: str = AVAILABLE_GEMINI_MODELS[0]
+DEFAULT_SYSTEM_INSTRUCTION: str = (
+    "Du bist ein professioneller News-Kurator und Redakteur für ein Daily News Briefing. "
+    "Erstelle faktenbasierte, kompakte Markdown-Briefings ohne Executive Summary, ohne Infoboxen "
+    "und mit exakt unveränderten Original-URLs."
+)
+
+
+@dataclass(frozen=True)
+class BriefingResult:
+    """Strukturiertes Ergebnis einer KI-Briefing-Generierung inkl. Modell- & Tier-Metadaten."""
+
+    markdown: str
+    model_used: str
+    tier_used: str = ""
+    backend: str = "fallback"  # "ai_brain" | "gemini_direct" | "fallback"
+
+    @property
+    def display_label(self) -> str:
+        """Formatiert eine kompakte Modell-/Tier-Anzeige für Logs, Datenbank und UI."""
+        if self.backend == "ai_brain":
+            tier_label = self.tier_used.capitalize() if self.tier_used else "Auto"
+            model_label = self.model_used or "AI-Brain"
+            return f"{model_label} · AI-Brain ({tier_label})"
+        if self.backend == "gemini_direct":
+            return f"{self.model_used or DEFAULT_GEMINI_MODEL} (Fallback)"
+        return "Standard-Fallback (ohne LLM)"
+
+
+_last_briefing_result: BriefingResult | None = None
+
+
+def get_last_briefing_result() -> BriefingResult | None:
+    """Liefert das zuletzt erzeugte BriefingResult inkl. genutztem Modell und Tier."""
+    return _last_briefing_result
+
+
+def is_ai_brain_configured() -> bool:
+    """Prüft ohne Netzwerkaufruf, ob ein gültiger `AI_BRAIN_KEY` konfiguriert ist."""
+    if ai_brain is None:
+        return False
+    return bool(ai_brain.is_configured())
+
+
+def load_ai_brain_policy() -> tuple[AppBrainPolicy, str | None]:
+    """Lädt die gespeicherte `AppBrainPolicy` für News-Bot oder liefert Free-Only-Defaults."""
+    fallback_policy = default_app_policy("news-bot")
+    if not is_ai_brain_configured():
+        return fallback_policy, None
+    try:
+        with ai_brain.connect() as brain:
+            return brain.get_app_policy(), None
+    except BrainError as exc:
+        logger.warning(
+            "AI-Brain Policy konnte nicht geladen werden (%s). Nutze News-Bot Defaults.",
+            exc,
+        )
+        return fallback_policy, str(exc)
+
+
+def save_ai_brain_policy(
+    llm_tier: BrainTier | str,
+    search_tier: BrainTier | str,
+    allow_paid: bool = False,
+) -> AppBrainPolicy:
+    """Validiert und speichert die `AppBrainPolicy` zentral via `ai_brain` (maps_mode='off')."""
+    if ai_brain is None or not ai_brain.is_configured():
+        raise BrainError("AI-Brain ist nicht konfiguriert (AI_BRAIN_KEY fehlt).")
+
+    resolved_llm = (
+        llm_tier if isinstance(llm_tier, BrainTier) else BrainTier(str(llm_tier).strip().lower())
+    )
+    resolved_search = (
+        search_tier
+        if isinstance(search_tier, BrainTier)
+        else BrainTier(str(search_tier).strip().lower())
+    )
+    policy = AppBrainPolicy(
+        llm_tier=resolved_llm,
+        search_tier=resolved_search,
+        allow_paid=bool(allow_paid),
+        maps_mode="off",
+    )
+    with ai_brain.connect() as brain:
+        saved = brain.set_app_policy(policy)
+
+    logger.info(
+        "AI-Brain Policy gespeichert: llm_tier=%s, search_tier=%s, allow_paid=%s, maps_mode=%s",
+        saved.llm_tier.value,
+        saved.search_tier.value,
+        saved.allow_paid,
+        saved.maps_mode,
+    )
+    return saved
+
 
 
 def get_candidate_models(preferred_model: str | None = None) -> list[str]:
@@ -48,14 +161,14 @@ def get_candidate_models(preferred_model: str | None = None) -> list[str]:
 def get_configured_api_key() -> str:
     """Ermittelt den Gemini API-Key aus Umgebungsvariablen oder Streamlit Secrets."""
     api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        if "STREAMLIT_SERVER_PORT" in os.environ or "streamlit" in sys.modules:
-            try:
-                import streamlit as st
-                if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
-                    api_key = str(st.secrets["GEMINI_API_KEY"])
-            except Exception:
-                pass
+    if not api_key and ("STREAMLIT_SERVER_PORT" in os.environ or "streamlit" in sys.modules):
+        try:
+            import streamlit as st
+
+            if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
+                api_key = str(st.secrets["GEMINI_API_KEY"])
+        except Exception as exc:  # noqa: BLE001 - Streamlit Secrets sind optional
+            logger.debug("Streamlit Secret GEMINI_API_KEY nicht lesbar: %s", type(exc).__name__)
     return api_key or ""
 
 
@@ -63,12 +176,13 @@ def get_streamlit_app_url(config_path: str = "config/settings.yaml") -> str:
     """Ermittelt die konfigurierte Basis-URL der Streamlit Web-App aus settings.yaml."""
     try:
         from src.sources_manager import load_settings
+
         settings = load_settings(config_path)
         configured_url = settings.get("streamlit_app_url")
         if configured_url and str(configured_url).strip():
             return str(configured_url).strip().rstrip("/")
-    except Exception:
-        pass
+    except Exception as exc:  # noqa: BLE001 - Fallback auf ENV/Defaults
+        logger.debug("settings.yaml für STREAMLIT_APP_URL nicht lesbar: %s", exc)
 
     env_url = os.getenv("STREAMLIT_APP_URL")
     if env_url and env_url.strip():
@@ -77,10 +191,11 @@ def get_streamlit_app_url(config_path: str = "config/settings.yaml") -> str:
     if "STREAMLIT_SERVER_PORT" in os.environ or "streamlit" in sys.modules:
         try:
             import streamlit as st
+
             if hasattr(st, "secrets") and "STREAMLIT_APP_URL" in st.secrets:
                 return str(st.secrets["STREAMLIT_APP_URL"]).strip().rstrip("/")
-        except Exception:
-            pass
+        except Exception as exc:  # noqa: BLE001 - Streamlit Secrets sind optional
+            logger.debug("Streamlit Secret STREAMLIT_APP_URL nicht lesbar: %s", type(exc).__name__)
 
     return "https://news-bot.streamlit.app"
 
@@ -99,12 +214,13 @@ def build_category_quicklinks(
     sodass der Nutzer bei Klicks aus dem Briefing nie wieder ein Passwort eingeben muss!
     """
     try:
-        from src.auth import get_configured_app_password, generate_readonly_auth_token
+        from src.auth import generate_readonly_auth_token, get_configured_app_password
     except ImportError:
         import importlib
+
         import src.auth
         importlib.reload(src.auth)
-        from src.auth import get_configured_app_password, generate_readonly_auth_token
+        from src.auth import generate_readonly_auth_token, get_configured_app_password
     app_pw = get_configured_app_password()
     auth_param = f"&auth={generate_readonly_auth_token(app_pw)}" if app_pw else ""
 
@@ -310,7 +426,7 @@ def _clean_and_enhance_briefing(
             continue
 
         # Erkennung von Artikellistenpunkten (- oder *)
-        if current_cat and (stripped.startswith("- ") or stripped.startswith("* ")):
+        if current_cat and stripped.startswith(("- ", "* ")):
             flush_quicklinks_if_needed()
             cat_item_count += 1
             if cat_item_count <= max_items_per_category:
@@ -333,25 +449,202 @@ def _clean_and_enhance_briefing(
     return result.strip()
 
 
-def summarize_news_with_gemini(
+def _briefing_sort_key(item: dict[str, Any]) -> tuple[int, float]:
+    """Sortierschlüssel: Like (2) > Neutral (1) > Dislike (0), sekundär nach Zeitstempel."""
+    fb = int(item.get("feedback") or 0)
+    priority = 2 if fb > 0 else (0 if fb < 0 else 1)
+    ts = float(item.get("timestamp") or 0.0)
+    return (priority, ts)
+
+
+def _build_briefing_prompt_and_urls(
+    categorized_news: dict[str, list[dict[str, Any]]],
+    category_links: dict[str, str],
+    lang_name: str,
+    active_main_template: str,
+    active_directives: str,
+) -> tuple[str, dict[str, str]]:
+    """Erstellt den vollständigen Briefing-Prompt sowie die Canonical-URL-Zuordnungstabelle."""
+    context_lines: list[str] = []
+    known_urls_map: dict[str, str] = {}
+
+    for cat, items in sorted(categorized_news.items(), key=lambda x: x[0].strip().lower()):
+        if not items:
+            continue
+        context_lines.append(f"\n\n## {cat}")
+        quicklink = category_links.get(cat, "")
+        if quicklink:
+            context_lines.append(f"\nQuicklinks-Zeile für '{cat}':\n{quicklink}\n")
+
+        sorted_items = sorted(items, key=_briefing_sort_key, reverse=True)
+        is_cat_humor = any(term in cat.lower() for term in ("fun", "witz", "humor", "spass", "spaß"))
+        for item in sorted_items:
+            fb = int(item.get("feedback") or 0)
+            fav_tag = " ⭐ [NUTZER-FAVORIT / GELIKED - BITTE BEVORZUGT BERÜCKSICHTIGEN]" if fb > 0 else ""
+            dislike_tag = " ⚠️ [VOM NUTZER ALS WENIGER RELEVANT / GEDISLIKED MARKIERT]" if fb < 0 else ""
+            source_name = item.get("source", "Unbekannt")
+            source_url = item.get("source_url", "")
+            is_item_joke = (
+                is_cat_humor
+                or any(term in str(source_name).lower() for term in ("witz", "joke", "debeste", "lach", "cartoon"))
+                or any(term in str(source_url).lower() for term in ("witz", "joke", "debeste"))
+                or any(term in str(item.get("title", "")).lower() for term in ("witz", "joke"))
+            )
+            joke_tag = (
+                " 🎭 [SPEZIALFALL: WITZ / HUMOR - DEN KOMPLETTEN WITZ VOLLSTÄNDIG ALS TEXT DARSTELLEN! "
+                "KEINE ZUSAMMENFASSUNG, NICHT ERKLÄREN, NICHT KÜRZEN!]"
+                if is_item_joke
+                else ""
+            )
+            context_lines.append(
+                f"- **{item['title']}**{fav_tag}{dislike_tag}{joke_tag} (Quelle: {source_name})"
+            )
+            if item.get("summary"):
+                label = "Kompletter Text / Pointe" if is_item_joke else "Tatsächlicher Inhalt"
+                context_lines.append(f"  {label}: {item['summary']}")
+            context_lines.append(f"  Link: {item['link']}")
+
+            it_link = (item.get("link") or "").strip()
+            if it_link:
+                known_urls_map[it_link] = it_link
+                known_urls_map[it_link.rstrip("/")] = it_link
+                known_urls_map[it_link.rstrip("-/")] = it_link
+
+    context_data_str = "".join(context_lines)
+
+    prompt = active_main_template
+    if "{lang_name}" in prompt:
+        prompt = prompt.replace("{lang_name}", lang_name)
+    if "{active_directives}" in prompt:
+        prompt = prompt.replace("{active_directives}", active_directives)
+    else:
+        prompt += f"\n\nREDAKTIONELLE FILTER & ANWEISUNGEN:\n{active_directives}\n"
+    if "{context_data}" in prompt:
+        prompt = prompt.replace("{context_data}", context_data_str)
+    else:
+        prompt += f"\n\nHier sind die aktuellen Roh-Nachrichten nach Kategorien gegliedert:\n{context_data_str}\n"
+
+    return prompt, known_urls_map
+
+
+def _generate_via_ai_brain(
+    prompt: str,
+    system_instruction: str,
+) -> tuple[str, str, str] | None:
+    """
+    Führt die Briefing-Synthese über das zentrale `ai_brain`-Framework (`tier="auto"`) aus.
+    Gibt bei Erfolg `(text, model_used, tier_used)` zurück, sonst `None` für den sicheren Fallback.
+    """
+    if ai_brain is None or not ai_brain.is_configured():
+        logger.debug("AI-Brain nicht konfiguriert (kein AI_BRAIN_KEY). Verwende lokalen API-Key-Fallback.")
+        return None
+
+    try:
+        with ai_brain.connect() as brain:
+            result = brain.generate_text(
+                prompt,
+                tier="auto",
+                system_instruction=system_instruction,
+                allow_paid=None,
+            )
+    except BrainError as exc:
+        logger.warning(
+            "AI-Brain Briefing-Aufruf fehlgeschlagen (%s). Falle auf lokale GEMINI_API_KEY-Logik zurück.",
+            exc,
+        )
+        return None
+    except (OSError, TimeoutError, RuntimeError) as exc:
+        logger.warning(
+            "Unerwarteter AI-Brain Verbindungsfehler (%s). Falle auf lokale GEMINI_API_KEY-Logik zurück.",
+            exc,
+        )
+        return None
+
+    raw_text = (getattr(result, "text", "") or "").strip()
+    if not raw_text:
+        logger.warning("AI-Brain lieferte eine leere Antwort. Falle auf lokale GEMINI_API_KEY-Logik zurück.")
+        return None
+
+    model_used = str(getattr(result, "model_used", "") or "ai_brain").strip()
+    raw_tier = getattr(result, "tier", "")
+    tier_used = raw_tier.value if hasattr(raw_tier, "value") else str(raw_tier or "auto").strip()
+    logger.info(
+        "AI-Brain Briefing erfolgreich generiert (Modell: %s, Tier: %s, %d Zeichen).",
+        model_used,
+        tier_used,
+        len(raw_text),
+    )
+    return raw_text, model_used, tier_used
+
+
+def _generate_via_direct_gemini(
+    prompt: str,
+    active_key: str,
+    candidate_models: list[str],
+) -> tuple[str, str] | None:
+    """Führt den bisherigen direkten Google-Gemini-Aufruf mit Fallback-Kette aus."""
+    try:
+        from google import genai
+
+        client = genai.Client(api_key=active_key)
+    except Exception as exc:  # noqa: BLE001 - externe SDK-Initialisierung darf Pipeline nie abbrechen
+        logger.error("Initialisierungsfehler Gemini API: %s", exc)
+        return None
+
+    last_error: Exception | None = None
+    for model_name in candidate_models:
+        try:
+            logger.info("Generiere Briefing über direkten Gemini-Fallback mit Modell: %s", model_name)
+            try:
+                chat = client.chats.create(model=model_name)
+                response = chat.send_message(prompt)
+            except AttributeError:
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                )
+            if response and response.text:
+                logger.info(
+                    "Direktes Gemini-Modell %s erfolgreich (%d Zeichen).",
+                    model_name,
+                    len(response.text),
+                )
+                return response.text, model_name
+        except Exception as model_err:  # noqa: BLE001 - Einzelfehler isolieren für Modell-Fallback-Kette
+            logger.warning(
+                "Modell %s temporär nicht erreichbar (%s). Versuche Alternative...",
+                model_name,
+                model_err,
+            )
+            last_error = model_err
+
+    logger.error("Alle direkten Gemini-Modelle schlugen fehl: %s", last_error)
+    return None
+
+
+def generate_news_briefing(
     categorized_news: dict[str, list[dict[str, Any]]],
     api_key: str | None = None,
     model: str | None = None,
     config_path: str = "config/sources.yaml",
     main_prompt_template: str | None = None,
     custom_directives: str | None = None,
-) -> str:
+    system_instruction: str | None = None,
+) -> BriefingResult:
     """
-    Fasst die gesammelten Nachrichten mit dem Google Gemini Modell zusammen.
-    Erstellt ein kompaktes Briefing ohne Executive Summary mit einer Infobox pro Kategorie,
-    Quicklinks zur Streamlit App & Feeds sowie den Top 5 verlinkten Artikeln pro Kategorie.
+    Erzeugt das kuratierte Daily News Briefing samt Metadaten (Modellname, Tier & Backend).
+    Bevorzugt das zentrale `ai_brain` (`tier="auto"`), fällt bei Fehler oder fehlendem
+    `AI_BRAIN_KEY` sauber geloggt auf `GEMINI_API_KEY` und zuletzt auf den Markdown-Fallback zurück.
     """
+    global _last_briefing_result
+
     try:
-        from src.sources_manager import load_sources_raw, load_settings, load_prompts
+        from src.sources_manager import load_prompts, load_settings, load_sources_raw
+
         config = load_sources_raw(config_path)
         settings = load_settings()
         prompts = load_prompts()
-    except Exception as exc:
+    except Exception as exc:  # noqa: BLE001 - fehlende YAML-Dateien dürfen Fallback nicht verhindern
         logger.warning("Konfiguration konnte nicht geladen werden (%s). Verwende Defaults.", exc)
         config = {"categories": []}
         settings = {}
@@ -365,122 +658,139 @@ def summarize_news_with_gemini(
 
     active_directives = (custom_directives or "").strip()
     if not active_directives:
-        active_directives = (prompts.get("custom_prompt_directives") or settings.get("custom_prompt_directives") or "").strip()
+        active_directives = (
+            prompts.get("custom_prompt_directives") or settings.get("custom_prompt_directives") or ""
+        ).strip()
     if not active_directives:
         active_directives = DEFAULT_DIRECTIVES
 
     active_main_template = (main_prompt_template or "").strip()
     if not active_main_template:
-        active_main_template = (prompts.get("custom_main_prompt") or settings.get("custom_main_prompt") or "").strip()
+        active_main_template = (
+            prompts.get("custom_main_prompt") or settings.get("custom_main_prompt") or ""
+        ).strip()
     if not active_main_template:
         active_main_template = DEFAULT_MAIN_PROMPT_TEMPLATE
 
+    active_system_instruction = (system_instruction or "").strip() or DEFAULT_SYSTEM_INSTRUCTION
+    prompt, known_urls_map = _build_briefing_prompt_and_urls(
+        categorized_news=categorized_news,
+        category_links=category_links,
+        lang_name=lang_name,
+        active_main_template=active_main_template,
+        active_directives=active_directives,
+    )
+
+    # 1. Primärpfad: Zentrales AI-Brain (tier="auto" nutzt gespeicherte News-Bot AppBrainPolicy)
+    brain_output = _generate_via_ai_brain(prompt, system_instruction=active_system_instruction)
+    if brain_output is not None:
+        raw_text, model_used, tier_used = brain_output
+        cleaned_result = _clean_and_enhance_briefing(
+            raw_text,
+            category_links,
+            known_urls_map=known_urls_map,
+        )
+        res = BriefingResult(
+            markdown=cleaned_result,
+            model_used=model_used,
+            tier_used=tier_used,
+            backend="ai_brain",
+        )
+        _last_briefing_result = res
+        return res
+
+    # 2. Fallback-Pfad: Direkter Google-Gemini-Aufruf über GEMINI_API_KEY
     active_key = api_key or get_configured_api_key()
     if not active_key or active_key.startswith("your_"):
-        logger.debug("Kein gültiger GEMINI_API_KEY gefunden. Erzeuge Standard-Zusammenfassung.")
-        print("[Hinweis] Kein gültiger GEMINI_API_KEY gefunden. Erzeuge Standard-Zusammenfassung...")
-        return _generate_fallback_summary(categorized_news, category_links=category_links)
+        logger.info("Kein gültiger AI_BRAIN_KEY oder GEMINI_API_KEY gefunden. Erzeuge Standard-Zusammenfassung.")
+        fallback_md = _generate_fallback_summary(categorized_news, category_links=category_links)
+        res = BriefingResult(markdown=fallback_md, model_used="fallback", tier_used="", backend="fallback")
+        _last_briefing_result = res
+        return res
 
-    try:
-        from google import genai
-        client = genai.Client(api_key=active_key)
+    preferred_model = model or os.getenv("GEMINI_MODEL") or settings.get("gemini_model")
+    candidate_models = get_candidate_models(preferred_model)
+    direct_output = _generate_via_direct_gemini(prompt, active_key, candidate_models)
+    if direct_output is not None:
+        raw_text, used_model = direct_output
+        cleaned_result = _clean_and_enhance_briefing(
+            raw_text,
+            category_links,
+            known_urls_map=known_urls_map,
+        )
+        res = BriefingResult(
+            markdown=cleaned_result,
+            model_used=used_model,
+            tier_used="",
+            backend="gemini_direct",
+        )
+        _last_briefing_result = res
+        return res
 
-        context_lines = []
-        for cat, items in sorted(categorized_news.items(), key=lambda x: x[0].strip().lower()):
-            if not items:
-                continue
-            context_lines.append(f"\n\n## {cat}")
-            quicklink = category_links.get(cat, "")
-            if quicklink:
-                context_lines.append(f"\nQuicklinks-Zeile für '{cat}':\n{quicklink}\n")
-            def briefing_sort_key(it: dict[str, Any]) -> tuple[int, float]:
-                fb = int(it.get("feedback") or 0)
-                # Priorität: Like (1) -> 2, Neutral (0) -> 1, Dislike (-1) -> 0
-                priority = 2 if fb > 0 else (0 if fb < 0 else 1)
-                ts = float(it.get("timestamp") or 0.0)
-                return (priority, ts)
+    # 3. Letzter Ausfallsicherheits-Fallback ohne LLM
+    fallback_md = _generate_fallback_summary(categorized_news, category_links=category_links)
+    res = BriefingResult(markdown=fallback_md, model_used="fallback", tier_used="", backend="fallback")
+    _last_briefing_result = res
+    return res
 
-            sorted_items = sorted(items, key=briefing_sort_key, reverse=True)
-            is_cat_humor = any(term in cat.lower() for term in ["fun", "witz", "humor", "spass", "spaß"])
-            for item in sorted_items:
-                fb = int(item.get("feedback") or 0)
-                fav_tag = " ⭐ [NUTZER-FAVORIT / GELIKED - BITTE BEVORZUGT BERÜCKSICHTIGEN]" if fb > 0 else ""
-                dislike_tag = " ⚠️ [VOM NUTZER ALS WENIGER RELEVANT / GEDISLIKED MARKIERT]" if fb < 0 else ""
-                source_name = item.get("source", "Unbekannt")
-                source_url = item.get("source_url", "")
-                is_item_joke = (
-                    is_cat_humor
-                    or any(term in str(source_name).lower() for term in ["witz", "joke", "debeste", "lach", "cartoon"])
-                    or any(term in str(source_url).lower() for term in ["witz", "joke", "debeste"])
-                    or any(term in str(item.get("title", "")).lower() for term in ["witz", "joke"])
-                )
-                joke_tag = " 🎭 [SPEZIALFALL: WITZ / HUMOR - DEN KOMPLETTEN WITZ VOLLSTÄNDIG ALS TEXT DARSTELLEN! KEINE ZUSAMMENFASSUNG, NICHT ERKLÄREN, NICHT KÜRZEN!]" if is_item_joke else ""
-                context_lines.append(f"- **{item['title']}**{fav_tag}{dislike_tag}{joke_tag} (Quelle: {source_name})")
-                if item.get("summary"):
-                    label = "Kompletter Text / Pointe" if is_item_joke else "Tatsächlicher Inhalt"
-                    context_lines.append(f"  {label}: {item['summary']}")
-                context_lines.append(f"  Link: {item['link']}")
 
-        context_data_str = "".join(context_lines)
+@overload
+def summarize_news_with_gemini(
+    categorized_news: dict[str, list[dict[str, Any]]],
+    api_key: str | None = None,
+    model: str | None = None,
+    config_path: str = "config/sources.yaml",
+    main_prompt_template: str | None = None,
+    custom_directives: str | None = None,
+    *,
+    system_instruction: str | None = None,
+    return_result: Literal[False] = False,
+) -> str: ...
 
-        prompt = active_main_template
-        if "{lang_name}" in prompt:
-            prompt = prompt.replace("{lang_name}", lang_name)
-        if "{active_directives}" in prompt:
-            prompt = prompt.replace("{active_directives}", active_directives)
-        else:
-            prompt += f"\n\nREDAKTIONELLE FILTER & ANWEISUNGEN:\n{active_directives}\n"
-        if "{context_data}" in prompt:
-            prompt = prompt.replace("{context_data}", context_data_str)
-        else:
-            prompt += f"\n\nHier sind die aktuellen Roh-Nachrichten nach Kategorien gegliedert:\n{context_data_str}\n"
 
-        known_urls_map: dict[str, str] = {}
-        for items_list in categorized_news.values():
-            for it in items_list:
-                it_link = (it.get("link") or "").strip()
-                if it_link:
-                    known_urls_map[it_link] = it_link
-                    known_urls_map[it_link.rstrip("/")] = it_link
-                    known_urls_map[it_link.rstrip("-/")] = it_link
+@overload
+def summarize_news_with_gemini(
+    categorized_news: dict[str, list[dict[str, Any]]],
+    api_key: str | None = None,
+    model: str | None = None,
+    config_path: str = "config/sources.yaml",
+    main_prompt_template: str | None = None,
+    custom_directives: str | None = None,
+    *,
+    system_instruction: str | None = None,
+    return_result: Literal[True],
+) -> BriefingResult: ...
 
-        preferred_model = model or os.getenv("GEMINI_MODEL") or settings.get("gemini_model")
-        candidate_models = get_candidate_models(preferred_model)
 
-        last_error = None
-        for model_name in candidate_models:
-            try:
-                logger.debug("Generiere mit KI-Modell: %s", model_name)
-                print(f"      -> Generiere mit Modell: {model_name}...", flush=True)
-                try:
-                    chat = client.chats.create(model=model_name)
-                    response = chat.send_message(prompt)
-                except AttributeError:
-                    response = client.models.generate_content(
-                        model=model_name,
-                        contents=prompt,
-                    )
-                if response and response.text:
-                    logger.debug("✅ Modell %s hat erfolgreich geantwortet (%d Zeichen).", model_name, len(response.text))
-                    print(f"      -> Modell {model_name} erfolgreich: {len(response.text)} Zeichen generiert.", flush=True)
-                    cleaned_result = _clean_and_enhance_briefing(
-                        response.text,
-                        category_links,
-                        known_urls_map=known_urls_map,
-                    )
-                    return cleaned_result
-            except Exception as model_err:
-                logger.error("Modell %s temporär nicht erreichbar (%s). Versuche Alternative...", model_name, model_err)
-                print(f"      [Warnung] Modell {model_name} temporär nicht erreichbar ({model_err}). Versuche Alternative...", flush=True)
-                last_error = model_err
+def summarize_news_with_gemini(
+    categorized_news: dict[str, list[dict[str, Any]]],
+    api_key: str | None = None,
+    model: str | None = None,
+    config_path: str = "config/sources.yaml",
+    main_prompt_template: str | None = None,
+    custom_directives: str | None = None,
+    *,
+    system_instruction: str | None = None,
+    return_result: bool = False,
+) -> str | BriefingResult:
+    """
+    Fasst die gesammelten Nachrichten primär über `ai_brain` (`tier="auto"`) zusammen
+    und fällt bei Bedarf sauber auf Google Gemini (`GEMINI_API_KEY`) bzw. Standard-Markdown zurück.
 
-        logger.error("Alle KI-Modelle schlugen fehl: %s", last_error)
-        print(f"[Fehler] Alle KI-Modelle schlugen fehl: {last_error}")
-        return _generate_fallback_summary(categorized_news, category_links=category_links)
-    except Exception as exc:
-        logger.error("Initialisierungsfehler Gemini API: %s", exc)
-        print(f"[Fehler] Initialisierungsfehler Gemini API: {exc}")
-        return _generate_fallback_summary(categorized_news, category_links=category_links)
+    Mit `return_result=True` wird das strukturierte `BriefingResult` inklusive
+    genutztem Modellnamen und Tier zurückgegeben; Standard (`False`) bleibt abwärtskompatibel `str`.
+    """
+    result = generate_news_briefing(
+        categorized_news=categorized_news,
+        api_key=api_key,
+        model=model,
+        config_path=config_path,
+        main_prompt_template=main_prompt_template,
+        custom_directives=custom_directives,
+        system_instruction=system_instruction,
+    )
+    return result if return_result else result.markdown
+
 
 
 def _generate_fallback_summary(
