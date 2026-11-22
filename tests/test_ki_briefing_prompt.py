@@ -1,14 +1,12 @@
 import unittest
-from src.summarizer import (
-    _clean_and_enhance_briefing,
-    _generate_fallback_summary,
-    DEFAULT_MAIN_PROMPT_TEMPLATE,
-    DEFAULT_DIRECTIVES,
-    AVAILABLE_GEMINI_MODELS,
-    DEFAULT_GEMINI_MODEL,
-    get_candidate_models,
-)
+
 from src.notifier import markdown_to_html_email
+from src.summarizer import (
+    DEFAULT_DIRECTIVES,
+    DEFAULT_MAIN_PROMPT_TEMPLATE,
+    _build_briefing_prompt_and_urls,
+    _clean_and_enhance_briefing,
+)
 
 
 class TestKiBriefingPrompt(unittest.TestCase):
@@ -53,41 +51,39 @@ Treffen sich zwei Blondinen.
         self.assertIn("Treffen sich zwei Blondinen.", result)
         self.assertIn("Führerscheinprüfung", result)
 
-    def test_fallback_summary_contains_no_infobox_and_renders_jokes_fully(self):
+    def test_prompt_builder_marks_jokes_and_includes_quicklinks(self):
         news = {
             "Fun": [
                 {
                     "title": "Treffen sich zwei Blondinen",
                     "link": "http://hahaha.de/123",
-                    "summary": "Treffen sich zwei Blondinen.\n\"Ich hatte gestern Führerscheinprüfung.\"",
+                    "summary": 'Treffen sich zwei Blondinen.\n"Ich hatte gestern Führerscheinprüfung."',
                     "source": "Witz des Tages",
                 }
             ],
             "Berlin": [
                 {"title": f"Meldung {i}", "link": f"http://berlin.de/{i}", "summary": f"Text {i}"}
-                for i in range(1, 10)
-            ]
+                for i in range(1, 6)
+            ],
         }
-        res = _generate_fallback_summary(
-            news,
+        prompt, url_map = _build_briefing_prompt_and_urls(
+            categorized_news=news,
             category_links={
                 "Fun": "> 🔗 [Streamlit App](http://app/fun)",
                 "Berlin": "> 🔗 [Streamlit App](http://app/berlin)",
-            }
+            },
+            lang_name="Deutsch",
+            active_main_template=DEFAULT_MAIN_PROMPT_TEMPLATE,
+            active_directives=DEFAULT_DIRECTIVES,
         )
-        self.assertIn("## Berlin", res)
-        # Keine Zusammenfassungs-Infoboxen mehr
-        self.assertNotIn("> 💡 **Kompakt:**", res)
-        self.assertIn("Meldung 1", res)
-        self.assertIn("Meldung 5", res)
-        self.assertNotIn("Meldung 6", res)
+        self.assertIn("## Berlin", prompt)
+        self.assertIn("## Fun", prompt)
+        self.assertIn("SPEZIALFALL: WITZ / HUMOR", prompt)
+        self.assertIn("Treffen sich zwei Blondinen", prompt)
+        self.assertIn("Führerscheinprüfung", prompt)
+        self.assertEqual(url_map["http://hahaha.de/123"], "http://hahaha.de/123")
 
-        # Spezialfall Witz: vollständig als Text
-        self.assertIn("## Fun", res)
-        self.assertIn("Treffen sich zwei Blondinen", res)
-        self.assertIn("Führerscheinprüfung", res)
-
-    def test_liked_articles_prioritized_in_briefing(self):
+    def test_liked_articles_prioritized_in_briefing_prompt(self):
         # Meldung 9 ist geliked (feedback=1), Meldung 1 ist neutral, Meldung 2 ist disliked (feedback=-1)
         news = {
             "Berlin": [
@@ -96,14 +92,17 @@ Treffen sich zwei Blondinen.
                 {"title": "Meldung 9 Liked", "link": "http://berlin.de/9", "summary": "Text 9", "timestamp": 50.0, "feedback": 1},
             ]
         }
-        res = _generate_fallback_summary(news)
-        lines = [line for line in res.split("\n") if line.startswith("- **[")]
-        # Liked item must come FIRST even though its timestamp is older than Neutral
-        self.assertIn("Meldung 9 Liked", lines[0])
-        # Neutral comes second
-        self.assertIn("Meldung 1 Neutral", lines[1])
-        # Disliked comes last
-        self.assertIn("Meldung 2 Disliked", lines[2])
+        prompt, _ = _build_briefing_prompt_and_urls(
+            categorized_news=news,
+            category_links={},
+            lang_name="Deutsch",
+            active_main_template=DEFAULT_MAIN_PROMPT_TEMPLATE,
+            active_directives=DEFAULT_DIRECTIVES,
+        )
+        pos_liked = prompt.find("Meldung 9 Liked")
+        pos_neutral = prompt.find("Meldung 1 Neutral")
+        pos_disliked = prompt.find("Meldung 2 Disliked")
+        self.assertTrue(0 <= pos_liked < pos_neutral < pos_disliked)
 
     def test_email_rendering_with_quicklinks_and_multiline_joke(self):
         md = """## 🤖 Tech & AI
@@ -127,36 +126,9 @@ Treffen sich zwei Blondinen.
         self.assertIn("Treffen sich zwei Blondinen.", html)
         self.assertIn("Führerscheinprüfung.", html)
 
-    def test_gemini_models_and_fallback_order(self):
-        """Prüft die verfügbaren Modelle (mit gemini-3.5-flash-lite als Standard) und die Fallback-Kette."""
-        expected_models = [
-            "gemini-3.5-flash-lite",
-            "gemini-3.6-flash",
-            "gemini-3.5-flash",
-            "gemini-3.1-flash-lite",
-        ]
-        self.assertEqual(AVAILABLE_GEMINI_MODELS, expected_models)
-        self.assertEqual(DEFAULT_GEMINI_MODEL, "gemini-3.5-flash-lite")
-
-        # Standardauswahl ohne explizite Angabe
-        candidates = get_candidate_models()
-        self.assertEqual(candidates, expected_models)
-        self.assertEqual(candidates[0], "gemini-3.5-flash-lite")
-
-        # Auswahl mit bevorzugtem Modell
-        candidates_36 = get_candidate_models("gemini-3.6-flash")
-        self.assertEqual(candidates_36[0], "gemini-3.6-flash")
-        self.assertEqual(set(candidates_36), set(expected_models))
-        self.assertEqual(len(candidates_36), len(expected_models))
-
-        # Nicht verfügbares / veraltetes Modell fällt sauber auf DEFAULT_GEMINI_MODEL zurück
-        candidates_invalid = get_candidate_models("gemini-3.8-flash")
-        self.assertEqual(candidates_invalid[0], "gemini-3.5-flash-lite")
-        self.assertEqual(candidates_invalid, expected_models)
-
     def test_sources_yaml_and_canonical_prompt_match_strictly(self):
         """Prüft strikte 1:1 Übereinstimmung zwischen prompts.yaml/sources.yaml und kanonischem DEFAULT_MAIN_PROMPT_TEMPLATE / DIRECTIVES."""
-        from src.aggregator import load_sources, load_prompts
+        from src.aggregator import load_prompts, load_sources
 
         # 1. Teste direktes Laden über load_prompts
         prompts = load_prompts()
@@ -207,7 +179,7 @@ Treffen sich zwei Blondinen.
 
         # Fall 3: Vom Nutzer bewusst modifizierter Prompt -> Bleibt erhalten und wird nicht überschrieben
         custom_config = {"settings": {"custom_main_prompt": "Mein eigener benutzerdefinierter Redaktionsprompt"}}
-        changed_custom = reconcile_prompt_templates(custom_config)
+        reconcile_prompt_templates(custom_config)
         self.assertEqual(custom_config["settings"]["custom_main_prompt"], "Mein eigener benutzerdefinierter Redaktionsprompt")
 
 

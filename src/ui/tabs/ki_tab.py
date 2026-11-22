@@ -1,7 +1,7 @@
 """
 KI Briefing tab module for News Bot UI.
-Renders AI-curated daily briefings and provides AI-Brain options, generation triggers,
-and prompt configuration for administrators.
+Renders AI-curated daily briefings and provides AI-Brain options, prompt configuration,
+and a direct briefing generation trigger for administrators.
 """
 
 from __future__ import annotations
@@ -21,7 +21,6 @@ from src.aggregator import (
 from src.rss_generator import export_briefing_rss
 from src.storage import get_storage
 from src.summarizer import (
-    AVAILABLE_GEMINI_MODELS,
     DEFAULT_DIRECTIVES,
     DEFAULT_MAIN_PROMPT_TEMPLATE,
     is_ai_brain_configured,
@@ -77,10 +76,10 @@ def _render_ai_brain_options(is_admin: bool) -> bool:
             st.markdown("**Status:** 🟢 AI-Brain Online")
             policy, load_err = _get_cached_ai_brain_policy()
         else:
-            st.markdown("**Status:** ⚪ Fallback (lokaler API-Key)")
+            st.markdown("**Status:** ⚪ AI-Brain Offline")
             st.caption(
-                "`AI_BRAIN_KEY` nicht konfiguriert – aktives Routing nutzt den lokalen Gemini API-Key. "
-                "Mit `AI_BRAIN_KEY` werden Tiers & Budget automatisch zwischen UI und GitHub Actions synchronisiert."
+                "`AI_BRAIN_KEY` nicht konfiguriert – hinterlege das Secret in `.env` bzw. "
+                "Streamlit Secrets, um AI-Briefings sowie Tiers & Budget zu aktivieren."
             )
             policy = default_app_policy("news-bot")
             load_err = None
@@ -194,13 +193,13 @@ def render_ki_tab(
         except Exception as exc:  # noqa: BLE001 - Storage-Ausfall darf UI-Rendering nicht blockieren
             logger.debug("Failed to load latest briefing from storage: %s", exc)
 
-    # AI-Brain Optionen (Fast / Standard / Deep & Free / Paid)
+    # Expander 1: AI-Brain Optionen (Fast / Standard / Deep & Free / Paid)
     ai_brain_online = _render_ai_brain_options(is_admin=is_admin)
 
-    # Prompt Configuration (for Admin and read-only for others)
+    # Expander 2: Prompt Configuration (for Admin and read-only for others)
     try:
         prompts_cfg = load_prompts()
-    except Exception as exc:  # noqa: BLE001 - Fallback auf Standard-Prompts
+    except Exception as exc:  # noqa: BLE001 - Standard-Prompts bei fehlender prompts.yaml
         logger.debug("Failed to load prompts configuration: %s", exc)
         prompts_cfg = {}
 
@@ -215,10 +214,10 @@ def render_ki_tab(
         st.caption("Systemprompt und redaktionelle Richtlinien für das KI-Briefing anpassen.")
 
         ki_main_prompt = st.text_area(
-            "Haupt-Prompt für Gemini (Rolle, Struktur & Format):",
+            "Haupt-Prompt (Rolle, Struktur & Format):",
             value=current_main_prompt,
             key="input_ki_main_prompt",
-            help="Definiert die Rollen- und Strukturvorgaben für Gemini (Infobox, Top 5 Links). Die Platzhalter {lang_name}, {active_directives} und {context_data} werden automatisch eingesetzt.",
+            help="Definiert die Rollen- und Strukturvorgaben für das KI-Briefing (Top 5 Links). Die Platzhalter {lang_name}, {active_directives} und {context_data} werden automatisch eingesetzt.",
             height=200,
             disabled=not is_admin,
         )
@@ -271,99 +270,74 @@ def render_ki_tab(
                     set_dismissible_notice("ki_notice", "Standard-Prompt wiederhergestellt!", icon="✨")
                     st.rerun()
 
-    # Admin Generation Bar
+    # Direkt unterhalb der 2 Expander: Generieren-Button (nur Admin)
     if is_admin:
-        with st.expander("⚙️ Briefing-Generierung & Modellsteuerung", expanded=not bool(current_briefing)):
-            if ai_brain_online:
-                st.caption(
-                    "🟢 AI-Brain Online: Generierung nutzt automatisch die gespeicherte Policy (`tier=auto`). "
-                    "Das gewählte Gemini-Modell dient als Fallback."
-                )
+        is_generating = bool(st.session_state.get("is_generating_briefing", False))
+        btn_generate = st.button(
+            "✨ Neues Briefing generieren",
+            type="primary",
+            use_container_width=True,
+            key="btn_generate_briefing",
+            disabled=is_generating or not ai_brain_online,
+            help=None if ai_brain_online else "AI_BRAIN_KEY erforderlich, um ein Briefing über AI-Brain zu generieren.",
+        )
 
-            col_m1, col_m2 = st.columns([3, 2], vertical_alignment="bottom")
-            with col_m1:
-                default_model = "gemini-3.5-flash-lite"
-                default_idx = (
-                    AVAILABLE_GEMINI_MODELS.index(default_model)
-                    if default_model in AVAILABLE_GEMINI_MODELS
-                    else 0
-                )
-                model_label = "Fallback-Modell (Gemini):" if ai_brain_online else "LLM-Modell:"
-                selected_model = st.selectbox(
-                    model_label,
-                    options=AVAILABLE_GEMINI_MODELS,
-                    index=default_idx,
-                    key="sel_ki_model",
-                )
+        if btn_generate:
+            total_items = sum(len(v) for v in news_data.values())
+            if total_items == 0:
+                st.warning("Keine aktuellen Artikel für das Briefing vorhanden.")
+            else:
+                st.session_state["is_generating_briefing"] = True
+                with st.spinner("Generiere KI-Briefing über AI-Brain (tier=auto)..."):
+                    t_start = time.perf_counter()
+                    try:
+                        briefing_res = summarize_news_with_gemini(
+                            news_data,
+                            main_prompt_template=ki_main_prompt,
+                            custom_directives=ki_prompt_directives,
+                            return_result=True,
+                        )
+                        summary = briefing_res.markdown
+                        used_model_label = briefing_res.display_label
+                        duration = time.perf_counter() - t_start
+                        logger.info(
+                            "Generated AI briefing (%d chars in %.2fs) using %s.",
+                            len(summary),
+                            duration,
+                            used_model_label,
+                        )
 
-            with col_m2:
-                is_generating = bool(st.session_state.get("is_generating_briefing", False))
-                btn_generate = st.button(
-                    "✨ Neues Briefing generieren",
-                    type="primary",
-                    use_container_width=True,
-                    key="btn_generate_briefing",
-                    disabled=is_generating,
-                )
+                        # Save to session and storage
+                        st.session_state["cached_summary"] = summary
+                        st.session_state["cached_summary_model"] = used_model_label
+                        current_briefing = summary
+                        current_model_label = used_model_label
 
-            if btn_generate:
-                total_items = sum(len(v) for v in news_data.values())
-                if total_items == 0:
-                    st.warning("Keine aktuellen Artikel für das Briefing vorhanden.")
-                else:
-                    st.session_state["is_generating_briefing"] = True
-                    spinner_label = (
-                        "Generiere KI-Briefing über AI-Brain (tier=auto)..."
-                        if ai_brain_online
-                        else f"Generiere KI-Briefing mit {selected_model}..."
-                    )
-                    with st.spinner(spinner_label):
-                        t_start = time.perf_counter()
+                        storage = get_storage()
+                        briefing_date = time.strftime("%Y-%m-%d")
+                        storage.save_briefing(briefing_date, summary, used_model_label)
+
+                        # Update RSS
                         try:
-                            briefing_res = summarize_news_with_gemini(
-                                news_data,
-                                model=selected_model,
-                                main_prompt_template=ki_main_prompt,
-                                custom_directives=ki_prompt_directives,
-                                return_result=True,
-                            )
-                            summary = briefing_res.markdown
-                            used_model_label = briefing_res.display_label
-                            duration = time.perf_counter() - t_start
-                            logger.info(
-                                "Generated AI briefing (%d chars in %.2fs) using %s.",
-                                len(summary),
-                                duration,
-                                used_model_label,
-                            )
+                            export_briefing_rss(summary, news_data=news_data)
+                        except Exception as e_rss:  # noqa: BLE001 - RSS-Fehler darf Briefing nicht verwerfen
+                            logger.warning("Could not export briefing RSS: %s", e_rss)
 
-                            # Save to session and storage
-                            st.session_state["cached_summary"] = summary
-                            st.session_state["cached_summary_model"] = used_model_label
-                            current_briefing = summary
-                            current_model_label = used_model_label
-
-                            storage = get_storage()
-                            briefing_date = time.strftime("%Y-%m-%d")
-                            storage.save_briefing(briefing_date, summary, used_model_label)
-
-                            # Update RSS
-                            try:
-                                export_briefing_rss(summary, news_data=news_data)
-                            except Exception as e_rss:  # noqa: BLE001 - RSS-Fehler darf Briefing nicht verwerfen
-                                logger.warning("Could not export briefing RSS: %s", e_rss)
-
-                            st.session_state["is_generating_briefing"] = False
-                            set_dismissible_notice(
-                                "ki_notice",
-                                f"KI-Briefing erfolgreich generiert ({used_model_label})!",
-                                icon="✨",
-                            )
-                            st.rerun()
-                        except Exception as exc:  # noqa: BLE001 - UI-Fehleranzeige für unerwartete Ausnahmen
-                            st.session_state["is_generating_briefing"] = False
-                            logger.error("AI briefing generation failed: %s", exc)
-                            st.error(f"Fehler bei der Generierung: {exc}")
+                        st.session_state["is_generating_briefing"] = False
+                        set_dismissible_notice(
+                            "ki_notice",
+                            f"KI-Briefing erfolgreich generiert ({used_model_label})!",
+                            icon="✨",
+                        )
+                        st.rerun()
+                    except BrainError as exc:
+                        st.session_state["is_generating_briefing"] = False
+                        logger.error("AI-Brain briefing generation failed: %s", exc)
+                        st.error(f"AI-Brain Fehler bei der Generierung: {exc}")
+                    except Exception as exc:  # noqa: BLE001 - UI-Fehleranzeige für unerwartete Ausnahmen
+                        st.session_state["is_generating_briefing"] = False
+                        logger.error("AI briefing generation failed: %s", exc)
+                        st.error(f"Fehler bei der Generierung: {exc}")
 
     # Display briefing content
     if current_briefing:
@@ -371,4 +345,5 @@ def render_ki_tab(
         if current_model_label:
             st.caption(f"🤖 Generiert mit: **{current_model_label}**")
         st.markdown(current_briefing, unsafe_allow_html=True)
+
 

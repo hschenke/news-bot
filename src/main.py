@@ -1,5 +1,4 @@
 import logging
-import os
 import sys
 import time
 from pathlib import Path
@@ -16,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from src.aggregator import collect_all_news, save_pool_state
 from src.notifier import dispatch_digest
 from src.rss_generator import export_briefing_rss
-from src.summarizer import is_ai_brain_configured, summarize_news_with_gemini
+from src.summarizer import summarize_news_with_gemini
 
 logging.basicConfig(
     level=logging.ERROR,
@@ -44,13 +43,9 @@ def run_pipeline() -> None:
         Path("output").mkdir(parents=True, exist_ok=True)
         return
 
-    # 2. Schritt: KI-Zusammenfassung generieren
-    gemini_model = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
-    if is_ai_brain_configured():
-        print("\n[2/3] 🧠 Generiere kuratierte Zusammenfassung über AI-Brain (tier=auto)...", flush=True)
-    else:
-        print(f"\n[2/3] 🧠 Generiere kuratierte Zusammenfassung mit LLM (bevorzugt: {gemini_model})...", flush=True)
-    briefing_result = summarize_news_with_gemini(news, model=gemini_model, return_result=True)
+    # 2. Schritt: KI-Zusammenfassung über zentrales AI-Brain generieren
+    print("\n[2/3] 🧠 Generiere kuratierte Zusammenfassung über AI-Brain (tier=auto)...", flush=True)
+    briefing_result = summarize_news_with_gemini(news, return_result=True)
     summary = briefing_result.markdown
     used_model_label = briefing_result.display_label
     print(f"      -> Zusammenfassung erfolgreich generiert ({used_model_label}).", flush=True)

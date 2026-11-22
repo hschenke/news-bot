@@ -7,8 +7,6 @@ from __future__ import annotations
 import unittest
 from pathlib import Path
 
-from src.summarizer import AVAILABLE_GEMINI_MODELS
-
 
 class TestWebappFeedbackRestorations(unittest.TestCase):
     def setUp(self) -> None:
@@ -61,14 +59,21 @@ class TestWebappFeedbackRestorations(unittest.TestCase):
         self.assertIn("if displayed_count > 0:\n            st.caption(f\"Zeige **{displayed_count}** Artikel in **{categories_rendered}** Kategorien\")\n        else:", self.articles_tab_py)
 
     def test_ki_tab_models_prompts_and_state(self) -> None:
-        """KI tab must support Gemini 3.8-3.5 models with 3.5-flash-lite default, prompt editing, and disabled button."""
-        self.assertIn("gemini-3.5-flash-lite", AVAILABLE_GEMINI_MODELS)
-        self.assertIn("gemini-3.6-flash", AVAILABLE_GEMINI_MODELS)
-        self.assertIn("AVAILABLE_GEMINI_MODELS", self.ki_tab_py)
-        self.assertIn("default_model = \"gemini-3.5-flash-lite\"", self.ki_tab_py)
+        """KI tab must use AI-Brain exclusively, expose prompt editing and standalone generate button below expanders."""
+        self.assertIn("⚙️ AI-Brain Optionen", self.ki_tab_py)
+        self.assertIn("🛠️ KI-Prompt-Konfiguration", self.ki_tab_py)
+        self.assertIn("btn_generate_briefing", self.ki_tab_py)
+        self.assertNotIn("Briefing-Generierung & Modellsteuerung", self.ki_tab_py)
+        self.assertNotIn("AVAILABLE_GEMINI_MODELS", self.ki_tab_py)
+        self.assertNotIn("Fallback-Modell", self.ki_tab_py)
         self.assertIn("input_ki_main_prompt", self.ki_tab_py)
         self.assertIn("input_ki_prompt_directives", self.ki_tab_py)
         self.assertIn("disabled=is_generating", self.ki_tab_py)
+        # Generate button must appear after the 2 expanders
+        self.assertLess(
+            self.ki_tab_py.find("🛠️ KI-Prompt-Konfiguration"),
+            self.ki_tab_py.find("key=\"btn_generate_briefing\""),
+        )
         # Concise briefing message
         self.assertNotIn("Aktuell nichts neues generiert.", self.ki_tab_py)
 

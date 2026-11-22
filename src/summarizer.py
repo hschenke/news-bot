@@ -17,14 +17,27 @@ except ImportError:
 
 try:
     import ai_brain
-    from ai_brain import AppBrainPolicy, BrainError, BrainTier, default_app_policy
+    from ai_brain import (
+        AppBrainPolicy,
+        BrainAuthError,
+        BrainError,
+        BrainProviderError,
+        BrainTier,
+        default_app_policy,
+    )
 except ImportError:  # pragma: no cover - minimal CI environments without bot-dashboard
     ai_brain = None  # type: ignore[assignment]
     AppBrainPolicy = Any  # type: ignore[assignment,misc]
     BrainTier = Any  # type: ignore[assignment,misc]
 
     class BrainError(Exception):  # type: ignore[no-redef]
-        """Fallback exception when ai_brain package is unavailable."""
+        """Base exception when ai_brain package is unavailable."""
+
+    class BrainAuthError(BrainError):  # type: ignore[no-redef]
+        """Auth exception when ai_brain package is unavailable."""
+
+    class BrainProviderError(BrainError):  # type: ignore[no-redef]
+        """Provider exception when ai_brain package is unavailable."""
 
     def default_app_policy(app_name: str = "") -> Any:  # type: ignore[misc]
         return None
@@ -34,13 +47,6 @@ logger = logging.getLogger(__name__)
 if sys.stdout and hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-AVAILABLE_GEMINI_MODELS: list[str] = [
-    "gemini-3.5-flash-lite",
-    "gemini-3.6-flash",
-    "gemini-3.5-flash",
-    "gemini-3.1-flash-lite",
-]
-DEFAULT_GEMINI_MODEL: str = AVAILABLE_GEMINI_MODELS[0]
 DEFAULT_SYSTEM_INSTRUCTION: str = (
     "Du bist ein professioneller News-Kurator und Redakteur für ein Daily News Briefing. "
     "Erstelle faktenbasierte, kompakte Markdown-Briefings ohne Executive Summary, ohne Infoboxen "
@@ -50,23 +56,19 @@ DEFAULT_SYSTEM_INSTRUCTION: str = (
 
 @dataclass(frozen=True)
 class BriefingResult:
-    """Strukturiertes Ergebnis einer KI-Briefing-Generierung inkl. Modell- & Tier-Metadaten."""
+    """Strukturiertes Ergebnis einer KI-Briefing-Generierung über `ai_brain` inkl. Modell- & Tier-Metadaten."""
 
     markdown: str
     model_used: str
     tier_used: str = ""
-    backend: str = "fallback"  # "ai_brain" | "gemini_direct" | "fallback"
+    backend: str = "ai_brain"
 
     @property
     def display_label(self) -> str:
         """Formatiert eine kompakte Modell-/Tier-Anzeige für Logs, Datenbank und UI."""
-        if self.backend == "ai_brain":
-            tier_label = self.tier_used.capitalize() if self.tier_used else "Auto"
-            model_label = self.model_used or "AI-Brain"
-            return f"{model_label} · AI-Brain ({tier_label})"
-        if self.backend == "gemini_direct":
-            return f"{self.model_used or DEFAULT_GEMINI_MODEL} (Fallback)"
-        return "Standard-Fallback (ohne LLM)"
+        tier_label = self.tier_used.capitalize() if self.tier_used else "Auto"
+        model_label = self.model_used or "AI-Brain"
+        return f"{model_label} · AI-Brain ({tier_label})"
 
 
 _last_briefing_result: BriefingResult | None = None
@@ -86,9 +88,9 @@ def is_ai_brain_configured() -> bool:
 
 def load_ai_brain_policy() -> tuple[AppBrainPolicy, str | None]:
     """Lädt die gespeicherte `AppBrainPolicy` für News-Bot oder liefert Free-Only-Defaults."""
-    fallback_policy = default_app_policy("news-bot")
+    default_policy = default_app_policy("news-bot")
     if not is_ai_brain_configured():
-        return fallback_policy, None
+        return default_policy, None
     try:
         with ai_brain.connect() as brain:
             return brain.get_app_policy(), None
@@ -97,7 +99,7 @@ def load_ai_brain_policy() -> tuple[AppBrainPolicy, str | None]:
             "AI-Brain Policy konnte nicht geladen werden (%s). Nutze News-Bot Defaults.",
             exc,
         )
-        return fallback_policy, str(exc)
+        return default_policy, str(exc)
 
 
 def save_ai_brain_policy(
@@ -107,7 +109,7 @@ def save_ai_brain_policy(
 ) -> AppBrainPolicy:
     """Validiert und speichert die `AppBrainPolicy` zentral via `ai_brain` (maps_mode='off')."""
     if ai_brain is None or not ai_brain.is_configured():
-        raise BrainError("AI-Brain ist nicht konfiguriert (AI_BRAIN_KEY fehlt).")
+        raise BrainAuthError("AI-Brain ist nicht konfiguriert (AI_BRAIN_KEY fehlt).")
 
     resolved_llm = (
         llm_tier if isinstance(llm_tier, BrainTier) else BrainTier(str(llm_tier).strip().lower())
@@ -134,42 +136,6 @@ def save_ai_brain_policy(
         saved.maps_mode,
     )
     return saved
-
-
-
-def get_candidate_models(preferred_model: str | None = None) -> list[str]:
-    """
-    Ermittelt die geordnete Liste an verfügbaren KI-Modellkandidaten inklusive Fallback-Kette.
-    Das bevorzugte Modell (Standard: gemini-3.5-flash-lite) steht an erster Stelle,
-    gefolgt von den weiteren verfügbaren Modellen.
-    """
-    env_model = os.getenv("GEMINI_MODEL")
-    if preferred_model and preferred_model in AVAILABLE_GEMINI_MODELS:
-        selected = preferred_model
-    elif env_model and env_model in AVAILABLE_GEMINI_MODELS:
-        selected = env_model
-    else:
-        selected = DEFAULT_GEMINI_MODEL
-
-    candidates: list[str] = [selected]
-    for model_name in AVAILABLE_GEMINI_MODELS:
-        if model_name not in candidates:
-            candidates.append(model_name)
-    return [m for m in candidates if m]
-
-
-def get_configured_api_key() -> str:
-    """Ermittelt den Gemini API-Key aus Umgebungsvariablen oder Streamlit Secrets."""
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key and ("STREAMLIT_SERVER_PORT" in os.environ or "streamlit" in sys.modules):
-        try:
-            import streamlit as st
-
-            if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
-                api_key = str(st.secrets["GEMINI_API_KEY"])
-        except Exception as exc:  # noqa: BLE001 - Streamlit Secrets sind optional
-            logger.debug("Streamlit Secret GEMINI_API_KEY nicht lesbar: %s", type(exc).__name__)
-    return api_key or ""
 
 
 def get_streamlit_app_url(config_path: str = "config/settings.yaml") -> str:
@@ -530,14 +496,13 @@ def _build_briefing_prompt_and_urls(
 def _generate_via_ai_brain(
     prompt: str,
     system_instruction: str,
-) -> tuple[str, str, str] | None:
+) -> tuple[str, str, str]:
     """
-    Führt die Briefing-Synthese über das zentrale `ai_brain`-Framework (`tier="auto"`) aus.
-    Gibt bei Erfolg `(text, model_used, tier_used)` zurück, sonst `None` für den sicheren Fallback.
+    Führt die Briefing-Synthese ausschließlich über das zentrale `ai_brain`-Framework (`tier="auto"`) aus.
+    Gibt bei Erfolg `(text, model_used, tier_used)` zurück; wirft bei fehlendem Key oder Fehler `BrainError`.
     """
     if ai_brain is None or not ai_brain.is_configured():
-        logger.debug("AI-Brain nicht konfiguriert (kein AI_BRAIN_KEY). Verwende lokalen API-Key-Fallback.")
-        return None
+        raise BrainAuthError("AI-Brain ist nicht konfiguriert (AI_BRAIN_KEY fehlt).")
 
     try:
         with ai_brain.connect() as brain:
@@ -547,23 +512,13 @@ def _generate_via_ai_brain(
                 system_instruction=system_instruction,
                 allow_paid=None,
             )
-    except BrainError as exc:
-        logger.warning(
-            "AI-Brain Briefing-Aufruf fehlgeschlagen (%s). Falle auf lokale GEMINI_API_KEY-Logik zurück.",
-            exc,
-        )
-        return None
-    except (OSError, TimeoutError, RuntimeError) as exc:
-        logger.warning(
-            "Unerwarteter AI-Brain Verbindungsfehler (%s). Falle auf lokale GEMINI_API_KEY-Logik zurück.",
-            exc,
-        )
-        return None
+    except BrainError:
+        logger.exception("AI-Brain Briefing-Aufruf fehlgeschlagen.")
+        raise
 
     raw_text = (getattr(result, "text", "") or "").strip()
     if not raw_text:
-        logger.warning("AI-Brain lieferte eine leere Antwort. Falle auf lokale GEMINI_API_KEY-Logik zurück.")
-        return None
+        raise BrainProviderError("AI-Brain lieferte eine leere Antwort.")
 
     model_used = str(getattr(result, "model_used", "") or "ai_brain").strip()
     raw_tier = getattr(result, "tier", "")
@@ -577,64 +532,16 @@ def _generate_via_ai_brain(
     return raw_text, model_used, tier_used
 
 
-def _generate_via_direct_gemini(
-    prompt: str,
-    active_key: str,
-    candidate_models: list[str],
-) -> tuple[str, str] | None:
-    """Führt den bisherigen direkten Google-Gemini-Aufruf mit Fallback-Kette aus."""
-    try:
-        from google import genai
-
-        client = genai.Client(api_key=active_key)
-    except Exception as exc:  # noqa: BLE001 - externe SDK-Initialisierung darf Pipeline nie abbrechen
-        logger.error("Initialisierungsfehler Gemini API: %s", exc)
-        return None
-
-    last_error: Exception | None = None
-    for model_name in candidate_models:
-        try:
-            logger.info("Generiere Briefing über direkten Gemini-Fallback mit Modell: %s", model_name)
-            try:
-                chat = client.chats.create(model=model_name)
-                response = chat.send_message(prompt)
-            except AttributeError:
-                response = client.models.generate_content(
-                    model=model_name,
-                    contents=prompt,
-                )
-            if response and response.text:
-                logger.info(
-                    "Direktes Gemini-Modell %s erfolgreich (%d Zeichen).",
-                    model_name,
-                    len(response.text),
-                )
-                return response.text, model_name
-        except Exception as model_err:  # noqa: BLE001 - Einzelfehler isolieren für Modell-Fallback-Kette
-            logger.warning(
-                "Modell %s temporär nicht erreichbar (%s). Versuche Alternative...",
-                model_name,
-                model_err,
-            )
-            last_error = model_err
-
-    logger.error("Alle direkten Gemini-Modelle schlugen fehl: %s", last_error)
-    return None
-
-
 def generate_news_briefing(
     categorized_news: dict[str, list[dict[str, Any]]],
-    api_key: str | None = None,
-    model: str | None = None,
     config_path: str = "config/sources.yaml",
     main_prompt_template: str | None = None,
     custom_directives: str | None = None,
     system_instruction: str | None = None,
 ) -> BriefingResult:
     """
-    Erzeugt das kuratierte Daily News Briefing samt Metadaten (Modellname, Tier & Backend).
-    Bevorzugt das zentrale `ai_brain` (`tier="auto"`), fällt bei Fehler oder fehlendem
-    `AI_BRAIN_KEY` sauber geloggt auf `GEMINI_API_KEY` und zuletzt auf den Markdown-Fallback zurück.
+    Erzeugt das kuratierte Daily News Briefing ausschließlich über das zentrale `ai_brain` (`tier="auto"`)
+    und gibt ein strukturiertes `BriefingResult` inklusive Modellnamen und Tier zurück.
     """
     global _last_briefing_result
 
@@ -644,7 +551,7 @@ def generate_news_briefing(
         config = load_sources_raw(config_path)
         settings = load_settings()
         prompts = load_prompts()
-    except Exception as exc:  # noqa: BLE001 - fehlende YAML-Dateien dürfen Fallback nicht verhindern
+    except Exception as exc:  # noqa: BLE001 - fehlende YAML-Dateien nutzen Standard-Defaults
         logger.warning("Konfiguration konnte nicht geladen werden (%s). Verwende Defaults.", exc)
         config = {"categories": []}
         settings = {}
@@ -681,55 +588,21 @@ def generate_news_briefing(
         active_directives=active_directives,
     )
 
-    # 1. Primärpfad: Zentrales AI-Brain (tier="auto" nutzt gespeicherte News-Bot AppBrainPolicy)
-    brain_output = _generate_via_ai_brain(prompt, system_instruction=active_system_instruction)
-    if brain_output is not None:
-        raw_text, model_used, tier_used = brain_output
-        cleaned_result = _clean_and_enhance_briefing(
-            raw_text,
-            category_links,
-            known_urls_map=known_urls_map,
-        )
-        res = BriefingResult(
-            markdown=cleaned_result,
-            model_used=model_used,
-            tier_used=tier_used,
-            backend="ai_brain",
-        )
-        _last_briefing_result = res
-        return res
-
-    # 2. Fallback-Pfad: Direkter Google-Gemini-Aufruf über GEMINI_API_KEY
-    active_key = api_key or get_configured_api_key()
-    if not active_key or active_key.startswith("your_"):
-        logger.info("Kein gültiger AI_BRAIN_KEY oder GEMINI_API_KEY gefunden. Erzeuge Standard-Zusammenfassung.")
-        fallback_md = _generate_fallback_summary(categorized_news, category_links=category_links)
-        res = BriefingResult(markdown=fallback_md, model_used="fallback", tier_used="", backend="fallback")
-        _last_briefing_result = res
-        return res
-
-    preferred_model = model or os.getenv("GEMINI_MODEL") or settings.get("gemini_model")
-    candidate_models = get_candidate_models(preferred_model)
-    direct_output = _generate_via_direct_gemini(prompt, active_key, candidate_models)
-    if direct_output is not None:
-        raw_text, used_model = direct_output
-        cleaned_result = _clean_and_enhance_briefing(
-            raw_text,
-            category_links,
-            known_urls_map=known_urls_map,
-        )
-        res = BriefingResult(
-            markdown=cleaned_result,
-            model_used=used_model,
-            tier_used="",
-            backend="gemini_direct",
-        )
-        _last_briefing_result = res
-        return res
-
-    # 3. Letzter Ausfallsicherheits-Fallback ohne LLM
-    fallback_md = _generate_fallback_summary(categorized_news, category_links=category_links)
-    res = BriefingResult(markdown=fallback_md, model_used="fallback", tier_used="", backend="fallback")
+    raw_text, model_used, tier_used = _generate_via_ai_brain(
+        prompt,
+        system_instruction=active_system_instruction,
+    )
+    cleaned_result = _clean_and_enhance_briefing(
+        raw_text,
+        category_links,
+        known_urls_map=known_urls_map,
+    )
+    res = BriefingResult(
+        markdown=cleaned_result,
+        model_used=model_used,
+        tier_used=tier_used,
+        backend="ai_brain",
+    )
     _last_briefing_result = res
     return res
 
@@ -737,8 +610,6 @@ def generate_news_briefing(
 @overload
 def summarize_news_with_gemini(
     categorized_news: dict[str, list[dict[str, Any]]],
-    api_key: str | None = None,
-    model: str | None = None,
     config_path: str = "config/sources.yaml",
     main_prompt_template: str | None = None,
     custom_directives: str | None = None,
@@ -751,8 +622,6 @@ def summarize_news_with_gemini(
 @overload
 def summarize_news_with_gemini(
     categorized_news: dict[str, list[dict[str, Any]]],
-    api_key: str | None = None,
-    model: str | None = None,
     config_path: str = "config/sources.yaml",
     main_prompt_template: str | None = None,
     custom_directives: str | None = None,
@@ -764,8 +633,6 @@ def summarize_news_with_gemini(
 
 def summarize_news_with_gemini(
     categorized_news: dict[str, list[dict[str, Any]]],
-    api_key: str | None = None,
-    model: str | None = None,
     config_path: str = "config/sources.yaml",
     main_prompt_template: str | None = None,
     custom_directives: str | None = None,
@@ -774,16 +641,13 @@ def summarize_news_with_gemini(
     return_result: bool = False,
 ) -> str | BriefingResult:
     """
-    Fasst die gesammelten Nachrichten primär über `ai_brain` (`tier="auto"`) zusammen
-    und fällt bei Bedarf sauber auf Google Gemini (`GEMINI_API_KEY`) bzw. Standard-Markdown zurück.
+    Fasst die gesammelten Nachrichten ausschließlich über `ai_brain` (`tier="auto"`) zusammen.
 
     Mit `return_result=True` wird das strukturierte `BriefingResult` inklusive
-    genutztem Modellnamen und Tier zurückgegeben; Standard (`False`) bleibt abwärtskompatibel `str`.
+    genutztem Modellnamen und Tier zurückgegeben; Standard (`False`) gibt `str` zurück.
     """
     result = generate_news_briefing(
         categorized_news=categorized_news,
-        api_key=api_key,
-        model=model,
         config_path=config_path,
         main_prompt_template=main_prompt_template,
         custom_directives=custom_directives,
@@ -791,55 +655,3 @@ def summarize_news_with_gemini(
     )
     return result if return_result else result.markdown
 
-
-
-def _generate_fallback_summary(
-    categorized_news: dict[str, list[dict[str, Any]]],
-    category_links: dict[str, str] | None = None,
-    **kwargs: Any,
-) -> str:
-    """Einfacher Markdown-Report ohne LLM (Fallback)."""
-    lines = []
-    category_links = category_links or {}
-    for cat, items in sorted(categorized_news.items(), key=lambda x: x[0].strip().lower()):
-        if not items:
-            continue
-        lines.append(f"## {cat}")
-
-        def briefing_sort_key(it: dict[str, Any]) -> tuple[int, float]:
-            fb = int(it.get("feedback") or 0)
-            priority = 2 if fb > 0 else (0 if fb < 0 else 1)
-            ts = float(it.get("timestamp") or 0.0)
-            return (priority, ts)
-
-        sorted_items = sorted(items, key=briefing_sort_key, reverse=True)
-        top_items = sorted_items[:5]
-
-        # WICHTIG: Keine Zusammenfassungs-Infobox mehr! Quicklinks direkt unterm Header:
-        if cat in category_links:
-            lines.append(category_links[cat] + "\n")
-
-        is_humor_cat = any(term in cat.lower() for term in ["fun", "witz", "humor", "spass", "spaß"])
-        for item in top_items:
-            title = item.get("title", "Kein Titel")
-            link = item.get("link", "#")
-            summary = item.get("summary", "")
-            source = item.get("source", "")
-            source_url = item.get("source_url", "")
-            is_joke = (
-                is_humor_cat
-                or any(term in str(source).lower() for term in ["witz", "joke", "debeste", "lach", "cartoon"])
-                or any(term in str(source_url).lower() for term in ["witz", "joke", "debeste"])
-                or any(term in str(title).lower() for term in ["witz", "joke"])
-            )
-            if is_joke and summary:
-                # Spezialfall: Witz vollständig als Text darstellen!
-                lines.append(f"- **[{title}]({link})**:\n{summary}")
-            elif summary:
-                lines.append(f"- **[{title}]({link})**: {summary}")
-            elif source:
-                lines.append(f"- **[{title}]({link})** ({source})")
-            else:
-                lines.append(f"- **[{title}]({link})**")
-        lines.append("")
-    return "\n".join(lines).strip()

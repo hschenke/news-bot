@@ -7,7 +7,7 @@ import subprocess
 from functools import lru_cache
 from pathlib import Path
 
-__version__ = "v0.44.0"
+__version__ = "v0.45.0"
 
 
 @lru_cache(maxsize=1)

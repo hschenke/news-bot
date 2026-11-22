@@ -55,7 +55,7 @@ Ein autonomer, KI-gestützter News-Kurator, der Nachrichten aus deinen bevorzugt
 1. Repository zu GitHub pushen.
 2. In GitHub navigieren zu: **Settings > Secrets and variables > Actions**.
 3. Folgende Secrets anlegen:
-   - `GEMINI_API_KEY`: Dein Gemini API Key ([Google AI Studio](https://aistudio.google.com/))
+   - `AI_BRAIN_KEY`: Dein zentraler AI-Brain Flotten-Key aus dem Holli Dashboard Vault
    - `RESEND_API_KEY`: Dein Resend API Key ([resend.com](https://resend.com))
    - `EMAIL_TO`: Deine Empfänger-Adresse
    - `TURSO_URL`: *(Optional)* Deine Turso DB-URL (`libsql://...`) für Cloud-Persistenz
@@ -84,8 +84,7 @@ Ein autonomer, KI-gestützter News-Kurator, der Nachrichten aus deinen bevorzugt
 4. Klicke auf **Advanced settings** (oder nach Deployment unter App Settings > Secrets):
    Füge deine Secrets im TOML-Format ein:
    ```toml
-   GEMINI_API_KEY = "AIzaSy..."
-   GEMINI_MODEL = "gemini-3.5-flash-lite"
+   AI_BRAIN_KEY = "aib_..."
 
    # Optional: Passwortschutz gegen unbefugte Fremdnutzung
    APP_PASSWORD = "mein_geheimes_passwort"
@@ -196,7 +195,7 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 ```
-Trage deinen `GEMINI_API_KEY` ein.
+Trage deinen `AI_BRAIN_KEY` ein.
 
 ### 3. Starten
 

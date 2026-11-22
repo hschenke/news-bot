@@ -7,14 +7,12 @@ Tests für Pipeline- & Performance-Optimierungen:
 5. Vermeidung von ungewollter Streamlit-Initialisierung in reinen CLI-/Bot-Umgebungen.
 """
 
-import os
 import unittest
-from unittest.mock import patch, MagicMock
 from pathlib import Path
+from unittest.mock import MagicMock, patch
 
 from src.aggregator import collect_all_news
-from src.summarizer import get_candidate_models, AVAILABLE_GEMINI_MODELS
-from src.storage import DEFAULT_TIMEOUT_SECONDS, TursoStorage, StorageConnectionError
+from src.storage import DEFAULT_TIMEOUT_SECONDS, StorageConnectionError, TursoStorage
 
 
 class TestPipelinePerformance(unittest.TestCase):
@@ -32,9 +30,11 @@ class TestPipelinePerformance(unittest.TestCase):
         mock_post = MagicMock(side_effect=requests.exceptions.ReadTimeout("Read timed out"))
         storage._session.post = mock_post
 
-        with patch("time.sleep") as mock_sleep:
-            with self.assertRaises(StorageConnectionError) as ctx:
-                storage._execute_pipeline([("SELECT 1", [])])
+        with (
+            patch("time.sleep") as mock_sleep,
+            self.assertRaises(StorageConnectionError) as ctx,
+        ):
+            storage._execute_pipeline([("SELECT 1", [])])
 
         self.assertIn("HTTP-Verbindungsfehler zu Turso", str(ctx.exception))
         # 1 initialer Versuch + 2 Retries = 3 Versuche insgesamt
@@ -57,28 +57,19 @@ class TestPipelinePerformance(unittest.TestCase):
             {"title": "Test Title 1", "link": "https://example.com/1", "timestamp": time.time()}
         ]
 
-        with patch("src.aggregator.load_sources", return_value=fake_config):
-            with patch("src.aggregator.fetch_feed_items", return_value=fake_items):
-                with patch("src.storage.get_storage") as mock_get_storage:
-                    res = collect_all_news(export_rss=False, save_to_db=False)
-                    self.assertIn("TestCat", res)
-                    self.assertEqual(len(res["TestCat"]), 1)
-                    # mock_get_storage für save_articles darf nicht aufgerufen worden sein
-                    # (höchstens für get_archived_urls, aber save_articles nicht)
-                    if mock_get_storage.called:
-                        mock_storage_inst = mock_get_storage.return_value
-                        mock_storage_inst.save_articles.assert_not_called()
-
-    def test_gemini_candidate_models_prefers_configured_model(self):
-        """Prüft, dass get_candidate_models das bevorzugte Modell an Position 0 setzt."""
-        candidates = get_candidate_models("gemini-3.5-flash")
-        self.assertEqual(candidates[0], "gemini-3.5-flash")
-        self.assertIn("gemini-3.5-flash-lite", candidates)
-
-        # Prüfe Umgebungsvariable GEMINI_MODEL
-        with patch.dict(os.environ, {"GEMINI_MODEL": "gemini-3.5-flash"}):
-            env_candidates = get_candidate_models()
-            self.assertEqual(env_candidates[0], "gemini-3.5-flash")
+        with (
+            patch("src.aggregator.load_sources", return_value=fake_config),
+            patch("src.aggregator.fetch_feed_items", return_value=fake_items),
+            patch("src.storage.get_storage") as mock_get_storage,
+        ):
+            res = collect_all_news(export_rss=False, save_to_db=False)
+            self.assertIn("TestCat", res)
+            self.assertEqual(len(res["TestCat"]), 1)
+            # mock_get_storage für save_articles darf nicht aufgerufen worden sein
+            # (höchstens für get_archived_urls, aber save_articles nicht)
+            if mock_get_storage.called:
+                mock_storage_inst = mock_get_storage.return_value
+                mock_storage_inst.save_articles.assert_not_called()
 
     def test_streamlit_config_enable_cors_true(self):
         """Stellt sicher, dass in .streamlit/config.toml enableCORS = true gesetzt ist."""
@@ -87,14 +78,16 @@ class TestPipelinePerformance(unittest.TestCase):
         self.assertNotIn("enableCORS = false", config_text)
 
     def test_daily_digest_workflow_uses_requirements_bot_and_unbuffered(self):
-        """Stellt sicher, dass die GitHub Actions Pipeline requirements-bot.txt und PYTHONUNBUFFERED nutzt."""
+        """Stellt sicher, dass die GitHub Actions Pipeline requirements-bot.txt, AI_BRAIN_KEY und PYTHONUNBUFFERED nutzt."""
         workflow_path = Path(".github/workflows/daily_digest.yaml")
         if not workflow_path.exists():
             workflow_path = Path(".github/workflows/daily_digest.yml")
         workflow_text = workflow_path.read_text(encoding="utf-8")
         self.assertIn("requirements-bot.txt", workflow_text)
         self.assertIn("PYTHONUNBUFFERED: \"1\"", workflow_text)
-        self.assertIn("GEMINI_MODEL", workflow_text)
+        self.assertIn("AI_BRAIN_KEY", workflow_text)
+        self.assertNotIn("GEMINI_API_KEY", workflow_text)
+        self.assertNotIn("GEMINI_MODEL", workflow_text)
         self.assertIn("TURSO_TIMEOUT: \"30.0\"", workflow_text)
 
     def test_streamlit_logging_configured_in_entrypoints(self):

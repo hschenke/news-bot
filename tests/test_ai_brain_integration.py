@@ -1,15 +1,13 @@
 """
-Unit- & UI-Tests für die zentrale `ai_brain`-Integration (1-Secret Plug-&-Play,
-`tier="auto"` Routing, Gemini-Fallback und AI-Brain Optionen in `ki_tab.py`).
+Unit- & UI-Tests für die ausschließliche `ai_brain`-Anbindung (1-Secret Plug-&-Play,
+`tier="auto"` Routing, fail-closed Fehlerverhalten ohne Fallback und AI-Brain Optionen in `ki_tab.py`).
 """
 
 from __future__ import annotations
 
 import logging
-import sys
 import unittest
 from pathlib import Path
-from types import ModuleType
 from unittest.mock import MagicMock, patch
 
 from ai_brain import (
@@ -71,7 +69,7 @@ def _make_mock_brain(
 
 
 class TestAiBrainSummarizerIntegration(unittest.TestCase):
-    """Prüft `summarize_news_with_gemini` mit gemocktem `ai_brain` und Fallback-Kette."""
+    """Prüft `summarize_news_with_gemini` im reinen `ai_brain`-Betrieb ohne Fallback."""
 
     def test_summarize_uses_ai_brain_tier_auto_and_returns_model_metadata(self) -> None:
         mock_brain = _make_mock_brain(model_used="gemini-2.5-flash", tier=BrainTier.STANDARD)
@@ -79,7 +77,6 @@ class TestAiBrainSummarizerIntegration(unittest.TestCase):
         with (
             patch("src.summarizer.ai_brain.is_configured", return_value=True),
             patch("src.summarizer.ai_brain.connect", return_value=mock_brain) as mock_connect,
-            patch("src.summarizer.get_configured_api_key", return_value=""),
             self.assertLogs("src.summarizer", level=logging.INFO) as log_cm,
         ):
             summary_md = summarize_news_with_gemini(SAMPLE_NEWS)
@@ -111,7 +108,6 @@ class TestAiBrainSummarizerIntegration(unittest.TestCase):
         with (
             patch("src.summarizer.ai_brain.is_configured", return_value=True),
             patch("src.summarizer.ai_brain.connect", return_value=mock_brain),
-            patch("src.summarizer.get_configured_api_key", return_value=""),
         ):
             res = summarize_news_with_gemini(SAMPLE_NEWS, return_result=True)
 
@@ -122,81 +118,37 @@ class TestAiBrainSummarizerIntegration(unittest.TestCase):
         self.assertEqual(res.display_label, "llama-3.3-70b-versatile · AI-Brain (Deep)")
         self.assertIn("Neues Open-Source-LLM veröffentlicht", res.markdown)
 
-    def test_fallback_to_direct_gemini_on_brain_error(self) -> None:
+    def test_raises_brain_auth_error_when_not_configured(self) -> None:
+        with (
+            patch("src.summarizer.ai_brain.is_configured", return_value=False),
+            patch("src.summarizer.ai_brain.connect") as mock_connect,
+            self.assertRaises(BrainAuthError),
+        ):
+            summarize_news_with_gemini(SAMPLE_NEWS, return_result=True)
+
+        mock_connect.assert_not_called()
+
+    def test_propagates_brain_provider_error_without_fallback(self) -> None:
         mock_brain = _make_mock_brain()
         mock_brain.generate_text.side_effect = BrainProviderError("Alle Provider ausgelastet")
-
-        fake_response = MagicMock()
-        fake_response.text = (
-            "## 🤖 Tech & AI\n"
-            "- **[Neues Open-Source-LLM veröffentlicht](https://example.com/llm-release)**: "
-            "Direkter Gemini-Fallback erfolgreich."
-        )
-        fake_client = MagicMock()
-        fake_client.chats.create.return_value.send_message.return_value = fake_response
-
-        fake_genai = ModuleType("google.genai")
-        fake_genai.Client = MagicMock(return_value=fake_client)  # type: ignore[attr-defined]
-        fake_google = ModuleType("google")
-        fake_google.genai = fake_genai  # type: ignore[attr-defined]
 
         with (
             patch("src.summarizer.ai_brain.is_configured", return_value=True),
             patch("src.summarizer.ai_brain.connect", return_value=mock_brain),
-            patch.dict(sys.modules, {"google": fake_google, "google.genai": fake_genai}),
-            self.assertLogs("src.summarizer", level=logging.WARNING) as log_cm,
+            self.assertLogs("src.summarizer", level=logging.ERROR),
+            self.assertRaises(BrainProviderError),
         ):
-            res = summarize_news_with_gemini(
-                SAMPLE_NEWS,
-                api_key="test-local-gemini-key",
-                model="gemini-3.5-flash-lite",
-                return_result=True,
-            )
+            summarize_news_with_gemini(SAMPLE_NEWS, return_result=True)
 
-        self.assertEqual(res.backend, "gemini_direct")
-        self.assertEqual(res.model_used, "gemini-3.5-flash-lite")
-        self.assertEqual(res.display_label, "gemini-3.5-flash-lite (Fallback)")
-        self.assertIn("Direkter Gemini-Fallback erfolgreich", res.markdown)
-        self.assertTrue(any("AI-Brain Briefing-Aufruf fehlgeschlagen" in msg for msg in log_cm.output))
-
-    def test_fallback_to_markdown_when_brain_fails_and_no_gemini_key(self) -> None:
-        with (
-            patch("src.summarizer.ai_brain.is_configured", return_value=True),
-            patch("src.summarizer.ai_brain.connect", side_effect=BrainAuthError("Key gesperrt")),
-            patch("src.summarizer.get_configured_api_key", return_value=""),
-            self.assertLogs("src.summarizer", level=logging.WARNING) as log_cm,
-        ):
-            res = summarize_news_with_gemini(SAMPLE_NEWS, return_result=True)
-
-        self.assertEqual(res.backend, "fallback")
-        self.assertEqual(res.model_used, "fallback")
-        self.assertIn("Neues Open-Source-LLM veröffentlicht", res.markdown)
-        self.assertTrue(any("Key gesperrt" in msg for msg in log_cm.output))
-
-    def test_skips_ai_brain_when_not_configured(self) -> None:
-        with (
-            patch("src.summarizer.ai_brain.is_configured", return_value=False),
-            patch("src.summarizer.ai_brain.connect") as mock_connect,
-            patch("src.summarizer.get_configured_api_key", return_value=""),
-        ):
-            res = summarize_news_with_gemini(SAMPLE_NEWS, return_result=True)
-
-        mock_connect.assert_not_called()
-        self.assertEqual(res.backend, "fallback")
-
-    def test_empty_ai_brain_response_triggers_fallback(self) -> None:
+    def test_raises_brain_provider_error_on_empty_response(self) -> None:
         mock_brain = _make_mock_brain(text="   ")
 
         with (
             patch("src.summarizer.ai_brain.is_configured", return_value=True),
             patch("src.summarizer.ai_brain.connect", return_value=mock_brain),
-            patch("src.summarizer.get_configured_api_key", return_value=""),
-            self.assertLogs("src.summarizer", level=logging.WARNING) as log_cm,
+            self.assertRaises(BrainProviderError),
         ):
-            res = summarize_news_with_gemini(SAMPLE_NEWS, return_result=True)
-
-        self.assertEqual(res.backend, "fallback")
-        self.assertTrue(any("leere Antwort" in msg for msg in log_cm.output))
+            summarize_news_with_gemini(SAMPLE_NEWS, return_result=True)
 
 
 class TestAiBrainPolicyPersistence(unittest.TestCase):
@@ -280,7 +232,7 @@ class TestAiBrainPolicyPersistence(unittest.TestCase):
 
 
 class TestKiTabAiBrainOptionsUi(unittest.TestCase):
-    """Prüft die UI-Sektion '⚙️ AI-Brain Optionen' in `src/ui/tabs/ki_tab.py` via Streamlit AppTest."""
+    """Prüft '⚙️ AI-Brain Optionen' und den alleinstehenden Generieren-Button in `ki_tab.py`."""
 
     @staticmethod
     def _run_ki_tab_script() -> None:
@@ -291,7 +243,7 @@ class TestKiTabAiBrainOptionsUi(unittest.TestCase):
         is_admin = bool(st.session_state.get("_test_is_admin", True))
         render_ki_tab({"Tech & AI": []}, is_admin=is_admin)
 
-    def test_ki_tab_shows_fallback_badge_when_offline(self) -> None:
+    def test_ki_tab_shows_offline_badge_and_disables_generate_button(self) -> None:
         with patch("src.summarizer.ai_brain.is_configured", return_value=False):
             at = AppTest.from_function(self._run_ki_tab_script, default_timeout=20)
             at.session_state["_test_is_admin"] = True
@@ -300,9 +252,16 @@ class TestKiTabAiBrainOptionsUi(unittest.TestCase):
 
         self.assertFalse(at.exception, f"Unexpected UI exception: {at.exception}")
         md_texts = " ".join(m.value for m in at.markdown)
-        self.assertIn("Fallback (lokaler API-Key)", md_texts)
+        self.assertIn("⚪ AI-Brain Offline", md_texts)
+        self.assertNotIn("Fallback (lokaler API-Key)", md_texts)
         save_btns = [b for b in at.button if b.key == "btn_save_ai_brain_policy"]
         self.assertEqual(len(save_btns), 0)
+
+        # Standalone generate button exists below expanders, disabled when AI-Brain is offline
+        gen_btn = next(b for b in at.button if b.key == "btn_generate_briefing")
+        self.assertTrue(gen_btn.disabled)
+        # Only 2 expanders exist (AI-Brain Optionen & KI-Prompt-Konfiguration)
+        self.assertEqual(len(at.expander), 2)
 
     def test_ki_tab_online_admin_can_load_and_save_policy(self) -> None:
         initial_policy = AppBrainPolicy(
@@ -326,6 +285,10 @@ class TestKiTabAiBrainOptionsUi(unittest.TestCase):
             md_texts = " ".join(m.value for m in at.markdown)
             self.assertIn("🟢 AI-Brain Online", md_texts)
             mock_brain.get_app_policy.assert_called_once()
+            self.assertEqual(len(at.expander), 2)
+
+            gen_btn = next(b for b in at.button if b.key == "btn_generate_briefing")
+            self.assertFalse(gen_btn.disabled)
 
             llm_sel = next(s for s in at.selectbox if s.key == "sel_ai_brain_llm_tier")
             search_sel = next(s for s in at.selectbox if s.key == "sel_ai_brain_search_tier")
@@ -353,7 +316,7 @@ class TestKiTabAiBrainOptionsUi(unittest.TestCase):
         self.assertIn("Deep", str(at.session_state["ki_notice"]))
         self.assertIn("Paid", str(at.session_state["ki_notice"]))
 
-    def test_ki_tab_non_admin_cannot_edit_or_save_policy(self) -> None:
+    def test_ki_tab_non_admin_cannot_edit_save_or_generate(self) -> None:
         mock_brain = _make_mock_brain()
 
         with (
@@ -372,24 +335,40 @@ class TestKiTabAiBrainOptionsUi(unittest.TestCase):
         self.assertTrue(llm_sel.disabled)
         self.assertTrue(search_sel.disabled)
         self.assertTrue(paid_chk.disabled)
-        save_btns = [b for b in at.button if b.key == "btn_save_ai_brain_policy"]
-        self.assertEqual(len(save_btns), 0)
+        self.assertEqual(len([b for b in at.button if b.key == "btn_save_ai_brain_policy"]), 0)
+        self.assertEqual(len([b for b in at.button if b.key == "btn_generate_briefing"]), 0)
 
 
-class TestAiBrainDependenciesAndWorkflow(unittest.TestCase):
-    """Prüft Dependencies und GitHub Actions Workflow-Konfiguration für `ai_brain`."""
+class TestAiBrainOnlyArchitecture(unittest.TestCase):
+    """Prüft, dass keine Gemini-Fallback-Reste mehr in Code, Dependencies & Workflow existieren."""
 
     def setUp(self) -> None:
         self.root = Path(__file__).resolve().parent.parent
 
-    def test_requirements_files_include_bot_dashboard_main(self) -> None:
+    def test_summarizer_has_no_direct_gemini_or_fallback_code(self) -> None:
+        summarizer_src = (self.root / "src" / "summarizer.py").read_text(encoding="utf-8")
+        for forbidden in (
+            "google.genai",
+            "from google import",
+            "GEMINI_API_KEY",
+            "GEMINI_MODEL",
+            "AVAILABLE_GEMINI_MODELS",
+            "get_candidate_models",
+            "_generate_via_direct_gemini",
+            "_generate_fallback_summary",
+        ):
+            self.assertNotIn(forbidden, summarizer_src)
+
+    def test_requirements_files_use_bot_dashboard_without_direct_google_genai(self) -> None:
         expected = "bot-dashboard @ git+https://github.com/hschenke/bot-dashboard.git@main"
         req = (self.root / "requirements.txt").read_text(encoding="utf-8")
         req_bot = (self.root / "requirements-bot.txt").read_text(encoding="utf-8")
         self.assertIn(expected, req)
         self.assertIn(expected, req_bot)
+        self.assertNotIn("google-genai", req)
+        self.assertNotIn("google-genai", req_bot)
 
-    def test_daily_digest_workflow_upgrades_ai_brain_and_passes_secret(self) -> None:
+    def test_daily_digest_workflow_uses_ai_brain_only(self) -> None:
         workflow = (self.root / ".github" / "workflows" / "daily_digest.yaml").read_text(
             encoding="utf-8"
         )
@@ -398,6 +377,8 @@ class TestAiBrainDependenciesAndWorkflow(unittest.TestCase):
             workflow,
         )
         self.assertIn("AI_BRAIN_KEY: ${{ secrets.AI_BRAIN_KEY }}", workflow)
+        self.assertNotIn("GEMINI_API_KEY", workflow)
+        self.assertNotIn("GEMINI_MODEL", workflow)
 
 
 if __name__ == "__main__":
