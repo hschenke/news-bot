@@ -5,17 +5,17 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Claude knackt angeblich das größte offene Problem der Mathematik</title>
-      <link>https://www.all-ai.de/news/news26top/claude-mathematik-riemann-hypothese-loesung</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/claude-mathematik-riemann-hypothese-loesung</guid>
-      <pubDate>Fri, 20 Nov 2026 16:05:42 GMT</pubDate>
+      <title>Google Gemini Pro mit 50% Rabatt zum Black Friday</title>
+      <link>https://www.all-ai.de/news/news26top/google-gemini-pro-abo-bf</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-gemini-pro-abo-bf</guid>
+      <pubDate>Sat, 21 Nov 2026 14:45:01 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Levent Alpöge erklärt, er habe mit Claude einen Beweis der Riemann-Hypothese gefunden. Der veröffentlichte Lean-Beweis besteht aus 14 Archivteilen und soll auch die verallgemeinerte Riemann-Hypothese abdecken. Der Code und die mathematische Aussage müssen nun von Fachleuten geprüft werden. Eine offizielle Anerkennung durch das Clay Mathematics Institute wäre frühestens nach mehreren Jahren möglich. Levent Alpöge: Erklärung zur behaupteten Lösung der Riemann-Hypothese Scientific American: Anthropic mathematician claims to prove Riemann hypothesis Anthropic: Claude verbessert Ergebnis zur Riemannschen Zetafunktion Clay Mathematics Institute: Regeln für die Millennium-Preise Anthropic: Abschluss des Börsengangs Der Anthropic-Mathematiker Levent Alpöge sorgt mit einer Beweisbehauptung für Aufsehen. Er habe gemeinsam mit Claude die seit 1859 offene Riemann-Hypothese bewiesen und den gesamten Beweis in Lean formalisiert. Anzeige Alpöge veröffentlicht einen riesigen Lean-Beweis Die Riemann-Hypothese beschreibt vereinfacht, wo die wichtigen Nullstellen der Riemannschen Zetafunktion liegen. Diese Nullstellen hängen eng mit der Verteilung der Primzahlen zusammen. Eine Lösung zählt zu den ...]]></description>
+      <description><![CDATA[Google gewährt Bestandskunden bis zum 26. November 2026 einen Rabatt von 50% auf das Jahresabo von Google AI Pro, wodurch der Preis für zwölf Monate von 219,99€ auf 109,99€ (9,17€ monatlich) sinkt. Falls in der Google-One-Verwaltung fälschlicherweise nur 16% Ersparnis stehen, aktiviert ein Klick auf »Wechseln« dennoch den vollen Rabatt auf 109,99€. Das Paket umfasst Gemini 4 Neon und Carbon, 5 TB Speicher, YouTube Premium Lite, monatlich 10$ API-Guthaben sowie Zugriff auf Gemini 4 Carbon und Claude Opus 5.5 in der Desktop-App Antigravity. Vikas Kansal auf X Google One AI-Tarife Google startet vor dem Black Friday eine Rabattaktion für seine KI-Abos. Bestehende Abonnenten von Google One und den Google-KI-Tarifen erhalten das Jahresabo für Google AI Pro zum halben Preis. Anzeige Jahresabo für 9,17€ im Monat Für zwölf Monate kostet das Paket damit 109,99€ statt der regulären 219,99€, was umgerechnet nur 9,17€ pro Monat entspricht. Das Angebot für Bestandskunden gilt laut Google-Produktleiter Vikas Kansal noch bis zum 26. November 2026. In der Abo-Verwaltung von Google One taucht der reduzierte Preis allerdings nicht bei allen Nutzern sofort auf. Wer dort unter dem Punkt zum Ändern ...]]></description>
     </item>
   </channel>
 </rss>

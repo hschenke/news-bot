@@ -5,9 +5,63 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10: Das beste Smartphone im Test – Motorola überraschender Testsieger</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test-motorola-ueberraschender-testsieger/5qx1bd1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533467</guid>
+      <pubDate>Sat, 21 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Viel Power und Top-Kameras: Welches ist das beste Smartphone? Wir haben die Flaggschiffe getestet und küren den Sieger.]]></description>
+    </item>
+    <item>
+      <title>Internet Archive soll Gewerkschaft bekommen</title>
+      <link>https://www.heise.de/news/Internet-Archive-soll-Gewerkschaft-bekommen-11533592.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533592</guid>
+      <pubDate>Sat, 21 Nov 2026 17:22:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das Internet Archive ist eine der wichtigsten Adressen im Web und soll eine Gewerkschaftsvertretung bekommen. Grünes Licht der Geschäftsleitung fehlt noch.]]></description>
+    </item>
+    <item>
+      <title>Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot</title>
+      <link>https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533596</guid>
+      <pubDate>Sat, 21 Nov 2026 16:28:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Trotz viel Unterstützung für strenge Regeln haben Staaten wie Russland und die USA erneut einen klaren Fahrplan gegen autonome Waffensysteme in Genf blockiert.]]></description>
+    </item>
+    <item>
+      <title>Ecovacs Winbot W2S Pro Omni im Test: Akku-Fensterputzroboter mit Filz für Kanten</title>
+      <link>https://www.heise.de/bestenlisten/testbericht/ecovacs-winbot-w2s-pro-omni-im-test-akku-fensterputzroboter-mit-filz-fuer-kanten/dvyy2hy?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533540</guid>
+      <pubDate>Sat, 21 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Ecovacs Winbot W2S Pro Omni putzt Ränder mit vier Filz-Kantenreinigern. Für 499 Euro liefert er aber zu wenig Fortschritt und hinterlässt Schlieren.]]></description>
+    </item>
+    <item>
+      <title>Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen</title>
+      <link>https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533498</guid>
+      <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.]]></description>
+    </item>
+    <item>
+      <title>Medienbericht: Zentrale FBI-Datenbank angegriffen</title>
+      <link>https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533560</guid>
+      <pubDate>Sat, 21 Nov 2026 13:47:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Medienberichten zufolge haben Hacker die FBI-Datenbank NCIC angegriffen. Ein Ex-FBI-Ermittler fürchtet vor allem manipulierte Datensätze.]]></description>
+    </item>
     <item>
       <title>Start von „GTA 6“ schlägt sämtliche Entertainment-Rekorde</title>
       <link>https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -79,141 +133,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Jedes der sieben Bilder spielt bewusst mit Vorder- und Hintergrund und gewinnt durch verschiedene Ebenen an Tiefe und Spannung.]]></description>
-    </item>
-    <item>
-      <title>Monitore: Gut, aber günstig! | c’t uplink</title>
-      <link>https://www.heise.de/news/Monitore-Gut-aber-guenstig-c-t-uplink-11532345.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532345</guid>
-      <pubDate>Sat, 21 Nov 2026 05:30:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Im c’t uplink sprechen wir diesmal über den Stand der Technik bei preiswerten Monitoren.]]></description>
-    </item>
-    <item>
-      <title>Schall, Rotation oder beides? Die beste elektrische Zahnbürste im großen Test</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/schall-rotation-oder-beides-die-beste-elektrische-zahnbuerste-im-grossen-test/v70fyrr?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533168</guid>
-      <pubDate>Fri, 20 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Eine elektrische Zahnbürste putzt gründlicher als die Handzahnbürste. Wir zeigen die fünf besten aus unseren Tests, der Preistipp kostet nur 80 Euro.]]></description>
-    </item>
-    <item>
-      <title>Anthropics IPO: Gemischtes Fazit trotz Rekord-Börsengangs</title>
-      <link>https://www.heise.de/news/Anthropics-IPO-Gemischtes-Fazit-trotz-Rekord-Boersengangs-11528169.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11528169</guid>
-      <pubDate>Fri, 20 Nov 2026 18:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Börsengang von Anthropic war historisch, doch der Aktienkurs sank direkt nach Handelsbeginn. Analysten wagen kaum eine Prognose, wie es weiter geht.]]></description>
-    </item>
-    <item>
-      <title>D-You-Wallet: Warten auf Weihnachten</title>
-      <link>https://www.heise.de/news/D-You-Wallet-Warten-auf-Weihnachten-11533284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533284</guid>
-      <pubDate>Fri, 20 Nov 2026 17:42:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten.]]></description>
-    </item>
-    <item>
-      <title>Mozilla genervt: Warum es immer noch keinen richtigen Firefox für iOS gibt</title>
-      <link>https://www.heise.de/news/Mozilla-genervt-Warum-es-immer-noch-keinen-richtigen-Firefox-fuer-iOS-gibt-11533296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533296</guid>
-      <pubDate>Fri, 20 Nov 2026 17:42:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[In der EU muss Apple eigentlich Browser mit eigener Engine aufs iPhone lassen. Praktisch verhindern die Vorgaben des Konzerns das jedoch, kritisiert Mozilla.]]></description>
-    </item>
-    <item>
-      <title>Klasse AM: Bundesrat will Tempo 60 für Mopeds und Leichtfahrzeuge</title>
-      <link>https://www.heise.de/news/Klasse-AM-Bundesrat-will-Tempo-60-fuer-Mopeds-und-Leichtfahrzeuge-11533194.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533194</guid>
-      <pubDate>Fri, 20 Nov 2026 16:20:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die Länder verlangen eine Anpassung der EU-Regeln für Kleinkrafträder und Leichtkraftfahrzeuge mit Führerscheinklasse AM, um das Tempo-45-Limit zu lockern.]]></description>
-    </item>
-    <item>
-      <title>Neuer „Notfallwegweiser“ für Patienten in dringenden Fällen</title>
-      <link>https://www.heise.de/news/Neuer-Notfallwegweiser-fuer-Patienten-in-dringenden-Faellen-11532992.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532992</guid>
-      <pubDate>Fri, 20 Nov 2026 15:21:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Bei abendlichen Beschwerden gehen viele direkt ins Krankenhaus und warten stundenlang. Nun sollen effizientere Abläufe die Rettungsstellen entlasten.]]></description>
-    </item>
-    <item>
-      <title>WhatsApp erhöht Gruppenlimit offenbar auf 1500 Teilnehmer</title>
-      <link>https://www.heise.de/news/WhatsApp-erhoeht-Gruppenlimit-offenbar-auf-1500-Teilnehmer-11533142.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533142</guid>
-      <pubDate>Fri, 20 Nov 2026 15:11:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[WhatsApp erhöht offenbar die maximale Zahl von Teilnehmern in Gruppenchats von 1024 auf 1500, berichtet WABetaInfo.]]></description>
-    </item>
-    <item>
-      <title>Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/sonoff-core-im-test-guenstiges-thermostat-fuer-fussbodenheizungen-ohne-cloud-zwang/22dck5w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533164</guid>
-      <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.]]></description>
-    </item>
-    <item>
-      <title>Das bessere Steam Deck? | c't 3003</title>
-      <link>https://www.heise.de/news/SteamDeck-fuer-die-Hosentasche-DroidDeck-bringt-Steam-auf-Android-11532341.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532341</guid>
-      <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Gaming-PC für unter 300 Euro? DroidDeck und Retroid Pocket Nova im c't-3003-Test.]]></description>
-    </item>
-    <item>
-      <title>Selbsttest im Blindflug: Wie GIMP seine GUI bändigen will</title>
-      <link>https://www.heise.de/news/GIMP-fuehrt-automatisierte-GUI-Tests-ein-11533074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533074</guid>
-      <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die GIMP-Entwickler testen die Bedienoberfläche nun automatisiert auf CI-Servern per Headless-Desktop und Screenreader-Schnittstelle.]]></description>
-    </item>
-    <item>
-      <title>Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren</title>
-      <link>https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533016</guid>
-      <pubDate>Fri, 20 Nov 2026 14:50:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.]]></description>
-    </item>
-    <item>
-      <title>GitLab 19.6 führt Audit-Log für KI-Agenten ein, NGINX bleibt verwundbar</title>
-      <link>https://www.heise.de/news/GitLab-19-6-fuehrt-Audit-Log-fuer-KI-Agenten-ein-NGINX-bleibt-verwundbar-11532950.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532950</guid>
-      <pubDate>Fri, 20 Nov 2026 14:39:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Agenten-Aktionen über den MCP-Server landen jetzt im Audit-Log. Patch 19.6.1 schließt Ruby2Shell, das mitgelieferte NGINX bleibt für nginx2root anfällig.]]></description>
-    </item>
-    <item>
-      <title>KI-Update Deep-Dive: Smart Glasses als Alltagshilfe</title>
-      <link>https://www.heise.de/news/KI-Update-Deep-Dive-Smart-Glasses-als-Alltagshilfe-11530663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11530663</guid>
-      <pubDate>Fri, 20 Nov 2026 14:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Für blinde Menschen sind KI-Brillen eine Alltagshilfe. Doch die Technologie steht wegen Datenschutzbedenken in der Kritik. Das verunsichert Betroffene.]]></description>
-    </item>
-    <item>
-      <title>LKA Niedersachsen setzt verdeckte Ermittler als Scheinkinder gegen Groomer ein</title>
-      <link>https://www.heise.de/news/LKA-Niedersachsen-setzt-verdeckte-Ermittler-als-Scheinkinder-gegen-Groomer-ein-11532577.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532577</guid>
-      <pubDate>Fri, 20 Nov 2026 13:49:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das LKA Niedersachsen lässt Ermittler im Netz als Kinder auftreten, um Cybergrooming-Täter frühzeitig zu identifizieren.]]></description>
     </item>
   </channel>
 </rss>

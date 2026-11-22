@@ -5,17 +5,17 @@
     <link>https://news-bot.streamlit.app/?category=Fun&amp;feed=Witz+des+Tages</link>
     <description>RSS-Feed für die Quelle 'Witz des Tages' (Kategorie: Fun).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fun-witz-des-tages.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Helmut Kohl will in die Oper. Da er sich</title>
-      <link>https://www.hahaha.de/witze/politik-gesellschaft/politiker/7013/helmut-kohl-will-in-die-oper-da-er-sich.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/politik-gesellschaft/politiker/7013/helmut-kohl-will-in-die-oper-da-er-sich.html</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Die Stasi verhört einen Kirchgänger: "Gibst</title>
+      <link>https://www.hahaha.de/witze/laender/ddr/9299/die-stasi-verhoert-einen-kirchgaenger-gibst.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/laender/ddr/9299/die-stasi-verhoert-einen-kirchgaenger-gibst.html</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
       <category>Fun</category>
       <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[Helmut Kohl will in die Oper. Da er sich nicht sicher ist, wie der Kartenverkauf abläuft, fragt er seinen Vordermann. Der sagt ihm, er solle nur alles so machen wie er, dann wird es schon klappen. Der geht zur Kasse und sagt: "Einmal Karten für Tristan und Isolde!" Helmut: "Und ich hätte gern Karten für Helmut und Hannelore!"]]></description>
+      <description><![CDATA[Die Stasi verhört einen Kirchgänger: "Gibst du zu, dass du gerade in der Kirche warst?" - "Ja." - "Gibst du auch zu, dass du die Füße von Jesus Christus am Kreuz geküsst hast?" - "Ja." - "Würdest du auch die Füße unseres Genossen Erich Honecker küssen?" - "Sicher, wenn er dort hängen würde!"]]></description>
     </item>
   </channel>
 </rss>

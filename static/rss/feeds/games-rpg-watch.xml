@@ -5,7 +5,7 @@
     <link>https://news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:01:05 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -15,7 +15,7 @@
       <pubDate>Sat, 21 Nov 2026 11:10:57 GMT</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[AetherCycle has been released into Early Access: AetherCycle - Official Early Access Launch Trailer AetherCycle is a first-person action RPG featuring fast-paced combat, character leveling, abilities, and loot-driven gear progression. Explore a vast world, conquer dungeons, and grow stronger solo or in co-op as the Cycle affects the world....]]></description>
+      <description><![CDATA[AetherCycle will be released into Early Access on December 4: AetherCycle - Official Early Access Launch Trailer AetherCycle is a first-person action RPG featuring fast-paced combat, character leveling, abilities, and loot-driven gear progression....]]></description>
     </item>
     <item>
       <title>Grand Theft Auto VI - $3.79 Billion in Day One Retail Sales</title>
@@ -33,7 +33,7 @@
       <pubDate>Sat, 21 Nov 2026 10:56:46 GMT</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Kordanor spotted a crowdfunding project for a dungeon crawler called Brany Skeldalu 4. A successor for the Czech dungeon crawler Gates of Seldal: Brány Skeldalu 4 | Kampaň na Startovači The creator Jindřich is running a crowdfunding campaign on the czech platform startovac....]]></description>
+      <description><![CDATA[Kordanor spotted a crowdfunding project for a dungeon crawler called Brany Skeldalu 4. A successor for the Czech dungeon crawler Gates of Skeldal: Brány Skeldalu 4 | Kampaň na Startovači The creator Jindřich is running a crowdfunding campaign on the czech platform startovac....]]></description>
     </item>
     <item>
       <title>Rise of Furax - Announced for April 2027</title>
@@ -43,15 +43,6 @@
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
       <description><![CDATA[Rap2h, who released the Might and Magic inspired Heroes of the Seven Islands announced that he is going to also make a real Grid Based Dungeon Crawler called Rise of Furax: Rise of Furax A dungeon crawler RPG set in the Heroes of the Seven Islands universe, where every element, from sprites to textures, was hand-drawn on paper....]]></description>
-    </item>
-    <item>
-      <title>Zenless Zone Zero - Version 3.4 Special Program</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60610</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60610</guid>
-      <pubDate>Fri, 20 Nov 2026 15:29:06 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Alrik spotted a new special program for Zenless Zone Zero: Zenless Zone Zero Version 3.4 "The Finality of the Day" Special Program New Code:SUNCHASER]]></description>
     </item>
   </channel>
 </rss>
