@@ -580,7 +580,7 @@ def render_archive_tab(
                                         else:
                                             st.caption("Kein Textinhalt gespeichert.")
 
-                                    col_act_dl, col_act_del = st.columns([4.2, 0.8], vertical_alignment="center")
+                                    col_act_dl, col_act_del = st.columns([4.2, 0.8], vertical_alignment="center", wrap=False)
                                     with col_act_dl:
                                         st.download_button(
                                             label="⬇️ Download",

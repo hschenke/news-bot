@@ -168,7 +168,7 @@ class TestWebappMobileFeatures(unittest.TestCase):
         self.assertIn('border-radius: 50% !important;', styles_code)
 
     def test_card_overflow_protection_css(self):
-        """Prüft, dass Cards und Texte nicht über den Containerrand hinausragen."""
+        """Prüft, dass Cards und Action-Bars (Daumen + Gelesen-Haken) auf Mobile & Desktop ohne Scrollen passen."""
         from pathlib import Path
         styles_code = Path("src/ui/styles.py").read_text(encoding="utf-8")
 
@@ -177,12 +177,17 @@ class TestWebappMobileFeatures(unittest.TestCase):
         self.assertIn('overflow-wrap: anywhere !important;', styles_code)
         self.assertIn('word-break: break-word !important;', styles_code)
 
-        # Mobile Spaltenstacking für Cards
+        # Mobile Spaltenstacking für Cards (sowohl Legacy als auch moderne Streamlit DOM-Struktur)
         self.assertIn('[data-testid="stExpander"] [data-testid="stColumn"]:has([data-testid="stVerticalBlockBorderWrapper"])', styles_code)
+        self.assertIn('[data-testid="stExpander"] [data-testid="stColumn"]:has([data-testid="stHorizontalBlock"])', styles_code)
         self.assertIn('min-width: 100% !important;', styles_code)
 
-        # Spezifische Eingrenzung der Feedback-/Read-Zeile auf den Card-Container
+        # Spezifische Eingrenzung der Feedback-/Read-Zeile auf den Card-Container ohne horizontales Scrollen
         self.assertIn('[data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"]', styles_code)
+        self.assertIn('[data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"]))', styles_code)
+        self.assertIn('[data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"])', styles_code)
+        self.assertIn('overflow-x: hidden !important;', styles_code)
+        self.assertIn('max-width: calc(100% - 2.5rem) !important;', styles_code)
 
     def test_expander_retention_on_read(self):
         """Prüft, dass gelesene Artikel die Kategorie und den Feed offen halten."""

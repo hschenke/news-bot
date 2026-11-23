@@ -442,8 +442,11 @@ def apply_custom_styles() -> None:
         transition: transform 0.1s ease, box-shadow 0.1s ease !important;
     }
 
-    /* Action bar inside article cards */
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] {
+    /* Action bar inside article cards (Desktop & Mobile universal fit) */
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])),
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])),
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) {
         display: flex !important;
         flex-direction: row !important;
         flex-wrap: nowrap !important;
@@ -451,60 +454,114 @@ def apply_custom_styles() -> None:
         justify-content: space-between !important;
         width: 100% !important;
         max-width: 100% !important;
+        min-width: 0 !important;
+        gap: 0.35rem !important;
+        overflow: visible !important;
+        overflow-x: hidden !important;
         box-sizing: border-box !important;
         margin-top: 0.4rem !important;
     }
 
-    /* Links: Bewertungs-Daumen */
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child,
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:first-child {
-        display: flex !important;
-        flex-direction: row !important;
-        align-items: center !important;
-        justify-content: flex-start !important;
-        flex: 1 1 auto !important;
+    /* Alle Spalten in der Card-Action-Bar: Streamlit 8rem / 100% min-width zuverlässig aufheben */
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"],
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"] {
+        min-width: 0 !important;
         width: auto !important;
-    }
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child [data-testid="stVerticalBlock"],
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:first-child [data-testid="stVerticalBlock"] {
-        display: flex !important;
-        flex-direction: row !important;
-        align-items: center !important;
-        justify-content: flex-start !important;
-        width: 100% !important;
-        gap: 0 !important;
+        max-width: none !important;
+        box-sizing: border-box !important;
     }
 
-    /* Rechts: Gelesen-Button bündig am rechten Rand */
+    /* Links: Bewertungs-Daumen / Download-Aktion */
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child,
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:first-child,
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:first-child,
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:first-child,
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:first-child,
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"]:first-child {
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        flex: 0 1 auto !important;
+        width: auto !important;
+        min-width: 0 !important;
+        max-width: calc(100% - 2.5rem) !important;
+    }
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child [data-testid="stVerticalBlock"],
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:first-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:first-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:first-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:first-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"]:first-child [data-testid="stVerticalBlock"] {
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        width: auto !important;
+        min-width: 0 !important;
+        gap: 0 !important;
+    }
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:first-child [data-testid="stElementContainer"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:first-child [data-testid="stElementContainer"],
+    div[class*="st-key-fb_"] {
+        width: auto !important;
+        min-width: 0 !important;
+        max-width: 100% !important;
+    }
+
+    /* Rechts: Gelesen-Button / Löschen-Icon immer sichtbar & bündig am rechten Rand */
     [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child,
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child {
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child,
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:last-child,
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:last-child,
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:last-child,
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"]:last-child {
         display: flex !important;
         flex-direction: row !important;
         align-items: center !important;
         justify-content: flex-end !important;
-        flex: 1 1 auto !important;
+        flex: 0 0 auto !important;
         width: auto !important;
+        min-width: 0 !important;
+        max-width: none !important;
         margin-left: auto !important;
     }
     [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child [data-testid="stVerticalBlock"],
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child [data-testid="stVerticalBlock"] {
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:last-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:last-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:last-child [data-testid="stVerticalBlock"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"]:last-child [data-testid="stVerticalBlock"] {
         display: flex !important;
         flex-direction: row !important;
         align-items: center !important;
         justify-content: flex-end !important;
-        width: 100% !important;
+        width: auto !important;
+        min-width: 0 !important;
         gap: 0 !important;
     }
     [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child .stButton,
     [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child .stButton,
     [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child div[class*="st-key-read_"],
-    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child div[class*="st-key-read_"] {
+    [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child div[class*="st-key-read_"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:last-child .stButton,
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:last-child .stButton,
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:last-child div[class*="st-key-read_"],
+    [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:last-child div[class*="st-key-read_"],
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:last-child .stButton,
+    [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:last-child div[class*="st-key-read_"] {
         display: inline-flex !important;
         justify-content: flex-end !important;
         align-items: center !important;
         margin-left: auto !important;
         margin-right: 0 !important;
         width: auto !important;
+        min-width: 0 !important;
+        flex: 0 0 auto !important;
     }
 
     /* Badges */
@@ -790,9 +847,20 @@ def apply_custom_styles() -> None:
             flex: 0 0 2.5rem !important;
         }
 
-        /* Card-Columns innerhalb von Expandern auf Mobile auf 100% Breite stacken */
+        /* Kompaktere Seiten- & Expander-Abstände auf Smartphones für maximale Card-Breite */
+        .block-container {
+            padding-left: 0.75rem !important;
+            padding-right: 0.75rem !important;
+        }
+        [data-testid="stExpander"] [data-testid="stExpanderDetails"] {
+            padding: 0.5rem 0.6rem !important;
+        }
+
+        /* Äußere Card-Columns innerhalb von Expandern auf Mobile auf 100% Breite stacken (ohne innere Action-Bar-Columns zu beeinflussen) */
         [data-testid="stExpander"] [data-testid="stColumn"]:has([data-testid="stVerticalBlockBorderWrapper"]),
-        [data-testid="stExpander"] [data-testid="column"]:has([data-testid="stVerticalBlockBorderWrapper"]) {
+        [data-testid="stExpander"] [data-testid="column"]:has([data-testid="stVerticalBlockBorderWrapper"]),
+        [data-testid="stExpander"] [data-testid="stColumn"]:has([data-testid="stHorizontalBlock"]),
+        [data-testid="stExpander"] [data-testid="column"]:has([data-testid="stHorizontalBlock"]) {
             min-width: 100% !important;
             width: 100% !important;
             flex: 1 1 100% !important;
@@ -800,18 +868,30 @@ def apply_custom_styles() -> None:
             box-sizing: border-box !important;
         }
 
-        /* Feedback-Daumen & Gelesen-Symbol innerhalb der Card AUF MOBILE IMMER in 1 Zeile bündig halten */
-        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] {
+        /* Feedback-Daumen & Gelesen-Symbol innerhalb der Card AUF MOBILE IMMER in 1 Zeile ohne Scrollen bündig halten */
+        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"],
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])),
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])),
+        [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) {
             display: flex !important;
             flex-direction: row !important;
             flex-wrap: nowrap !important;
             align-items: center !important;
             justify-content: space-between !important;
             width: 100% !important;
-            gap: 0.4rem !important;
+            max-width: 100% !important;
+            min-width: 0 !important;
+            gap: 0.35rem !important;
+            overflow: visible !important;
+            overflow-x: hidden !important;
+            box-sizing: border-box !important;
         }
         [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"],
-        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"] {
+        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"],
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"],
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"],
+        [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"],
+        [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"] {
             display: flex !important;
             flex-direction: row !important;
             align-items: center !important;
@@ -819,15 +899,28 @@ def apply_custom_styles() -> None:
             max-width: none !important;
             width: auto !important;
             flex: 0 0 auto !important;
+            box-sizing: border-box !important;
         }
         [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child,
-        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:first-child {
+        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:first-child,
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:first-child,
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:first-child,
+        [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:first-child,
+        [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"]:first-child {
             justify-content: flex-start !important;
-            flex: 1 1 auto !important;
+            flex: 0 1 auto !important;
+            min-width: 0 !important;
+            max-width: calc(100% - 2.5rem) !important;
         }
         [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child,
-        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child {
+        [data-testid="stVerticalBlockBorderWrapper"] [data-testid="stHorizontalBlock"] > [data-testid="column"]:last-child,
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="stColumn"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="stColumn"]:last-child,
+        [data-testid="stHorizontalBlock"]:has(> [data-testid="column"] div[class*="st-key-read_"]):not(:has([data-testid="stHorizontalBlock"])) > [data-testid="column"]:last-child,
+        [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="stColumn"]:last-child,
+        [data-testid="stHorizontalBlock"][data-test-wrap="false"]:has(div[class*="st-key-read_"]) > [data-testid="column"]:last-child {
             justify-content: flex-end !important;
+            flex: 0 0 auto !important;
+            min-width: 0 !important;
             margin-left: auto !important;
         }
     }
