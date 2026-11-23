@@ -5,9 +5,18 @@
     <link>https://holli-news-bot.streamlit.app/?category=Fu%C3%9Fball&amp;feed=Transfermarkt</link>
     <description>RSS-Feed für die Quelle 'Transfermarkt' (Kategorie: Fußball).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:10:50 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fussball-transfermarkt.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sparta Prag trennt sich von Ex-BVB-Profi Tomas Rosicky</title>
+      <link>https://www.transfermarkt.de/sparta-prag-trennt-sich-von-sportdirektor-rosicky-auch-trainer-priske-muss-gehen/view/news/491109</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/sparta-prag-trennt-sich-von-sportdirektor-rosicky-auch-trainer-priske-muss-gehen/view/news/491109</guid>
+      <pubDate>Mon, 23 Nov 2026 15:29:54 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Ex-BVB-Profi Tomas Rosicky muss seinen Posten als Sportdirektor bei Sparta Prag räumen. Dies sei eine einvernehmliche Entscheidung nach gemeinsamen Gesprächen, teilte der tschechische...]]></description>
+    </item>
     <item>
       <title>Schalke: Finn Porath vor Wechsel zum VfL Osnabrück</title>
       <link>https://www.transfermarkt.de/-sky-quot-porath-zieht-es-zum-vfl-osnabruck-hatte-meiste-zweitliga-erfahrung-im-kader/view/news/491106</link>
@@ -88,15 +97,6 @@
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
       <description><![CDATA[Sportlich zählt Hasan Kuruçay beim FC Schalke 04 zu den absoluten Leistungsträgern, seine Zukunft bei den Königsblauen ist dennoch weiterhin ungeklärt. Der Vertrag des 29...]]></description>
-    </item>
-    <item>
-      <title>Nicolas Pépé: Villarreal dementiert Gerücht um Augen-OP</title>
-      <link>https://www.transfermarkt.de/wirbel-um-pepe-op-bei-villarreal-sagt-doch-ich-ware-zum-mond-geflogen-das-ware-besser-quot-/view/news/491064</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/wirbel-um-pepe-op-bei-villarreal-sagt-doch-ich-ware-zum-mond-geflogen-das-ware-besser-quot-/view/news/491064</guid>
-      <pubDate>Mon, 23 Nov 2026 08:27:40 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Ein kurioses Gerücht um Nicolas Pépé hat in Spanien für Aufsehen gesorgt und seinen Verein Villarreal zu einer offiziellen Stellungnahme veranlasst. In den sozialen Medien...]]></description>
     </item>
   </channel>
 </rss>

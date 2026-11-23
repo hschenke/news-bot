@@ -5,9 +5,18 @@
     <link>https://holli-news-bot.streamlit.app/?category=Finanzen+%26+Coins&amp;feed=Investing+de</link>
     <description>RSS-Feed für die Quelle 'Investing de' (Kategorie: Finanzen &amp; Coins).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:10:50 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/finanzen-und-coins-investing-de.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XRP steigt um 11% - Preisanstieg in vollem Schwung</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/xrp-steigt-um-11--preisanstieg-in-vollem-schwung-3782638</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/xrp-steigt-um-11--preisanstieg-in-vollem-schwung-3782638</guid>
+      <pubDate>Mon, 23 Nov 2026 14:28:08 GMT</pubDate>
+      <category>Finanzen &amp; Coins</category>
+      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
+      <description><![CDATA[]]></description>
+    </item>
     <item>
       <title>Bitcoin springt nach Liquidationswelle zurück über 61.000 US-Dollar</title>
       <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-erholt-sich-nach-liquidationsgetriebener-verkaufswelle-wieder-uber-61000-3781376</link>

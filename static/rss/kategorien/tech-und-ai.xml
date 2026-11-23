@@ -5,9 +5,36 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:10:50 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maker baut Roboterhand mit 18 Servos und Stahlsehnen für 300 US-Dollar</title>
+      <link>https://www.heise.de/news/Roboterhand-aus-dem-3D-Drucker-kommt-auf-18-Freiheitsgrade-11534638.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534638</guid>
+      <pubDate>Mon, 23 Nov 2026 15:30:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Roboterhand mit 18 Freiheitsgraden, deren Servos die Finger über Stahlseile wie Sehnen bewegen, hat ein Maker für rund 300 US-Dollar gebaut.]]></description>
+    </item>
+    <item>
+      <title>Nach AMD: Auch Nvidias GeForce-Grafiktreiber belastet SSD-Lebensdauer übermäßig</title>
+      <link>https://www.heise.de/news/Nach-AMD-Auch-Nvidias-GeForce-Grafiktreiber-belastet-SSD-Lebensdauer-uebermaessig-11534844.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534844</guid>
+      <pubDate>Mon, 23 Nov 2026 15:27:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nvidias Grafikkartentreiber für Windows hat mit exzessiven Schreibzugriffen auf SSDs zu kämpfen. Ein erster Hotfix-Treiber hilft anscheinend nicht immer.]]></description>
+    </item>
+    <item>
+      <title>In-Memory-Datenbank Valkey 9.2: Gleiche Daten, weniger Bytes auf der Leitung</title>
+      <link>https://www.heise.de/news/In-Memory-Datenbank-Valkey-9-2-Weniger-RAM-Spitzen-beim-Sichern-11534812.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534812</guid>
+      <pubDate>Mon, 23 Nov 2026 15:22:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Valkey 9.2 kann Speicherspitzen beim Sichern vermeiden und beim Datenabgleich zwischen Servern Bandbreite sparen.]]></description>
+    </item>
     <item>
       <title>Offizielles Apple-Forum: US-Version komplett weg, Deutschland noch da</title>
       <link>https://www.heise.de/news/Offizielles-Apple-Forum-US-Version-komplett-weg-Deutschland-noch-da-11534772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>

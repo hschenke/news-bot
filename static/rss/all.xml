@@ -5,9 +5,72 @@
     <link>https://holli-news-bot.streamlit.app</link>
     <description>Alle aggregierten Nachrichten aus sämtlichen Kategorien und Quellen im News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:10:50 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Fun] Woher weißt du, dass das kein Mensch ist?..</title>
+      <link>https://debeste.de/639730/Woher-wei-t-du,-dass-das-kein-Mensch-ist</link>
+      <guid isPermaLink="false">https://debeste.de/639730/Woher-wei-t-du,-dass-das-kein-Mensch-ist</guid>
+      <pubDate>Mon, 23 Nov 2026 15:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Woher weißt du, dass das kein Mensch ist? Er starrt nicht aufs Handy.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Union-Frauen holen DFB-Star Ann-Katrin Berger nach Berlin</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</guid>
+      <pubDate>Mon, 23 Nov 2026 15:35:54 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Die Frauen des 1. FC Union haben einen echten Sensationstransfer vermeldet. Die Berlinerinnen verpflichten ab Januar Ann-Katrin Berger - die aktuelle Nummer eins der deutschen Nationalmannschaft und eine der besten Torhüterinnen der Welt.]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Maker baut Roboterhand mit 18 Servos und Stahlsehnen für 300 US-Dollar</title>
+      <link>https://www.heise.de/news/Roboterhand-aus-dem-3D-Drucker-kommt-auf-18-Freiheitsgrade-11534638.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534638</guid>
+      <pubDate>Mon, 23 Nov 2026 15:30:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Roboterhand mit 18 Freiheitsgraden, deren Servos die Finger über Stahlseile wie Sehnen bewegen, hat ein Maker für rund 300 US-Dollar gebaut.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Sparta Prag trennt sich von Ex-BVB-Profi Tomas Rosicky</title>
+      <link>https://www.transfermarkt.de/sparta-prag-trennt-sich-von-sportdirektor-rosicky-auch-trainer-priske-muss-gehen/view/news/491109</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/sparta-prag-trennt-sich-von-sportdirektor-rosicky-auch-trainer-priske-muss-gehen/view/news/491109</guid>
+      <pubDate>Mon, 23 Nov 2026 15:29:54 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Ex-BVB-Profi Tomas Rosicky muss seinen Posten als Sportdirektor bei Sparta Prag räumen. Dies sei eine einvernehmliche Entscheidung nach gemeinsamen Gesprächen, teilte der tschechische...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Für die Farben, die wir tragen - Hertha BSC</title>
+      <link>https://www.herthabsc.com/de/nachrichten/2026/11/fur-die-farben-kw48-2627</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3225312215238102092</guid>
+      <pubDate>Mon, 23 Nov 2026 15:27:51 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC – FC Carl Zeiss Jena, 0:2 (0:0). U23-Junioren, Regionalliga Nordost, SV Tasmania – Hertha BSC, 3:3 (1:2). U20-Juniorinnen, Berlin-Liga, FC ...]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Nach AMD: Auch Nvidias GeForce-Grafiktreiber belastet SSD-Lebensdauer übermäßig</title>
+      <link>https://www.heise.de/news/Nach-AMD-Auch-Nvidias-GeForce-Grafiktreiber-belastet-SSD-Lebensdauer-uebermaessig-11534844.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534844</guid>
+      <pubDate>Mon, 23 Nov 2026 15:27:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nvidias Grafikkartentreiber für Windows hat mit exzessiven Schreibzugriffen auf SSDs zu kämpfen. Ein erster Hotfix-Treiber hilft anscheinend nicht immer.]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] In-Memory-Datenbank Valkey 9.2: Gleiche Daten, weniger Bytes auf der Leitung</title>
+      <link>https://www.heise.de/news/In-Memory-Datenbank-Valkey-9-2-Weniger-RAM-Spitzen-beim-Sichern-11534812.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534812</guid>
+      <pubDate>Mon, 23 Nov 2026 15:22:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Valkey 9.2 kann Speicherspitzen beim Sichern vermeiden und beim Datenabgleich zwischen Servern Bandbreite sparen.]]></description>
+    </item>
     <item>
       <title>[Fun] An die Dame mit dem Dackel...</title>
       <link>https://debeste.de/639997/An-die-Dame-mit-dem-Dackel</link>
@@ -25,6 +88,15 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Trotz viel Kritik hat Apple seine Apple Support Community zum Wochenende endgültig dichtgemacht. Verweise aus dem Web laufen ins Leere.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] FC Mecklenburg Schwerin verliert 0:2 bei Hertha Zehlendorf | ndr.de</title>
+      <link>https://www.ndr.de/nachrichten/mecklenburg-vorpommern/westmecklenburg/fc-mecklenburg-schwerin-verliert-02-bei-hertha-zehlendorf,audio-3612984.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15146314112875636047</guid>
+      <pubDate>Mon, 23 Nov 2026 15:06:16 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[FC Mecklenburg Schwerin verliert 0:2 bei Hertha Zehlendorf. Sendung: NDR 1 Radio MV | Regionalnachrichten - Studio Schwerin | 23.11.2026 | 12:59 ...]]></description>
     </item>
     <item>
       <title>[Tech &amp; AI] Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing</title>
@@ -61,6 +133,15 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[Eine Alte Frau bei uns im Restaurant nachdem ich ihr den Tee brachte: Sie haben den Tee nicht selbst gekocht, ich habe den Wasserkocher gehört! - Bro, was soll ich machen ? Feuerbändigen ?]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Spekulationen um Linus Gechter: Ein Garant für die defensive Stabilität von Hertha BSC</title>
+      <link>https://www.tagesspiegel.de/sport/spekulationen-um-linus-gechter-ein-garant-fur-die-defensive-stabilitat-von-hertha-bsc-16315835.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16895058134102421915</guid>
+      <pubDate>Mon, 23 Nov 2026 14:58:44 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Nur neun Gegentore in zwölf Spielen: Hertha stellt jetzt auch die beste Defensive der Zweiten Liga. Innenverteidiger Linus Gechter hat einen ...]]></description>
     </item>
     <item>
       <title>[Tech &amp; AI] Superflinker Gaming-Monitor: Samsung verspricht 1100 Hertz</title>
@@ -126,6 +207,24 @@
       <description><![CDATA[]]></description>
     </item>
     <item>
+      <title>[Games] Descent Of Lunaris - Preview</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60626</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60626</guid>
+      <pubDate>Mon, 23 Nov 2026 14:30:52 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Wanderbots checked out the dungeon crawler Descent Of Lunaris: The Best Upcoming Sci-Fi Dungeon Crawler! - Descent of Lunaris]]></description>
+    </item>
+    <item>
+      <title>[Finanzen &amp; Coins] XRP steigt um 11% - Preisanstieg in vollem Schwung</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/xrp-steigt-um-11--preisanstieg-in-vollem-schwung-3782638</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/xrp-steigt-um-11--preisanstieg-in-vollem-schwung-3782638</guid>
+      <pubDate>Mon, 23 Nov 2026 14:28:08 GMT</pubDate>
+      <category>Finanzen &amp; Coins</category>
+      <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
       <title>[Tech &amp; AI] Nvidia reverses course and brings Jensen Huang back as CEO</title>
       <link>https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3191219</guid>
@@ -151,6 +250,15 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Einstimmig hat der Verwaltungsrat von Nvidia Jensen Huang wieder als CEO eingesetzt. Ein Ende der Affären um das Unternehmen ist das nicht.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] 3-Zimmer Etagenwohnung 588,48 € zur Miete Mahlsdorf, Berlin - ImmoScout24</title>
+      <link>https://www.immobilienscout24.de/expose/172967222</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9351325129087409451</guid>
+      <pubDate>Mon, 23 Nov 2026 14:12:49 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Etagenwohnung (Wohnung/Miete): 3 Zimmer - 60,1 qm - Hönower Straße 25 A, 12623 Berlin, Mahlsdorf (Hellersdorf) bei ImmobilienScout24 (Scout-ID: ...]]></description>
     </item>
     <item>
       <title>[Fußball] Emre Mor unterbricht Karriere: Ex-BVB-Profi verlässt NEC Nijmegen</title>
@@ -196,6 +304,15 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[Ich hätte nicht gedacht, dass GTA 6 so realistisch sein würde.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha-Noten: Für Gersbeck klatscht sogar Cottbus-Trainer Wollitz, Nilsson erlöst</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413745706/hertha-noten-fuer-gersbeck-klatscht-sogar-cottbus-trainer-wollitz-nilsson-erloest.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5849517387368381020</guid>
+      <pubDate>Mon, 23 Nov 2026 13:32:11 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC trotzt der feindseligen Atmosphäre in Cottbus und feiert den höchsten Sieg der Saison. Die Berliner Profis in der Einzelkritik.]]></description>
     </item>
     <item>
       <title>[Berlin] Union Berlin im Tabellenkeller: Fassade des Zusammenhalts bröckelt</title>
@@ -259,6 +376,15 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Microsoft hat ein kostenloses Tool namens „PC Assist“ veröffentlicht. Es soll etwa Laufwerke aufräumen. An allen Ecken lauert Bing.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC: Erster Hertha-Star spricht von magischer 100-Punkte-Marke! | Sport | BILD.de</title>
+      <link>https://www.bild.de/sport/fussball/hertha-bsc-erster-hertha-star-spricht-von-magischer-100-punkte-marke-6b0359a0a5f8078a8404cf5c</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5169533190529506142</guid>
+      <pubDate>Mon, 23 Nov 2026 12:42:50 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Tabellenführer Hertha BSC stellt neue Bestmarken in der 2. Liga auf und träumt jetzt vom ganz großen Wurf!]]></description>
     </item>
     <item>
       <title>[Fun] Selbstfahrendes Auto aus Indien.</title>
@@ -405,6 +531,15 @@
       <description><![CDATA[Der Herbst war voll mit neuen Apple‑Gerätschaften. Im kommenden Frühjahr soll die nächste Offensive starten – unter anderem beim iPhone.]]></description>
     </item>
     <item>
+      <title>[Berlin] Aus Mahlsdorf – Seite 114</title>
+      <link>https://alles-mahlsdorf.de/category/aktuelles/aktuelles-aus-mahlsdorf/page/114/?_=1788134400010</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9326443974182121171</guid>
+      <pubDate>Mon, 23 Nov 2026 11:09:50 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Nun ist es amtlich: Mahlsdorf hat drei offizielle Raserstrecken. Das ergab der jetzt veröffentlichte „Raser-Atlas” der Senatsverwaltung für ...]]></description>
+    </item>
+    <item>
       <title>[Tech &amp; AI] Streit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7</title>
       <link>https://www.heise.de/news/Streit-ums-Design-Gericht-verhindert-EU-weiten-Verkauf-des-E-SUV-BYD-Ti7-11534173.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11534173</guid>
@@ -475,6 +610,15 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Zehn Punkte Abstand! Hertha baut Tabellenführung weiter aus | Fußball News - Sky Sport</title>
+      <link>https://sport.sky.de/fussball/artikel/zehn-punkte-abstand-hertha-baut-tabellenfuehrung-weiter-aus/13615270/34350</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3264250711772473584</guid>
+      <pubDate>Mon, 23 Nov 2026 10:18:58 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[2. Bundesliga, 12. Spieltag: Hertha BSC baut nach einem 4:0-Sieg bei Energie Cottbus ihren Vorsprung auf zehn Punkte aus.]]></description>
     </item>
     <item>
       <title>[Fußball] FC Bayern: Karriereende im Sommer? Ulreich macht nicht „alles abhängig“ von Neuer</title>
@@ -648,15 +792,6 @@
       <description><![CDATA["Ministerin Reiche droht mit Rücktritt" klingt wie: "Freundin droht mit Blowjob"]]></description>
     </item>
     <item>
-      <title>[Fußball] Nicolas Pépé: Villarreal dementiert Gerücht um Augen-OP</title>
-      <link>https://www.transfermarkt.de/wirbel-um-pepe-op-bei-villarreal-sagt-doch-ich-ware-zum-mond-geflogen-das-ware-besser-quot-/view/news/491064</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/wirbel-um-pepe-op-bei-villarreal-sagt-doch-ich-ware-zum-mond-geflogen-das-ware-besser-quot-/view/news/491064</guid>
-      <pubDate>Mon, 23 Nov 2026 08:27:40 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Ein kurioses Gerücht um Nicolas Pépé hat in Spanien für Aufsehen gesorgt und seinen Verein Villarreal zu einer offiziellen Stellungnahme veranlasst. In den sozialen Medien...]]></description>
-    </item>
-    <item>
       <title>[Fun] Instant Karma...</title>
       <link>https://debeste.de/639828/Instant-Karma</link>
       <guid isPermaLink="false">https://debeste.de/639828/Instant-Karma</guid>
@@ -684,6 +819,15 @@
       <description><![CDATA[Die Laufzeitumgebung Eclipse Enclave sperrt Agenten wie Claude Code, Codex und OpenCode in Container ein. Ganz ausbruchssicher ist sie aber nicht.]]></description>
     </item>
     <item>
+      <title>[Berlin] Kunsthaus Flora Mahlsdorf - Florastrasse Wenn es draußen langsam winterlich wird, laden ...</title>
+      <link>https://www.instagram.com/p/DgEyZQzDIrz/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17350064926773676021</guid>
+      <pubDate>Mon, 23 Nov 2026 08:11:22 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[In Mahlsdorf wird es wieder schaurig-schön: Am kommenden Samstag, dem 31. Oktober, verwandelt sich der Garten des Kunsthauses Flora in der Florastraße ...]]></description>
+    </item>
+    <item>
       <title>[Fußball] Hertha-Jubel wegen Nilsson-Tor, da schwärmt sogar Pele Wollitz - Berliner Kurier</title>
       <link>https://www.berliner-kurier.de/article/hertha-jubel-wegen-nilsson-tor-da-schwaermt-sogar-pele-wollitz-10624717</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14192094459242058044</guid>
@@ -700,6 +844,15 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[Ein Hund, der einen Einbrecher beißt, darf nicht eingeschläfert werden, denn er verteidigt nur sein Zuhause. Sehen Sie das auch so?]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Energie Cottbus vs Hertha BSC, 2. Bundesliga, 12. Spieltag, Saison 2026 2027</title>
+      <link>https://www.reutersconnect.com/item/energie-cottbus-vs-hertha-bsc-2-bundesliga-12-spieltag-saison-2026-2027/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQ01LVDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQ01LVFI&amp;position=2</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9219659343502621155</guid>
+      <pubDate>Mon, 23 Nov 2026 07:54:18 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Deyovaisio Zeefuik (Hertha BSC, #42) trifft zum 3:0 22.11.2026, Energie Cottbus vs Hertha BSC, Fussball, 2. Bundesliga, 12.]]></description>
     </item>
     <item>
       <title>[Tech &amp; AI] US-Tech-Börse stürzt ab: Platzt jetzt die große KI-Blase?</title>
@@ -972,15 +1125,6 @@
       <description><![CDATA[Schick das an jemanden, der heute einfach mal grundlos von einem Otter verurteilt werden muss.]]></description>
     </item>
     <item>
-      <title>[Fußball] 2. Bundesliga: Hertha BSC baut Tabellenführung mit Sieg in Cottbus aus – FCK patzt - RND</title>
-      <link>https://www.rnd.de/sport/2-bundesliga-hertha-bsc-baut-tabellenfuehrung-mit-sieg-in-cottbus-aus-fck-patzt-LDZK7TENPNFG7BQXSGRPGX4VBQ.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11712241752722559540</guid>
-      <pubDate>Mon, 23 Nov 2026 03:05:17 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC besteht auch im hitzigen Berlin-Brandenburg-Duell in Cottbus und führt die 2. Fußball-Bundesliga nun noch deutlicher an.]]></description>
-    </item>
-    <item>
       <title>[Berlin] Tag der offenen Tür: Drei Oberschulen öffnen in dieser Woche ihre Türen</title>
       <link>https://marzahn-hellersdorf.com/tag-der-offenen-tuer-drei-oberschulen-oeffnen-in-dieser-woche-ihre-tueren/</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:131706706716563797</guid>
@@ -1033,15 +1177,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Wechsel zum BVB? Jetzt reagiert Hertha-Juwel Gechter - Fussballdaten</title>
-      <link>https://www.fussballdaten.de/news/wechsel-bvb-jetzt-reagiert-hertha-juwel-gechter/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2942810721780753982</guid>
-      <pubDate>Mon, 23 Nov 2026 01:37:28 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Borussia Dortmund soll Interesse an Hertha-Verteidiger Linus Gechter haben. Nun äußert sich der 22-Jährige erstmals selbst zu den ...]]></description>
     </item>
     <item>
       <title>[Fun] Das muss eine Erleichterung gewesen sein.</title>
@@ -1161,15 +1296,6 @@
       <description><![CDATA[]]></description>
     </item>
     <item>
-      <title>[Fußball] Video: Hertha dreht nach der Pause auf und schlägt Cottbus klar - rbb24</title>
-      <link>https://www.rbb24.de/sport/av/av24/video-zweite-bundesliga-sportschau-highlights-energie-cottbus-he.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11600370916975499013</guid>
-      <pubDate>Sun, 22 Nov 2026 23:12:29 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hinten sicher, vorne effektiv: Hertha BSC lässt auch bei Energie Cottbus nichts anbrennen, gewinnt souverän mit 4:0 und bleibt damit auch am 12.]]></description>
-    </item>
-    <item>
       <title>[Tech &amp; AI] Progress map for the Lean formalization of Alessandro Masullo's manuscript</title>
       <link>https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</link>
       <guid isPermaLink="false">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</guid>
@@ -1186,15 +1312,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Fußball] 2. Bundesliga: Hertha gewinnt bei tapferen Cottbussern - ZDF</title>
-      <link>https://www.zdf.de/sport/fussball-2-bundesliga/video/energie-cottbus-hertha-bsc-saison-2026-27-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14490110427944265967</guid>
-      <pubDate>Sun, 22 Nov 2026 23:05:11 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Die Hertha zieht weiter einsam ihre Kreise an der Tabellenspitze. Cottbus wehrt sich lange, dann nutzen die Berliner Energies Unterzahl eiskalt ...]]></description>
     </item>
     <item>
       <title>[Fun] Ich gebe auf und renne ins Gebüsch...</title>
@@ -1233,15 +1350,6 @@
       <description><![CDATA[Comments]]></description>
     </item>
     <item>
-      <title>[Fußball] Vier „Kirschen”: Hertha BSC siegt auch in Cottbus - NW.de</title>
-      <link>https://www.nw.de/sport/fussball/24468655_Vier-Kirschen-Hertha-BSC-siegt-auch-in-Cottbus.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9378519471571656045</guid>
-      <pubDate>Sun, 22 Nov 2026 22:11:09 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC besteht auch im hitzigen Berlin-Brandenburg-Duell. Bei Energie Cottbus baut der Hauptstadtclub seine Tabellenführung aus...]]></description>
-    </item>
-    <item>
       <title>[Tech &amp; AI] The Usefulness of Useless Knowledge [pdf] (1939)</title>
       <link>https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</link>
       <guid isPermaLink="false">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</guid>
@@ -1258,24 +1366,6 @@
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
       <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Der 100-Punkte-Song lebt weiter: Hertha BSC gewinnt 4:0 bei Energie Cottbus - Berliner Zeitung</title>
-      <link>https://www.berliner-zeitung.de/article/hertha-bsc-energie-cottbus-ostderby-4-0-nilsson-100-punkte-10623259</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13343444661399792452</guid>
-      <pubDate>Sun, 22 Nov 2026 21:44:45 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC schlägt Aufsteiger Energie Cottbus 4:0. Joker Nilsson trifft erstmals für Berlin, die Fans singen weiter vom 100-Punkte-Traum.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] HIGHLIGHTS | Energie Cottbus – Hertha BSC | 12. Spieltag - Sky Sport Austria</title>
-      <link>https://www.skysportaustria.at/mediathek/highlights-energie-cottbus-hertha-bsc-12-spieltag/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7458514760358612188</guid>
-      <pubDate>Sun, 22 Nov 2026 21:40:11 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Bundesliga, 12. Spieltag: Hertha BSC baut nach einem 4:0-Sieg bei Energie Cottbus ihren Vorsprung auf zehn Punkte aus. Die Mannschaft von Stefan Leitl ...]]></description>
     </item>
     <item>
       <title>[Fun] Pures Glück.</title>
@@ -1330,15 +1420,6 @@
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
       <description><![CDATA[Objektbeschreibung. Skandinavisches Urlaubsflair in Berlin: Komfortabler, barrierearmer Bungalow in Mahlsdorf-Süd! Genießen Sie das Leben auf einer ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Die 2. Bundesliga am Sonntag - Hertha BSC mit Zehn-Punkte-Vorsprung - Osthessen-Zeitung</title>
-      <link>https://www.osthessen-zeitung.de/einzelansicht/news/2026/november/die-2-bundesliga-am-sonntag-hertha-bsc-mit-zehn-punkte-vorsprung</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16901768307172352102</guid>
-      <pubDate>Sun, 22 Nov 2026 21:09:06 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Die 2. Bundesliga am Sonntag - Hertha BSC mit Zehn-Punkte-Vorsprung. Partien, Ergebnisse, Statistik und die Tabelle:.]]></description>
     </item>
     <item>
       <title>[Berlin] Alba-Pleite: Berlin verliert Prestigeduell gegen die Bayern</title>
@@ -1771,24 +1852,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Herthas 100-Punkte-Traum geht weiter. Im ersten Berlin-Brandenburg-Derby seit 13 Jahren gewinnt die Alte Dame am Ende deutlich und verdient in Cottbus.]]></description>
-    </item>
-    <item>
-      <title>[Fun] Für einen durchschnittlich intelligenten Menschen..</title>
-      <link>https://debeste.de/639634/F-r-einen-durchschnittlich-intelligenten-Menschen</link>
-      <guid isPermaLink="false">https://debeste.de/639634/F-r-einen-durchschnittlich-intelligenten-Menschen</guid>
-      <pubDate>Sun, 22 Nov 2026 15:40:01 GMT</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Zehlendorf jubelt spät, Mahlsdorf lässt Punkte liegen - FuPa</title>
-      <link>https://www.fupa.net/news/zehlendorf-jubelt-spaet-mahlsdorf-laesst-punkte-liegen-3227811</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5546379978555475282</guid>
-      <pubDate>Sun, 22 Nov 2026 15:22:50 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Zehlendorf jubelt spät, Mahlsdorf lässt Punkte liegen. NOFV-Oberliga Nord: Die Übersicht auf den 12. Spieltag. von red · Heute, 16:20 Uhr · 0 Leser.]]></description>
     </item>
   </channel>
 </rss>

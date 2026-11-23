@@ -5,9 +5,27 @@
     <link>https://holli-news-bot.streamlit.app/?category=Berlin</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Berlin' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:10:50 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/berlin.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Union-Frauen holen DFB-Star Ann-Katrin Berger nach Berlin</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</guid>
+      <pubDate>Mon, 23 Nov 2026 15:35:54 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Die Frauen des 1. FC Union haben einen echten Sensationstransfer vermeldet. Die Berlinerinnen verpflichten ab Januar Ann-Katrin Berger - die aktuelle Nummer eins der deutschen Nationalmannschaft und eine der besten Torhüterinnen der Welt.]]></description>
+    </item>
+    <item>
+      <title>3-Zimmer Etagenwohnung 588,48 € zur Miete Mahlsdorf, Berlin - ImmoScout24</title>
+      <link>https://www.immobilienscout24.de/expose/172967222</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9351325129087409451</guid>
+      <pubDate>Mon, 23 Nov 2026 14:12:49 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Etagenwohnung (Wohnung/Miete): 3 Zimmer - 60,1 qm - Hönower Straße 25 A, 12623 Berlin, Mahlsdorf (Hellersdorf) bei ImmobilienScout24 (Scout-ID: ...]]></description>
+    </item>
     <item>
       <title>Union Berlin im Tabellenkeller: Fassade des Zusammenhalts bröckelt</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</link>
@@ -18,6 +36,15 @@
       <description><![CDATA[Union Berlin steckt nach zehn Spielen mittendrin im Tabellenkeller. Neben Manager Heldt wird auch über Trainer Lustrinell längst diskutiert. Derübt nun harsche Kritik an seinen Spielern und befeuert, vielleicht auch aus Verzweiflung, Union-unytpische Zustände.]]></description>
     </item>
     <item>
+      <title>Aus Mahlsdorf – Seite 114</title>
+      <link>https://alles-mahlsdorf.de/category/aktuelles/aktuelles-aus-mahlsdorf/page/114/?_=1788134400010</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9326443974182121171</guid>
+      <pubDate>Mon, 23 Nov 2026 11:09:50 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Nun ist es amtlich: Mahlsdorf hat drei offizielle Raserstrecken. Das ergab der jetzt veröffentlichte „Raser-Atlas” der Senatsverwaltung für ...]]></description>
+    </item>
+    <item>
       <title>Aktuelles - Alles Mahlsdorf</title>
       <link>https://alles-mahlsdorf.de/category/aktuelles/aktuelles-aus-mahlsdorf/page/25/?_=1788134400010</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12078277617686213436</guid>
@@ -25,6 +52,15 @@
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
       <description><![CDATA[Super-Preise winken: Wir suchen Mahlsdorfs schönsten Weihnachtsbaum! 14. Dezember 2025. Wunderschön oder Witzfigur? Wir wollen eine Mitmach-Tradition, ...]]></description>
+    </item>
+    <item>
+      <title>Kunsthaus Flora Mahlsdorf - Florastrasse Wenn es draußen langsam winterlich wird, laden ...</title>
+      <link>https://www.instagram.com/p/DgEyZQzDIrz/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17350064926773676021</guid>
+      <pubDate>Mon, 23 Nov 2026 08:11:22 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[In Mahlsdorf wird es wieder schaurig-schön: Am kommenden Samstag, dem 31. Oktober, verwandelt sich der Garten des Kunsthauses Flora in der Florastraße ...]]></description>
     </item>
     <item>
       <title>Handball-Bundesliga: Füchse zittern sich zum Sieg in Göppingen</title>
@@ -232,15 +268,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Herthas 100-Punkte-Traum geht weiter. Im ersten Berlin-Brandenburg-Derby seit 13 Jahren gewinnt die Alte Dame am Ende deutlich und verdient in Cottbus.]]></description>
-    </item>
-    <item>
-      <title>Zehlendorf jubelt spät, Mahlsdorf lässt Punkte liegen - FuPa</title>
-      <link>https://www.fupa.net/news/zehlendorf-jubelt-spaet-mahlsdorf-laesst-punkte-liegen-3227811</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5546379978555475282</guid>
-      <pubDate>Sun, 22 Nov 2026 15:22:50 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Zehlendorf jubelt spät, Mahlsdorf lässt Punkte liegen. NOFV-Oberliga Nord: Die Übersicht auf den 12. Spieltag. von red · Heute, 16:20 Uhr · 0 Leser.]]></description>
     </item>
   </channel>
 </rss>

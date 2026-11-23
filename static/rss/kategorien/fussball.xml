@@ -5,9 +5,45 @@
     <link>https://holli-news-bot.streamlit.app/?category=Fu%C3%9Fball</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Fußball' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:10:50 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/fussball.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sparta Prag trennt sich von Ex-BVB-Profi Tomas Rosicky</title>
+      <link>https://www.transfermarkt.de/sparta-prag-trennt-sich-von-sportdirektor-rosicky-auch-trainer-priske-muss-gehen/view/news/491109</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/sparta-prag-trennt-sich-von-sportdirektor-rosicky-auch-trainer-priske-muss-gehen/view/news/491109</guid>
+      <pubDate>Mon, 23 Nov 2026 15:29:54 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Ex-BVB-Profi Tomas Rosicky muss seinen Posten als Sportdirektor bei Sparta Prag räumen. Dies sei eine einvernehmliche Entscheidung nach gemeinsamen Gesprächen, teilte der tschechische...]]></description>
+    </item>
+    <item>
+      <title>Für die Farben, die wir tragen - Hertha BSC</title>
+      <link>https://www.herthabsc.com/de/nachrichten/2026/11/fur-die-farben-kw48-2627</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3225312215238102092</guid>
+      <pubDate>Mon, 23 Nov 2026 15:27:51 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC – FC Carl Zeiss Jena, 0:2 (0:0). U23-Junioren, Regionalliga Nordost, SV Tasmania – Hertha BSC, 3:3 (1:2). U20-Juniorinnen, Berlin-Liga, FC ...]]></description>
+    </item>
+    <item>
+      <title>FC Mecklenburg Schwerin verliert 0:2 bei Hertha Zehlendorf | ndr.de</title>
+      <link>https://www.ndr.de/nachrichten/mecklenburg-vorpommern/westmecklenburg/fc-mecklenburg-schwerin-verliert-02-bei-hertha-zehlendorf,audio-3612984.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15146314112875636047</guid>
+      <pubDate>Mon, 23 Nov 2026 15:06:16 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[FC Mecklenburg Schwerin verliert 0:2 bei Hertha Zehlendorf. Sendung: NDR 1 Radio MV | Regionalnachrichten - Studio Schwerin | 23.11.2026 | 12:59 ...]]></description>
+    </item>
+    <item>
+      <title>Spekulationen um Linus Gechter: Ein Garant für die defensive Stabilität von Hertha BSC</title>
+      <link>https://www.tagesspiegel.de/sport/spekulationen-um-linus-gechter-ein-garant-fur-die-defensive-stabilitat-von-hertha-bsc-16315835.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16895058134102421915</guid>
+      <pubDate>Mon, 23 Nov 2026 14:58:44 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Nur neun Gegentore in zwölf Spielen: Hertha stellt jetzt auch die beste Defensive der Zweiten Liga. Innenverteidiger Linus Gechter hat einen ...]]></description>
+    </item>
     <item>
       <title>Schalke: Finn Porath vor Wechsel zum VfL Osnabrück</title>
       <link>https://www.transfermarkt.de/-sky-quot-porath-zieht-es-zum-vfl-osnabruck-hatte-meiste-zweitliga-erfahrung-im-kader/view/news/491106</link>
@@ -27,6 +63,15 @@
       <description><![CDATA[Einst galt Emre Mor als eines der größten Talente Europas, nun legt der ehemalige Profi von Borussia Dortmund im Alter von 29 Jahren eine Pause vom Profifußball ein. Wie sein...]]></description>
     </item>
     <item>
+      <title>Hertha-Noten: Für Gersbeck klatscht sogar Cottbus-Trainer Wollitz, Nilsson erlöst</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413745706/hertha-noten-fuer-gersbeck-klatscht-sogar-cottbus-trainer-wollitz-nilsson-erloest.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5849517387368381020</guid>
+      <pubDate>Mon, 23 Nov 2026 13:32:11 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC trotzt der feindseligen Atmosphäre in Cottbus und feiert den höchsten Sieg der Saison. Die Berliner Profis in der Einzelkritik.]]></description>
+    </item>
+    <item>
       <title>FC Augsburg: Tim Schnitzer überzeugt beim Startelfdebüt gegen Mainz</title>
       <link>https://www.transfermarkt.de/-er-pinkelt-eiswurfel-quot-schnitzer-uberzeugt-in-augsburgs-kinderriegel-gesicht-des-fca-wegs/view/news/491093</link>
       <guid isPermaLink="false">https://www.transfermarkt.de/-er-pinkelt-eiswurfel-quot-schnitzer-uberzeugt-in-augsburgs-kinderriegel-gesicht-des-fca-wegs/view/news/491093</guid>
@@ -34,6 +79,15 @@
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
       <description><![CDATA[Manuel Baum taufte seine improvisierte Augsburger Dreierkette kurzerhand „Kinderriegel“. Sportdirektor Bennjamin Weber fand für einen ihrer überraschenden Protagonisten nach...]]></description>
+    </item>
+    <item>
+      <title>Hertha BSC: Erster Hertha-Star spricht von magischer 100-Punkte-Marke! | Sport | BILD.de</title>
+      <link>https://www.bild.de/sport/fussball/hertha-bsc-erster-hertha-star-spricht-von-magischer-100-punkte-marke-6b0359a0a5f8078a8404cf5c</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5169533190529506142</guid>
+      <pubDate>Mon, 23 Nov 2026 12:42:50 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Tabellenführer Hertha BSC stellt neue Bestmarken in der 2. Liga auf und träumt jetzt vom ganz großen Wurf!]]></description>
     </item>
     <item>
       <title>Trainingsstart in die neue Woche - Hertha BSC</title>
@@ -97,6 +151,15 @@
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
       <description><![CDATA[Beim 0:4 von Energie Cottbus gegen Hertha BSC ärgert sich King Manu besonders über das erste Gegentor. Der Abwehrchef ist sauer und fehlt nun auch ...]]></description>
+    </item>
+    <item>
+      <title>Zehn Punkte Abstand! Hertha baut Tabellenführung weiter aus | Fußball News - Sky Sport</title>
+      <link>https://sport.sky.de/fussball/artikel/zehn-punkte-abstand-hertha-baut-tabellenfuehrung-weiter-aus/13615270/34350</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3264250711772473584</guid>
+      <pubDate>Mon, 23 Nov 2026 10:18:58 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[2. Bundesliga, 12. Spieltag: Hertha BSC baut nach einem 4:0-Sieg bei Energie Cottbus ihren Vorsprung auf zehn Punkte aus.]]></description>
     </item>
     <item>
       <title>FC Bayern: Karriereende im Sommer? Ulreich macht nicht „alles abhängig“ von Neuer</title>
@@ -180,15 +243,6 @@
       <description><![CDATA[Spitzenreiter Hertha BSC hat seinen Höhenflug in der 2. Fußball-Bundesliga fortgesetzt und die Tabellenführung ausgebaut.]]></description>
     </item>
     <item>
-      <title>Nicolas Pépé: Villarreal dementiert Gerücht um Augen-OP</title>
-      <link>https://www.transfermarkt.de/wirbel-um-pepe-op-bei-villarreal-sagt-doch-ich-ware-zum-mond-geflogen-das-ware-besser-quot-/view/news/491064</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/wirbel-um-pepe-op-bei-villarreal-sagt-doch-ich-ware-zum-mond-geflogen-das-ware-besser-quot-/view/news/491064</guid>
-      <pubDate>Mon, 23 Nov 2026 08:27:40 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Ein kurioses Gerücht um Nicolas Pépé hat in Spanien für Aufsehen gesorgt und seinen Verein Villarreal zu einer offiziellen Stellungnahme veranlasst. In den sozialen Medien...]]></description>
-    </item>
-    <item>
       <title>Hertha-Jubel wegen Nilsson-Tor, da schwärmt sogar Pele Wollitz - Berliner Kurier</title>
       <link>https://www.berliner-kurier.de/article/hertha-jubel-wegen-nilsson-tor-da-schwaermt-sogar-pele-wollitz-10624717</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14192094459242058044</guid>
@@ -198,6 +252,15 @@
       <description><![CDATA[Beim 4:0-Derbysieg trifft Gustaf Nilsson zum ersten Mal für Hertha BSC und alle freuen sich für den Schweden. Den Jubel fand sogar Cottbus-Coach ...]]></description>
     </item>
     <item>
+      <title>Energie Cottbus vs Hertha BSC, 2. Bundesliga, 12. Spieltag, Saison 2026 2027</title>
+      <link>https://www.reutersconnect.com/item/energie-cottbus-vs-hertha-bsc-2-bundesliga-12-spieltag-saison-2026-2027/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQ01LVDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBaQ01LVFI&amp;position=2</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9219659343502621155</guid>
+      <pubDate>Mon, 23 Nov 2026 07:54:18 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Deyovaisio Zeefuik (Hertha BSC, #42) trifft zum 3:0 22.11.2026, Energie Cottbus vs Hertha BSC, Fussball, 2. Bundesliga, 12.]]></description>
+    </item>
+    <item>
       <title>100-Punkte-Traum lebt: Herthas Höhenflug hält auch in Cottbus an | sportschau.de</title>
       <link>https://www.sportschau.de/fussball/bundesliga2/herthas-hoehenflug-haelt-auch-in-cottbus-an,video-zweite-bundesliga-cottbus-hertha-zusammenfassung-100.html</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:613024543575182751</guid>
@@ -205,78 +268,6 @@
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
       <description><![CDATA[Hertha BSC bleibt das Maß aller Dinge in der 2. Fußball-Bundesliga. Beim ersten Pflichtspiel gegen Energie Cottbus seit 13 Jahren gab es einen ...]]></description>
-    </item>
-    <item>
-      <title>2. Bundesliga: Hertha BSC baut Tabellenführung mit Sieg in Cottbus aus – FCK patzt - RND</title>
-      <link>https://www.rnd.de/sport/2-bundesliga-hertha-bsc-baut-tabellenfuehrung-mit-sieg-in-cottbus-aus-fck-patzt-LDZK7TENPNFG7BQXSGRPGX4VBQ.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11712241752722559540</guid>
-      <pubDate>Mon, 23 Nov 2026 03:05:17 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC besteht auch im hitzigen Berlin-Brandenburg-Duell in Cottbus und führt die 2. Fußball-Bundesliga nun noch deutlicher an.]]></description>
-    </item>
-    <item>
-      <title>Wechsel zum BVB? Jetzt reagiert Hertha-Juwel Gechter - Fussballdaten</title>
-      <link>https://www.fussballdaten.de/news/wechsel-bvb-jetzt-reagiert-hertha-juwel-gechter/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2942810721780753982</guid>
-      <pubDate>Mon, 23 Nov 2026 01:37:28 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Borussia Dortmund soll Interesse an Hertha-Verteidiger Linus Gechter haben. Nun äußert sich der 22-Jährige erstmals selbst zu den ...]]></description>
-    </item>
-    <item>
-      <title>Video: Hertha dreht nach der Pause auf und schlägt Cottbus klar - rbb24</title>
-      <link>https://www.rbb24.de/sport/av/av24/video-zweite-bundesliga-sportschau-highlights-energie-cottbus-he.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11600370916975499013</guid>
-      <pubDate>Sun, 22 Nov 2026 23:12:29 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hinten sicher, vorne effektiv: Hertha BSC lässt auch bei Energie Cottbus nichts anbrennen, gewinnt souverän mit 4:0 und bleibt damit auch am 12.]]></description>
-    </item>
-    <item>
-      <title>2. Bundesliga: Hertha gewinnt bei tapferen Cottbussern - ZDF</title>
-      <link>https://www.zdf.de/sport/fussball-2-bundesliga/video/energie-cottbus-hertha-bsc-saison-2026-27-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14490110427944265967</guid>
-      <pubDate>Sun, 22 Nov 2026 23:05:11 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Die Hertha zieht weiter einsam ihre Kreise an der Tabellenspitze. Cottbus wehrt sich lange, dann nutzen die Berliner Energies Unterzahl eiskalt ...]]></description>
-    </item>
-    <item>
-      <title>Vier „Kirschen”: Hertha BSC siegt auch in Cottbus - NW.de</title>
-      <link>https://www.nw.de/sport/fussball/24468655_Vier-Kirschen-Hertha-BSC-siegt-auch-in-Cottbus.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9378519471571656045</guid>
-      <pubDate>Sun, 22 Nov 2026 22:11:09 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC besteht auch im hitzigen Berlin-Brandenburg-Duell. Bei Energie Cottbus baut der Hauptstadtclub seine Tabellenführung aus...]]></description>
-    </item>
-    <item>
-      <title>Der 100-Punkte-Song lebt weiter: Hertha BSC gewinnt 4:0 bei Energie Cottbus - Berliner Zeitung</title>
-      <link>https://www.berliner-zeitung.de/article/hertha-bsc-energie-cottbus-ostderby-4-0-nilsson-100-punkte-10623259</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13343444661399792452</guid>
-      <pubDate>Sun, 22 Nov 2026 21:44:45 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC schlägt Aufsteiger Energie Cottbus 4:0. Joker Nilsson trifft erstmals für Berlin, die Fans singen weiter vom 100-Punkte-Traum.]]></description>
-    </item>
-    <item>
-      <title>HIGHLIGHTS | Energie Cottbus – Hertha BSC | 12. Spieltag - Sky Sport Austria</title>
-      <link>https://www.skysportaustria.at/mediathek/highlights-energie-cottbus-hertha-bsc-12-spieltag/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7458514760358612188</guid>
-      <pubDate>Sun, 22 Nov 2026 21:40:11 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Bundesliga, 12. Spieltag: Hertha BSC baut nach einem 4:0-Sieg bei Energie Cottbus ihren Vorsprung auf zehn Punkte aus. Die Mannschaft von Stefan Leitl ...]]></description>
-    </item>
-    <item>
-      <title>Die 2. Bundesliga am Sonntag - Hertha BSC mit Zehn-Punkte-Vorsprung - Osthessen-Zeitung</title>
-      <link>https://www.osthessen-zeitung.de/einzelansicht/news/2026/november/die-2-bundesliga-am-sonntag-hertha-bsc-mit-zehn-punkte-vorsprung</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16901768307172352102</guid>
-      <pubDate>Sun, 22 Nov 2026 21:09:06 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Die 2. Bundesliga am Sonntag - Hertha BSC mit Zehn-Punkte-Vorsprung. Partien, Ergebnisse, Statistik und die Tabelle:.]]></description>
     </item>
   </channel>
 </rss>
