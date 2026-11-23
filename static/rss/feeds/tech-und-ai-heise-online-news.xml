@@ -5,9 +5,252 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offizielles Apple-Forum: US-Version komplett weg, Deutschland noch da</title>
+      <link>https://www.heise.de/news/Offizielles-Apple-Forum-US-Version-komplett-weg-Deutschland-noch-da-11534772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534772</guid>
+      <pubDate>Mon, 23 Nov 2026 15:07:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Trotz viel Kritik hat Apple seine Apple Support Community zum Wochenende endgültig dichtgemacht. Verweise aus dem Web laufen ins Leere.]]></description>
+    </item>
+    <item>
+      <title>„Upload2Shell“: Ghostscript-Lücke betrifft viele Systeme</title>
+      <link>https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534768</guid>
+      <pubDate>Mon, 23 Nov 2026 15:03:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Schwachstelle in Ghostscript namens „Upload2Shell“ gefährdet diverse Betriebssysteme, Programme und Dienste im Netz.]]></description>
+    </item>
+    <item>
+      <title>20 Prozent Rabatt auf Garmin: Black-Friday-Deals zu Wearables &amp; Smartphones</title>
+      <link>https://www.heise.de/bestenlisten/deals/20-prozent-rabatt-auf-garmin-black-friday-deals-zu-wearables-und-smartphones/770jzpc?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11535010</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Smartphone, Tablet oder Smartwatch günstig kaufen: Wir zeigen die besten Black-Friday-Deals für Mobilgeräte.]]></description>
+    </item>
+    <item>
+      <title>Superflinker Gaming-Monitor: Samsung verspricht 1100 Hertz</title>
+      <link>https://www.heise.de/news/Superflinker-Gaming-Monitor-Samsung-verspricht-1100-Hertz-11534912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534912</guid>
+      <pubDate>Mon, 23 Nov 2026 14:56:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Samsungs Gaming-Monitor Odyssey G6 soll 600 fps bei WQHD und 1100 fps bei Full-HD-Auflösung erzielen. Sein IPS-Panel könnte dabei allerdings Probleme aufwerfen.]]></description>
+    </item>
+    <item>
+      <title>Europäischer Smartphonemarkt bricht ein: Nur Apple und Samsung gewinnen Anteile</title>
+      <link>https://www.heise.de/news/Europaeischer-Smartphonemarkt-bricht-ein-Nur-Apple-und-Samsung-gewinnen-Anteile-11534946.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534946</guid>
+      <pubDate>Mon, 23 Nov 2026 14:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der europäische Markt ist im dritten Quartal so schwach wie seit 13 Jahren nicht mehr. Am stärksten trifft es chinesische Marken wie Xiaomi, Oppo und Honor.]]></description>
+    </item>
+    <item>
+      <title>Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung</title>
+      <link>https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534674</guid>
+      <pubDate>Mon, 23 Nov 2026 14:45:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.]]></description>
+    </item>
+    <item>
+      <title>Nvidia setzt Jensen Huang wieder als CEO ein</title>
+      <link>https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534936</guid>
+      <pubDate>Mon, 23 Nov 2026 14:16:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Einstimmig hat der Verwaltungsrat von Nvidia Jensen Huang wieder als CEO eingesetzt. Ein Ende der Affären um das Unternehmen ist das nicht.]]></description>
+    </item>
+    <item>
+      <title>KI-Update kompakt: KI-Aktien, Gemini 4 Neon, Riemannsche Vermutung, Geschenktipp</title>
+      <link>https://www.heise.de/news/KI-Update-kompakt-KI-Aktien-Gemini-4-Neon-Riemannsche-Vermutung-Geschenktipp-11532019.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11532019</guid>
+      <pubDate>Mon, 23 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></description>
+    </item>
+    <item>
+      <title>Kritik zur Serie „Blade Runner 2099“: Wovon Androiden träumen</title>
+      <link>https://www.heise.de/news/Kritik-zur-Serie-Blade-Runner-2099-Wovon-Androiden-traeumen-11534680.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534680</guid>
+      <pubDate>Mon, 23 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Kann man „Blade Runner“ würdig mit einer TV-Serie fortsetzen? Durchaus! Starke Bilder und eine starke Hauptdarstellerin machen „2099“ zum Erfolg.]]></description>
+    </item>
+    <item>
+      <title>NASA: Mars-Rover und -Orbiter mit technischen Problemen</title>
+      <link>https://www.heise.de/news/NASA-Mars-Rover-und-Orbiter-mit-technischen-Problemen-11534371.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534371</guid>
+      <pubDate>Mon, 23 Nov 2026 13:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Perseverance und Mars Odyssey mussten ihre wissenschaftliche Arbeit aus unterschiedlichen Gründen aussetzen. Bei der NASA arbeitet man an Lösungen.]]></description>
+    </item>
+    <item>
+      <title>Microsoft PC Assist: Aufräumhilfe mit viel Bing</title>
+      <link>https://www.heise.de/news/Microsoft-PC-Assist-Aufraeumhilfe-mit-viel-Bing-11534684.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534684</guid>
+      <pubDate>Mon, 23 Nov 2026 12:55:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Microsoft hat ein kostenloses Tool namens „PC Assist“ veröffentlicht. Es soll etwa Laufwerke aufräumen. An allen Ecken lauert Bing.]]></description>
+    </item>
+    <item>
+      <title>Kommentar: Den Notbetrieb übt man nicht erst im Notfall</title>
+      <link>https://www.heise.de/meinung/Kommentar-Weniger-Klumpenrisiko-bitte-ohne-Over-Engineering-11534656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534656</guid>
+      <pubDate>Mon, 23 Nov 2026 12:26:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Zwei Anbieter sind noch kein Plan B. Benjamin Pfister erklärt, warum gemeinsame Abhängigkeiten auch den Notbetrieb gefährden.]]></description>
+    </item>
+    <item>
+      <title>Teardown: HomeView von Apple kehrt zu schlechter Reparierbarkeit zurück</title>
+      <link>https://www.heise.de/news/Apple-HomeView-im-Teardown-Reparatur-unnoetig-kompliziert-11533912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533912</guid>
+      <pubDate>Mon, 23 Nov 2026 11:59:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Apple hatte Fortschritte beim Aufbau seiner Geräte gemacht: Komponenten sind modular(er) und Akkus schnell(er) zu tauschen. Der HomeView vergisst hier viel.]]></description>
+    </item>
+    <item>
+      <title>Geheimdienste sehen russischen Satelliten mit Atomwaffe angeblich kurz vor Start</title>
+      <link>https://www.heise.de/news/Bericht-Geheimdienste-sehen-russischen-Satelliten-mit-Atomwaffe-kurz-vor-Start-11534307.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534307</guid>
+      <pubDate>Mon, 23 Nov 2026 11:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Laut einer Recherche mehrerer deutscher Medien gehen westliche Geheimdienste davon aus, dass Russland noch in diesem Jahr eine Atomwaffe ins All schießen will.]]></description>
+    </item>
+    <item>
+      <title>Galaxy Watch 10: Widersprüchliche Berichte zur Vorstellung neuer Modelle 2027</title>
+      <link>https://www.heise.de/news/Galaxy-Watch-10-Widerspruechliche-Berichte-zur-Vorstellung-neuer-Modelle-2027-11534502.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534502</guid>
+      <pubDate>Mon, 23 Nov 2026 11:39:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Sparzwang: Samsung könnte laut Bericht im nächsten Jahr keine neuen Galaxy-Watch-Modelle vorstellen. Eine andere Quelle widerspricht.]]></description>
+    </item>
+    <item>
+      <title>European XFEL erzeugt Röntgenlaserblitze mit Weltrekord-Energie</title>
+      <link>https://www.heise.de/news/European-XFEL-erzeugt-Roentgenlaserblitze-mit-Weltrekord-Energie-11534542.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534542</guid>
+      <pubDate>Mon, 23 Nov 2026 11:35:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Am European XFEL wurde ein neuer Rekord bei der Energie von Röntgenlaserblitzen erreicht. Schon der vorherige Rekord wurde dort aufgestellt.]]></description>
+    </item>
+    <item>
+      <title>Messenger Signal: Sperre für neugierige KI-Assistenten</title>
+      <link>https://www.heise.de/news/Messenger-Signal-Sperre-fuer-neugierige-KI-Assistenten-11534436.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534436</guid>
+      <pubDate>Mon, 23 Nov 2026 11:13:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Messenger Signal bekommt eine neue Funktion, die das Mitlesen von Nachrichten durch KI-Assistenten verhindern soll.]]></description>
+    </item>
+    <item>
+      <title>Neue Hardware: Diese Geräte bringt Apple vermutlich bis März</title>
+      <link>https://www.heise.de/news/Naechste-Produkterunde-Das-plant-Apple-im-Fruehjahr-11533920.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533920</guid>
+      <pubDate>Mon, 23 Nov 2026 11:11:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Herbst war voll mit neuen Apple‑Gerätschaften. Im kommenden Frühjahr soll die nächste Offensive starten – unter anderem beim iPhone.]]></description>
+    </item>
+    <item>
+      <title>Streit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7</title>
+      <link>https://www.heise.de/news/Streit-ums-Design-Gericht-verhindert-EU-weiten-Verkauf-des-E-SUV-BYD-Ti7-11534173.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534173</guid>
+      <pubDate>Mon, 23 Nov 2026 11:01:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ein Gericht in Den Haag untersagt BYD vorläufig Import, Verkauf und Produktion des SUV Ti7 in der EU. Es sieht Designrechte am Land Rover Defender verletzt.]]></description>
+    </item>
+    <item>
+      <title>Ab in die VM: Ubuntu Core Desktop steht zum Test bereit</title>
+      <link>https://www.heise.de/news/Ab-in-die-VM-Ubuntu-Core-Desktop-steht-zum-Test-bereit-11534241.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534241</guid>
+      <pubDate>Mon, 23 Nov 2026 10:44:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Canonicals Pläne für Ubuntu Core Desktop werden konkreter. Erste Test-Images sind verfügbar, die Veröffentlichung soll parallel zu 28.04 LTS folgen.]]></description>
+    </item>
+    <item>
+      <title>Cyberangriff legt Hugendubel, Tolino-Cloud und eBook.de lahm</title>
+      <link>https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534213</guid>
+      <pubDate>Mon, 23 Nov 2026 09:49:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Webseiten von Hugendubel, Tolino-Cloud und eBook.de sind derzeit im Wartungsmodus. Ursache ist offenbar ein Cyberangriff.]]></description>
+    </item>
+    <item>
+      <title>Erdgroßer „Planet X2“ könnte neben „Planet 9“ am Rand des Sonnensystems kreisen</title>
+      <link>https://www.heise.de/news/Erdgrosser-Planet-X2-koennte-neben-Planet-9-am-Rand-des-Sonnensystems-kreisen-11534045.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534045</guid>
+      <pubDate>Mon, 23 Nov 2026 09:43:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Schon vor drei Jahren hat eine Forschungsgruppe vorgeschlagen, dass es hinter dem Neptun einen etwa erdgroßen Planeten geben könnte. Das untermauert sie jetzt.]]></description>
+    </item>
+    <item>
+      <title>Android: Neue Sideloading-Regeln ab Januar 2027 global</title>
+      <link>https://www.heise.de/news/Ab-Januar-2027-Google-weitet-Android-Entwickler-Verifizierung-weltweit-aus-11534121.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534121</guid>
+      <pubDate>Mon, 23 Nov 2026 08:54:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Google weitet die Android-Entwickler-Verifizierung aus: Ab Januar 2027 gelten damit schrittweise weltweit neue Regeln für das Sideloading.]]></description>
+    </item>
+    <item>
+      <title>Warnung vor Angriffen auf Cisco Expressway und SAP NetWeaver</title>
+      <link>https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534049</guid>
+      <pubDate>Mon, 23 Nov 2026 08:16:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bösartige Akteure haben es auf Sicherheitslücken unter anderem in Cisco Expressway und SAP NetWeaver abgesehen.]]></description>
+    </item>
+    <item>
+      <title>Keine Secrets für Agenten: Eclipse Enclave schickt Agenten in die Sandbox</title>
+      <link>https://www.heise.de/news/Keine-Secrets-fuer-Agenten-Eclipse-Enclave-schickt-Agenten-in-die-Sandbox-11534005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534005</guid>
+      <pubDate>Mon, 23 Nov 2026 08:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Laufzeitumgebung Eclipse Enclave sperrt Agenten wie Claude Code, Codex und OpenCode in Container ein. Ganz ausbruchssicher ist sie aber nicht.]]></description>
+    </item>
+    <item>
+      <title>GTA 6: Rockstar entdeckt die Macht der kleinen Gesten</title>
+      <link>https://www.heise.de/tests/GTA-6-Ein-Spiel-von-Liebe-Verbrechen-und-dem-ganz-normalen-Wahnsinn-11533850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533850</guid>
+      <pubDate>Mon, 23 Nov 2026 07:41:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Zwischen Schießereien und Verfolgungsjagden überrascht GTA 6 mit Nähe, Alltag und einer offenen Welt, die ihre eigenen Geschichten erzählt.]]></description>
+    </item>
+    <item>
+      <title>E-Motorräder: Energica wagt nach der Insolvenz einen Neustart</title>
+      <link>https://www.heise.de/news/E-Motorraeder-Energica-wagt-nach-der-Insolvenz-einen-Neustart-11533966.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533966</guid>
+      <pubDate>Mon, 23 Nov 2026 07:01:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach der Insolvenz 2024 wurde Energica von Investoren aus Singapur übernommen. Die Produktion soll nach Asien verlagert werden, um Kosten zu senken.]]></description>
+    </item>
     <item>
       <title>Triebwerksschub zu kurz: BepiColombo erreicht Orbit um den Merkur</title>
       <link>https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -88,60 +331,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Ermittlungen gegen Nvidia und Skandale um Huang belasten die Kurse. US-Tech-Aktien rutschen nach herben Verlusten in den Bärenmarkt.]]></description>
-    </item>
-    <item>
-      <title>Top 10: Der beste Fensterputzroboter im Test – Hutt siegt, Warmwasser bei Mova</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fensterputzroboter-im-test-hutt-siegt-warmwasser-bei-mova/rwq727q?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533780</guid>
-      <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen, welche Modelle überzeugen und worauf beim Kauf zu achten ist.]]></description>
-    </item>
-    <item>
-      <title>US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken</title>
-      <link>https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533750</guid>
-      <pubDate>Sun, 22 Nov 2026 11:46:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Bevor ein neuer US-Kongress strengere Regeln erzwingen könnte, soll das umstrittene NSA-Spionageprogramm mithilfe der Demokraten noch rasch verlängert werden.]]></description>
-    </item>
-    <item>
-      <title>Was das Videospiel GTA 6 über unsere Gegenwart erzählt</title>
-      <link>https://www.heise.de/news/Was-das-Videospiel-GTA-6-ueber-unsere-Gegenwart-erzaehlt-11533740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533740</guid>
-      <pubDate>Sun, 22 Nov 2026 11:02:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!]]></description>
-    </item>
-    <item>
-      <title>GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
-      <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533722</guid>
-      <pubDate>Sun, 22 Nov 2026 10:02:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.]]></description>
-    </item>
-    <item>
-      <title>Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes</title>
-      <link>https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533616</guid>
-      <pubDate>Sun, 22 Nov 2026 08:12:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Bundesrat hält den Gesetzentwurf gegen digitale Gewalt für zu lasch und fordert höhere Strafen sowie schärfere Regeln für Smart Glasses.]]></description>
-    </item>
-    <item>
-      <title>Missing Link: Der Arcade-Automat aus der DDR – 40 Jahre Poly-Play</title>
-      <link>https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532459</guid>
-      <pubDate>Sun, 22 Nov 2026 07:08:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
     </item>
   </channel>
 </rss>

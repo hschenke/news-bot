@@ -5,9 +5,324 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:21:09 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offizielles Apple-Forum: US-Version komplett weg, Deutschland noch da</title>
+      <link>https://www.heise.de/news/Offizielles-Apple-Forum-US-Version-komplett-weg-Deutschland-noch-da-11534772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534772</guid>
+      <pubDate>Mon, 23 Nov 2026 15:07:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Trotz viel Kritik hat Apple seine Apple Support Community zum Wochenende endgültig dichtgemacht. Verweise aus dem Web laufen ins Leere.]]></description>
+    </item>
+    <item>
+      <title>Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing</title>
+      <link>https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3191257</guid>
+      <pubDate>Mon, 23 Nov 2026 15:04:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.]]></description>
+    </item>
+    <item>
+      <title>„Upload2Shell“: Ghostscript-Lücke betrifft viele Systeme</title>
+      <link>https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534768</guid>
+      <pubDate>Mon, 23 Nov 2026 15:03:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Schwachstelle in Ghostscript namens „Upload2Shell“ gefährdet diverse Betriebssysteme, Programme und Dienste im Netz.]]></description>
+    </item>
+    <item>
+      <title>20 Prozent Rabatt auf Garmin: Black-Friday-Deals zu Wearables &amp; Smartphones</title>
+      <link>https://www.heise.de/bestenlisten/deals/20-prozent-rabatt-auf-garmin-black-friday-deals-zu-wearables-und-smartphones/770jzpc?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11535010</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Smartphone, Tablet oder Smartwatch günstig kaufen: Wir zeigen die besten Black-Friday-Deals für Mobilgeräte.]]></description>
+    </item>
+    <item>
+      <title>Superflinker Gaming-Monitor: Samsung verspricht 1100 Hertz</title>
+      <link>https://www.heise.de/news/Superflinker-Gaming-Monitor-Samsung-verspricht-1100-Hertz-11534912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534912</guid>
+      <pubDate>Mon, 23 Nov 2026 14:56:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Samsungs Gaming-Monitor Odyssey G6 soll 600 fps bei WQHD und 1100 fps bei Full-HD-Auflösung erzielen. Sein IPS-Panel könnte dabei allerdings Probleme aufwerfen.]]></description>
+    </item>
+    <item>
+      <title>Europäischer Smartphonemarkt bricht ein: Nur Apple und Samsung gewinnen Anteile</title>
+      <link>https://www.heise.de/news/Europaeischer-Smartphonemarkt-bricht-ein-Nur-Apple-und-Samsung-gewinnen-Anteile-11534946.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534946</guid>
+      <pubDate>Mon, 23 Nov 2026 14:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der europäische Markt ist im dritten Quartal so schwach wie seit 13 Jahren nicht mehr. Am stärksten trifft es chinesische Marken wie Xiaomi, Oppo und Honor.]]></description>
+    </item>
+    <item>
+      <title>Große KI-Modelle auf mehreren Windows-11-PCs: Microsoft bringt USB4-Vernetzung</title>
+      <link>https://www.heise.de/news/Grosse-KI-Modelle-auf-mehreren-Windows-11-PCs-Microsoft-bringt-USB4-Vernetzung-11534674.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534674</guid>
+      <pubDate>Mon, 23 Nov 2026 14:45:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine RDMA-Erweiterung für die USB4-Vernetzungsfunktion P2P ermöglicht es, KI-Modelle auf mehrere Windows-Rechner zu verteilen. Apple-Macs können das per TB5.]]></description>
+    </item>
+    <item>
+      <title>Sierra doubles valuation to $30B within six months as demand for AI in CX takes off</title>
+      <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3191185</guid>
+      <pubDate>Mon, 23 Nov 2026 14:43:03 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.]]></description>
+    </item>
+    <item>
+      <title>Jensen Huang macht den »Sam Altman« und ist wieder Nvidia-Chef</title>
+      <link>https://www.all-ai.de/news/news26top/jensen-huang-back-nvidia</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/jensen-huang-back-nvidia</guid>
+      <pubDate>Mon, 23 Nov 2026 14:42:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Elf Tage nach seinem Rücktritt kehrt Mitgründer Jensen Huang einstimmig als CEO und Präsident an die Spitze von Nvidia zurück. Nach Gesprächen mit Huang und der US-Regierung sieht der Verwaltungsrat kein Risiko für die nationale Sicherheit. Die Nvidia-Aktie legte vorbörslich um mehr als 25% zu, und Interims-Chefin Colette Kress konzentriert sich wieder allein auf ihre Rolle als Finanzchefin. Die unabhängige Untersuchung zu den Geheimdienstvorwürfen läuft weiter, während Nvidia ein neues Sicherheitskomitee und den Posten eines Chief Compliance Officers schafft. NVIDIA Newsroom: NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director Elf Tage nach seinem plötzlichen Rücktritt übernimmt Jensen Huang wieder die Führung von Nvidia. Der Verwaltungsrat setzte den Mitgründer einstimmig als Vorstandschef, Präsidenten und Mitglied des Gremiums ein. An der Börse schoss die Nvidia-Aktie daraufhin vorbörslich um mehr als 25% nach oben. Anzeige Druck aus Washington und von der Börse Die Kehrtwende kommt überraschend. Noch wenige Tage zuvor hatte der Verwaltungsrat eine Rückkehr Huangs öffentlich ausgeschlossen. Doch der Druck wuchs schnell. Nach Huangs Abgang stürzte die Nvi...]]></description>
+    </item>
+    <item>
+      <title>Nvidia reverses course and brings Jensen Huang back as CEO</title>
+      <link>https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3191219</guid>
+      <pubDate>Mon, 23 Nov 2026 14:21:59 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The stunning reversal was supported by senior officials in the U.S. government.]]></description>
+    </item>
+    <item>
+      <title>Nvidia setzt Jensen Huang wieder als CEO ein</title>
+      <link>https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534936</guid>
+      <pubDate>Mon, 23 Nov 2026 14:16:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Einstimmig hat der Verwaltungsrat von Nvidia Jensen Huang wieder als CEO eingesetzt. Ein Ende der Affären um das Unternehmen ist das nicht.]]></description>
+    </item>
+    <item>
+      <title>KI-Update kompakt: KI-Aktien, Gemini 4 Neon, Riemannsche Vermutung, Geschenktipp</title>
+      <link>https://www.heise.de/news/KI-Update-kompakt-KI-Aktien-Gemini-4-Neon-Riemannsche-Vermutung-Geschenktipp-11532019.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11532019</guid>
+      <pubDate>Mon, 23 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.]]></description>
+    </item>
+    <item>
+      <title>Kritik zur Serie „Blade Runner 2099“: Wovon Androiden träumen</title>
+      <link>https://www.heise.de/news/Kritik-zur-Serie-Blade-Runner-2099-Wovon-Androiden-traeumen-11534680.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534680</guid>
+      <pubDate>Mon, 23 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Kann man „Blade Runner“ würdig mit einer TV-Serie fortsetzen? Durchaus! Starke Bilder und eine starke Hauptdarstellerin machen „2099“ zum Erfolg.]]></description>
+    </item>
+    <item>
+      <title>Anthropic-Chef Amodei: Videospiele für Arbeitslose als Mittel gegen KI-Unruhen</title>
+      <link>https://www.all-ai.de/news/news26top/anthropic-amodei-unruhen-ki-computerspiele</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-amodei-unruhen-ki-computerspiele</guid>
+      <pubDate>Mon, 23 Nov 2026 13:22:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Anthropic-Chef Dario Amodei hat während seiner früheren Zeit bei OpenAI in internen Slack-Chats vorgeschlagen, politische Konflikte infolge von KI-Arbeitslosigkeit mit immersiven Computerspielen zu entschärfen. Ein Porträt des Wall Street Journal über die Anthropic-Gründer Dario und Daniela Amodei machte die alten Gedankenspiele nach dem Börsengang des KI-Unternehmens öffentlich. Amodei warnt regelmäßig vor den Folgen der Automatisierung und rechnet damit, dass KI-Modelle binnen weniger Jahre bis zur Hälfte aller Einstiegsjobs im Büro ersetzen könnten. Öffentlich setzt sich der Anthropic-Chef heute für Weiterbildungen und staatliche Einkommenshilfen ein, falls die US-Arbeitslosenquote durch KI auf bis zu 20% steigt. The Wall Street Journal: Porträt über Dario und Daniela Amodei The Verge: Dario Amodei über Videospiele und KI-Arbeitslosigkeit Axios: Dario Amodei warnt vor Kahlschlag bei Büro-Einstiegsjobs Videospiele als Beruhigungspille für Millionen Arbeitslose? Genau dieses Szenario brachte der heutige Anthropic-Chef Dario Amodei ins Spiel, um politische Unruhen durch künstliche Intelligenz abzufedern. Anzeige Alte Slack-Nachrichten aus der Zeit bei OpenAI Die brisante Überleg...]]></description>
+    </item>
+    <item>
+      <title>NASA: Mars-Rover und -Orbiter mit technischen Problemen</title>
+      <link>https://www.heise.de/news/NASA-Mars-Rover-und-Orbiter-mit-technischen-Problemen-11534371.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534371</guid>
+      <pubDate>Mon, 23 Nov 2026 13:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Perseverance und Mars Odyssey mussten ihre wissenschaftliche Arbeit aus unterschiedlichen Gründen aussetzen. Bei der NASA arbeitet man an Lösungen.]]></description>
+    </item>
+    <item>
+      <title>Microsoft PC Assist: Aufräumhilfe mit viel Bing</title>
+      <link>https://www.heise.de/news/Microsoft-PC-Assist-Aufraeumhilfe-mit-viel-Bing-11534684.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534684</guid>
+      <pubDate>Mon, 23 Nov 2026 12:55:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Microsoft hat ein kostenloses Tool namens „PC Assist“ veröffentlicht. Es soll etwa Laufwerke aufräumen. An allen Ecken lauert Bing.]]></description>
+    </item>
+    <item>
+      <title>GLM-5.4 Release: Ein chinesisches Top-Modell, aber ohne Benchmarks?</title>
+      <link>https://www.all-ai.de/news/news26/glm-5-4-release-fragen</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/glm-5-4-release-fragen</guid>
+      <pubDate>Mon, 23 Nov 2026 12:38:59 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Z.ai veröffentlicht mit GLM-5.4 sein erstes Flaggschiff-Modell mit Loop-Transformer-Architektur, das 28 Schichten zweimal hintereinander durchläuft. Mit 750 Milliarden Parametern soll GLM-5.4 die Leistung von Zwei- bis Drei-Billionen-Modellen erreichen, startet jedoch ohne konkrete Benchmark-Zahlen. Das Modell beherrscht erstmals Bildverarbeitung und erstellt über Programmcode auch 3D-Grafiken, Spiele und CAD-Modelle für Roboterarme. GLM-5.4 ist über Z.ai Chat und den GLM Coding Plan ab 18$ monatlich nutzbar, während API-Zugang und Open Weights nach Sicherheitsprüfungen folgen. Z.ai Technical Blog: GLM-5.4 Z.ai Ankündigung und Entwickler-Reaktionen auf X Das chinesische KI-Unternehmen Z.ai veröffentlicht mit GLM-5.4 sein erstes Flaggschiff-Modell auf Basis einer Loop-Transformer-Architektur. Durch mehrfach genutzte Schichten soll das 750-Milliarden-Parameter-Modell mit viermal größeren Konkurrenten mithalten, startet jedoch komplett ohne überprüfbare Benchmark-Werte. Anzeige Doppelte Denktiefe ohne neue Parameter In herkömmlichen Sprachmodellen durchläuft jede Anfrage die neuronalen Schichten nur ein einziges Mal von vorne nach hinten. GLM-5.4 schickt die Daten dagegen zweimal h...]]></description>
+    </item>
+    <item>
+      <title>Kommentar: Den Notbetrieb übt man nicht erst im Notfall</title>
+      <link>https://www.heise.de/meinung/Kommentar-Weniger-Klumpenrisiko-bitte-ohne-Over-Engineering-11534656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534656</guid>
+      <pubDate>Mon, 23 Nov 2026 12:26:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Zwei Anbieter sind noch kein Plan B. Benjamin Pfister erklärt, warum gemeinsame Abhängigkeiten auch den Notbetrieb gefährden.]]></description>
+    </item>
+    <item>
+      <title>Teardown: HomeView von Apple kehrt zu schlechter Reparierbarkeit zurück</title>
+      <link>https://www.heise.de/news/Apple-HomeView-im-Teardown-Reparatur-unnoetig-kompliziert-11533912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533912</guid>
+      <pubDate>Mon, 23 Nov 2026 11:59:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Apple hatte Fortschritte beim Aufbau seiner Geräte gemacht: Komponenten sind modular(er) und Akkus schnell(er) zu tauschen. Der HomeView vergisst hier viel.]]></description>
+    </item>
+    <item>
+      <title>Geheimdienste sehen russischen Satelliten mit Atomwaffe angeblich kurz vor Start</title>
+      <link>https://www.heise.de/news/Bericht-Geheimdienste-sehen-russischen-Satelliten-mit-Atomwaffe-kurz-vor-Start-11534307.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534307</guid>
+      <pubDate>Mon, 23 Nov 2026 11:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Laut einer Recherche mehrerer deutscher Medien gehen westliche Geheimdienste davon aus, dass Russland noch in diesem Jahr eine Atomwaffe ins All schießen will.]]></description>
+    </item>
+    <item>
+      <title>Galaxy Watch 10: Widersprüchliche Berichte zur Vorstellung neuer Modelle 2027</title>
+      <link>https://www.heise.de/news/Galaxy-Watch-10-Widerspruechliche-Berichte-zur-Vorstellung-neuer-Modelle-2027-11534502.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534502</guid>
+      <pubDate>Mon, 23 Nov 2026 11:39:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Sparzwang: Samsung könnte laut Bericht im nächsten Jahr keine neuen Galaxy-Watch-Modelle vorstellen. Eine andere Quelle widerspricht.]]></description>
+    </item>
+    <item>
+      <title>European XFEL erzeugt Röntgenlaserblitze mit Weltrekord-Energie</title>
+      <link>https://www.heise.de/news/European-XFEL-erzeugt-Roentgenlaserblitze-mit-Weltrekord-Energie-11534542.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534542</guid>
+      <pubDate>Mon, 23 Nov 2026 11:35:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Am European XFEL wurde ein neuer Rekord bei der Energie von Röntgenlaserblitzen erreicht. Schon der vorherige Rekord wurde dort aufgestellt.]]></description>
+    </item>
+    <item>
+      <title>Messenger Signal: Sperre für neugierige KI-Assistenten</title>
+      <link>https://www.heise.de/news/Messenger-Signal-Sperre-fuer-neugierige-KI-Assistenten-11534436.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534436</guid>
+      <pubDate>Mon, 23 Nov 2026 11:13:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Messenger Signal bekommt eine neue Funktion, die das Mitlesen von Nachrichten durch KI-Assistenten verhindern soll.]]></description>
+    </item>
+    <item>
+      <title>Neue Hardware: Diese Geräte bringt Apple vermutlich bis März</title>
+      <link>https://www.heise.de/news/Naechste-Produkterunde-Das-plant-Apple-im-Fruehjahr-11533920.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533920</guid>
+      <pubDate>Mon, 23 Nov 2026 11:11:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Herbst war voll mit neuen Apple‑Gerätschaften. Im kommenden Frühjahr soll die nächste Offensive starten – unter anderem beim iPhone.]]></description>
+    </item>
+    <item>
+      <title>Streit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7</title>
+      <link>https://www.heise.de/news/Streit-ums-Design-Gericht-verhindert-EU-weiten-Verkauf-des-E-SUV-BYD-Ti7-11534173.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534173</guid>
+      <pubDate>Mon, 23 Nov 2026 11:01:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ein Gericht in Den Haag untersagt BYD vorläufig Import, Verkauf und Produktion des SUV Ti7 in der EU. Es sieht Designrechte am Land Rover Defender verletzt.]]></description>
+    </item>
+    <item>
+      <title>Ab in die VM: Ubuntu Core Desktop steht zum Test bereit</title>
+      <link>https://www.heise.de/news/Ab-in-die-VM-Ubuntu-Core-Desktop-steht-zum-Test-bereit-11534241.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534241</guid>
+      <pubDate>Mon, 23 Nov 2026 10:44:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Canonicals Pläne für Ubuntu Core Desktop werden konkreter. Erste Test-Images sind verfügbar, die Veröffentlichung soll parallel zu 28.04 LTS folgen.]]></description>
+    </item>
+    <item>
+      <title>Cyberangriff legt Hugendubel, Tolino-Cloud und eBook.de lahm</title>
+      <link>https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534213</guid>
+      <pubDate>Mon, 23 Nov 2026 09:49:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Webseiten von Hugendubel, Tolino-Cloud und eBook.de sind derzeit im Wartungsmodus. Ursache ist offenbar ein Cyberangriff.]]></description>
+    </item>
+    <item>
+      <title>Erdgroßer „Planet X2“ könnte neben „Planet 9“ am Rand des Sonnensystems kreisen</title>
+      <link>https://www.heise.de/news/Erdgrosser-Planet-X2-koennte-neben-Planet-9-am-Rand-des-Sonnensystems-kreisen-11534045.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534045</guid>
+      <pubDate>Mon, 23 Nov 2026 09:43:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Schon vor drei Jahren hat eine Forschungsgruppe vorgeschlagen, dass es hinter dem Neptun einen etwa erdgroßen Planeten geben könnte. Das untermauert sie jetzt.]]></description>
+    </item>
+    <item>
+      <title>Android: Neue Sideloading-Regeln ab Januar 2027 global</title>
+      <link>https://www.heise.de/news/Ab-Januar-2027-Google-weitet-Android-Entwickler-Verifizierung-weltweit-aus-11534121.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534121</guid>
+      <pubDate>Mon, 23 Nov 2026 08:54:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Google weitet die Android-Entwickler-Verifizierung aus: Ab Januar 2027 gelten damit schrittweise weltweit neue Regeln für das Sideloading.]]></description>
+    </item>
+    <item>
+      <title>Warnung vor Angriffen auf Cisco Expressway und SAP NetWeaver</title>
+      <link>https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534049</guid>
+      <pubDate>Mon, 23 Nov 2026 08:16:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bösartige Akteure haben es auf Sicherheitslücken unter anderem in Cisco Expressway und SAP NetWeaver abgesehen.]]></description>
+    </item>
+    <item>
+      <title>Keine Secrets für Agenten: Eclipse Enclave schickt Agenten in die Sandbox</title>
+      <link>https://www.heise.de/news/Keine-Secrets-fuer-Agenten-Eclipse-Enclave-schickt-Agenten-in-die-Sandbox-11534005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11534005</guid>
+      <pubDate>Mon, 23 Nov 2026 08:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Laufzeitumgebung Eclipse Enclave sperrt Agenten wie Claude Code, Codex und OpenCode in Container ein. Ganz ausbruchssicher ist sie aber nicht.]]></description>
+    </item>
+    <item>
+      <title>US-Tech-Börse stürzt ab: Platzt jetzt die große KI-Blase?</title>
+      <link>https://www.all-ai.de/news/news26top/ki-blase-aktien-usa</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ki-blase-aktien-usa</guid>
+      <pubDate>Mon, 23 Nov 2026 07:52:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Die Nvidia-Aktie bricht nach Berichten über eine Bilanzprüfung durch die US-Börsenaufsicht SEC an einem einzigen Handelstag um 14% ein. Wachsende Zweifel an schuldenfinanzierten Milliardenausgaben für Rechenzentren und KI-Chips lösen an der Wall Street einen breiten Ausverkauf bei KI-Werten aus. Selbst das KI-Unternehmen Anthropic verliert nach seinem 120 Milliarden $ schweren Rekord-Börsengang am Freitag 9% und fällt fast auf den Ausgabepreis zurück. Der Technologieindex Nasdaq 100 verzeichnet mit einem Wochenminus von 10% seinen schwersten Einbruch seit der Coronakrise 2020 und rutscht in den Bärenmarkt. Reuters: US SEC's Nvidia probe is examining potential accounting issues Financial Times: US tech stocks enter bear market as AI spending doubts trigger sell-off Ein Ausverkauf bei Nvidia und weiteren KI-Aktien hat die US-Technologiebörse in ihre schwerste Verlustwoche seit Beginn der Coronakrise gestürzt. Allein die Nvidia-Aktie brach am Freitag um 14% ein, nachdem eine Untersuchung der US-Börsenaufsicht SEC bekannt wurde. Anzeige Bilanzprüfung bei Nvidia trifft den wunden Punkt der Branche Laut der Nachrichtenagentur Reuters prüft die Börsenaufsicht SEC die Buchhaltung des wi...]]></description>
+    </item>
+    <item>
+      <title>GTA 6: Rockstar entdeckt die Macht der kleinen Gesten</title>
+      <link>https://www.heise.de/tests/GTA-6-Ein-Spiel-von-Liebe-Verbrechen-und-dem-ganz-normalen-Wahnsinn-11533850.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533850</guid>
+      <pubDate>Mon, 23 Nov 2026 07:41:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Zwischen Schießereien und Verfolgungsjagden überrascht GTA 6 mit Nähe, Alltag und einer offenen Welt, die ihre eigenen Geschichten erzählt.]]></description>
+    </item>
+    <item>
+      <title>Metas KI-Chef warnt nach KI-Mathebeweis vor Superintelligenz</title>
+      <link>https://www.all-ai.de/news/news26top/alexandr-wang-ki-superintelligenz-warnung</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/alexandr-wang-ki-superintelligenz-warnung</guid>
+      <pubDate>Mon, 23 Nov 2026 07:38:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Metas KI-Chef Alexandr Wang sieht im KI-gestützten Beweis der 167 Jahre alten Riemannschen Vermutung den Startpunkt für künstliche Superintelligenz. Der mithilfe des Anthropic-Modells Claude erstellte und in Lean 4 bestätigte Beweis zeige, dass rohe Intelligenz für KI-Modelle kein Engpass mehr ist. Laut Wang sind aktuelle Modelle klug genug, um künftig die gesamte KI-Forschung zu automatisieren und sich ungebremst selbst weiterzuentwickeln. Er warnt vor einem Kontrollverlust im kommenden Jahr und fordert die KI-Branche auf, eine schleichende Entmachtung der Menschheit aktiv zu verhindern. X / Alexandr Wang: Superintelligence is Arriving Levent Alpöge: Proof of the Generalized Riemann Hypothesis with Claude Lean Community: Verification of the Riemann Hypothesis Metas KI-Chef Alexandr Wang ruft nach dem computergestützten Beweis der Riemannschen Vermutung eine neue Phase der KI-Entwicklung aus. Auf X warnt der Leiter der Meta Superintelligence Labs davor, dass die Menschheit die Kontrolle über sich selbst verbessernde KI-Modelle verlieren könnte. Anzeige Atombombe war dagegen eine »Hausaufgabe« Auslöser für Wangs Warnung ist ein historischer Durchbruch in der Mathematik. Der Anthr...]]></description>
+    </item>
+    <item>
+      <title>OpenAI fordert gemeinsame Obergrenze für das Training neuer KI-Modelle</title>
+      <link>https://www.all-ai.de/news/news26top/openai-ki-grenze-leistung</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-ki-grenze-leistung</guid>
+      <pubDate>Mon, 23 Nov 2026 07:27:05 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[OpenAI veröffentlicht erstmals interne Messdaten zum Grundlagentraining seiner KI-Modelle von GPT-3.5 bis GPT-6.2 Astra. Forschungschef Jakub Pachocki und CEO Sam Altman fordern eine branchenweite Obergrenze beim Fehlerwert Perplexität, weil KI-Modelle ab 2027 ihre eigene Entwicklung unkontrolliert beschleunigen könnten. Ab einer Schwelle von 0,70 sollen alle führenden KI-Unternehmen das Training pausieren, bis verlässliche Überwachungsmethoden existieren. Elon Musk widerspricht dem Vorstoß auf X und sieht Datenmangel als eigentliche Trainingsbremse des kommenden Jahres. OpenAI: Perplexity and Intelligence (Jakub Pachocki) Sam Altman auf X zu gemeinsamen Pretraining-Grenzen Elon Musk auf X zu Pretraining und Datenknappheit Dario Amodei: We Must Pace the Frontier OpenAI fordert eine branchenweite Bremse für die Entwicklung kommender KI-Modelle. Forschungschef Jakub Pachocki legt dafür erstmals interne Trainingsdaten seit GPT-3.5 offen und schlägt eine feste Obergrenze für alle führenden KI-Unternehmen vor. Anzeige Sam Altman wirbt für ein Tempolimit vor dem Jahr 2027 OpenAI-Chef Sam Altman nennt den Vorstoß die wichtigste Veröffentlichung seines Unternehmens seit Langem. Er wirbt...]]></description>
+    </item>
     <item>
       <title>CollectWise (YC F24) Is Hiring</title>
       <link>https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager</link>
@@ -16,6 +331,15 @@
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>E-Motorräder: Energica wagt nach der Insolvenz einen Neustart</title>
+      <link>https://www.heise.de/news/E-Motorraeder-Energica-wagt-nach-der-Insolvenz-einen-Neustart-11533966.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533966</guid>
+      <pubDate>Mon, 23 Nov 2026 07:01:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach der Insolvenz 2024 wurde Energica von Investoren aus Singapur übernommen. Die Produktion soll nach Asien verlagert werden, um Kosten zu senken.]]></description>
     </item>
     <item>
       <title>Triebwerksschub zu kurz: BepiColombo erreicht Orbit um den Merkur</title>
@@ -133,6 +457,15 @@
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>How to build and maintain an agentic evaluation</title>
+      <link>https://huggingface.co/blog/agentic-evals</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/agentic-evals</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
+      <description><![CDATA[]]></description>
     </item>
     <item>
       <title>0rwx – A simple model of AI usage, inspired by Unix permissions</title>
@@ -304,105 +637,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Top 10: Der beste Fensterputzroboter im Test – Hutt siegt, Warmwasser bei Mova</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fensterputzroboter-im-test-hutt-siegt-warmwasser-bei-mova/rwq727q?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533780</guid>
-      <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen, welche Modelle überzeugen und worauf beim Kauf zu achten ist.]]></description>
-    </item>
-    <item>
-      <title>Perplexity startet Monitor-API für automatische Web-Überwachung</title>
-      <link>https://www.all-ai.de/news/news26/perplexity-monitor-api-web</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/perplexity-monitor-api-web</guid>
-      <pubDate>Sun, 22 Nov 2026 14:08:27 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Perplexity veröffentlicht die Monitor-API, mit der Entwickler Themen im gesamten Web oder bis zu zehn feste URLs automatisiert überwachen können. Das spezialisierte KI-Modell Perplexity Decider prüft jeden Treffer auf Relevanz, Quellenvertrauen und Aktualität, bevor ein Webhook ausgelöst wird. Die Prüfintervalle lassen sich flexibel zwischen einer Minute und 31 Tagen festlegen, während doppelte Ergebnisse automatisch herausgefiltert werden. Tausend erfolgreiche Suchläufe oder Seitenabrufe kosten jeweils 1$, wobei fehlgeschlagene Prüfungen nicht berechnet werden. Perplexity Blog: Introducing Perplexity’s Monitor API Perplexity Docs: Monitor API Overview Mit einer neuen Monitor-API nimmt das KI-Unternehmen Perplexity Entwicklern die laufende Überwachung von Webseiten und Branchenthemen ab. Die Schnittstelle prüft das Internet in festen Zeitabständen und meldet wichtige Änderungen automatisch per Webhook an angebundene KI-Agenten. Anzeige Schluss mit eigenem Prüfcode Wer Preise der Konkurrenz, neue Finanzierungsrunden oder Änderungen an einer Webseite im Blick behalten will, musste bisher eigene Suchskripte programmieren. Noch aufwendiger ist das Aussortieren doppelter Treffer. Bei...]]></description>
-    </item>
-    <item>
-      <title>Show HN: I built a game where you are an LLM's subagent</title>
-      <link>https://github.com/gulivan/worker755</link>
-      <guid isPermaLink="false">https://github.com/gulivan/worker755</guid>
-      <pubDate>Sun, 22 Nov 2026 13:56:58 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Google öffnet Gemini-Abo für Agenten wie Hermes</title>
-      <link>https://www.all-ai.de/news/news26top/google-abo-hermes-ki-agenten</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-abo-hermes-ki-agenten</guid>
-      <pubDate>Sun, 22 Nov 2026 13:30:01 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Google-Produktchef Logan Kilpatrick hat für den 2. Dezember den ersten Schritt angekündigt, um reguläre Gemini-Abos in externen KI-Agenten nutzbar zu machen. Das KI-Unternehmen Nous Research arbeitet gemeinsam mit Google an einer offiziell freigegebenen Abo-Anbindung für seinen Open-Source-Agenten Hermes. Bisher benötigten Gemini-Nutzer in Hermes einen separat abgerechneten API-Schlüssel, wohingegen sich Abos von ChatGPT und Claude dort bereits direkt verknüpfen lassen. Flankiert wird der Ausbau vom neuen KI-Modell Gemini 4 Neon sowie 22% mehr Leistung pro Kontingent in Googles Entwicklungsumgebung Antigravity. Logan Kilpatrick auf X (Ankündigung zum 2. Dezember) Hermes Release Watch auf X (Kooperation zwischen Nous Research und Google) Nous Research: Hermes Agent auf GitHub Wer bereits für Google Gemini zahlt, soll sein bestehendes Abo ab dem 2. Dezember direkt in externen KI-Agenten nutzen können. Den Anfang macht voraussichtlich der beliebte Open-Source-Agent Hermes von Nous Research, wie aus einer Ankündigung von Google-Produktchef Logan Kilpatrick hervorgeht. Anzeige Schluss mit doppelten Kosten für die API Bisher standen Gemini-Abonnenten vor einer künstlichen Hürde. Wer e...]]></description>
-    </item>
-    <item>
-      <title>Donald Trump droht US-Konzernen mit Strafsteuer für Rechenzentren im Ausland</title>
-      <link>https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</guid>
-      <pubDate>Sun, 22 Nov 2026 12:59:45 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[US-Präsident Donald Trump droht amerikanischen Technologiekonzernen mit einer hohen Strafsteuer, wenn sie Rechenzentren im Ausland statt in den USA bauen. Im Inland wächst jedoch der Widerstand der Wähler gegen hohe Strompreise und Lärm: In Ohio gefährden 21 lokale Bürgerentscheide und eine 25-Megawatt-Obergrenze geplante Amazon-Investitionen über 17 Milliarden $. Ein konkretes Gesetz oder einen Steuersatz nannte Trump noch nicht und räumte ein, seinen eigenen Regierungsstab vorab nicht über den Vorstoß informiert zu haben. Gleichzeitig behauptete Trump eine Einigung mit Chinas Staatschef Xi Jinping über gemeinsame Grundregeln für KI und lobte Anthropic-Chef Dario Amodei kurz nach dem Börsengang des KI-Unternehmens. Financial Times: Donald Trump threatens 'tremendous' tax on data centres built outside US SiliconANGLE: Trump announces plan to tax US companies that build data centers abroad Ballotpedia: Sunbury, Ohio, Prohibit Construction of Data Centers Initiative (November 2026) US-Präsident Donald Trump will den Bau von Rechenzentren durch amerikanische Technologiekonzerne im Ausland mit einer hohen Strafsteuer belegen. Firmen wie Google oder Amazon sollen ihre Milliardenproje...]]></description>
-    </item>
-    <item>
-      <title>US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken</title>
-      <link>https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533750</guid>
-      <pubDate>Sun, 22 Nov 2026 11:46:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Bevor ein neuer US-Kongress strengere Regeln erzwingen könnte, soll das umstrittene NSA-Spionageprogramm mithilfe der Demokraten noch rasch verlängert werden.]]></description>
-    </item>
-    <item>
-      <title>Was das Videospiel GTA 6 über unsere Gegenwart erzählt</title>
-      <link>https://www.heise.de/news/Was-das-Videospiel-GTA-6-ueber-unsere-Gegenwart-erzaehlt-11533740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533740</guid>
-      <pubDate>Sun, 22 Nov 2026 11:02:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!]]></description>
-    </item>
-    <item>
-      <title>Masullo on the Riemann Hypothesis</title>
-      <link>https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/</link>
-      <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/</guid>
-      <pubDate>Sun, 22 Nov 2026 10:59:56 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
-      <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533722</guid>
-      <pubDate>Sun, 22 Nov 2026 10:02:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.]]></description>
-    </item>
-    <item>
-      <title>Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes</title>
-      <link>https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533616</guid>
-      <pubDate>Sun, 22 Nov 2026 08:12:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Bundesrat hält den Gesetzentwurf gegen digitale Gewalt für zu lasch und fordert höhere Strafen sowie schärfere Regeln für Smart Glasses.]]></description>
-    </item>
-    <item>
-      <title>Missing Link: Der Arcade-Automat aus der DDR – 40 Jahre Poly-Play</title>
-      <link>https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11532459</guid>
-      <pubDate>Sun, 22 Nov 2026 07:08:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
     </item>
   </channel>
 </rss>

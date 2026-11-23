@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Tägliches KI-Briefing</title>
-    <link>https://news-bot.streamlit.app/?tab=ki</link>
+    <link>https://holli-news-bot.streamlit.app/?tab=ki</link>
     <description>Die von der Gemini KI kuratierten Top-Nachrichten aus allen Kategorien.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:23:18 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/briefing.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -15,16 +15,25 @@
       <pubDate>Sun, 22 Nov 2026 16:51:00 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Hertha BSC gewinnt das Berlin-Brandenburg-Derby bei Energie Cottbus mit 4:0 und führt die 2. Bundesliga mit 34 von 36 möglichen Punkten an. Die Mannschaft überzeugt durch verlässliche Abläufe und eine kaum veränderte Startelf.</p>]]></description>
+      <description><![CDATA[<p>Hertha BSC gewinnt 4:0 bei Energie Cottbus, führt die 2. Bundesliga mit 34 von 36 möglichen Punkten an und nährt Träume von 100 Saisonpunkten. Die Mannschaft überzeugt durch verlässliche Abläufe und eine kaum veränderte Startelf.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Alba-Pleite: Berlin verliert Prestigeduell gegen die Bayern</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</guid>
-      <pubDate>Sun, 22 Nov 2026 21:02:30 +0000</pubDate>
+      <title>[Berlin] Union Berlin im Tabellenkeller: Fassade des Zusammenhalts bröckelt</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</guid>
+      <pubDate>Mon, 23 Nov 2026 13:26:11 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Alba Berlin unterliegt im zweiten Saisond gegen den Erzrivalen Bayern München. Trotz Kampf bis zum Ende verhindert eine schwache Wurfquote die Überraschung.</p>]]></description>
+      <description><![CDATA[<p>Union Berlin steckt nach zehn Spielen im Tabellenkeller der Bundesliga. Neben Manager Heldt wird auch über Trainer Lustrinelli diskutiert, der harsche Kritik an seinen Spielern übt und union-untypische Zustände schildert.</p>]]></description>
+    </item>
+    <item>
+      <title>[Berlin] 2. Liga: Hertha gewinnt Berlin-Brandenburg-Derby in Cottbus</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-liga-fc-energie-cottbus-hertha-bsc-spielbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-liga-fc-energie-cottbus-hertha-bsc-spielbericht.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:14:51 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Hertha BSC baut die Tabellenführung im ersten Berlin-Brandenburg-Derby seit 13 Jahren mit einem 4:0-Auswärtssieg bei Energie Cottbus weiter aus. Der 100-Punkte-Traum der Alten Dame lebt weiter.</p>]]></description>
     </item>
     <item>
       <title>[Berlin] Tag der offenen Tür: Drei Oberschulen öffnen in dieser Woche ihre Türen</title>
@@ -33,34 +42,52 @@
       <pubDate>Mon, 23 Nov 2026 02:59:46 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Am Samstag, 28. November, öffnen die Ernst-Haeckel-Schule und die 14. Gemeinschaftsschule in Mahlsdorf ihre Türen für Eltern und Kinder der sechsten Klassen.</p>]]></description>
+      <description><![CDATA[<p>Am Sonnabend, 28. November, folgen die Ernst-Haeckel-Schule und die 14. Gemeinschaftsschule in Mahlsdorf. Eltern und Kinder der sechsten Klassen können die Schulen besichtigen.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Regionalliga: BFC Dynamos Erfolgsserie reißt, BFC Preussen siegt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-preussen-chemie-leipzig-bfc-dynamo-hall.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-preussen-chemie-leipzig-bfc-dynamo-hall.html</guid>
-      <pubDate>Sun, 22 Nov 2026 20:22:58 +0000</pubDate>
+      <title>[Berlin] Alba-Pleite: Berlin verliert Prestigeduell gegen die Bayern</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</guid>
+      <pubDate>Sun, 22 Nov 2026 21:02:30 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>BFC Dynamo verliert in der Regionalliga Nordost, während BFC Preussen einen Sieg einfährt.</p>]]></description>
+      <description><![CDATA[<p>Alba Berlin unterliegt auch im zweiten Ligaduell dieser Saison gegen den FC Bayern München. Eine zu schwache Wurfquote verhindert die Überraschung, obwohl die Berliner bis zum Ende kämpften.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Unions 1:5 gegen Leipzig: Mut allein reicht nicht</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</guid>
-      <pubDate>Sun, 22 Nov 2026 07:24:55 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Union Berlin kassiert eine 1:5-Heimniederlage gegen RB Leipzig. Trotz mutigerer Auftritt offenbart das Team erneut große Defensivschwächen; Trainer Lustrinelli findet keine Balance.</p>]]></description>
-    </item>
-    <item>
-      <title>[Finanzen &amp; Coins] Bitcoin wagt vorsichtige Erholung: Krypto-Leitwährung klettert wieder über 60.000 Dollar</title>
-      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-verharrt-unter-60000-usdollar-einbrechende-miningmargen-und-sicherheitsrisiken-belasten-3781005</link>
-      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-verharrt-unter-60000-usdollar-einbrechende-miningmargen-und-sicherheitsrisiken-belasten-3781005</guid>
-      <pubDate>Sun, 22 Nov 2026 07:29:58 +0000</pubDate>
+      <title>[Finanzen &amp; Coins] Bitcoin springt nach Liquidationswelle zurück über 61.000 US-Dollar</title>
+      <link>https://de.investing.com/news/cryptocurrency-news/bitcoin-erholt-sich-nach-liquidationsgetriebener-verkaufswelle-wieder-uber-61000-3781376</link>
+      <guid isPermaLink="false">https://de.investing.com/news/cryptocurrency-news/bitcoin-erholt-sich-nach-liquidationsgetriebener-verkaufswelle-wieder-uber-61000-3781376</guid>
+      <pubDate>Mon, 23 Nov 2026 07:13:18 +0000</pubDate>
       <category>Finanzen &amp; Coins</category>
       <source url="https://de.investing.com/rss/news_301.rss">Investing de</source>
-      <description><![CDATA[<p>Bitcoin erholt sich leicht und notiert wieder über der 60.000-Dollar-Marke, nachdem einbrechende Mining-Margen und Sicherheitsrisiken die Kurse zuvor belastet hatten.</p>]]></description>
+      <description><![CDATA[<p>Bitcoin erholt sich nach einer liquidationsgetriebenen Verkaufswelle wieder über die Marke von 61.000 US-Dollar.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] An die Dame mit dem Dackel...</title>
+      <link>https://debeste.de/639997/An-die-Dame-mit-dem-Dackel</link>
+      <guid isPermaLink="false">https://debeste.de/639997/An-die-Dame-mit-dem-Dackel</guid>
+      <pubDate>Mon, 23 Nov 2026 15:19:01 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>An die Dame mit dem Dackel: 10 Minuten um den Block sind kein Spaziergang. - ein Nachbar - Er ist 15 und hat Arthrose. Für ihn sind das 10 Kilometer. - die Dame mit dem Dackel</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Eine Alte Frau bei uns im Restaurant nachdem ich ihr den..</title>
+      <link>https://debeste.de/639784/Eine-Alte-Frau-bei-uns-im-Restaurant-nachdem-ich-ihr-den</link>
+      <guid isPermaLink="false">https://debeste.de/639784/Eine-Alte-Frau-bei-uns-im-Restaurant-nachdem-ich-ihr-den</guid>
+      <pubDate>Mon, 23 Nov 2026 14:59:01 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>Eine Alte Frau bei uns im Restaurant nachdem ich ihr den Tee brachte: Sie haben den Tee nicht selbst gekocht, ich habe den Wasserkocher gehört! - Bro, was soll ich machen ? Feuerbändigen ?</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Ernährung: Ein Drama in zwei Akten. 1. Haferflocken, Obst..</title>
+      <link>https://debeste.de/639777/Ern-hrung-Ein-Drama-in-zwei-Akten-1-Haferflocken,-Obst</link>
+      <guid isPermaLink="false">https://debeste.de/639777/Ern-hrung-Ein-Drama-in-zwei-Akten-1-Haferflocken,-Obst</guid>
+      <pubDate>Mon, 23 Nov 2026 11:40:01 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>Ernährung: Ein Drama in zwei Akten 1. Haferflocken, Obst, Nüsse, Hafermilch, Tee - mein Körper ist ein Tempel. 2. (1 Stunde später) Tafel Schokolade, Salzstangen mit Nutella, ne Scheibe Gouda - mein Körper ist eine illegale Müllhalde im Wald.</p>]]></description>
     </item>
     <item>
       <title>[Fun] Gespräch zwischen Mann und Frau vor der Hochzeit:</title>
@@ -72,175 +99,148 @@
       <description><![CDATA[<p>Gespräch zwischen Mann und Frau vor der Hochzeit: Er: "Na endlich, ich habe schon so lange gewartet!" Sie: "Möchtest du, dass ich gehe? Er: "Nein! Wie kommst du darauf? Schon die Vorstellung ist schrecklich für mich!" Sie: "Liebst du mich?" Er: "Natürlich! Zu jeder Tages- und Nachtzeit!" Sie: "Hast du mich jemals betrogen?" Er: "Nein! Niemals! Warum fragst du das?" Sie: "Willst du mich küssen?" Er: "Ja, jedes Mal, wenn ich Gelegenheit dazu habe!" Sie: "Würdest du mich jemals schlagen?" Er: "Bist du wahnsinnig? Du weißt doch wie ich bin!" Sie: "Kann ich dir voll vertrauen?" Er: "Ja." Sie: "Mein Schatzi!" Sieben Jahre nach der Hochzeit: Text einfach nur von unten nach oben lesen!</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Influencer: Kreatin, Protein, 6x Essen am Tag, 10 Jahre Training..</title>
-      <link>https://debeste.de/639649/Influencer-Kreatin,-Protein,-6x-Essen-am-Tag,-10-Jahre-Training</link>
-      <guid isPermaLink="false">https://debeste.de/639649/Influencer-Kreatin,-Protein,-6x-Essen-am-Tag,-10-Jahre-Training</guid>
-      <pubDate>Mon, 23 Nov 2026 05:29:01 +0000</pubDate>
+      <title>[Fun] Wenn du schlau bist und deine Arbeit schneller erledigst..</title>
+      <link>https://debeste.de/639806/Wenn-du-schlau-bist-und-deine-Arbeit-schneller-erledigst</link>
+      <guid isPermaLink="false">https://debeste.de/639806/Wenn-du-schlau-bist-und-deine-Arbeit-schneller-erledigst</guid>
+      <pubDate>Sun, 22 Nov 2026 18:59:01 +0000</pubDate>
       <category>Fun</category>
       <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Influencer: Kreatin, Protein, 6x Essen am Tag, 10 Jahre Training. 100 kg. Günni (58): Currywurst und Kippe. Hält Protein für ne Partei 50 kg - 50 kg</p>]]></description>
+      <description><![CDATA[<p>Wenn du schlau bist und deine Arbeit schneller erledigst als andere, bekommst du zusätzliche Arbeit. Ohne zusätzliche Bezahlung, bis deine Energie und dein Elan völlig aufgebraucht sind - und dann fragen sie, warum du, verdammt noch mal, so wenig machst. Sich im richtigen Moment dumm zu stellen, ist eben auch ein Talent.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Wenn das Leben eine Tür schließt, öffnet es einen..</title>
-      <link>https://debeste.de/639811/Wenn-das-Leben-eine-T-r-schlie-t,-ffnet-es-einen</link>
-      <guid isPermaLink="false">https://debeste.de/639811/Wenn-das-Leben-eine-T-r-schlie-t,-ffnet-es-einen</guid>
-      <pubDate>Mon, 23 Nov 2026 02:59:02 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Wenn das Leben eine Tür schließt, öffnet es einen Kühlschrank.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fun] Warum Männer kürzer leben, Folge 2145...</title>
-      <link>https://debeste.de/639800/Warum-M-nner-k-rzer-leben,-Folge-2145</link>
-      <guid isPermaLink="false">https://debeste.de/639800/Warum-M-nner-k-rzer-leben,-Folge-2145</guid>
-      <pubDate>Mon, 23 Nov 2026 01:59:01 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Warum Männer kürzer leben, Folge 2145</p>]]></description>
-    </item>
-    <item>
-      <title>[Fun] Leute mit Fußfetisch werden ab jetzt ernsthafte..</title>
-      <link>https://debeste.de/639810/Leute-mit-Fu-fetisch-werden-ab-jetzt-ernsthafte</link>
-      <guid isPermaLink="false">https://debeste.de/639810/Leute-mit-Fu-fetisch-werden-ab-jetzt-ernsthafte</guid>
-      <pubDate>Sun, 22 Nov 2026 20:19:01 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Leute mit Fußfetisch werden ab jetzt ernsthafte Vertrauensprobleme haben.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] 2. Liga: Hertha gewinnt Berlin-Brandenburg-Derby in Cottbus</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-liga-fc-energie-cottbus-hertha-bsc-spielbericht.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5379727033599812639</guid>
-      <pubDate>Sun, 22 Nov 2026 20:58:53 +0000</pubDate>
+      <title>[Fußball] Hertha BSC hat Appetit auf mehr | 2. Bundesliga</title>
+      <link>https://www.bundesliga.com/de/2bundesliga/news/hertha-bsc-historisch-appetit-historisch-spitze-2-bundesliga-rekord-40110</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9797283553809102687</guid>
+      <pubDate>Mon, 23 Nov 2026 11:53:50 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Hertha BSC gewinnt das erste Berlin-Brandenburg-Derby seit 13 Jahren bei Energie Cottbus deutlich mit 4:0 und baut die Tabellenführung auf 10 Punkte aus.</p>]]></description>
+      <description><![CDATA[<p>Statt von Aufstiegsambitionen war vor der Saison plötzlich vom drohenden Abstiegskampf die Rede. Zwölf Spieltage später ist es für Hertha an der Tabellenspitze historisch gut.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Wechsel zum BVB? Jetzt reagiert Hertha-Juwel Gechter</title>
-      <link>https://www.fussballdaten.de/news/wechsel-bvb-jetzt-reagiert-hertha-juwel-gechter/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2942810721780753982</guid>
-      <pubDate>Mon, 23 Nov 2026 01:37:28 +0000</pubDate>
+      <title>[Fußball] Hertha BSC: Im Winter zum BVB? Trainer Leitl: „Gechter muss bleiben!“</title>
+      <link>https://www.bild.de/sport/fussball/hertha-bsc-im-winter-zum-bvb-trainer-leitl-gechter-muss-bleiben-6b033d1639a3e8110f0e7059</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:955697831967055785</guid>
+      <pubDate>Mon, 23 Nov 2026 10:22:47 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Borussia Dortmund zeigt Interesse an Hertha-Verteidiger Linus Gechter (22). Der Spieler äußert sich erstmals zu den Wechselgerüchten.</p>]]></description>
+      <description><![CDATA[<p>Herthas Abwehrchef Linus Gechter (22) überragte beim 4:0-Sieg in Cottbus erneut. Der BVB zeigt Interesse. Hertha-Trainer Leitl blockt vorerst ab: Der Spieler soll bleiben.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Werder Bremen gewinnt Nordderby gegen HSV deutlich</title>
-      <link>https://www.transfermarkt.de/doppelpack-njinmah-werder-gewinnt-nordderby-gegen-hsv-deutlich-friedl-eroeffnet-torreigen/view/news/491043</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/doppelpack-njinmah-werder-gewinnt-nordderby-gegen-hsv-deutlich-friedl-eroeffnet-torreigen/view/news/491043</guid>
-      <pubDate>Mon, 23 Nov 2026 06:01:58 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://news-bot.streamlit.app">KI-Briefing</source>
-      <description><![CDATA[<p>Justin Njinmah erzielt einen Doppelpack (66., 70.) und führt Werder Bremen zum klaren Sieg im Nordderby gegen den Hamburger SV.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Horrorstart für Pochettino bei Man United: Wirtz und Liverpool machen früh alles klar</title>
-      <link>https://www.transfermarkt.de/horrorstart-fur-pochettino-bei-man-united-wirtz-und-liverpool-sorgen-fruh-fur-klare-verhaltnisse/view/news/491044</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/horrorstart-fur-pochettino-bei-man-united-wirtz-und-liverpool-sorgen-fruh-fur-klare-verhaltnisse/view/news/491044</guid>
-      <pubDate>Sun, 22 Nov 2026 18:29:25 +0000</pubDate>
+      <title>[Fußball] BVB-Interesse an Linus Gechter: Hertha BSC spricht Machtwort</title>
+      <link>https://www.transfermarkt.de/gechter-sieht-bvb-interesse-als-riesen-ehre-quot-leitl-bekraftigt-linus-muss-bleiben-quot-/view/news/491075</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/gechter-sieht-bvb-interesse-als-riesen-ehre-quot-leitl-bekraftigt-linus-muss-bleiben-quot-/view/news/491075</guid>
+      <pubDate>Mon, 23 Nov 2026 10:10:47 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Mauricio Pochettino verliert sein Debüt als Manchester United Trainer bei Erzrivale Liverpool mit 0:4 (0:2) in Unterzahl; Florian Wirtz trifft für Liverpool.</p>]]></description>
+      <description><![CDATA[<p>Die Spekulationen um einen möglichen Wechsel von Herthas U21-Nationalspieler Linus Gechter zu Borussia Dortmund nehmen Fahrt auf. Trainer Stefan Leitl bekräftigt: "Linus muss bleiben."</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] FC Augsburg gewinnt hitziges Krisen-Duell gegen FSV Mainz 05</title>
-      <link>https://www.transfermarkt.de/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-poschs-patzer-bringt-vorentscheidung/view/news/491042</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-poschs-patzer-bringt-vorentscheidung/view/news/491042</guid>
-      <pubDate>Sun, 22 Nov 2026 16:27:15 +0000</pubDate>
+      <title>[Fußball] 100-Punkte-Traum lebt: Herthas Höhenflug hält auch in Cottbus an</title>
+      <link>https://www.sportschau.de/fussball/bundesliga2/herthas-hoehenflug-haelt-auch-in-cottbus-an,video-zweite-bundesliga-cottbus-hertha-zusammenfassung-100.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:613024543575182751</guid>
+      <pubDate>Mon, 23 Nov 2026 06:49:09 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Hertha BSC bleibt das Maß aller Dinge in der 2. Bundesliga. Beim ersten Pflichtspiel gegen Energie Cottbus seit 13 Jahren gab es einen 4:0-Sieg und die Tabellenführung wird ausgebaut.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Schalke: Finn Porath vor Wechsel zum VfL Osnabrück</title>
+      <link>https://www.transfermarkt.de/-sky-quot-porath-zieht-es-zum-vfl-osnabruck-hatte-meiste-zweitliga-erfahrung-im-kader/view/news/491106</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/-sky-quot-porath-zieht-es-zum-vfl-osnabruck-hatte-meiste-zweitliga-erfahrung-im-kader/view/news/491106</guid>
+      <pubDate>Mon, 23 Nov 2026 14:40:36 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Augsburg siegt trotz Personalsorgen und ohne etatmäßige Innenverteidiger durch einen Doppelpack von Michael Gregoritsch gegen Mainz 05.</p>]]></description>
+      <description><![CDATA[<p>Der FC Schalke 04 scheint einen Abnehmer für Verkaufskandidat Finn Porath (29) gefunden zu haben. Der Mittelfeldspieler befindet sich in fortgeschrittenen Gesprächen mit dem VfL Osnabrück.</p>]]></description>
     </item>
     <item>
-      <title>[Games] HOMM 3 - Remake Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</guid>
-      <pubDate>Sun, 22 Nov 2026 07:57:15 +0000</pubDate>
+      <title>[Games] Disciples 2 Gallean Remake - Version 0.8 available</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60625</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60625</guid>
+      <pubDate>Mon, 23 Nov 2026 09:51:41 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>IGN veröffentlicht Trailer zum Heroes of Might and Magic III Remake mit geschlossenem Playtest; das rundenbasierte Strategie-Klassiker wird in voller 3D- und 4K-Grafik mit beiden Erweiterungen neu aufgebaut.</p>]]></description>
+      <description><![CDATA[<p>Ein Fan-Remake von Disciples 2 steht kostenlos zum Download und Spielen bereit: Gallean - This FREE Disciples 2 Remake is Incredible!</p>]]></description>
     </item>
     <item>
-      <title>[Games] Heroes of Might and Magic 4 läuft dank Fan-Port jetzt nativ auf iPhone, Android und Steam Deck</title>
-      <link>https://de.vgtimes.com/gaming-news/175383-heroes-of-might-and-magic-4-luft-dank-fan-port-jetzt-nativ-auf-iphone-android-und-steam-deck.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4315880800626755978</guid>
-      <pubDate>Sun, 22 Nov 2026 11:46:44 +0000</pubDate>
+      <title>[Games] A Sector Darkly - Release Date: November 25</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60622</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60622</guid>
+      <pubDate>Mon, 23 Nov 2026 07:15:11 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Das Weltraum-Simulationsspiel A Sector Darkly erscheint am 25. November. Man kommandiert ein Schiff und eine Crew, die weit von zu Hause gestrandet sind, in diesem Open-World-Space-Sandbox-RPG.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Arknights: Endfield - Version 1.7 launches on November 25</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60621</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60621</guid>
+      <pubDate>Mon, 23 Nov 2026 06:55:58 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Version 1.7 von Arknights: Endfield startet am 25. November mit dem Trailer "Meeting You in the World o'Shrooms".</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Mortismal Gaming - Best Indie Games of 2026</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60623</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60623</guid>
+      <pubDate>Mon, 23 Nov 2026 07:21:25 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Mortismal Gaming präsentiert seine Lieblings-Indie-Spiele 2026, darunter Vahrin's Call, Aether & Iron, Mouse PI For Hire, Esoteric Ebb, Queen's Domain und Banquet For Fools.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Strategie-Fans aufgepasst: Diese Legenden müsst ihr gespielt haben</title>
+      <link>https://www.giga.de/games/strategie-fans-aufgepasst-diese-legenden-muesst-ihr-gespielt-haben--01J5QTYFZH4HSP18YKBR98DF50</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3520241549954223541</guid>
+      <pubDate>Sun, 22 Nov 2026 18:06:38 +0000</pubDate>
       <category>Games</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[<p>Entwickler evilHazzarD veröffentlicht ReHoMM4, einen inoffiziellen nativen Port von Heroes of Might and Magic 4 mit beiden Erweiterungen für mobile Geräte und Steam Deck.</p>]]></description>
+      <description><![CDATA[<p>Heroes of Might & Magic 3: The Restoration of Erathia wird als HD-Version für 14,99 Euro bei Steam angeboten.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Darkest Dungeon 2 - The Butcher's Asylum Gameplay</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</guid>
-      <pubDate>Sun, 22 Nov 2026 07:52:12 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Gameplay-Trailer zum DLC "The Butcher's Asylum" für Darkest Dungeon 2 zeigt neue Inhalte und Mechaniken der bevorstehenden Erweiterung.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Shadows of the Dungeon - Kickstarter at 36%</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</guid>
-      <pubDate>Sun, 22 Nov 2026 07:30:13 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Der Dungeon-Crawler "Shadows of the Dungeon" erreicht 36% des Finanzierungsziels auf Kickstarter; noch 17 Tage für 5.000 Euro Zielsumme.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] The Bell Tolls - Announced</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</guid>
-      <pubDate>Sun, 22 Nov 2026 07:12:46 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Neues rundenbasiertes Party-Roguelike-RPG mit 5e-Regelset angekündigt; jede Mitternacht läutet die Glocke und Korruption breitet sich aus.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Google integriert Nest-Geräte in Home-App und wechselt im Smart Home zu Gemini</title>
-      <link>https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html</link>
-      <guid isPermaLink="false">https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html</guid>
-      <pubDate>Mon, 23 Nov 2026 06:01:58 +0000</pubDate>
+      <title>[Tech &amp; AI] Nvidia setzt Jensen Huang wieder als CEO ein</title>
+      <link>https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html</link>
+      <guid isPermaLink="false">https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html</guid>
+      <pubDate>Mon, 23 Nov 2026 15:23:17 +0000</pubDate>
       <category>Tech &amp; AI</category>
-      <source url="https://news-bot.streamlit.app">KI-Briefing</source>
-      <description><![CDATA[<p>Google stellt Nest-App und Google Assistant ein; künftig gibt es nur noch die Home-App mit Gemini als Sprachassistent für alle Smart-Home-Geräte.</p>]]></description>
+      <source url="https://holli-news-bot.streamlit.app">KI-Briefing</source>
+      <description><![CDATA[<p>Einstimmig hat der Verwaltungsrat von Nvidia Jensen Huang wieder als CEO eingesetzt, elf Tage nach seinem Rücktritt. Die Nvidia-Aktie legte vorbörslich um mehr als 25% zu. Ein Ende der Affären um das Unternehmen ist das nicht.</p>]]></description>
     </item>
     <item>
-      <title>[Tech &amp; AI] Internetwache der Berliner Polizei seit Samstag offline</title>
-      <link>https://www.heise.de/news/Internetwache-der-Berliner-Polizei-seit-Samstag-offline-11533840.html</link>
-      <guid isPermaLink="false">https://www.heise.de/news/Internetwache-der-Berliner-Polizei-seit-Samstag-offline-11533840.html</guid>
-      <pubDate>Mon, 23 Nov 2026 06:01:59 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news-bot.streamlit.app">KI-Briefing</source>
-      <description><![CDATA[<p>Die Online-Anzeigenerstattung der Berliner Polizei ist seit Samstag aufgrund einer Sicherheitslücke nicht verfügbar; auch am Sonntag weiterhin offline.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Nvidia gerät weiter unter Druck – und US-Tech-Aktien in den Bärenmarkt</title>
-      <link>https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html</link>
-      <guid isPermaLink="false">https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html</guid>
-      <pubDate>Mon, 23 Nov 2026 06:01:59 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news-bot.streamlit.app">KI-Briefing</source>
-      <description><![CDATA[<p>Ermittlungen gegen Nvidia und Skandale um CEO Jensen Huang belasten die Aktie; US-Technologiewerte rutschen nach herben Verlusten in den Bärenmarkt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
-      <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html</link>
-      <guid isPermaLink="false">https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html</guid>
-      <pubDate>Mon, 23 Nov 2026 06:02:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news-bot.streamlit.app">KI-Briefing</source>
-      <description><![CDATA[<p>Eine Lücke in den cloudbasierten Fernverwaltungsdiensten von GL.iNet-Routern wird aktiv ausgenutzt; Administratoren sollten umgehend patchen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Perplexity startet Monitor-API für automatische Web-Überwachung</title>
-      <link>https://www.all-ai.de/news/news26/perplexity-monitor-api-web</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/perplexity-monitor-api-web</guid>
-      <pubDate>Sun, 22 Nov 2026 14:08:27 +0000</pubDate>
+      <title>[Tech &amp; AI] Jensen Huang macht den »Sam Altman« und ist wieder Nvidia-Chef</title>
+      <link>https://www.all-ai.de/news/news26top/jensen-huang-back-nvidia</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/jensen-huang-back-nvidia</guid>
+      <pubDate>Mon, 23 Nov 2026 14:42:00 +0000</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Perplexity veröffentlicht die Monitor-API, mit der Entwickler Themen im Web oder bis zu zehn feste URLs automatisiert überwachen können; das KI-Modell "Perplexity Decider" prüft Relevanz und Quellenvertrauen vor Webhook-Auslösung.</p>]]></description>
+      <description><![CDATA[<p>Elf Tage nach seinem Rücktritt kehrt Mitgründer Jensen Huang einstimmig als CEO und Präsident an die Spitze von Nvidia zurück. Nach Gesprächen mit Huang und der US-Regierung sieht der Verwaltungsrat kein Risiko für die nationale Sicherheit.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] „Upload2Shell“: Ghostscript-Lücke betrifft viele Systeme</title>
+      <link>https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html</link>
+      <guid isPermaLink="false">https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html</guid>
+      <pubDate>Mon, 23 Nov 2026 15:23:17 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://holli-news-bot.streamlit.app">KI-Briefing</source>
+      <description><![CDATA[<p>Eine Schwachstelle in Ghostscript namens „Upload2Shell“ gefährdet diverse Betriebssysteme, Programme und Dienste im Netz.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Europäischer Smartphonemarkt bricht ein: Nur Apple und Samsung gewinnen Anteile</title>
+      <link>https://www.heise.de/news/Europaeischer-Smartphonemarkt-bricht-ein-Nur-Apple-und-Samsung-gewinnen-Anteile-11534946.html</link>
+      <guid isPermaLink="false">https://www.heise.de/news/Europaeischer-Smartphonemarkt-bricht-ein-Nur-Apple-und-Samsung-gewinnen-Anteile-11534946.html</guid>
+      <pubDate>Mon, 23 Nov 2026 15:23:18 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://holli-news-bot.streamlit.app">KI-Briefing</source>
+      <description><![CDATA[<p>Der europäische Markt ist im dritten Quartal so schwach wie seit 13 Jahren nicht mehr. Am stärksten trifft es chinesische Marken wie Xiaomi, Oppo und Honor.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Metas KI-Chef warnt nach KI-Mathebeweis vor Superintelligenz</title>
+      <link>https://www.all-ai.de/news/news26top/alexandr-wang-ki-superintelligenz-warnung</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/alexandr-wang-ki-superintelligenz-warnung</guid>
+      <pubDate>Mon, 23 Nov 2026 07:38:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Metas KI-Chef Alexandr Wang sieht im KI-gestützten Beweis der 167 Jahre alten Riemannschen Vermutung den Startpunkt für künstliche Superintelligenz. Er warnt vor einem Kontrollverlust im kommenden Jahr.</p>]]></description>
     </item>
   </channel>
 </rss>
