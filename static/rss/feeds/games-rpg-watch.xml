@@ -2,12 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — RPG-Watch (Games)</title>
-    <link>/?category=Games&amp;feed=RPG-Watch</link>
+    <link>https://holli-news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>HOMM 3 - Remake Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60620</guid>
+      <pubDate>Sun, 22 Nov 2026 07:57:15 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[IGN shared a new trailer for the Heroes of Might and Magic III remake: Heroes of Might and Magic 3 Remake - Official Closed Playtest Trailer Take a look at the Heroes of Might and Magic 3 Remake in this trailer for the upcoming remake of the turn-based strategy classic and its two expansions, rebuilt in full 3D and 4K....]]></description>
+    </item>
+    <item>
+      <title>Darkest Dungeon 2 - The Butcher's Asylum Gameplay</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60619</guid>
+      <pubDate>Sun, 22 Nov 2026 07:52:12 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Some gameplay for the DLC Darkest Dungeon 2: The Butcher's Asylum: Darkest Dungeon 2: The Butcher's Asylum - Official Gameplay Trailer Take a look at gameplay from Darkest Dungeon 2: The Butcher's Asylum in this trailer for the upcoming DLC....]]></description>
+    </item>
+    <item>
+      <title>One Fenix Down - Review</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60618</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60618</guid>
+      <pubDate>Sun, 22 Nov 2026 07:44:27 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Tech-Gaming reviewed the J-RPG One Fenix Down: One Fenix Down Review A Real Gem (Knight) Retro role-playing games often take their time building toward conflict, but One Fenix Down opens with a siege that feels impressively large. Torloria’s defenders make a desperate attempt to destroy a bridge and slow the Goa Empire’s advance....]]></description>
+    </item>
+    <item>
+      <title>Shadows of the Dungeon - Kickstarter at 36%</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60617</guid>
+      <pubDate>Sun, 22 Nov 2026 07:30:13 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The dungeon crawler Shadows of the Dungeon reached 36% of the funding goal on Kickstarter. 17 days are left to reach 5000 Euro.]]></description>
+    </item>
+    <item>
+      <title>The Bell Tolls - Announced</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60616</guid>
+      <pubDate>Sun, 22 Nov 2026 07:12:46 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The roguelike The Bell Tolls has been announced: The Bell Tolls - Gameplay Trailer A turn-based party roguelike RPG with the 5e tabletop ruleset. Every midnight the Bell tolls and the Corruption spreads. Gather your party and venture forth to destroy the source before the Corruption reaches town....]]></description>
+    </item>
   </channel>
 </rss>

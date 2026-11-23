@@ -2,12 +2,272 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Berlin</title>
-    <link>/?category=Berlin</link>
+    <link>https://holli-news-bot.streamlit.app/?category=Berlin</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Berlin' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/berlin.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Handball-Bundesliga: Füchse zittern sich zum Sieg in Göppingen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/handball-bundesliga-fuechse-berlin-frisch-auf-goeppingen.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/handball-bundesliga-fuechse-berlin-frisch-auf-goeppingen.html</guid>
+      <pubDate>Mon, 23 Nov 2026 06:52:30 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Tag der offenen Tür: Drei Oberschulen öffnen in dieser Woche ihre Türen</title>
+      <link>https://marzahn-hellersdorf.com/tag-der-offenen-tuer-drei-oberschulen-oeffnen-in-dieser-woche-ihre-tueren/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:131706706716563797</guid>
+      <pubDate>Mon, 23 Nov 2026 02:59:46 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Am Sonnabend, 28. November, folgen die Ernst-Haeckel-Schule und die 14. Gemeinschaftsschule in Mahlsdorf. Eltern und Kinder der sechsten Klassen ...]]></description>
+    </item>
+    <item>
+      <title>51.000 € PREISREDUZIERUNG! Skandinavischer Wohntraum in Berlin-Mahlsdorf! - Wohnglück.de</title>
+      <link>https://wohnglueck.de/property/2078715</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8138150652778553272</guid>
+      <pubDate>Sun, 22 Nov 2026 21:12:06 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Objektbeschreibung. Skandinavisches Urlaubsflair in Berlin: Komfortabler, barrierearmer Bungalow in Mahlsdorf-Süd! Genießen Sie das Leben auf einer ...]]></description>
+    </item>
+    <item>
+      <title>Alba-Pleite: Berlin verliert Prestigeduell gegen die Bayern</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</guid>
+      <pubDate>Sun, 22 Nov 2026 21:02:30 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Auch das zweite Ligaduell der Berliner gegen den Dauerrivalen in dieser Saison geht an die Bayern. Alba kämpft zwar bis zum Ende, aber eine zu schwache Wurfquote verhindert die Überraschung.]]></description>
+    </item>
+    <item>
+      <title>Schnappt sich Eli einige Spieler von Mahlsdorf? #eliasnerlich #dela... | TikTok</title>
+      <link>https://www.tiktok.com/@araber_aus_salty_springs/video/7710783692553178401</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7562781290856042605</guid>
+      <pubDate>Sun, 22 Nov 2026 20:37:22 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[464 Likes, TikTok video from araber_aus_salty_springs (@araber_aus_salty_springs): “Schnappt sich Eli einige Spieler von Mahlsdorf?]]></description>
+    </item>
+    <item>
+      <title>Regionalliga: BFC Dynamos Erfolgsserie reißt, BFC Preussen siegt</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-preussen-chemie-leipzig-bfc-dynamo-hall.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-preussen-chemie-leipzig-bfc-dynamo-hall.html</guid>
+      <pubDate>Sun, 22 Nov 2026 20:22:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Helle, vollmöblierte 2-Zimmer-Dachgeschosswohnung mit Balkon in Berlin - Mahlsdorf</title>
+      <link>https://www.kleinanzeigen.de/s-anzeige/helle-vollmoeblierte-2-zimmer-dachgeschosswohnung-mit-balkon/3579925684-203-27141</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11803813420789070110</guid>
+      <pubDate>Sun, 22 Nov 2026 19:40:54 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[ich suche zum 1.1.2027 einen zuverlässigen Nachmieter für meine gepflegte 2-Zimmer-Wohnung in Mahlsdorf. Wichtige Voraussetzung: Die Wohnung wird ...]]></description>
+    </item>
+    <item>
+      <title>Vereinsausschlussverfahren gegen Cottbuser Vorsänger eingeleitet</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-capo-vereinsausschlussverfahren.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-capo-vereinsausschlussverfahren.html</guid>
+      <pubDate>Sun, 22 Nov 2026 18:40:57 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Alba-Frauen liefern Aufholjagd und gewinnen in Nördlingen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/damen-basketball-bundesliga-dbbl-alba-berlin-frauen-noerdlingen.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/damen-basketball-bundesliga-dbbl-alba-berlin-frauen-noerdlingen.html</guid>
+      <pubDate>Sun, 22 Nov 2026 18:12:27 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>EFH in Mahlsdorf zur Sanierung: 5 Zi, Kamin &amp; Vollkeller in Berlin - Kleinanzeigen</title>
+      <link>https://www.kleinanzeigen.de/s-anzeige/efh-in-mahlsdorf-zur-sanierung-5-zi-kamin-vollkeller/3579677673-208-3512</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12948764097484405208</guid>
+      <pubDate>Sun, 22 Nov 2026 17:51:25 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[In Mahlsdorf-Süd, nur wenige Gehminuten von den Kaulsdorfer Seen entfernt, steht dieses 1935 errichtete Haus. Angeboten wird der Kauf einer noch zu ...]]></description>
+    </item>
+    <item>
+      <title>Tiermedizinische:r Fachangestellte:r (m/w/d) - Berlin (Mahlsdorf) - Indeed</title>
+      <link>https://de.indeed.com/viewjob?jk=7e3cfa2095e70c87&amp;from=vjs&amp;tk=1k825cf3qjn26800&amp;viewtype=embedded&amp;xkcb=SoCP67M2bCC-PEQpbR0FbzkdCdPP&amp;continueUrl=%2Fjobs%3Fq%3Dempfang%26l%3Dstrausberg</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11919282099865342134</guid>
+      <pubDate>Sun, 22 Nov 2026 17:49:21 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Tiermedizinische:r Fachangestellte:r (m/w/d) - Berlin (Mahlsdorf). Tierarztpraxis am Wildrosengehölz. Stellenbeschreibung. Keine Gehaltsinformationen ...]]></description>
+    </item>
+    <item>
+      <title>EFH in Mahlsdorf zur Sanierung: 5 Zi, Kamin &amp; Vollkeller - ImmoScout24</title>
+      <link>https://www.immobilienscout24.de/expose/172939736</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12904638276982815690</guid>
+      <pubDate>Sun, 22 Nov 2026 17:35:04 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Einfamilienhaus zum Kauf (Haus/Kauf): 5 Zimmer - 137 qm - Mahlsdorf (Hellersdorf) bei ImmobilienScout24 (Scout-ID: 172939736)]]></description>
+    </item>
+    <item>
+      <title>Herthas Sieg in Cottbus: Das 100-Punkte-Puzzle</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-analyse.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-analyse.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:51:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[34 von 36 Punkten, Tabellenführung, 4:0 in Cottbus – und kaum jemand hat das so kommen sehen. Hertha BSC spielt keinen rauschhaften Fußball, glänzt aber mit verlässlichen Abläufen, stoischem Gleichmut und einer Startelf, die kaum gewechselt werden muss. Warum dieser Lauf derzeit so schwer aufzuhalten ist.]]></description>
+    </item>
+    <item>
+      <title>Tennis Borussia Berlin - BSV Eintracht Mahlsdorf 0:0 | 12. Spieltag | Oberliga NOFV-Nord 2026/27</title>
+      <link>https://www.kicker.de/ama-501179911/schema/tennis-borussia-berlin/eintracht-mahlsdorf</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13004933520575224323</guid>
+      <pubDate>Sun, 22 Nov 2026 16:44:44 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Tennis Borussia Berlin - BSV Eintracht Mahlsdorf: Schema zum Spiel vom 12. Spieltag der Oberliga NOFV-Nord 2026/27.]]></description>
+    </item>
+    <item>
+      <title>2. Frauen-Liga: Viktoria festigt Tabellenführung, Hertha taumelt</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/frauen-bundesliga-viktoria-berlin-turbine-potsdam-hertha-jena-.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/frauen-bundesliga-viktoria-berlin-turbine-potsdam-hertha-jena-.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:28:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>6:4-Sieg: Eisbären gewinnen Torspektakel in Straubing</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/del-eishockey-liga-straubing-tigers-eisbaeren-berlin.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/del-eishockey-liga-straubing-tigers-eisbaeren-berlin.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:18:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Nullnummer in Berlin - Fussball.de</title>
+      <link>https://www.fussball.de/mgc.newsdetail/-/article-uuid/032PI9PMGO000000VS5489BVVSPJDT9G</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4491861074675295768</guid>
+      <pubDate>Sun, 22 Nov 2026 16:16:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[NOFV-Oberliga Nord: Tennis Borussia Berlin – BSV Eintracht Mahlsdorf, 0:0 (0:0), Berlin. Aus der eigenen Favoritenstellung konnte die BSV ...]]></description>
+    </item>
+    <item>
+      <title>2. Liga: Hertha gewinnt Berlin-Brandenburg-Derby in Cottbus</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-liga-fc-energie-cottbus-hertha-bsc-spielbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-liga-fc-energie-cottbus-hertha-bsc-spielbericht.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:14:51 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Herthas 100-Punkte-Traum geht weiter. Im ersten Berlin-Brandenburg-Derby seit 13 Jahren gewinnt die Alte Dame am Ende deutlich und verdient in Cottbus.]]></description>
+    </item>
+    <item>
+      <title>Zehlendorf jubelt spät, Mahlsdorf lässt Punkte liegen - FuPa</title>
+      <link>https://www.fupa.net/news/zehlendorf-jubelt-spaet-mahlsdorf-laesst-punkte-liegen-3227811</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5546379978555475282</guid>
+      <pubDate>Sun, 22 Nov 2026 15:22:50 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Zehlendorf jubelt spät, Mahlsdorf lässt Punkte liegen. NOFV-Oberliga Nord: Die Übersicht auf den 12. Spieltag. von red · Heute, 16:20 Uhr · 0 Leser.]]></description>
+    </item>
+    <item>
+      <title>Türkiyemspor Berlin gegen Eintracht Mahlsdorf | Alle Spiele - kicker</title>
+      <link>https://www.kicker.de/tuerkiyemspor-berlin-gegen-eintracht-mahlsdorf</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7430323690059546905</guid>
+      <pubDate>Sun, 22 Nov 2026 15:14:15 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Direktvergleich und historische Duelle Türkiyemspor Berlin gegen Eintracht Mahlsdorf • Alle Begegnungen und Statistiken im Überblick.]]></description>
+    </item>
+    <item>
+      <title>22.11.26 Tennis Borussia Berlin 0-0 BSV Eintracht Mahlsdorf | Tony Honan - Facebook</title>
+      <link>https://www.facebook.com/arlowtone/videos/221126-tennis-borussia-berlin-0-0-bsv-eintracht-mahlsdorf/2078439896163016/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10207682354524360782</guid>
+      <pubDate>Sun, 22 Nov 2026 14:55:57 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[22.11.26 Tennis Borussia Berlin 0-0 BSV Eintracht Mahlsdorf - at Mommsenstadion. Last viewed on: Nov 22, 2026 ...]]></description>
+    </item>
+    <item>
+      <title>Energie Cottbus vs. Hertha: Das Derby im Liveticker und Audiostream</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</guid>
+      <pubDate>Sun, 22 Nov 2026 14:55:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Hertha BSC gewinnt mit 4:0 bei Energie Cottbus und träumt weiter von 100 Punkten, weil ... ja, warum eigentlich? Weiß es auch nicht, hat das aber immerhin schon vorher gewusst: der Liveticker.]]></description>
+    </item>
+    <item>
+      <title>Spiele &amp; Ergebnisse - Live - Brandenburg - FuPa</title>
+      <link>https://www.fupa.net/region/brandenburg/matches/live?date=2026-11-22</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9187957718797240571</guid>
+      <pubDate>Sun, 22 Nov 2026 14:17:01 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[BSV Eintracht MahlsdorfMahlsdorf. 0. 0. PUSH. TuS Makkabi BerlinMakkabi. TSG NeustrelitzTSG ...]]></description>
+    </item>
+    <item>
+      <title>Dekoratives Keramik-Häuschen als Räucherhaus in Berlin - Mahlsdorf | kleinanzeigen.de</title>
+      <link>https://www.kleinanzeigen.de/s-anzeige/dekoratives-keramik-haeuschen-als-raeucherhaus/3579225795-246-27141</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12080350579095459452</guid>
+      <pubDate>Sun, 22 Nov 2026 14:02:52 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Dekoratives Keramik-Häuschen als Räucherhaus. 8 €. + Versand ab 0,49 €. 12623 Mahlsdorf. 22.11.2026 ...]]></description>
+    </item>
+    <item>
+      <title>Spiele &amp; Ergebnisse - Live - Berlin - FuPa</title>
+      <link>https://www.fupa.net/region/berlin/matches/live?date=2026-11-22</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14958796840127660346</guid>
+      <pubDate>Sun, 22 Nov 2026 11:30:05 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[BSV Eintracht MahlsdorfMahlsdorf. 13:30live. PUSH. Tabelle · Berlin-Liga. 14. Spieltag · TSV Mariendorf 1897TSV ...]]></description>
+    </item>
+    <item>
+      <title>Haushaltshilfe mit hohem Reinigungsanspruch gesucht in Berlin - Mahlsdorf | kleinanzeigen.de</title>
+      <link>https://www.kleinanzeigen.de/s-anzeige/haushaltshilfe-mit-hohem-reinigungsanspruch-gesucht/3578928333-107-27141</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14410064829183427683</guid>
+      <pubDate>Sun, 22 Nov 2026 11:10:19 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[130 m² großes Haus in Berlin-Mahlsdorf Süd. Unser Schwerpunkt liegt auf einer äußerst sorgfältigen Reinigung mit hohem Qualitätsanspruch – ...]]></description>
+    </item>
+    <item>
+      <title>Gebraucht Skoda Fabia Elegance 105 PS (2009) in Berlin - Mahlsdorf - 3.490 € | AutoUncle</title>
+      <link>https://www.autouncle.de/de/d/230409470-gebraucht-2009-skoda-fabia-elegance-105-ps</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1646278788918014509</guid>
+      <pubDate>Sun, 22 Nov 2026 10:27:23 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Gebraucht Skoda Fabia Elegance in Schwarz. 179.900 km, Schaltgetriebe, 105 PS. Fairer Preis: 3.490 €. Jetzt beim Händler in 12623 Berlin - Mahlsdorf]]></description>
+    </item>
+    <item>
+      <title>Integrierte Sekundarschule Berlin-Mahlsdorf / Integrierte Sekundarschule ... - thomas mayer_ archive</title>
+      <link>https://thomasmayerarchive.de/categories.php?cat_id=5153&amp;sessionid=6a55e283f2086ed885b3c257a9f31b6e&amp;l=deutsch</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1950145781526592041</guid>
+      <pubDate>Sun, 22 Nov 2026 09:09:40 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[thomas mayer archive: DEU, Deutschland, Berlin, ISS Mahlsdorf, integrierte Sekundarschule Berlin-Mahlsdorf.]]></description>
+    </item>
+    <item>
+      <title>Unions 1:5 gegen Leipzig: Mut allein reicht nicht</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</guid>
+      <pubDate>Sun, 22 Nov 2026 07:24:55 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Union Berlin tritt bei der 1:5-Niederlage gegen RB Leipzig mutiger auf, offenbart aber erneut große Schwächen in der Defensive. Die Mannschaft von Mauro Lustrinelli findet weiterhin nicht die richtige Balance.]]></description>
+    </item>
   </channel>
 </rss>

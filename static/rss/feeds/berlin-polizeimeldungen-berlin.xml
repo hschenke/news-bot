@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Polizeimeldungen Berlin (Berlin)</title>
-    <link>/?category=Berlin&amp;feed=Polizeimeldungen+Berlin</link>
+    <link>https://holli-news-bot.streamlit.app/?category=Berlin&amp;feed=Polizeimeldungen+Berlin</link>
     <description>RSS-Feed für die Quelle 'Polizeimeldungen Berlin' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-polizeimeldungen-berlin.xml" rel="self" type="application/rss+xml" />
 

@@ -2,12 +2,497 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Fun</title>
-    <link>/?category=Fun</link>
+    <link>https://holli-news-bot.streamlit.app/?category=Fun</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Fun' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/fun.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>"Ich kaufe, wenn es steigt, dann mache ich Gewinn"..</title>
+      <link>https://debeste.de/639790/Ich-kaufe,-wenn-es-steigt,-dann-mache-ich-Gewinn</link>
+      <guid isPermaLink="false">https://debeste.de/639790/Ich-kaufe,-wenn-es-steigt,-dann-mache-ich-Gewinn</guid>
+      <pubDate>Mon, 23 Nov 2026 06:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[„Ich kaufe, wenn es steigt, dann mache ich Gewinn“]]></description>
+    </item>
+    <item>
+      <title>So fiel das Tor für USC Paredes im Spiel gegen FC Porto.</title>
+      <link>https://debeste.de/639786/So-fiel-das-Tor-f-r-USC-Paredes-im-Spiel-gegen-FC-Porto</link>
+      <guid isPermaLink="false">https://debeste.de/639786/So-fiel-das-Tor-f-r-USC-Paredes-im-Spiel-gegen-FC-Porto</guid>
+      <pubDate>Mon, 23 Nov 2026 06:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Her mit dem Knuddelspielzeug!</title>
+      <link>https://debeste.de/639823/Her-mit-dem-Knuddelspielzeug</link>
+      <guid isPermaLink="false">https://debeste.de/639823/Her-mit-dem-Knuddelspielzeug</guid>
+      <pubDate>Mon, 23 Nov 2026 05:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Influencer: Kreatin, Protein, 6x Essen am Tag, 10 Jahre Training..</title>
+      <link>https://debeste.de/639649/Influencer-Kreatin,-Protein,-6x-Essen-am-Tag,-10-Jahre-Training</link>
+      <guid isPermaLink="false">https://debeste.de/639649/Influencer-Kreatin,-Protein,-6x-Essen-am-Tag,-10-Jahre-Training</guid>
+      <pubDate>Mon, 23 Nov 2026 05:29:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Influencer: Kreatin, Protein, 6x Essen am Tag, 10 Jahre Training. 100 kg. Günni (58): Currywurst und Kippe. Hält Protein für ne Partei 50 kg - 50 kg]]></description>
+    </item>
+    <item>
+      <title>Neulich im Tunnel.</title>
+      <link>https://debeste.de/639827/Neulich-im-Tunnel</link>
+      <guid isPermaLink="false">https://debeste.de/639827/Neulich-im-Tunnel</guid>
+      <pubDate>Mon, 23 Nov 2026 03:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Schick das an jemanden, der heute einfach mal grundlos von..</title>
+      <link>https://debeste.de/639813/Schick-das-an-jemanden,-der-heute-einfach-mal-grundlos-von</link>
+      <guid isPermaLink="false">https://debeste.de/639813/Schick-das-an-jemanden,-der-heute-einfach-mal-grundlos-von</guid>
+      <pubDate>Mon, 23 Nov 2026 03:29:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Schick das an jemanden, der heute einfach mal grundlos von einem Otter verurteilt werden muss.]]></description>
+    </item>
+    <item>
+      <title>Wenn das Leben eine Tür schließt, öffnet es einen..</title>
+      <link>https://debeste.de/639811/Wenn-das-Leben-eine-T-r-schlie-t,-ffnet-es-einen</link>
+      <guid isPermaLink="false">https://debeste.de/639811/Wenn-das-Leben-eine-T-r-schlie-t,-ffnet-es-einen</guid>
+      <pubDate>Mon, 23 Nov 2026 02:59:02 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Wenn das Leben eine Tür schließt, öffnet es einen Kühlschrank.]]></description>
+    </item>
+    <item>
+      <title>Ich bin froh, dass ich mich für einen Wagen..</title>
+      <link>https://debeste.de/639793/Ich-bin-froh,-dass-ich-mich-f-r-einen-Wagen</link>
+      <guid isPermaLink="false">https://debeste.de/639793/Ich-bin-froh,-dass-ich-mich-f-r-einen-Wagen</guid>
+      <pubDate>Mon, 23 Nov 2026 02:29:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ich bin froh, dass ich mich für einen Wagen mit Basilikumshalter entschieden habe]]></description>
+    </item>
+    <item>
+      <title>Warum Männer kürzer leben, Folge 2145...</title>
+      <link>https://debeste.de/639800/Warum-M-nner-k-rzer-leben,-Folge-2145</link>
+      <guid isPermaLink="false">https://debeste.de/639800/Warum-M-nner-k-rzer-leben,-Folge-2145</guid>
+      <pubDate>Mon, 23 Nov 2026 01:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Warum Männer kürzer leben, Folge 2145]]></description>
+    </item>
+    <item>
+      <title>Das muss eine Erleichterung gewesen sein.</title>
+      <link>https://debeste.de/639762/Das-muss-eine-Erleichterung-gewesen-sein</link>
+      <guid isPermaLink="false">https://debeste.de/639762/Das-muss-eine-Erleichterung-gewesen-sein</guid>
+      <pubDate>Mon, 23 Nov 2026 01:29:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Vermieter: "Heizung ist in den Nebenkosten voll.."</title>
+      <link>https://debeste.de/639809/Vermieter-Heizung-ist-in-den-Nebenkosten-voll</link>
+      <guid isPermaLink="false">https://debeste.de/639809/Vermieter-Heizung-ist-in-den-Nebenkosten-voll</guid>
+      <pubDate>Mon, 23 Nov 2026 00:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Vermieter: ‚Heizung ist in den Nebenkosten voll enthalten.‘ Die Heizung:]]></description>
+    </item>
+    <item>
+      <title>Wenn du von deinen früheren Leben träumst...</title>
+      <link>https://debeste.de/639767/Wenn-du-von-deinen-fr-heren-Leben-tr-umst</link>
+      <guid isPermaLink="false">https://debeste.de/639767/Wenn-du-von-deinen-fr-heren-Leben-tr-umst</guid>
+      <pubDate>Mon, 23 Nov 2026 00:29:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Wenn du von deinen früheren Leben träumst.]]></description>
+    </item>
+    <item>
+      <title>Gespräch zwischen Mann und Frau vor der Hochzeit:</title>
+      <link>https://www.hahaha.de/witze/menschen/allgemein/14613/gespraech-zwischen-mann-und-frau-vor-der-hochzeit.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/allgemein/14613/gespraech-zwischen-mann-und-frau-vor-der-hochzeit.html</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
+      <description><![CDATA[Gespräch zwischen Mann und Frau vor der Hochzeit: Er: "Na endlich, ich habe schon so lange gewartet!" Sie: "Möchtest du, dass ich gehe? Er: "Nein! Wie kommst du darauf? Schon die Vorstellung ist schrecklich für mich!" Sie: "Liebst du mich?" Er: "Natürlich! Zu jeder Tages- und Nachtzeit!" Sie: "Hast du mich jemals betrogen?" Er: "Nein! Niemals! Warum fragst du das?" Sie: "Willst du mich küssen?" Er: "Ja, jedes Mal, wenn ich Gelegenheit dazu habe!" Sie: "Würdest du mich jemals schlagen?" Er: "Bist du wahnsinnig? Du weißt doch wie ich bin!" Sie: "Kann ich dir voll vertrauen?" Er: "Ja." Sie: "Mein Schatzi!" Sieben Jahre nach der Hochzeit: Text einfach nur von unten nach oben lesen!]]></description>
+    </item>
+    <item>
+      <title>Motto für Sonntags..</title>
+      <link>https://debeste.de/639824/Motto-f-r-Sonntags</link>
+      <guid isPermaLink="false">https://debeste.de/639824/Motto-f-r-Sonntags</guid>
+      <pubDate>Sun, 22 Nov 2026 23:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Motto für Sonntags]]></description>
+    </item>
+    <item>
+      <title>Montag...</title>
+      <link>https://debeste.de/639776/Montag</link>
+      <guid isPermaLink="false">https://debeste.de/639776/Montag</guid>
+      <pubDate>Sun, 22 Nov 2026 23:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Ein wahres Festmahl.</title>
+      <link>https://debeste.de/639775/Ein-wahres-Festmahl</link>
+      <guid isPermaLink="false">https://debeste.de/639775/Ein-wahres-Festmahl</guid>
+      <pubDate>Sun, 22 Nov 2026 23:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Ich gebe auf und renne ins Gebüsch...</title>
+      <link>https://debeste.de/639771/Ich-gebe-auf-und-renne-ins-Geb-sch</link>
+      <guid isPermaLink="false">https://debeste.de/639771/Ich-gebe-auf-und-renne-ins-Geb-sch</guid>
+      <pubDate>Sun, 22 Nov 2026 22:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ich gebe auf und renne ins Gebüsch.]]></description>
+    </item>
+    <item>
+      <title>Was ich in Japan gelernt habe: Bei Disziplin geht es nicht..</title>
+      <link>https://debeste.de/639850/Was-ich-in-Japan-gelernt-habe-Bei-Disziplin-geht-es-nicht</link>
+      <guid isPermaLink="false">https://debeste.de/639850/Was-ich-in-Japan-gelernt-habe-Bei-Disziplin-geht-es-nicht</guid>
+      <pubDate>Sun, 22 Nov 2026 22:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Was ich in Japan gelernt habe: Bei Disziplin geht es nicht um strenge Regeln, sondern um Rücksicht auf die Zeit anderer.]]></description>
+    </item>
+    <item>
+      <title>Das müssen wohl Androiden sein...</title>
+      <link>https://debeste.de/639803/Das-m-ssen-wohl-Androiden-sein</link>
+      <guid isPermaLink="false">https://debeste.de/639803/Das-m-ssen-wohl-Androiden-sein</guid>
+      <pubDate>Sun, 22 Nov 2026 22:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Kunst, die den Stroboskopeffekt nutzt.</title>
+      <link>https://debeste.de/639808/Kunst,-die-den-Stroboskopeffekt-nutzt</link>
+      <guid isPermaLink="false">https://debeste.de/639808/Kunst,-die-den-Stroboskopeffekt-nutzt</guid>
+      <pubDate>Sun, 22 Nov 2026 21:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Pures Glück.</title>
+      <link>https://debeste.de/639769/Pures-Gl-ck</link>
+      <guid isPermaLink="false">https://debeste.de/639769/Pures-Gl-ck</guid>
+      <pubDate>Sun, 22 Nov 2026 21:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Männer brauchen wirklich nicht viel zum Glücklichsein.</title>
+      <link>https://debeste.de/639759/M-nner-brauchen-wirklich-nicht-viel-zum-Gl-cklichsein</link>
+      <guid isPermaLink="false">https://debeste.de/639759/M-nner-brauchen-wirklich-nicht-viel-zum-Gl-cklichsein</guid>
+      <pubDate>Sun, 22 Nov 2026 21:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Einfach nur WOW!</title>
+      <link>https://debeste.de/639763/Einfach-nur-WOW</link>
+      <guid isPermaLink="false">https://debeste.de/639763/Einfach-nur-WOW</guid>
+      <pubDate>Sun, 22 Nov 2026 20:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Erwarte das Unerwartete...</title>
+      <link>https://debeste.de/639794/Erwarte-das-Unerwartete</link>
+      <guid isPermaLink="false">https://debeste.de/639794/Erwarte-das-Unerwartete</guid>
+      <pubDate>Sun, 22 Nov 2026 20:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Leute mit Fußfetisch werden ab jetzt ernsthafte..</title>
+      <link>https://debeste.de/639810/Leute-mit-Fu-fetisch-werden-ab-jetzt-ernsthafte</link>
+      <guid isPermaLink="false">https://debeste.de/639810/Leute-mit-Fu-fetisch-werden-ab-jetzt-ernsthafte</guid>
+      <pubDate>Sun, 22 Nov 2026 20:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Leute mit Fußfetisch werden ab jetzt ernsthafte Vertrauensprobleme haben.]]></description>
+    </item>
+    <item>
+      <title>Ich hab der zuckerfreien Mutti schon in der Kita..</title>
+      <link>https://debeste.de/639792/Ich-hab-der-zuckerfreien-Mutti-schon-in-der-Kita</link>
+      <guid isPermaLink="false">https://debeste.de/639792/Ich-hab-der-zuckerfreien-Mutti-schon-in-der-Kita</guid>
+      <pubDate>Sun, 22 Nov 2026 19:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ich hab der zuckerfreien Mutti schon in der Kita prophezeit, dass es spätestens ab der Grundschule schwierig damit wird, aber sie war von seinem konsequenten Handeln überzeugt. Er hat dann heute jedenfalls konsequent sein Pokémon-Shirt gegen 2 Knoppers eingetauscht.]]></description>
+    </item>
+    <item>
+      <title>Robert Pattinson wurde als neuer James Bond ausgewählt...</title>
+      <link>https://debeste.de/639758/Robert-Pattinson-wurde-als-neuer-James-Bond-ausgew-hlt</link>
+      <guid isPermaLink="false">https://debeste.de/639758/Robert-Pattinson-wurde-als-neuer-James-Bond-ausgew-hlt</guid>
+      <pubDate>Sun, 22 Nov 2026 19:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Robert Pattinson wurde als neuer James Bond ausgewählt. Dabei hätten sie doch den besten britischen Geheimagenten nehmen können...]]></description>
+    </item>
+    <item>
+      <title>Brigitte Bardot 1953 in Cannes..</title>
+      <link>https://debeste.de/639782/Brigitte-Bardot-1953-in-Cannes</link>
+      <guid isPermaLink="false">https://debeste.de/639782/Brigitte-Bardot-1953-in-Cannes</guid>
+      <pubDate>Sun, 22 Nov 2026 19:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Brigitte Bardot 1953 in Cannes]]></description>
+    </item>
+    <item>
+      <title>Wenn du schlau bist und deine Arbeit schneller erledigst..</title>
+      <link>https://debeste.de/639806/Wenn-du-schlau-bist-und-deine-Arbeit-schneller-erledigst</link>
+      <guid isPermaLink="false">https://debeste.de/639806/Wenn-du-schlau-bist-und-deine-Arbeit-schneller-erledigst</guid>
+      <pubDate>Sun, 22 Nov 2026 18:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Wenn du schlau bist und deine Arbeit schneller erledigst als andere, bekommst du zusätzliche Arbeit. Ohne zusätzliche Bezahlung, bis deine Energie und dein Elan völlig aufgebraucht sind - und dann fragen sie, warum du, verdammt noch mal, so wenig machst. Sich im richtigen Moment dumm zu stellen, ist eben auch ein Talent.]]></description>
+    </item>
+    <item>
+      <title>Die beste Werbung aller Zeiten.</title>
+      <link>https://debeste.de/639773/Die-beste-Werbung-aller-Zeiten</link>
+      <guid isPermaLink="false">https://debeste.de/639773/Die-beste-Werbung-aller-Zeiten</guid>
+      <pubDate>Sun, 22 Nov 2026 18:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Spitzengastronomie ist ab nem gewissen Level einfach nur..</title>
+      <link>https://debeste.de/639796/Spitzengastronomie-ist-ab-nem-gewissen-Level-einfach-nur</link>
+      <guid isPermaLink="false">https://debeste.de/639796/Spitzengastronomie-ist-ab-nem-gewissen-Level-einfach-nur</guid>
+      <pubDate>Sun, 22 Nov 2026 18:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Spitzengastronomie ist ab nem gewissen Level einfach nur noch Schaum]]></description>
+    </item>
+    <item>
+      <title>Das Gleichgewicht der Natur muss erhalten bleiben...</title>
+      <link>https://debeste.de/639772/Das-Gleichgewicht-der-Natur-muss-erhalten-bleiben</link>
+      <guid isPermaLink="false">https://debeste.de/639772/Das-Gleichgewicht-der-Natur-muss-erhalten-bleiben</guid>
+      <pubDate>Sun, 22 Nov 2026 17:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Das Gleichgewicht der Natur muss erhalten bleiben.]]></description>
+    </item>
+    <item>
+      <title>Die wichtigste Fähigkeit ist, über sich selbst lachen zu können.</title>
+      <link>https://debeste.de/639774/Die-wichtigste-F-higkeit-ist,-ber-sich-selbst-lachen-zu-k-nnen</link>
+      <guid isPermaLink="false">https://debeste.de/639774/Die-wichtigste-F-higkeit-ist,-ber-sich-selbst-lachen-zu-k-nnen</guid>
+      <pubDate>Sun, 22 Nov 2026 17:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Heute gehen in Deutschland erneut junge Menschen für..</title>
+      <link>https://debeste.de/639778/Heute-gehen-in-Deutschland-erneut-junge-Menschen-f-r</link>
+      <guid isPermaLink="false">https://debeste.de/639778/Heute-gehen-in-Deutschland-erneut-junge-Menschen-f-r</guid>
+      <pubDate>Sun, 22 Nov 2026 17:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Heute gehen in Deutschland erneut junge Menschen für bessere Bildung auf die Straße. Wir gingen dafür noch in die Schule.]]></description>
+    </item>
+    <item>
+      <title>Der Mann und ich haben heute Nachmittag über ne Stunde..</title>
+      <link>https://debeste.de/639480/Der-Mann-und-ich-haben-heute-Nachmittag-ber-ne-Stunde</link>
+      <guid isPermaLink="false">https://debeste.de/639480/Der-Mann-und-ich-haben-heute-Nachmittag-ber-ne-Stunde</guid>
+      <pubDate>Sun, 22 Nov 2026 16:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Der Mann und ich haben heute Nachmittag über ne Stunde telefoniert und gerade noch mal eine halbe Stunde. Und ich denke an damals vor 20 Jahren. Als ich mich bei meinen Eltern für eine Telefonrechnung von ü100 Euro rechtfertigen musste. Weil wir uns so sehr vermissten.]]></description>
+    </item>
+    <item>
+      <title>"Statisch aufgeladen"..</title>
+      <link>https://debeste.de/639458/Statisch-aufgeladen</link>
+      <guid isPermaLink="false">https://debeste.de/639458/Statisch-aufgeladen</guid>
+      <pubDate>Sun, 22 Nov 2026 16:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Statisch aufgeladen]]></description>
+    </item>
+    <item>
+      <title>Sie sagte, sie würde alles tun, was ich will.</title>
+      <link>https://debeste.de/639449/Sie-sagte,-sie-w-rde-alles-tun,-was-ich-will</link>
+      <guid isPermaLink="false">https://debeste.de/639449/Sie-sagte,-sie-w-rde-alles-tun,-was-ich-will</guid>
+      <pubDate>Sun, 22 Nov 2026 16:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Für einen durchschnittlich intelligenten Menschen..</title>
+      <link>https://debeste.de/639634/F-r-einen-durchschnittlich-intelligenten-Menschen</link>
+      <guid isPermaLink="false">https://debeste.de/639634/F-r-einen-durchschnittlich-intelligenten-Menschen</guid>
+      <pubDate>Sun, 22 Nov 2026 15:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Welchen Weg wählst du?</title>
+      <link>https://debeste.de/639496/Welchen-Weg-w-hlst-du</link>
+      <guid isPermaLink="false">https://debeste.de/639496/Welchen-Weg-w-hlst-du</guid>
+      <pubDate>Sun, 22 Nov 2026 13:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Wenn Polizei klopft an Tür, du klopf zurück...</title>
+      <link>https://debeste.de/639489/Wenn-Polizei-klopft-an-T-r,-du-klopf-zur-ck</link>
+      <guid isPermaLink="false">https://debeste.de/639489/Wenn-Polizei-klopft-an-T-r,-du-klopf-zur-ck</guid>
+      <pubDate>Sun, 22 Nov 2026 12:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Wenn Polizei klopft an Tür, du klopf zurück... ...jetzt beide warten]]></description>
+    </item>
+    <item>
+      <title>Touristenfalle.</title>
+      <link>https://debeste.de/639485/Touristenfalle</link>
+      <guid isPermaLink="false">https://debeste.de/639485/Touristenfalle</guid>
+      <pubDate>Sun, 22 Nov 2026 12:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Meine Logik beim Nudeln kochen: Es sind ja eh schon zu..</title>
+      <link>https://debeste.de/639457/Meine-Logik-beim-Nudeln-kochen-Es-sind-ja-eh-schon-zu</link>
+      <guid isPermaLink="false">https://debeste.de/639457/Meine-Logik-beim-Nudeln-kochen-Es-sind-ja-eh-schon-zu</guid>
+      <pubDate>Sun, 22 Nov 2026 11:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Meine Logik beim Nudeln kochen: Es sind ja eh schon zu viele Nudeln im Topf gelandet, also damit sich die wenigen Nudeln, die jetzt noch in der Tüte sind, nicht einsam fühlen, schmeiß ich die einfach noch hinterher]]></description>
+    </item>
+    <item>
+      <title>Existenzieller Ballast..</title>
+      <link>https://debeste.de/639543/Existenzieller-Ballast</link>
+      <guid isPermaLink="false">https://debeste.de/639543/Existenzieller-Ballast</guid>
+      <pubDate>Sun, 22 Nov 2026 11:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Die Ungebildeten nennen mich einen Rassisten..</title>
+      <link>https://debeste.de/639602/Die-Ungebildeten-nennen-mich-einen-Rassisten</link>
+      <guid isPermaLink="false">https://debeste.de/639602/Die-Ungebildeten-nennen-mich-einen-Rassisten</guid>
+      <pubDate>Sun, 22 Nov 2026 11:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Die Ungebildeten nennen mich einen Rassisten. Ich bin kein Rassist. Ich bin ein Culturalist. Ich glaube, dass manche Kulturen besser sind als andere. Ich bevorzuge Kulturen, die keine Steinigung, Pädophilie, das Schlagen von Ehefrauen, weibliche Genitalverstümmelung und das Enthaupten von Gegnern befürworten. Nennt mich altmodisch... ~John Cleese]]></description>
+    </item>
+    <item>
+      <title>Ein großer Metalltresor mit einem Gewicht von etwa 500 bis..</title>
+      <link>https://debeste.de/639466/Ein-gro-er-Metalltresor-mit-einem-Gewicht-von-etwa-500-bis</link>
+      <guid isPermaLink="false">https://debeste.de/639466/Ein-gro-er-Metalltresor-mit-einem-Gewicht-von-etwa-500-bis</guid>
+      <pubDate>Sun, 22 Nov 2026 10:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ein großer Metalltresor mit einem Gewicht von etwa 500 bis 600 kg ist auf mysteriöse Weise mitten auf einem Feld in Barre im US-Bundesstaat New York aufgetaucht. Daran war eine Notiz befestigt: „Wenn du ihn öffnen kannst, darfst du behalten, was drin ist.“ Trotz mehrerer Versuche konnte ihn niemand öffnen, und niemand weiß, wer ihn dort abgestellt hat oder was sich darin befindet.]]></description>
+    </item>
+    <item>
+      <title>Ich glaube, das Universum versucht mir etwas..</title>
+      <link>https://debeste.de/639444/Ich-glaube,-das-Universum-versucht-mir-etwas</link>
+      <guid isPermaLink="false">https://debeste.de/639444/Ich-glaube,-das-Universum-versucht-mir-etwas</guid>
+      <pubDate>Sun, 22 Nov 2026 10:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Ich glaube, das Universum versucht mir etwas mitzuteilen…]]></description>
+    </item>
+    <item>
+      <title>Damit ihr wisst, warum manche Karotten so krumm..</title>
+      <link>https://debeste.de/639425/Damit-ihr-wisst,-warum-manche-Karotten-so-krumm</link>
+      <guid isPermaLink="false">https://debeste.de/639425/Damit-ihr-wisst,-warum-manche-Karotten-so-krumm</guid>
+      <pubDate>Sun, 22 Nov 2026 10:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Damit ihr wisst, warum manche Karotten so krumm wachsen.]]></description>
+    </item>
+    <item>
+      <title>Er ist entwischt.</title>
+      <link>https://debeste.de/639486/Er-ist-entwischt</link>
+      <guid isPermaLink="false">https://debeste.de/639486/Er-ist-entwischt</guid>
+      <pubDate>Sun, 22 Nov 2026 09:59:02 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>"Sturmtruppler im Spülbecken"..</title>
+      <link>https://debeste.de/639460/Sturmtruppler-im-Sp-lbecken</link>
+      <guid isPermaLink="false">https://debeste.de/639460/Sturmtruppler-im-Sp-lbecken</guid>
+      <pubDate>Sun, 22 Nov 2026 09:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Sturmtruppler im Spülbecken]]></description>
+    </item>
+    <item>
+      <title>Genau meine Art von Sixpack..</title>
+      <link>https://debeste.de/639447/Genau-meine-Art-von-Sixpack</link>
+      <guid isPermaLink="false">https://debeste.de/639447/Genau-meine-Art-von-Sixpack</guid>
+      <pubDate>Sun, 22 Nov 2026 09:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Genau meine Art von Sixpack]]></description>
+    </item>
+    <item>
+      <title>Meine Motivation bei der Arbeit.</title>
+      <link>https://debeste.de/639454/Meine-Motivation-bei-der-Arbeit</link>
+      <guid isPermaLink="false">https://debeste.de/639454/Meine-Motivation-bei-der-Arbeit</guid>
+      <pubDate>Sun, 22 Nov 2026 08:59:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Gern geschehen!</title>
+      <link>https://debeste.de/639450/Gern-geschehen</link>
+      <guid isPermaLink="false">https://debeste.de/639450/Gern-geschehen</guid>
+      <pubDate>Sun, 22 Nov 2026 08:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Das MUSS doch essbar sein!</title>
+      <link>https://debeste.de/639482/Das-MUSS-doch-essbar-sein</link>
+      <guid isPermaLink="false">https://debeste.de/639482/Das-MUSS-doch-essbar-sein</guid>
+      <pubDate>Sun, 22 Nov 2026 07:40:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>"Gemoddeter Controller"..</title>
+      <link>https://debeste.de/639478/Gemoddeter-Controller</link>
+      <guid isPermaLink="false">https://debeste.de/639478/Gemoddeter-Controller</guid>
+      <pubDate>Sun, 22 Nov 2026 07:19:01 GMT</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[Gemoddeter Controller]]></description>
+    </item>
   </channel>
 </rss>

@@ -2,12 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Transfermarkt (Fußball)</title>
-    <link>/?category=Fu%C3%9Fball&amp;feed=Transfermarkt</link>
+    <link>https://holli-news-bot.streamlit.app/?category=Fu%C3%9Fball&amp;feed=Transfermarkt</link>
     <description>RSS-Feed für die Quelle 'Transfermarkt' (Kategorie: Fußball).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fussball-transfermarkt.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Erfolgreicher Playoff-Auftakt für Müller und Vancouver – Lewandowski-Tor hilft Chicago nicht</title>
+      <link>https://www.transfermarkt.de/erfolgreicher-playoff-auftakt-fur-muller-und-vancouver-lewandowski-tor-hilft-chicago-nicht/view/news/491054</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/erfolgreicher-playoff-auftakt-fur-muller-und-vancouver-lewandowski-tor-hilft-chicago-nicht/view/news/491054</guid>
+      <pubDate>Mon, 23 Nov 2026 06:58:00 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Die Vancouver Whitecaps um den ehemaligen Bayern-Profi Thomas Müller haben den ersten Schritt in Richtung Playoff-Viertelfinale in der MLS gemacht. Mit 2:0 (1:0) gewann das Team aus Kanada das...]]></description>
+    </item>
+    <item>
+      <title>Nach FC Liverpools 4:0 gegen Man United: Wirtz schwärmt von Klopp und Iraola</title>
+      <link>https://www.transfermarkt.de/wirtz-schwarmt-von-klopp-und-iraola-pochettino-kritisiert-rot-fur-yoro-vollig-unfair-quot-/view/news/491052</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/wirtz-schwarmt-von-klopp-und-iraola-pochettino-kritisiert-rot-fur-yoro-vollig-unfair-quot-/view/news/491052</guid>
+      <pubDate>Mon, 23 Nov 2026 06:43:17 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Nach seinem starken Auftritt beim 4:0 (2:0) des FC Liverpool gegen Manchester United hat Florian Wirtz seine beiden Coaches gelobt: Bundestrainer Jürgen Klopp und Liverpools Andoni Iraola. Auf...]]></description>
+    </item>
+    <item>
+      <title>Werder Bremen: Njinmahs Traumtag und Fritz-Frikadellen für Thioune – Muheim sauer</title>
+      <link>https://www.transfermarkt.de/njinmahs-traumtag-und-fritz-frikadellen-fur-thioune-muheim-haben-fans-nicht-verdient-quot-/view/news/491049</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/njinmahs-traumtag-und-fritz-frikadellen-fur-thioune-muheim-haben-fans-nicht-verdient-quot-/view/news/491049</guid>
+      <pubDate>Mon, 23 Nov 2026 06:06:36 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Nach seiner Heldenrolle im Nordduell mit dem Hamburger SV wollte Werder Bremens Derbyheld ganz schnell weg. „Meine Frau ist schwanger. Ich habe eine Nachricht bekommen, dass es bald...]]></description>
+    </item>
+    <item>
+      <title>Wer hat überzeugt? Jetzt die Top-Elf des 10. Bundesliga-Spieltages wählen</title>
+      <link>https://www.transfermarkt.de/wer-hat-uberzeugt-jetzt-die-top-elf-des-10-bundesliga-spieltages-wahlen/view/news/490993</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/wer-hat-uberzeugt-jetzt-die-top-elf-des-10-bundesliga-spieltages-wahlen/view/news/490993</guid>
+      <pubDate>Sun, 22 Nov 2026 18:31:02 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Die Bundesliga hat den 10. Spieltag abgeschlossen, und damit ist es wieder Zeit für die Wahl der Elf des Spieltages. Wer waren die Besten auf dem Platz? Jetzt kannst du mit der TM-Community...]]></description>
+    </item>
+    <item>
+      <title>Werder Bremen gewinnt Nordderby gegen HSV deutlich</title>
+      <link>https://www.transfermarkt.de/doppelpack-njinmah-werder-gewinnt-nordderby-gegen-hsv-deutlich-friedl-eroffnet-torreigen/view/news/491043</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/doppelpack-njinmah-werder-gewinnt-nordderby-gegen-hsv-deutlich-friedl-eroffnet-torreigen/view/news/491043</guid>
+      <pubDate>Sun, 22 Nov 2026 18:30:05 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Justin Njinmah hat den SV Werder Bremen mit einem Doppelpack zum Prestigesieg im Nordderby gegen den Hamburger SV geführt. Mit seinen beiden Treffern in der 66. und 70. Minute schoss der...]]></description>
+    </item>
+    <item>
+      <title>Horrorstart für Pochettino bei Man United: Wirtz und Liverpool machen früh alles klar</title>
+      <link>https://www.transfermarkt.de/horrorstart-fur-pochettino-bei-man-united-wirtz-und-liverpool-sorgen-fruh-fur-klare-verhaltnisse/view/news/491044</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/horrorstart-fur-pochettino-bei-man-united-wirtz-und-liverpool-sorgen-fruh-fur-klare-verhaltnisse/view/news/491044</guid>
+      <pubDate>Sun, 22 Nov 2026 18:29:25 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Mauricio Pochettinos Debüt als Trainer von Manchester United ist gründlich misslungen. Ausgerechnet beim Erzrivalen FC Liverpool verlor United in Unterzahl mit 0:4 (0:2), auch weil...]]></description>
+    </item>
+    <item>
+      <title>FC Augsburg gewinnt hitziges Krisen-Duell gegen FSV Mainz 05</title>
+      <link>https://www.transfermarkt.de/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-poschs-patzer-bringt-vorentscheidung/view/news/491042</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-poschs-patzer-bringt-vorentscheidung/view/news/491042</guid>
+      <pubDate>Sun, 22 Nov 2026 16:27:15 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Der FC Augsburg hat trotz heftiger Personalsorgen das hitzige Krisen-Duell gegen den FSV Mainz 05 gewonnen. Fast ohne Innenverteidiger im Kader, dafür mit Doppelpacker Michael Gregoritsch...]]></description>
+    </item>
+    <item>
+      <title>Blessin stärkt Gladbach-Keeper Batz nach Fehler: „Depp vom Dienst“ bleibt Nummer 1</title>
+      <link>https://www.transfermarkt.de/-depp-vom-dienst-quot-bleibt-nummer-1-blessin-starkt-gladbach-keeper-batz-nach-fehler/view/news/491041</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/-depp-vom-dienst-quot-bleibt-nummer-1-blessin-starkt-gladbach-keeper-batz-nach-fehler/view/news/491041</guid>
+      <pubDate>Sun, 22 Nov 2026 15:30:14 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Mönchengladbachs Schlussmann Daniel Batz suchte nach der bitteren 0:1-Niederlage im Borussen-Duell gegen Dortmund alle Schuld bei sich. Er sei „der Depp vom Dienst“, sagte der...]]></description>
+    </item>
+    <item>
+      <title>Nick Woltemade bringt Juventus die Erlösung gegen Venedig</title>
+      <link>https://www.transfermarkt.de/woltemade-bringt-die-erlosung-juventus-siegt-nach-pfiffen-deutlich-gegen-venedig/view/news/491040</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/woltemade-bringt-die-erlosung-juventus-siegt-nach-pfiffen-deutlich-gegen-venedig/view/news/491040</guid>
+      <pubDate>Sun, 22 Nov 2026 14:47:30 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Der 14-malige deutsche Nationalspieler Nick Woltemade kommt in der Serie A bei Juventus Turin besser in Fahrt. Beim 4:0-Erfolg der Norditaliener gegen den Vorletzten Venedig erzielte der in der...]]></description>
+    </item>
   </channel>
 </rss>

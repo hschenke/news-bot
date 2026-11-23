@@ -2,12 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Heise Online News (Tech &amp; AI)</title>
-    <link>/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
+    <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:04:33 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Triebwerksschub zu kurz: BepiColombo erreicht Orbit um den Merkur</title>
+      <link>https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533956</guid>
+      <pubDate>Mon, 23 Nov 2026 06:42:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Merkursonde BepiColombo hat ihr Forschungsziel erreicht, die Triebwerke feuerten aber zu kurz. Analysen laufen, erklärte die europäische Weltraumagentur.]]></description>
+    </item>
+    <item>
+      <title>Tiefflug übers Maisfeld: Click Boom Flash # 76 „Agrarfotografie“</title>
+      <link>https://www.heise.de/news/Tiefflug-uebers-Maisfeld-Click-Boom-Flash-76-Agrarfotografie-11528151.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11528151</guid>
+      <pubDate>Mon, 23 Nov 2026 06:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[„Einen Knopf fürs Wetter gibt es nicht und da muss man eben nehmen, was man bekommt“, sagt Agrarfotograf Jonas Petersen.]]></description>
+    </item>
+    <item>
+      <title>Bevölkerung soll sich darauf einstellen: US-Regierung erwartet mehr IT-Ausfälle</title>
+      <link>https://www.heise.de/news/Bevoelkerung-soll-sich-darauf-einstellen-US-Regierung-erwartet-mehr-IT-Ausfaelle-11533940.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533940</guid>
+      <pubDate>Mon, 23 Nov 2026 05:53:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nach einer Reihe von weitreichenden IT-Ausfällen hat die US-Regierung die Bevölkerung auf mehr Probleme eingestimmt. Ursache seien nötige Modernisierungen.]]></description>
+    </item>
+    <item>
+      <title>Montag: Internetprobleme der Berliner Polizei, Google konsolidiert Smart Home</title>
+      <link>https://www.heise.de/news/Montag-Internetprobleme-der-Berliner-Polizei-Google-konsolidiert-Smart-Home-11533930.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533930</guid>
+      <pubDate>Mon, 23 Nov 2026 05:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Berliner Internetwache offline + Ende für Nest-App & Google Assistant + Tech-Sektor unter Börsendruck + GTA 6 und die Gegenwart + KI für Riemannsche Vermutung]]></description>
+    </item>
+    <item>
+      <title>Google integriert Nest-Geräte in Home-App und wechselt im Smart Home zu Gemini</title>
+      <link>https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533916</guid>
+      <pubDate>Mon, 23 Nov 2026 04:04:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Änderungen in Googles Smart Home: Nest-App und Google Assistant werden eingestellt. Dafür gibt es künftig nur noch die Home-App mit Gemini als Sprachassistent.]]></description>
+    </item>
+    <item>
+      <title>Top 10: Bestes Thermostat für die Fußbodenheizung – smart nachrüsten ab 40 Euro</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-bestes-thermostat-fuer-die-fussbodenheizung-smart-nachruesten-ab-40-euro/yb0j4mx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533712</guid>
+      <pubDate>Sun, 22 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Fußbodenheizung smart nachrüsten: Wir zeigen die besten Thermostate mit Matter, Zigbee & Co. – getestet in Hersteller-Apps, Home Assistant und Apple Home.]]></description>
+    </item>
+    <item>
+      <title>Internetwache der Berliner Polizei seit Samstag offline</title>
+      <link>https://www.heise.de/news/Internetwache-der-Berliner-Polizei-seit-Samstag-offline-11533840.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533840</guid>
+      <pubDate>Sun, 22 Nov 2026 17:55:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Auch am Sonntag können Bürger bei der Berliner Polizei keine Anzeigen online erstatten. Hintergrund ist laut dpa eine Sicherheitslücke.]]></description>
+    </item>
+    <item>
+      <title>Widerstand ist zwecklos: 30 Jahre „Star Trek – Der erste Kontakt“</title>
+      <link>https://www.heise.de/hintergrund/Widerstand-ist-zwecklos-30-Jahre-Star-Trek-Der-erste-Kontakt-11533820.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533820</guid>
+      <pubDate>Sun, 22 Nov 2026 17:33:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Im November 1996 kommt „Star Trek“ zum achten Mal ins Kino. Es ist der beste Teil der Filmreihe – auch wegen des kürzlich verstorbenen Patrick Stewart.]]></description>
+    </item>
+    <item>
+      <title>Nvidia gerät weiter unter Druck – und US-Tech-Aktien in den Bärenmarkt</title>
+      <link>https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533802</guid>
+      <pubDate>Sun, 22 Nov 2026 17:26:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ermittlungen gegen Nvidia und Skandale um Huang belasten die Kurse. US-Tech-Aktien rutschen nach herben Verlusten in den Bärenmarkt.]]></description>
+    </item>
+    <item>
+      <title>Top 10: Der beste Fensterputzroboter im Test – Hutt siegt, Warmwasser bei Mova</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fensterputzroboter-im-test-hutt-siegt-warmwasser-bei-mova/rwq727q?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533780</guid>
+      <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen, welche Modelle überzeugen und worauf beim Kauf zu achten ist.]]></description>
+    </item>
+    <item>
+      <title>US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken</title>
+      <link>https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533750</guid>
+      <pubDate>Sun, 22 Nov 2026 11:46:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bevor ein neuer US-Kongress strengere Regeln erzwingen könnte, soll das umstrittene NSA-Spionageprogramm mithilfe der Demokraten noch rasch verlängert werden.]]></description>
+    </item>
+    <item>
+      <title>Was das Videospiel GTA 6 über unsere Gegenwart erzählt</title>
+      <link>https://www.heise.de/news/Was-das-Videospiel-GTA-6-ueber-unsere-Gegenwart-erzaehlt-11533740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533740</guid>
+      <pubDate>Sun, 22 Nov 2026 11:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!]]></description>
+    </item>
+    <item>
+      <title>GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
+      <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533722</guid>
+      <pubDate>Sun, 22 Nov 2026 10:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.]]></description>
+    </item>
+    <item>
+      <title>Bundesrat fordert strengere Regeln für Smart Glasses und Deepfakes</title>
+      <link>https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533616</guid>
+      <pubDate>Sun, 22 Nov 2026 08:12:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Bundesrat hält den Gesetzentwurf gegen digitale Gewalt für zu lasch und fordert höhere Strafen sowie schärfere Regeln für Smart Glasses.]]></description>
+    </item>
+    <item>
+      <title>Missing Link: Der Arcade-Automat aus der DDR – 40 Jahre Poly-Play</title>
+      <link>https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11532459</guid>
+      <pubDate>Sun, 22 Nov 2026 07:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
+    </item>
   </channel>
 </rss>
