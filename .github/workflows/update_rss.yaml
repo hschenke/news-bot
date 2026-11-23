@@ -12,6 +12,11 @@ on:
   repository_dispatch:
     types: [update-rss-feeds]
 
+# Verhindert parallele Läufe mit daily_digest.yaml und damit Merge-Konflikte in static/rss/
+concurrency:
+  group: news-bot-main-sync
+  cancel-in-progress: false
+
 jobs:
   update-rss:
     runs-on: ubuntu-24.04
@@ -52,9 +57,35 @@ jobs:
           if git diff --staged --quiet; then
             echo "Keine Änderungen in den RSS-Feeds vorhanden."
           else
-            git commit -m "chore(rss): rebuild and update RSS feeds for CDN [skip ci]"
-            git pull --rebase origin main
-            git push origin main
+            COMMIT_MSG="chore(rss): rebuild and update RSS feeds for CDN [skip ci]"
+            git commit -m "$COMMIT_MSG"
+            pushed=0
+            for attempt in 1 2 3; do
+              git fetch origin main
+              LOCAL_SHA=$(git rev-parse HEAD)
+              if ! git rebase -X theirs origin/main; then
+                echo "Rebase-Konflikt erkannt (Versuch $attempt) – übernehme frisch generierte RSS-/Konfig-Dateien auf origin/main..."
+                git rebase --abort || true
+                git reset --hard origin/main
+                git checkout "$LOCAL_SHA" -- static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
+                git add static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
+                if git diff --staged --quiet; then
+                  pushed=1
+                  break
+                fi
+                git commit -m "$COMMIT_MSG"
+              fi
+              if git push origin main; then
+                pushed=1
+                break
+              fi
+              echo "Push fehlgeschlagen (Versuch $attempt), wiederhole mit aktuellem origin/main..."
+              sleep 2
+            done
+            if [ "$pushed" -ne 1 ]; then
+              echo "Push zu origin/main nach 3 Versuchen fehlgeschlagen."
+              exit 1
+            fi
             echo "RSS-Feeds erfolgreich zu GitHub und CDN gepusht!"
           fi
 

@@ -512,7 +512,7 @@ class TestManageTabAndStateIntegration(unittest.TestCase):
         self.assertGreaterEqual(mock_bg.call_count, 1)
 
     def test_workflows_sync_and_commit_cloud_db_configs(self) -> None:
-        """Daily Digest & Update RSS Workflows müssen Cloud-DB-Konfigurationen synchronisieren und committen."""
+        """Daily Digest & Update RSS Workflows müssen Cloud-DB-Konfigurationen synchronisieren und konfliktfrei committen."""
         root = Path(__file__).resolve().parent.parent
         daily = (root / ".github" / "workflows" / "daily_digest.yaml").read_text(encoding="utf-8")
         update_rss = (root / ".github" / "workflows" / "update_rss.yaml").read_text(encoding="utf-8")
@@ -524,6 +524,11 @@ class TestManageTabAndStateIntegration(unittest.TestCase):
         self.assertIn("sync_configs_from_storage(force=True)", update_rss)
         self.assertIn("config/sources.yaml config/settings.yaml config/prompts.yaml", update_rss)
         self.assertIn("sync_configs_from_storage(force=True)", main_py)
+
+        for wf in (daily, update_rss):
+            self.assertIn("group: news-bot-main-sync", wf)
+            self.assertIn("cancel-in-progress: false", wf)
+            self.assertIn("git rebase -X theirs origin/main", wf)
 
     def test_manage_tab_e2e_delete_add_and_pending_settings_save_flow(self) -> None:
         """End-to-End Streamlit AppTest: Feed löschen, neuen Feed anlegen, globale Einstellung ändern & direkt sichern."""
