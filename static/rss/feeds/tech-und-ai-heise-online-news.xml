@@ -5,9 +5,72 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montag: Internetprobleme der Berliner Polizei, Google konsolidiert Smart Home</title>
+      <link>https://www.heise.de/news/Montag-Internetprobleme-der-Berliner-Polizei-Google-konsolidiert-Smart-Home-11533930.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533930</guid>
+      <pubDate>Mon, 23 Nov 2026 05:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Berliner Internetwache offline + Ende für Nest-App & Google Assistant + Tech-Sektor unter Börsendruck + GTA 6 und die Gegenwart + KI für Riemannsche Vermutung]]></description>
+    </item>
+    <item>
+      <title>Google integriert Nest-Geräte in Home-App und wechselt im Smart Home zu Gemini</title>
+      <link>https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533916</guid>
+      <pubDate>Mon, 23 Nov 2026 04:04:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Änderungen in Googles Smart Home: Nest-App und Google Assistant werden eingestellt. Dafür gibt es künftig nur noch die Home-App mit Gemini als Sprachassistent.]]></description>
+    </item>
+    <item>
+      <title>Top 10: Bestes Thermostat für die Fußbodenheizung – smart nachrüsten ab 40 Euro</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-bestes-thermostat-fuer-die-fussbodenheizung-smart-nachruesten-ab-40-euro/yb0j4mx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533712</guid>
+      <pubDate>Sun, 22 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Fußbodenheizung smart nachrüsten: Wir zeigen die besten Thermostate mit Matter, Zigbee & Co. – getestet in Hersteller-Apps, Home Assistant und Apple Home.]]></description>
+    </item>
+    <item>
+      <title>Internetwache der Berliner Polizei seit Samstag offline</title>
+      <link>https://www.heise.de/news/Internetwache-der-Berliner-Polizei-seit-Samstag-offline-11533840.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533840</guid>
+      <pubDate>Sun, 22 Nov 2026 17:55:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Auch am Sonntag können Bürger bei der Berliner Polizei keine Anzeigen online erstatten. Hintergrund ist laut dpa eine Sicherheitslücke.]]></description>
+    </item>
+    <item>
+      <title>Widerstand ist zwecklos: 30 Jahre „Star Trek – Der erste Kontakt“</title>
+      <link>https://www.heise.de/hintergrund/Widerstand-ist-zwecklos-30-Jahre-Star-Trek-Der-erste-Kontakt-11533820.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533820</guid>
+      <pubDate>Sun, 22 Nov 2026 17:33:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Im November 1996 kommt „Star Trek“ zum achten Mal ins Kino. Es ist der beste Teil der Filmreihe – auch wegen des kürzlich verstorbenen Patrick Stewart.]]></description>
+    </item>
+    <item>
+      <title>Nvidia gerät weiter unter Druck – und US-Tech-Aktien in den Bärenmarkt</title>
+      <link>https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533802</guid>
+      <pubDate>Sun, 22 Nov 2026 17:26:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ermittlungen gegen Nvidia und Skandale um Huang belasten die Kurse. US-Tech-Aktien rutschen nach herben Verlusten in den Bärenmarkt.]]></description>
+    </item>
+    <item>
+      <title>Top 10: Der beste Fensterputzroboter im Test – Hutt siegt, Warmwasser bei Mova</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fensterputzroboter-im-test-hutt-siegt-warmwasser-bei-mova/rwq727q?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533780</guid>
+      <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen, welche Modelle überzeugen und worauf beim Kauf zu achten ist.]]></description>
+    </item>
     <item>
       <title>US-Demokraten wollen anlasslose Internetüberwachung unverändert durchdrücken</title>
       <link>https://www.heise.de/news/FISA-Gesetz-Section-702-mit-parlamentarischen-Tricks-vor-Verlaengerung-11533750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -52,60 +115,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
-    </item>
-    <item>
-      <title>Top 10: Das beste Smartphone im Test – Motorola überraschender Testsieger</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test-motorola-ueberraschender-testsieger/5qx1bd1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533467</guid>
-      <pubDate>Sat, 21 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Viel Power und Top-Kameras: Welches ist das beste Smartphone? Wir haben die Flaggschiffe getestet und küren den Sieger.]]></description>
-    </item>
-    <item>
-      <title>Internet Archive soll Gewerkschaft bekommen</title>
-      <link>https://www.heise.de/news/Internet-Archive-soll-Gewerkschaft-bekommen-11533592.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533592</guid>
-      <pubDate>Sat, 21 Nov 2026 17:22:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das Internet Archive ist eine der wichtigsten Adressen im Web und soll eine Gewerkschaftsvertretung bekommen. Grünes Licht der Geschäftsleitung fehlt noch.]]></description>
-    </item>
-    <item>
-      <title>Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot</title>
-      <link>https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533596</guid>
-      <pubDate>Sat, 21 Nov 2026 16:28:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Trotz viel Unterstützung für strenge Regeln haben Staaten wie Russland und die USA erneut einen klaren Fahrplan gegen autonome Waffensysteme in Genf blockiert.]]></description>
-    </item>
-    <item>
-      <title>Ecovacs Winbot W2S Pro Omni im Test: Akku-Fensterputzroboter mit Filz für Kanten</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/ecovacs-winbot-w2s-pro-omni-im-test-akku-fensterputzroboter-mit-filz-fuer-kanten/dvyy2hy?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533540</guid>
-      <pubDate>Sat, 21 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Ecovacs Winbot W2S Pro Omni putzt Ränder mit vier Filz-Kantenreinigern. Für 499 Euro liefert er aber zu wenig Fortschritt und hinterlässt Schlieren.]]></description>
-    </item>
-    <item>
-      <title>Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen</title>
-      <link>https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533498</guid>
-      <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.]]></description>
-    </item>
-    <item>
-      <title>Medienbericht: Zentrale FBI-Datenbank angegriffen</title>
-      <link>https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533560</guid>
-      <pubDate>Sat, 21 Nov 2026 13:47:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Medienberichten zufolge haben Hacker die FBI-Datenbank NCIC angegriffen. Ein Ex-FBI-Ermittler fürchtet vor allem manipulierte Datensätze.]]></description>
     </item>
   </channel>
 </rss>

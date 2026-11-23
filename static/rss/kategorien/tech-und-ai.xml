@@ -5,9 +5,315 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montag: Internetprobleme der Berliner Polizei, Google konsolidiert Smart Home</title>
+      <link>https://www.heise.de/news/Montag-Internetprobleme-der-Berliner-Polizei-Google-konsolidiert-Smart-Home-11533930.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533930</guid>
+      <pubDate>Mon, 23 Nov 2026 05:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Berliner Internetwache offline + Ende für Nest-App & Google Assistant + Tech-Sektor unter Börsendruck + GTA 6 und die Gegenwart + KI für Riemannsche Vermutung]]></description>
+    </item>
+    <item>
+      <title>A Partial Evaluator for C</title>
+      <link>https://phoenix.labri.fr/software/tempo/</link>
+      <guid isPermaLink="false">https://phoenix.labri.fr/software/tempo/</guid>
+      <pubDate>Mon, 23 Nov 2026 04:51:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>DeFlock Amerca Facebook Group Suspended as a Dangerous Organization</title>
+      <link>https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/</link>
+      <guid isPermaLink="false">https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/</guid>
+      <pubDate>Mon, 23 Nov 2026 04:31:32 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Google integriert Nest-Geräte in Home-App und wechselt im Smart Home zu Gemini</title>
+      <link>https://www.heise.de/news/Google-integriert-Nest-Geraete-in-Home-App-und-wechselt-im-Smart-Home-zu-Gemini-11533916.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533916</guid>
+      <pubDate>Mon, 23 Nov 2026 04:04:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Änderungen in Googles Smart Home: Nest-App und Google Assistant werden eingestellt. Dafür gibt es künftig nur noch die Home-App mit Gemini als Sprachassistent.]]></description>
+    </item>
+    <item>
+      <title>XNU Linux: Full OS X GUI Userspace on Linux</title>
+      <link>https://github.com/AFK-surf/xnulinux</link>
+      <guid isPermaLink="false">https://github.com/AFK-surf/xnulinux</guid>
+      <pubDate>Mon, 23 Nov 2026 03:49:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Treemap of the Riemann Hypothesis Lean Proof</title>
+      <link>https://pengowray.github.io/riemann-zeta-proof-visualizer/</link>
+      <guid isPermaLink="false">https://pengowray.github.io/riemann-zeta-proof-visualizer/</guid>
+      <pubDate>Mon, 23 Nov 2026 01:50:23 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
+      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3191173</guid>
+      <pubDate>Mon, 23 Nov 2026 01:25:53 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Three significant backers share what gave them conviction to bet billions on Anthropic.]]></description>
+    </item>
+    <item>
+      <title>Free alternative TV network built from the Internet Archive's forgotten videos</title>
+      <link>https://spelunkr.tv</link>
+      <guid isPermaLink="false">https://spelunkr.tv</guid>
+      <pubDate>Mon, 23 Nov 2026 01:13:51 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>What we learned operating auth for 1k APIs</title>
+      <link>https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</link>
+      <guid isPermaLink="false">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</guid>
+      <pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>0rwx – A simple model of AI usage, inspired by Unix permissions</title>
+      <link>https://0rwx.com/</link>
+      <guid isPermaLink="false">https://0rwx.com/</guid>
+      <pubDate>Sun, 22 Nov 2026 23:53:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Progress map for the Lean formalization of Alessandro Masullo's manuscript</title>
+      <link>https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</link>
+      <guid isPermaLink="false">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</guid>
+      <pubDate>Sun, 22 Nov 2026 23:12:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>GL.iNet Security Notice 2026-11-20</title>
+      <link>https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</link>
+      <guid isPermaLink="false">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</guid>
+      <pubDate>Sun, 22 Nov 2026 23:06:37 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Localcode, open source agentic coding on your Mac with one command</title>
+      <link>https://github.com/mjwsolo/localcode</link>
+      <guid isPermaLink="false">https://github.com/mjwsolo/localcode</guid>
+      <pubDate>Sun, 22 Nov 2026 22:18:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The Usefulness of Useless Knowledge [pdf] (1939)</title>
+      <link>https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</link>
+      <guid isPermaLink="false">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</guid>
+      <pubDate>Sun, 22 Nov 2026 22:10:58 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The struggle for freedom: How BSD escaped AT&amp;T licensing</title>
+      <link>https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</link>
+      <guid isPermaLink="false">https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</guid>
+      <pubDate>Sun, 22 Nov 2026 21:33:12 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3191164</guid>
+      <pubDate>Sun, 22 Nov 2026 21:14:07 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[To establish a speed limit on AI development, you need to agree on how to measure speed.]]></description>
+    </item>
+    <item>
+      <title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
+      <link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
+      <guid isPermaLink="false">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</guid>
+      <pubDate>Sun, 22 Nov 2026 21:01:16 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>A miniature San Francisco with live buses, planes and boats</title>
+      <link>https://smallsf.com/</link>
+      <guid isPermaLink="false">https://smallsf.com/</guid>
+      <pubDate>Sun, 22 Nov 2026 20:33:23 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Nyx, the Oldest Internet Service Provider</title>
+      <link>https://nyx.net/</link>
+      <guid isPermaLink="false">https://nyx.net/</guid>
+      <pubDate>Sun, 22 Nov 2026 20:15:59 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Assume People Are Not Interested in Your Blog Post</title>
+      <link>https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/</link>
+      <guid isPermaLink="false">https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:41:30 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>What Happened to Silicon Valley?</title>
+      <link>https://www.oreilly.com/radar/what-happened-to-silicon-valley/</link>
+      <guid isPermaLink="false">https://www.oreilly.com/radar/what-happened-to-silicon-valley/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:20:15 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</title>
+      <link>https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</link>
+      <guid isPermaLink="false">https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</guid>
+      <pubDate>Sun, 22 Nov 2026 19:10:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Top 10: Bestes Thermostat für die Fußbodenheizung – smart nachrüsten ab 40 Euro</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-bestes-thermostat-fuer-die-fussbodenheizung-smart-nachruesten-ab-40-euro/yb0j4mx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533712</guid>
+      <pubDate>Sun, 22 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Fußbodenheizung smart nachrüsten: Wir zeigen die besten Thermostate mit Matter, Zigbee & Co. – getestet in Hersteller-Apps, Home Assistant und Apple Home.]]></description>
+    </item>
+    <item>
+      <title>Why data centers are at the center of the Big Tech backlash</title>
+      <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3191157</guid>
+      <pubDate>Sun, 22 Nov 2026 18:08:43 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Journalist Paris Marx unpacks his new book "Hyperscale."]]></description>
+    </item>
+    <item>
+      <title>Internetwache der Berliner Polizei seit Samstag offline</title>
+      <link>https://www.heise.de/news/Internetwache-der-Berliner-Polizei-seit-Samstag-offline-11533840.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533840</guid>
+      <pubDate>Sun, 22 Nov 2026 17:55:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Auch am Sonntag können Bürger bei der Berliner Polizei keine Anzeigen online erstatten. Hintergrund ist laut dpa eine Sicherheitslücke.]]></description>
+    </item>
+    <item>
+      <title>Widerstand ist zwecklos: 30 Jahre „Star Trek – Der erste Kontakt“</title>
+      <link>https://www.heise.de/hintergrund/Widerstand-ist-zwecklos-30-Jahre-Star-Trek-Der-erste-Kontakt-11533820.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533820</guid>
+      <pubDate>Sun, 22 Nov 2026 17:33:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Im November 1996 kommt „Star Trek“ zum achten Mal ins Kino. Es ist der beste Teil der Filmreihe – auch wegen des kürzlich verstorbenen Patrick Stewart.]]></description>
+    </item>
+    <item>
+      <title>Nvidia gerät weiter unter Druck – und US-Tech-Aktien in den Bärenmarkt</title>
+      <link>https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533802</guid>
+      <pubDate>Sun, 22 Nov 2026 17:26:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Ermittlungen gegen Nvidia und Skandale um Huang belasten die Kurse. US-Tech-Aktien rutschen nach herben Verlusten in den Bärenmarkt.]]></description>
+    </item>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence/</link>
+      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
+      <pubDate>Sun, 22 Nov 2026 17:06:27 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>I joined the NTP Pool, but not with my Stratum 1 Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</link>
+      <guid isPermaLink="false">https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:35:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Open Social Web Alliance</title>
+      <link>https://osw-alliance.net/en/</link>
+      <guid isPermaLink="false">https://osw-alliance.net/en/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:24:32 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Top 10: Der beste Fensterputzroboter im Test – Hutt siegt, Warmwasser bei Mova</title>
+      <link>https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fensterputzroboter-im-test-hutt-siegt-warmwasser-bei-mova/rwq727q?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11533780</guid>
+      <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen, welche Modelle überzeugen und worauf beim Kauf zu achten ist.]]></description>
+    </item>
+    <item>
+      <title>Perplexity startet Monitor-API für automatische Web-Überwachung</title>
+      <link>https://www.all-ai.de/news/news26/perplexity-monitor-api-web</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/perplexity-monitor-api-web</guid>
+      <pubDate>Sun, 22 Nov 2026 14:08:27 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Perplexity veröffentlicht die Monitor-API, mit der Entwickler Themen im gesamten Web oder bis zu zehn feste URLs automatisiert überwachen können. Das spezialisierte KI-Modell Perplexity Decider prüft jeden Treffer auf Relevanz, Quellenvertrauen und Aktualität, bevor ein Webhook ausgelöst wird. Die Prüfintervalle lassen sich flexibel zwischen einer Minute und 31 Tagen festlegen, während doppelte Ergebnisse automatisch herausgefiltert werden. Tausend erfolgreiche Suchläufe oder Seitenabrufe kosten jeweils 1$, wobei fehlgeschlagene Prüfungen nicht berechnet werden. Perplexity Blog: Introducing Perplexity’s Monitor API Perplexity Docs: Monitor API Overview Mit einer neuen Monitor-API nimmt das KI-Unternehmen Perplexity Entwicklern die laufende Überwachung von Webseiten und Branchenthemen ab. Die Schnittstelle prüft das Internet in festen Zeitabständen und meldet wichtige Änderungen automatisch per Webhook an angebundene KI-Agenten. Anzeige Schluss mit eigenem Prüfcode Wer Preise der Konkurrenz, neue Finanzierungsrunden oder Änderungen an einer Webseite im Blick behalten will, musste bisher eigene Suchskripte programmieren. Noch aufwendiger ist das Aussortieren doppelter Treffer. Bei...]]></description>
+    </item>
+    <item>
+      <title>Show HN: I built a game where you are an LLM's subagent</title>
+      <link>https://github.com/gulivan/worker755</link>
+      <guid isPermaLink="false">https://github.com/gulivan/worker755</guid>
+      <pubDate>Sun, 22 Nov 2026 13:56:58 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Google öffnet Gemini-Abo für Agenten wie Hermes</title>
+      <link>https://www.all-ai.de/news/news26top/google-abo-hermes-ki-agenten</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-abo-hermes-ki-agenten</guid>
+      <pubDate>Sun, 22 Nov 2026 13:30:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Google-Produktchef Logan Kilpatrick hat für den 2. Dezember den ersten Schritt angekündigt, um reguläre Gemini-Abos in externen KI-Agenten nutzbar zu machen. Das KI-Unternehmen Nous Research arbeitet gemeinsam mit Google an einer offiziell freigegebenen Abo-Anbindung für seinen Open-Source-Agenten Hermes. Bisher benötigten Gemini-Nutzer in Hermes einen separat abgerechneten API-Schlüssel, wohingegen sich Abos von ChatGPT und Claude dort bereits direkt verknüpfen lassen. Flankiert wird der Ausbau vom neuen KI-Modell Gemini 4 Neon sowie 22% mehr Leistung pro Kontingent in Googles Entwicklungsumgebung Antigravity. Logan Kilpatrick auf X (Ankündigung zum 2. Dezember) Hermes Release Watch auf X (Kooperation zwischen Nous Research und Google) Nous Research: Hermes Agent auf GitHub Wer bereits für Google Gemini zahlt, soll sein bestehendes Abo ab dem 2. Dezember direkt in externen KI-Agenten nutzen können. Den Anfang macht voraussichtlich der beliebte Open-Source-Agent Hermes von Nous Research, wie aus einer Ankündigung von Google-Produktchef Logan Kilpatrick hervorgeht. Anzeige Schluss mit doppelten Kosten für die API Bisher standen Gemini-Abonnenten vor einer künstlichen Hürde. Wer e...]]></description>
+    </item>
     <item>
       <title>Donald Trump droht US-Konzernen mit Strafsteuer für Rechenzentren im Ausland</title>
       <link>https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</link>
@@ -36,6 +342,15 @@
       <description><![CDATA[Was Rockstars neuer Mega-Hit über die Gegenwart erzählt – Achtung Spoilergefahr für GTA6-Spieler!]]></description>
     </item>
     <item>
+      <title>Masullo on the Riemann Hypothesis</title>
+      <link>https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/</link>
+      <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/</guid>
+      <pubDate>Sun, 22 Nov 2026 10:59:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>GL.iNet: Schwachstelle entdeckt, Patch verfügbar</title>
       <link>https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
       <guid isPermaLink="false">http://heise.de/-11533722</guid>
@@ -61,105 +376,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Mit Hilfe der Stasi bringt die DDR 1986 ihren ersten und einzigen Videospiel-Automaten unters Volk – und verdient Millionen damit.]]></description>
-    </item>
-    <item>
-      <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-      <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191147</guid>
-      <pubDate>Sat, 21 Nov 2026 21:37:10 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Signal is limiting users' ability to take screenshots in both its Android and iOS apps.]]></description>
-    </item>
-    <item>
-      <title>A tale of two Nvidias</title>
-      <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191145</guid>
-      <pubDate>Sat, 21 Nov 2026 21:07:42 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.]]></description>
-    </item>
-    <item>
-      <title>Top 10: Das beste Smartphone im Test – Motorola überraschender Testsieger</title>
-      <link>https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test-motorola-ueberraschender-testsieger/5qx1bd1?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533467</guid>
-      <pubDate>Sat, 21 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Viel Power und Top-Kameras: Welches ist das beste Smartphone? Wir haben die Flaggschiffe getestet und küren den Sieger.]]></description>
-    </item>
-    <item>
-      <title>Internet Archive soll Gewerkschaft bekommen</title>
-      <link>https://www.heise.de/news/Internet-Archive-soll-Gewerkschaft-bekommen-11533592.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533592</guid>
-      <pubDate>Sat, 21 Nov 2026 17:22:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das Internet Archive ist eine der wichtigsten Adressen im Web und soll eine Gewerkschaftsvertretung bekommen. Grünes Licht der Geschäftsleitung fehlt noch.]]></description>
-    </item>
-    <item>
-      <title>Here are the top AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
-      <pubDate>Sat, 21 Nov 2026 17:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.]]></description>
-    </item>
-    <item>
-      <title>Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot</title>
-      <link>https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533596</guid>
-      <pubDate>Sat, 21 Nov 2026 16:28:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Trotz viel Unterstützung für strenge Regeln haben Staaten wie Russland und die USA erneut einen klaren Fahrplan gegen autonome Waffensysteme in Genf blockiert.]]></description>
-    </item>
-    <item>
-      <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
-      <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188069</guid>
-      <pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.]]></description>
-    </item>
-    <item>
-      <title>Ecovacs Winbot W2S Pro Omni im Test: Akku-Fensterputzroboter mit Filz für Kanten</title>
-      <link>https://www.heise.de/bestenlisten/testbericht/ecovacs-winbot-w2s-pro-omni-im-test-akku-fensterputzroboter-mit-filz-fuer-kanten/dvyy2hy?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533540</guid>
-      <pubDate>Sat, 21 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Ecovacs Winbot W2S Pro Omni putzt Ränder mit vier Filz-Kantenreinigern. Für 499 Euro liefert er aber zu wenig Fortschritt und hinterlässt Schlieren.]]></description>
-    </item>
-    <item>
-      <title>Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen</title>
-      <link>https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533498</guid>
-      <pubDate>Sat, 21 Nov 2026 14:48:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.]]></description>
-    </item>
-    <item>
-      <title>Google Gemini Pro mit 50% Rabatt zum Black Friday</title>
-      <link>https://www.all-ai.de/news/news26top/google-gemini-pro-abo-bf</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-gemini-pro-abo-bf</guid>
-      <pubDate>Sat, 21 Nov 2026 14:45:01 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Google gewährt Bestandskunden bis zum 26. November 2026 einen Rabatt von 50% auf das Jahresabo von Google AI Pro, wodurch der Preis für zwölf Monate von 219,99€ auf 109,99€ (9,17€ monatlich) sinkt. Falls in der Google-One-Verwaltung fälschlicherweise nur 16% Ersparnis stehen, aktiviert ein Klick auf »Wechseln« dennoch den vollen Rabatt auf 109,99€. Das Paket umfasst Gemini 4 Neon und Carbon, 5 TB Speicher, YouTube Premium Lite, monatlich 10$ API-Guthaben sowie Zugriff auf Gemini 4 Carbon und Claude Opus 5.5 in der Desktop-App Antigravity. Vikas Kansal auf X Google One AI-Tarife Google startet vor dem Black Friday eine Rabattaktion für seine KI-Abos. Bestehende Abonnenten von Google One und den Google-KI-Tarifen erhalten das Jahresabo für Google AI Pro zum halben Preis. Anzeige Jahresabo für 9,17€ im Monat Für zwölf Monate kostet das Paket damit 109,99€ statt der regulären 219,99€, was umgerechnet nur 9,17€ pro Monat entspricht. Das Angebot für Bestandskunden gilt laut Google-Produktleiter Vikas Kansal noch bis zum 26. November 2026. In der Abo-Verwaltung von Google One taucht der reduzierte Preis allerdings nicht bei allen Nutzern sofort auf. Wer dort unter dem Punkt zum Ändern ...]]></description>
-    </item>
-    <item>
-      <title>Medienbericht: Zentrale FBI-Datenbank angegriffen</title>
-      <link>https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11533560</guid>
-      <pubDate>Sat, 21 Nov 2026 13:47:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Medienberichten zufolge haben Hacker die FBI-Datenbank NCIC angegriffen. Ein Ex-FBI-Ermittler fürchtet vor allem manipulierte Datensätze.]]></description>
     </item>
   </channel>
 </rss>

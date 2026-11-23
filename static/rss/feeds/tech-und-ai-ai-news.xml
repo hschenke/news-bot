@@ -5,9 +5,27 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perplexity startet Monitor-API für automatische Web-Überwachung</title>
+      <link>https://www.all-ai.de/news/news26/perplexity-monitor-api-web</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/perplexity-monitor-api-web</guid>
+      <pubDate>Sun, 22 Nov 2026 14:08:27 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Perplexity veröffentlicht die Monitor-API, mit der Entwickler Themen im gesamten Web oder bis zu zehn feste URLs automatisiert überwachen können. Das spezialisierte KI-Modell Perplexity Decider prüft jeden Treffer auf Relevanz, Quellenvertrauen und Aktualität, bevor ein Webhook ausgelöst wird. Die Prüfintervalle lassen sich flexibel zwischen einer Minute und 31 Tagen festlegen, während doppelte Ergebnisse automatisch herausgefiltert werden. Tausend erfolgreiche Suchläufe oder Seitenabrufe kosten jeweils 1$, wobei fehlgeschlagene Prüfungen nicht berechnet werden. Perplexity Blog: Introducing Perplexity’s Monitor API Perplexity Docs: Monitor API Overview Mit einer neuen Monitor-API nimmt das KI-Unternehmen Perplexity Entwicklern die laufende Überwachung von Webseiten und Branchenthemen ab. Die Schnittstelle prüft das Internet in festen Zeitabständen und meldet wichtige Änderungen automatisch per Webhook an angebundene KI-Agenten. Anzeige Schluss mit eigenem Prüfcode Wer Preise der Konkurrenz, neue Finanzierungsrunden oder Änderungen an einer Webseite im Blick behalten will, musste bisher eigene Suchskripte programmieren. Noch aufwendiger ist das Aussortieren doppelter Treffer. Bei...]]></description>
+    </item>
+    <item>
+      <title>Google öffnet Gemini-Abo für Agenten wie Hermes</title>
+      <link>https://www.all-ai.de/news/news26top/google-abo-hermes-ki-agenten</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-abo-hermes-ki-agenten</guid>
+      <pubDate>Sun, 22 Nov 2026 13:30:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Google-Produktchef Logan Kilpatrick hat für den 2. Dezember den ersten Schritt angekündigt, um reguläre Gemini-Abos in externen KI-Agenten nutzbar zu machen. Das KI-Unternehmen Nous Research arbeitet gemeinsam mit Google an einer offiziell freigegebenen Abo-Anbindung für seinen Open-Source-Agenten Hermes. Bisher benötigten Gemini-Nutzer in Hermes einen separat abgerechneten API-Schlüssel, wohingegen sich Abos von ChatGPT und Claude dort bereits direkt verknüpfen lassen. Flankiert wird der Ausbau vom neuen KI-Modell Gemini 4 Neon sowie 22% mehr Leistung pro Kontingent in Googles Entwicklungsumgebung Antigravity. Logan Kilpatrick auf X (Ankündigung zum 2. Dezember) Hermes Release Watch auf X (Kooperation zwischen Nous Research und Google) Nous Research: Hermes Agent auf GitHub Wer bereits für Google Gemini zahlt, soll sein bestehendes Abo ab dem 2. Dezember direkt in externen KI-Agenten nutzen können. Den Anfang macht voraussichtlich der beliebte Open-Source-Agent Hermes von Nous Research, wie aus einer Ankündigung von Google-Produktchef Logan Kilpatrick hervorgeht. Anzeige Schluss mit doppelten Kosten für die API Bisher standen Gemini-Abonnenten vor einer künstlichen Hürde. Wer e...]]></description>
+    </item>
     <item>
       <title>Donald Trump droht US-Konzernen mit Strafsteuer für Rechenzentren im Ausland</title>
       <link>https://www.all-ai.de/news/news26/donald-trump-strafsteuer-rechenzentren</link>
@@ -16,15 +34,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[US-Präsident Donald Trump droht amerikanischen Technologiekonzernen mit einer hohen Strafsteuer, wenn sie Rechenzentren im Ausland statt in den USA bauen. Im Inland wächst jedoch der Widerstand der Wähler gegen hohe Strompreise und Lärm: In Ohio gefährden 21 lokale Bürgerentscheide und eine 25-Megawatt-Obergrenze geplante Amazon-Investitionen über 17 Milliarden $. Ein konkretes Gesetz oder einen Steuersatz nannte Trump noch nicht und räumte ein, seinen eigenen Regierungsstab vorab nicht über den Vorstoß informiert zu haben. Gleichzeitig behauptete Trump eine Einigung mit Chinas Staatschef Xi Jinping über gemeinsame Grundregeln für KI und lobte Anthropic-Chef Dario Amodei kurz nach dem Börsengang des KI-Unternehmens. Financial Times: Donald Trump threatens 'tremendous' tax on data centres built outside US SiliconANGLE: Trump announces plan to tax US companies that build data centers abroad Ballotpedia: Sunbury, Ohio, Prohibit Construction of Data Centers Initiative (November 2026) US-Präsident Donald Trump will den Bau von Rechenzentren durch amerikanische Technologiekonzerne im Ausland mit einer hohen Strafsteuer belegen. Firmen wie Google oder Amazon sollen ihre Milliardenproje...]]></description>
-    </item>
-    <item>
-      <title>Google Gemini Pro mit 50% Rabatt zum Black Friday</title>
-      <link>https://www.all-ai.de/news/news26top/google-gemini-pro-abo-bf</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-gemini-pro-abo-bf</guid>
-      <pubDate>Sat, 21 Nov 2026 14:45:01 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Google gewährt Bestandskunden bis zum 26. November 2026 einen Rabatt von 50% auf das Jahresabo von Google AI Pro, wodurch der Preis für zwölf Monate von 219,99€ auf 109,99€ (9,17€ monatlich) sinkt. Falls in der Google-One-Verwaltung fälschlicherweise nur 16% Ersparnis stehen, aktiviert ein Klick auf »Wechseln« dennoch den vollen Rabatt auf 109,99€. Das Paket umfasst Gemini 4 Neon und Carbon, 5 TB Speicher, YouTube Premium Lite, monatlich 10$ API-Guthaben sowie Zugriff auf Gemini 4 Carbon und Claude Opus 5.5 in der Desktop-App Antigravity. Vikas Kansal auf X Google One AI-Tarife Google startet vor dem Black Friday eine Rabattaktion für seine KI-Abos. Bestehende Abonnenten von Google One und den Google-KI-Tarifen erhalten das Jahresabo für Google AI Pro zum halben Preis. Anzeige Jahresabo für 9,17€ im Monat Für zwölf Monate kostet das Paket damit 109,99€ statt der regulären 219,99€, was umgerechnet nur 9,17€ pro Monat entspricht. Das Angebot für Bestandskunden gilt laut Google-Produktleiter Vikas Kansal noch bis zum 26. November 2026. In der Abo-Verwaltung von Google One taucht der reduzierte Preis allerdings nicht bei allen Nutzern sofort auf. Wer dort unter dem Punkt zum Ändern ...]]></description>
     </item>
   </channel>
 </rss>

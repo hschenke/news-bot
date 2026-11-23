@@ -5,9 +5,215 @@
     <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>A Partial Evaluator for C</title>
+      <link>https://phoenix.labri.fr/software/tempo/</link>
+      <guid isPermaLink="false">https://phoenix.labri.fr/software/tempo/</guid>
+      <pubDate>Mon, 23 Nov 2026 04:51:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>DeFlock Amerca Facebook Group Suspended as a Dangerous Organization</title>
+      <link>https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/</link>
+      <guid isPermaLink="false">https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/</guid>
+      <pubDate>Mon, 23 Nov 2026 04:31:32 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>XNU Linux: Full OS X GUI Userspace on Linux</title>
+      <link>https://github.com/AFK-surf/xnulinux</link>
+      <guid isPermaLink="false">https://github.com/AFK-surf/xnulinux</guid>
+      <pubDate>Mon, 23 Nov 2026 03:49:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Treemap of the Riemann Hypothesis Lean Proof</title>
+      <link>https://pengowray.github.io/riemann-zeta-proof-visualizer/</link>
+      <guid isPermaLink="false">https://pengowray.github.io/riemann-zeta-proof-visualizer/</guid>
+      <pubDate>Mon, 23 Nov 2026 01:50:23 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Free alternative TV network built from the Internet Archive's forgotten videos</title>
+      <link>https://spelunkr.tv</link>
+      <guid isPermaLink="false">https://spelunkr.tv</guid>
+      <pubDate>Mon, 23 Nov 2026 01:13:51 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>What we learned operating auth for 1k APIs</title>
+      <link>https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</link>
+      <guid isPermaLink="false">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</guid>
+      <pubDate>Mon, 23 Nov 2026 01:01:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>0rwx – A simple model of AI usage, inspired by Unix permissions</title>
+      <link>https://0rwx.com/</link>
+      <guid isPermaLink="false">https://0rwx.com/</guid>
+      <pubDate>Sun, 22 Nov 2026 23:53:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Progress map for the Lean formalization of Alessandro Masullo's manuscript</title>
+      <link>https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</link>
+      <guid isPermaLink="false">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</guid>
+      <pubDate>Sun, 22 Nov 2026 23:12:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>GL.iNet Security Notice 2026-11-20</title>
+      <link>https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</link>
+      <guid isPermaLink="false">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</guid>
+      <pubDate>Sun, 22 Nov 2026 23:06:37 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Localcode, open source agentic coding on your Mac with one command</title>
+      <link>https://github.com/mjwsolo/localcode</link>
+      <guid isPermaLink="false">https://github.com/mjwsolo/localcode</guid>
+      <pubDate>Sun, 22 Nov 2026 22:18:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The Usefulness of Useless Knowledge [pdf] (1939)</title>
+      <link>https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</link>
+      <guid isPermaLink="false">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</guid>
+      <pubDate>Sun, 22 Nov 2026 22:10:58 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The struggle for freedom: How BSD escaped AT&amp;T licensing</title>
+      <link>https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</link>
+      <guid isPermaLink="false">https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</guid>
+      <pubDate>Sun, 22 Nov 2026 21:33:12 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
+      <link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
+      <guid isPermaLink="false">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</guid>
+      <pubDate>Sun, 22 Nov 2026 21:01:16 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>A miniature San Francisco with live buses, planes and boats</title>
+      <link>https://smallsf.com/</link>
+      <guid isPermaLink="false">https://smallsf.com/</guid>
+      <pubDate>Sun, 22 Nov 2026 20:33:23 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Nyx, the Oldest Internet Service Provider</title>
+      <link>https://nyx.net/</link>
+      <guid isPermaLink="false">https://nyx.net/</guid>
+      <pubDate>Sun, 22 Nov 2026 20:15:59 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Assume People Are Not Interested in Your Blog Post</title>
+      <link>https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/</link>
+      <guid isPermaLink="false">https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:41:30 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>What Happened to Silicon Valley?</title>
+      <link>https://www.oreilly.com/radar/what-happened-to-silicon-valley/</link>
+      <guid isPermaLink="false">https://www.oreilly.com/radar/what-happened-to-silicon-valley/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:20:15 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</title>
+      <link>https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</link>
+      <guid isPermaLink="false">https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</guid>
+      <pubDate>Sun, 22 Nov 2026 19:10:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence/</link>
+      <guid isPermaLink="false">https://openai.com/index/perplexity-and-intelligence/</guid>
+      <pubDate>Sun, 22 Nov 2026 17:06:27 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>I joined the NTP Pool, but not with my Stratum 1 Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</link>
+      <guid isPermaLink="false">https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:35:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Open Social Web Alliance</title>
+      <link>https://osw-alliance.net/en/</link>
+      <guid isPermaLink="false">https://osw-alliance.net/en/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:24:32 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: I built a game where you are an LLM's subagent</title>
+      <link>https://github.com/gulivan/worker755</link>
+      <guid isPermaLink="false">https://github.com/gulivan/worker755</guid>
+      <pubDate>Sun, 22 Nov 2026 13:56:58 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Masullo on the Riemann Hypothesis</title>
+      <link>https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/</link>
+      <guid isPermaLink="false">https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/</guid>
+      <pubDate>Sun, 22 Nov 2026 10:59:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
   </channel>
 </rss>
