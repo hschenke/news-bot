@@ -547,7 +547,6 @@ class TestManageTabAndStateIntegration(unittest.TestCase):
                 }
             ],
             "settings": {
-                "streamlit_app_url": "https://news-bot.streamlit.app",
                 "language": "de",
                 "archive_retention_days": 8,
                 "summary_style": "tldr",
@@ -608,9 +607,23 @@ class TestManageTabAndStateIntegration(unittest.TestCase):
         self.assertEqual(final_urls, {"https://example.com/3.xml", "https://example.com/fresh.xml"})
         self.assertEqual(saved_cfg["settings"]["archive_retention_days"], 19)
         self.assertEqual(saved_cfg["settings"]["custom_main_prompt"], "Keep Prompt")
+        self.assertNotIn("streamlit_app_url", saved_cfg["settings"])
         self.assertEqual(saved_capture["kwargs"], {"sync_github": True, "persist_db": True, "include_rss_feeds": False})
         self.assertFalse(at.session_state["has_unsaved_changes"])
         self.assertIn("Cloud-Datenbank & GitHub", str(at.session_state.get("manage_notice", "")))
+
+    def test_streamlit_app_url_only_from_environment_variable(self) -> None:
+        """STREAMLIT_APP_URL darf ausschließlich aus der Umgebungsvariable gelesen werden, niemals statisch oder aus settings.yaml."""
+        import os
+
+        from src.summarizer import get_streamlit_app_url
+
+        with patch.dict("os.environ", {"STREAMLIT_APP_URL": "https://holli-news-bot.streamlit.app/"}, clear=False):
+            self.assertEqual(get_streamlit_app_url(), "https://holli-news-bot.streamlit.app")
+
+        env_without_url = {k: v for k, v in os.environ.items() if k != "STREAMLIT_APP_URL"}
+        with patch.dict("os.environ", env_without_url, clear=True):
+            self.assertEqual(get_streamlit_app_url(), "")
 
 
 if __name__ == "__main__":

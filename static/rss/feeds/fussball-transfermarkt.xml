@@ -2,92 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Transfermarkt (Fußball)</title>
-    <link>https://news-bot.streamlit.app/?category=Fu%C3%9Fball&amp;feed=Transfermarkt</link>
+    <link>/?category=Fu%C3%9Fball&amp;feed=Transfermarkt</link>
     <description>RSS-Feed für die Quelle 'Transfermarkt' (Kategorie: Fußball).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fussball-transfermarkt.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wer hat überzeugt? Jetzt die Top-Elf des 10. Bundesliga-Spieltages wählen</title>
-      <link>https://www.transfermarkt.de/wer-hat-uberzeugt-jetzt-die-top-elf-des-10-bundesliga-spieltages-wahlen/view/news/490993</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/wer-hat-uberzeugt-jetzt-die-top-elf-des-10-bundesliga-spieltages-wahlen/view/news/490993</guid>
-      <pubDate>Sun, 22 Nov 2026 18:31:02 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Die Bundesliga hat den 10. Spieltag abgeschlossen, und damit ist es wieder Zeit für die Wahl der Elf des Spieltages. Wer waren die Besten auf dem Platz? Jetzt kannst du mit der TM-Community...]]></description>
-    </item>
-    <item>
-      <title>Werder Bremen gewinnt Nordderby gegen HSV deutlich</title>
-      <link>https://www.transfermarkt.de/doppelpack-njinmah-werder-gewinnt-nordderby-gegen-hsv-deutlich-friedl-eroffnet-torreigen/view/news/491043</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/doppelpack-njinmah-werder-gewinnt-nordderby-gegen-hsv-deutlich-friedl-eroffnet-torreigen/view/news/491043</guid>
-      <pubDate>Sun, 22 Nov 2026 18:30:05 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Justin Njinmah hat den SV Werder Bremen mit einem Doppelpack zum Prestigesieg im Nordderby gegen den Hamburger SV geführt. Mit seinen beiden Treffern in der 66. und 70. Minute schoss der...]]></description>
-    </item>
-    <item>
-      <title>Horrorstart für Pochettino bei Man United: Wirtz und Liverpool machen früh alles klar</title>
-      <link>https://www.transfermarkt.de/horrorstart-fur-pochettino-bei-man-united-wirtz-und-liverpool-sorgen-fruh-fur-klare-verhaltnisse/view/news/491044</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/horrorstart-fur-pochettino-bei-man-united-wirtz-und-liverpool-sorgen-fruh-fur-klare-verhaltnisse/view/news/491044</guid>
-      <pubDate>Sun, 22 Nov 2026 18:29:25 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Mauricio Pochettinos Debüt als Trainer von Manchester United ist gründlich misslungen. Ausgerechnet beim Erzrivalen FC Liverpool verlor United in Unterzahl mit 0:4 (0:2), auch weil...]]></description>
-    </item>
-    <item>
-      <title>FC Augsburg gewinnt hitziges Krisen-Duell gegen FSV Mainz 05</title>
-      <link>https://www.transfermarkt.de/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-poschs-patzer-bringt-vorentscheidung/view/news/491042</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-poschs-patzer-bringt-vorentscheidung/view/news/491042</guid>
-      <pubDate>Sun, 22 Nov 2026 16:27:15 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der FC Augsburg hat trotz heftiger Personalsorgen das hitzige Krisen-Duell gegen den FSV Mainz 05 gewonnen. Fast ohne Innenverteidiger im Kader, dafür mit Doppelpacker Michael Gregoritsch...]]></description>
-    </item>
-    <item>
-      <title>Blessin stärkt Gladbach-Keeper Batz nach Fehler: „Depp vom Dienst“ bleibt Nummer 1</title>
-      <link>https://www.transfermarkt.de/-depp-vom-dienst-quot-bleibt-nummer-1-blessin-starkt-gladbach-keeper-batz-nach-fehler/view/news/491041</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/-depp-vom-dienst-quot-bleibt-nummer-1-blessin-starkt-gladbach-keeper-batz-nach-fehler/view/news/491041</guid>
-      <pubDate>Sun, 22 Nov 2026 15:30:14 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Mönchengladbachs Schlussmann Daniel Batz suchte nach der bitteren 0:1-Niederlage im Borussen-Duell gegen Dortmund alle Schuld bei sich. Er sei „der Depp vom Dienst“, sagte der...]]></description>
-    </item>
-    <item>
-      <title>Nick Woltemade bringt Juventus die Erlösung gegen Venedig</title>
-      <link>https://www.transfermarkt.de/woltemade-bringt-die-erlosung-juventus-siegt-nach-pfiffen-deutlich-gegen-venedig/view/news/491040</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/woltemade-bringt-die-erlosung-juventus-siegt-nach-pfiffen-deutlich-gegen-venedig/view/news/491040</guid>
-      <pubDate>Sun, 22 Nov 2026 14:47:30 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der 14-malige deutsche Nationalspieler Nick Woltemade kommt in der Serie A bei Juventus Turin besser in Fahrt. Beim 4:0-Erfolg der Norditaliener gegen den Vorletzten Venedig erzielte der in der...]]></description>
-    </item>
-    <item>
-      <title>Manchester United: Fernandes wehrt sich gegen Vorwürfe – Angebot abgelehnt</title>
-      <link>https://www.transfermarkt.de/united-angebot-abgelehnt-fernandes-wehrt-sich-gegen-vorwurfe-hatte-immer-gehen-konnen-quot-/view/news/491037</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/united-angebot-abgelehnt-fernandes-wehrt-sich-gegen-vorwurfe-hatte-immer-gehen-konnen-quot-/view/news/491037</guid>
-      <pubDate>Sun, 22 Nov 2026 13:57:22 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Bruno Fernandes steht nur noch für die aktuelle Saison bei Manchester United unter Vertrag. Wäre es nach den Red Devils gegangen, wäre das Arbeitspapier längst ausgeweitet...]]></description>
-    </item>
-    <item>
-      <title>PSG bestätigt Befürchtungen bei Doué – „So ist das Leben als Profi“</title>
-      <link>https://www.transfermarkt.de/psg-bestatigt-befurchtungen-bei-doue-so-ist-das-leben-als-profi-auf-hochstem-niveau-quot-/view/news/491032</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/psg-bestatigt-befurchtungen-bei-doue-so-ist-das-leben-als-profi-auf-hochstem-niveau-quot-/view/news/491032</guid>
-      <pubDate>Sun, 22 Nov 2026 12:15:01 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Veröffentlicht am 22.11.2026 um 09.29 Uhr, aktualisiert um 13:15 Uhr. Paris Saint-Germain hat die Befürchtungen nach der Verletzung von Désiré Doué bestätigt....]]></description>
-    </item>
-    <item>
-      <title>Lustrinelli kritisiert Union-Kader: Nach Wechseln „wirklich ein großer Unterschied auf dem Platz“</title>
-      <link>https://www.transfermarkt.de/lustrinelli-kritisiert-union-kader-nach-wechseln-wirklich-ein-grosser-unterschied-auf-dem-platz-quot-/view/news/491036</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/lustrinelli-kritisiert-union-kader-nach-wechseln-wirklich-ein-grosser-unterschied-auf-dem-platz-quot-/view/news/491036</guid>
-      <pubDate>Sun, 22 Nov 2026 12:01:27 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der Druck auf Trainer Mauro Lustrinelli und Geschäftsführer Horst Heldt ist nach der nächsten heftigen Abreibung für den 1. FC Union Berlin massiv gewachsen. Nach der 1:5...]]></description>
-    </item>
+
   </channel>
 </rss>

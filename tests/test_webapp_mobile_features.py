@@ -200,8 +200,8 @@ class TestWebappMobileFeatures(unittest.TestCase):
         from pathlib import Path
         manage_code = Path("src/ui/tabs/manage_tab.py").read_text(encoding="utf-8")
 
-        # 1. Alle Settings-Felder sind editierbar
-        self.assertIn('inp_set_app_url', manage_code)
+        # 1. Alle Settings-Felder sind editierbar (ohne statische Streamlit App URL)
+        self.assertNotIn('inp_set_app_url', manage_code)
         self.assertIn('inp_set_lang', manage_code)
         self.assertIn('inp_set_retention_days', manage_code)
         self.assertIn('inp_set_style', manage_code)

@@ -244,6 +244,24 @@ def sync_configs_from_storage(
                 statuses[fname] = "invalid_yaml"
                 continue
 
+            if fname == "settings.yaml" and "streamlit_app_url" in parsed_db:
+                parsed_db.pop("streamlit_app_url", None)
+                cleaned_yaml = yaml.dump(
+                    parsed_db,
+                    allow_unicode=True,
+                    sort_keys=False,
+                    default_flow_style=False,
+                )
+                cleaned_sha = _sha256_text(cleaned_yaml)
+                was_in_sync = bool(snap.base_sha256 and snap.sha256 == snap.base_sha256)
+                snap = ConfigSnapshot(
+                    yaml_text=cleaned_yaml,
+                    sha256=cleaned_sha,
+                    base_sha256=cleaned_sha if was_in_sync else snap.base_sha256,
+                    updated_at=snap.updated_at or time.time(),
+                )
+                db_updates[meta_key] = snap.to_json()
+
             abs_path = (root_dir / rel_path).resolve()
             disk_text, disk_hash = _read_disk_yaml_and_hash(abs_path)
 
@@ -950,8 +968,11 @@ def load_settings(config_path: str = "config/settings.yaml") -> dict[str, Any]:
     with open(path, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f) or {}
     if isinstance(data, dict) and "settings" in data and isinstance(data["settings"], dict):
-        return data["settings"]
-    return data if isinstance(data, dict) else {}
+        result = dict(data["settings"])
+    else:
+        result = dict(data) if isinstance(data, dict) else {}
+    result.pop("streamlit_app_url", None)
+    return result
 
 
 def save_settings(
@@ -964,7 +985,11 @@ def save_settings(
 ) -> dict[str, Any]:
     """Speichert globale Einstellungen persistent in config/settings.yaml (ohne Prompt-Keys),
     in der Cloud-Datenbank sowie als Backup-Snapshot in der settings_backups-Tabelle."""
-    clean_settings = {k: v for k, v in settings.items() if k not in PROMPT_KEYS and k != "ad_keywords"}
+    clean_settings = {
+        k: v
+        for k, v in settings.items()
+        if k not in PROMPT_KEYS and k not in ("ad_keywords", "streamlit_app_url")
+    }
     path = get_settings_path(config_path)
     is_app_config = _is_canonical_config_path(path, "config/settings.yaml")
     _, pre_disk_hash = _read_disk_yaml_and_hash(path) if is_app_config else ("", "")
@@ -1045,6 +1070,7 @@ def load_sources(config_path: str = "config/sources.yaml", auto_reconcile: bool 
     merged_settings = dict(data.get("settings", {}))
     merged_settings.update(settings_data)
     merged_settings.update(prompts_data)
+    merged_settings.pop("streamlit_app_url", None)
     data["settings"] = merged_settings
 
     if auto_reconcile:
@@ -1091,7 +1117,11 @@ def save_sources(
         prompts_file = path.parent / "prompts.yaml"
 
         prompt_data = {k: v for k, v in settings_dict.items() if k in PROMPT_KEYS}
-        general_settings = {k: v for k, v in settings_dict.items() if k not in PROMPT_KEYS and k != "ad_keywords"}
+        general_settings = {
+            k: v
+            for k, v in settings_dict.items()
+            if k not in PROMPT_KEYS and k not in ("ad_keywords", "streamlit_app_url")
+        }
 
         if general_settings:
             is_canonical_settings = _is_canonical_config_path(settings_file, "config/settings.yaml")

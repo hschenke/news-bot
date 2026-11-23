@@ -138,18 +138,8 @@ def save_ai_brain_policy(
     return saved
 
 
-def get_streamlit_app_url(config_path: str = "config/settings.yaml") -> str:
-    """Ermittelt die konfigurierte Basis-URL der Streamlit Web-App aus settings.yaml."""
-    try:
-        from src.sources_manager import load_settings
-
-        settings = load_settings(config_path)
-        configured_url = settings.get("streamlit_app_url")
-        if configured_url and str(configured_url).strip():
-            return str(configured_url).strip().rstrip("/")
-    except Exception as exc:  # noqa: BLE001 - Fallback auf ENV/Defaults
-        logger.debug("settings.yaml für STREAMLIT_APP_URL nicht lesbar: %s", exc)
-
+def get_streamlit_app_url(*_args: Any, **_kwargs: Any) -> str:
+    """Ermittelt die Basis-URL der Streamlit Web-App ausschließlich über die Umgebungsvariable STREAMLIT_APP_URL."""
     env_url = os.getenv("STREAMLIT_APP_URL")
     if env_url and env_url.strip():
         return env_url.strip().rstrip("/")
@@ -163,7 +153,7 @@ def get_streamlit_app_url(config_path: str = "config/settings.yaml") -> str:
         except Exception as exc:  # noqa: BLE001 - Streamlit Secrets sind optional
             logger.debug("Streamlit Secret STREAMLIT_APP_URL nicht lesbar: %s", type(exc).__name__)
 
-    return "https://news-bot.streamlit.app"
+    return ""
 
 
 def build_category_quicklinks(
@@ -179,6 +169,7 @@ def build_category_quicklinks(
     Falls ein APP_PASSWORD hinterlegt ist, wird das sichere Auth-Token an die URLs angehängt,
     sodass der Nutzer bei Klicks aus dem Briefing nie wieder ein Passwort eingeben muss!
     """
+    clean_base_url = (streamlit_base_url or "").strip().rstrip("/")
     try:
         from src.auth import generate_readonly_auth_token, get_configured_app_password
     except ImportError:
@@ -190,20 +181,23 @@ def build_category_quicklinks(
     app_pw = get_configured_app_password()
     auth_param = f"&auth={generate_readonly_auth_token(app_pw)}" if app_pw else ""
 
-    category_links = {}
+    category_links: dict[str, str] = {}
     for cat_item in config.get("categories", []):
         cat_name = cat_item.get("name", "").strip()
         if not cat_name:
             continue
+        if not clean_base_url:
+            category_links[cat_name] = ""
+            continue
         feeds = cat_item.get("feeds", [])
         encoded_cat = urllib.parse.quote(cat_name)
-        cat_app_url = f"{streamlit_base_url}/?category={encoded_cat}{auth_param}"
+        cat_app_url = f"{clean_base_url}/?category={encoded_cat}{auth_param}"
 
         feed_parts = []
         for f in feeds:
             fname = f.get("name", "Feed").strip()
             encoded_feed = urllib.parse.quote(fname)
-            feed_app_url = f"{streamlit_base_url}/?category={encoded_cat}&feed={encoded_feed}{auth_param}"
+            feed_app_url = f"{clean_base_url}/?category={encoded_cat}&feed={encoded_feed}{auth_param}"
             feed_parts.append(f"[{fname}]({feed_app_url})")
 
         if len(feed_parts) == 1:

@@ -135,7 +135,7 @@ Alle aggregierten Nachrichten stehen als standardkonforme, hochperformante **RSS
 > - **Feed-spezifische Keyword-Filter**: Einzelne Feeds können nach Keywords gefiltert werden (z. B. bei den *Berliner Polizeimeldungen* nur Einsätze aus `Mahlsdorf`). Inklusive automatischer HTML-Teaser-Anreicherung bei Feeds mit leeren Beschreibungen.
 
 #### Aufruf & Nutzung:
-1. Öffne den Tab **"📡 Eigene RSS-Feeds"** im Dashboard oder rufe direkt die URL `https://news-bot.streamlit.app/?page=rss` auf.
+1. Öffne den Tab **"📡 RSS Feeds"** im Dashboard (oder rufe deine konfigurierte `STREAMLIT_APP_URL` mit `/?page=rss` auf).
 2. Kopiere die gewünschte CDN-URL oder klicke auf **"➕ 1-Click Abo"**, um den Feed direkt in deinem RSS-Reader (z. B. **NetNewsWire**, **Feedly**, **Apple News**, **Inoreader**, **Thunderbird**, **Outlook**) einzubinden.
 3. Jeder Feed kann zusätzlich als `.xml`-Datei heruntergeladen oder per Live-Code-Vorschau inspiziert werden.
 

@@ -140,10 +140,13 @@ class TestWebappSmoke(unittest.TestCase):
 
     def test_logged_out_state_shows_login_form(self):
         """Prüft, dass bei logged_out=True das Login-Formular gerendert und Auto-Logins ignoriert werden."""
-        at = self._create_app_test()
-        at.session_state["logged_out"] = True
-        at.session_state["authenticated"] = False
-        at.run()
+        from unittest.mock import patch
+
+        with patch.dict("os.environ", {"APP_PASSWORD": "test_password"}, clear=False):
+            at = self._create_app_test()
+            at.session_state["logged_out"] = True
+            at.session_state["authenticated"] = False
+            at.run()
         if at.exception:
             error_msgs = [f"{exc.type}: {exc.value}" for exc in at.exception]
             self.fail(f"Logout-Zustand warf Exceptions: {error_msgs}")

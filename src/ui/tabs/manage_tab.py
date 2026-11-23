@@ -94,9 +94,6 @@ def _has_pending_settings_edits(working_config: dict[str, Any]) -> bool:
     if not isinstance(settings, dict):
         return False
 
-    if "inp_set_app_url" in st.session_state:
-        if str(st.session_state["inp_set_app_url"]).strip() != str(settings.get("streamlit_app_url", "")).strip():
-            return True
     if "inp_set_lang" in st.session_state:
         if str(st.session_state["inp_set_lang"]).strip() != str(settings.get("language", "de")).strip():
             return True
@@ -125,8 +122,6 @@ def _apply_pending_settings_from_state(working_config: dict[str, Any]) -> None:
         settings = {}
         working_config["settings"] = settings
 
-    if "inp_set_app_url" in st.session_state:
-        settings["streamlit_app_url"] = str(st.session_state["inp_set_app_url"]).strip()
     if "inp_set_lang" in st.session_state:
         settings["language"] = str(st.session_state["inp_set_lang"]).strip() or "de"
     if "inp_set_retention_days" in st.session_state:
@@ -138,7 +133,14 @@ def _apply_pending_settings_from_state(working_config: dict[str, Any]) -> None:
     if "inp_set_ad_patterns" in st.session_state:
         settings["ad_patterns"] = _parse_ad_patterns(str(st.session_state["inp_set_ad_patterns"]))
 
-    for deprecated_key in ("strip_ads", "ad_keywords", "max_article_age_weeks", "max_age_weeks", "batch_sync_interval_minutes"):
+    for deprecated_key in (
+        "strip_ads",
+        "ad_keywords",
+        "max_article_age_weeks",
+        "max_age_weeks",
+        "batch_sync_interval_minutes",
+        "streamlit_app_url",
+    ):
         settings.pop(deprecated_key, None)
 
 
@@ -705,16 +707,12 @@ def render_manage_tab(
             render_dismissible_notice(st.session_state["manage_settings_notice"], notice_key="manage_settings_notice", icon="⚙️")
         settings = working_config.get("settings", {})
 
-        col_s1, col_s2 = st.columns(2)
+        col_s1, col_s2, col_s3 = st.columns(3)
         with col_s1:
-            app_url_val = st.text_input(
-                "Streamlit App URL:",
-                value=settings.get("streamlit_app_url", ""),
-                help="Öffentliche Basis-URL der Streamlit Cloud App für Deeplinks.",
-                key="inp_set_app_url",
-            )
             lang_val = st.text_input("Sprache:", value=settings.get("language", "de"), key="inp_set_lang")
         with col_s2:
+            style_val = st.text_input("Zusammenfassungs-Stil:", value=settings.get("summary_style", "tldr"), key="inp_set_style")
+        with col_s3:
             # Archiv-Aufbewahrung in Tagen (Wochenschema vollständig eliminiert!)
             curr_retention = int(settings.get("archive_retention_days", DEFAULT_ARCHIVE_RETENTION_DAYS))
             retention_val = st.number_input(
@@ -725,7 +723,6 @@ def render_manage_tab(
                 help="Archivierte Artikel, die älter als diese Anzahl an Tagen sind, werden beim morgendlichen Lauf automatisch aus der Datenbank gelöscht.",
                 key="inp_set_retention_days",
             )
-            style_val = st.text_input("Zusammenfassungs-Stil:", value=settings.get("summary_style", "tldr"), key="inp_set_style")
 
         st.divider()
 
@@ -753,7 +750,7 @@ def render_manage_tab(
 
         if st.button("✔️ Einstellungen im Entwurf übernehmen", key="btn_apply_settings", use_container_width=True):
             with st.spinner("Übernehme Einstellungen im Arbeitsentwurf..."):
-                settings["streamlit_app_url"] = app_url_val.strip()
+                settings.pop("streamlit_app_url", None)
                 settings["language"] = lang_val.strip()
                 settings["archive_retention_days"] = int(retention_val)
                 settings["summary_style"] = style_val.strip()

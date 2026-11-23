@@ -39,11 +39,7 @@ def render_feedly_tab(
     if st.session_state.get("feedly_notice"):
         render_dismissible_notice(st.session_state["feedly_notice"], notice_key="feedly_notice", icon="📡")
 
-    app_base_url = (
-        working_config.get("settings", {}).get("streamlit_app_url")
-        or get_streamlit_app_url()
-        or ""
-    ).rstrip("/")
+    app_base_url = (get_streamlit_app_url() or "").rstrip("/")
 
     # Export / build feeds (gecached im session_state, um Festplatten-I/O bei jedem Rerun zu vermeiden)
     if "cached_rss_registry" not in st.session_state:

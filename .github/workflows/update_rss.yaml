@@ -37,6 +37,7 @@ jobs:
 
       - name: 📡 RSS-Feeds neu generieren
         env:
+          STREAMLIT_APP_URL: ${{ secrets.STREAMLIT_APP_URL }}
           TURSO_URL: ${{ secrets.TURSO_URL }}
           TURSO_KEY: ${{ secrets.TURSO_KEY }}
           TURSO_TIMEOUT: "30.0"

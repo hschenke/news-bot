@@ -2,38 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — TechCrunch AI (Tech &amp; AI)</title>
-    <link>https://news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
+    <link>/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
-      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191173</guid>
-      <pubDate>Mon, 23 Nov 2026 01:25:53 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Three significant backers share what gave them conviction to bet billions on Anthropic.]]></description>
-    </item>
-    <item>
-      <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
-      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191164</guid>
-      <pubDate>Sun, 22 Nov 2026 21:14:07 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[To establish a speed limit on AI development, you need to agree on how to measure speed.]]></description>
-    </item>
-    <item>
-      <title>Why data centers are at the center of the Big Tech backlash</title>
-      <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191157</guid>
-      <pubDate>Sun, 22 Nov 2026 18:08:43 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Journalist Paris Marx unpacks his new book "Hyperscale."]]></description>
-    </item>
+
   </channel>
 </rss>

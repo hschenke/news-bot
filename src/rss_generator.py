@@ -224,11 +224,8 @@ def _resolve_feed_urls(
 ) -> tuple[str, str, str, str]:
     """Ermittelt Basis-URL, CDN-Präfix, Raw-GitHub-Präfix und Streamlit-Präfix."""
     if not base_url:
-        if config:
-            base_url = config.get("settings", {}).get("streamlit_app_url")
-        if not base_url:
-            from src.summarizer import get_streamlit_app_url
-            base_url = get_streamlit_app_url()
+        from src.summarizer import get_streamlit_app_url
+        base_url = get_streamlit_app_url()
     clean_base_url = (base_url or "").rstrip("/")
 
     repo = "hschenke/news-bot"

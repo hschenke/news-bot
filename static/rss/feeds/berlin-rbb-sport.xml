@@ -2,110 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News Bot — Rbb Sport (Berlin)</title>
-    <link>https://news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
+    <link>/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:03:39 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alba-Pleite: Berlin verliert Prestigeduell gegen die Bayern</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/basketball-bundesliga-bbl-alba-berlin-verliert-gegen-bayern-muen.html</guid>
-      <pubDate>Sun, 22 Nov 2026 21:02:30 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Auch das zweite Ligaduell der Berliner gegen den Dauerrivalen in dieser Saison geht an die Bayern. Alba kämpft zwar bis zum Ende, aber eine zu schwache Wurfquote verhindert die Überraschung.]]></description>
-    </item>
-    <item>
-      <title>Regionalliga: BFC Dynamos Erfolgsserie reißt, BFC Preussen siegt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-preussen-chemie-leipzig-bfc-dynamo-hall.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-preussen-chemie-leipzig-bfc-dynamo-hall.html</guid>
-      <pubDate>Sun, 22 Nov 2026 20:22:58 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Vereinsausschlussverfahren gegen Cottbuser Vorsänger eingeleitet</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-capo-vereinsausschlussverfahren.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-capo-vereinsausschlussverfahren.html</guid>
-      <pubDate>Sun, 22 Nov 2026 18:40:57 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Alba-Frauen liefern Aufholjagd und gewinnen in Nördlingen</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/damen-basketball-bundesliga-dbbl-alba-berlin-frauen-noerdlingen.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/damen-basketball-bundesliga-dbbl-alba-berlin-frauen-noerdlingen.html</guid>
-      <pubDate>Sun, 22 Nov 2026 18:12:27 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Handball-Bundesliga: Füchse zittern sich zum Sieg in Göppingen</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/handball-bundesliga-fuechse-berlin-frisch-auf-goeppingen.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/handball-bundesliga-fuechse-berlin-frisch-auf-goeppingen.html</guid>
-      <pubDate>Sun, 22 Nov 2026 17:08:57 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Herthas Sieg in Cottbus: Das 100-Punkte-Puzzle</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-analyse.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-analyse.html</guid>
-      <pubDate>Sun, 22 Nov 2026 16:51:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[34 von 36 Punkten, Tabellenführung, 4:0 in Cottbus – und kaum jemand hat das so kommen sehen. Hertha BSC spielt keinen rauschhaften Fußball, glänzt aber mit verlässlichen Abläufen, stoischem Gleichmut und einer Startelf, die kaum gewechselt werden muss. Warum dieser Lauf derzeit so schwer aufzuhalten ist.]]></description>
-    </item>
-    <item>
-      <title>2. Frauen-Liga: Viktoria festigt Tabellenführung, Hertha taumelt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/frauen-bundesliga-viktoria-berlin-turbine-potsdam-hertha-jena-.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/frauen-bundesliga-viktoria-berlin-turbine-potsdam-hertha-jena-.html</guid>
-      <pubDate>Sun, 22 Nov 2026 16:28:14 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>6:4-Sieg: Eisbären gewinnen Torspektakel in Straubing</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/del-eishockey-liga-straubing-tigers-eisbaeren-berlin.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/del-eishockey-liga-straubing-tigers-eisbaeren-berlin.html</guid>
-      <pubDate>Sun, 22 Nov 2026 16:18:26 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>2. Liga: Hertha gewinnt Berlin-Brandenburg-Derby in Cottbus</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-liga-fc-energie-cottbus-hertha-bsc-spielbericht.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-liga-fc-energie-cottbus-hertha-bsc-spielbericht.html</guid>
-      <pubDate>Sun, 22 Nov 2026 16:14:51 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Herthas 100-Punkte-Traum geht weiter. Im ersten Berlin-Brandenburg-Derby seit 13 Jahren gewinnt die Alte Dame am Ende deutlich und verdient in Cottbus.]]></description>
-    </item>
-    <item>
-      <title>Energie Cottbus vs. Hertha: Das Derby im Liveticker und Audiostream</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-energie-cottbus-hertha-bsc-liveticker.html</guid>
-      <pubDate>Sun, 22 Nov 2026 14:55:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Hertha BSC gewinnt mit 4:0 bei Energie Cottbus und träumt weiter von 100 Punkten, weil ... ja, warum eigentlich? Weiß es auch nicht, hat das aber immerhin schon vorher gewusst: der Liveticker.]]></description>
-    </item>
-    <item>
-      <title>Unions 1:5 gegen Leipzig: Mut allein reicht nicht</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/union-berlin-rb-leipzig-bundesliga-niederlage-analyse-lustrinelli-abstiegskampf.html</guid>
-      <pubDate>Sun, 22 Nov 2026 07:24:55 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Union Berlin tritt bei der 1:5-Niederlage gegen RB Leipzig mutiger auf, offenbart aber erneut große Schwächen in der Defensive. Die Mannschaft von Mauro Lustrinelli findet weiterhin nicht die richtige Balance.]]></description>
-    </item>
+
   </channel>
 </rss>
