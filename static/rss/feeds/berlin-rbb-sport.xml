@@ -5,9 +5,36 @@
     <link>https://holli-news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:59:30 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Union Berlin im Tabellenkeller: Fassade des Zusammenhalts bröckelt</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</guid>
+      <pubDate>Tue, 24 Nov 2026 15:57:52 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Union Berlin steckt nach zehn Spielen mittendrin im Tabellenkeller. Neben Manager Heldt wird auch über Trainer Lustrinell längst diskutiert. Derübt nun harsche Kritik an seinen Spielern und befeuert, vielleicht auch aus Verzweiflung, Union-unytpische Zustände.]]></description>
+    </item>
+    <item>
+      <title>Kommentar zum Transfer von DFB-Keeperin Berger zu Union Berlin</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-frauen-bundesliga-union-berlin-ann-katrin-berger-kommentar.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-frauen-bundesliga-union-berlin-ann-katrin-berger-kommentar.html</guid>
+      <pubDate>Tue, 24 Nov 2026 14:48:19 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Mit der Verpflichtung von Nationaltorhüterin Ann-Katrin Berger hat der 1. FC Union ein Ausrufezeichen gesetzt. Der Transfer sorgt auch in den sozialen Netzwerken für Aufsehen und Bergers Erfahrung dürfte dem Kader der Köpenickerinnen gut tun.]]></description>
+    </item>
+    <item>
+      <title>Eishockey-Talent Krestan: Noch kein König, aber schon ein Eisbär</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-los-angeles-kings-nhl-tobias-krestan-portrait.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-los-angeles-kings-nhl-tobias-krestan-portrait.html</guid>
+      <pubDate>Tue, 24 Nov 2026 12:17:37 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Der 18-jährige Tobias Krestan zeigt bei den Eisbären Berlin gerade, warum er als großes Talent gilt. Nebenbei gewöhnt er sich an das Großstadtleben ohne Führerschein. Warum Berlin für das Eishockey-Talent gerade in Sachen Nahverkehr schon jetzt ein Gewinn ist.]]></description>
+    </item>
     <item>
       <title>Fan-Freundschaft Hertha-KSC: Alles Zufall oder doch geplant?</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-50-jahre-fanfreundschaft-ursprung.html</link>
@@ -25,24 +52,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Die Frauen des 1. FC Union haben einen echten Sensationstransfer vermeldet. Die Berlinerinnen verpflichten ab Januar Ann-Katrin Berger - die aktuelle Nummer eins der deutschen Nationalmannschaft und eine der besten Torhüterinnen der Welt.]]></description>
-    </item>
-    <item>
-      <title>Union Berlin im Tabellenkeller: Fassade des Zusammenhalts bröckelt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</guid>
-      <pubDate>Mon, 23 Nov 2026 13:26:11 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Union Berlin steckt nach zehn Spielen mittendrin im Tabellenkeller. Neben Manager Heldt wird auch über Trainer Lustrinell längst diskutiert. Derübt nun harsche Kritik an seinen Spielern und befeuert, vielleicht auch aus Verzweiflung, Union-unytpische Zustände.]]></description>
-    </item>
-    <item>
-      <title>Handball-Bundesliga: Füchse zittern sich zum Sieg in Göppingen</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/handball-bundesliga-fuechse-berlin-frisch-auf-goeppingen.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/handball-bundesliga-fuechse-berlin-frisch-auf-goeppingen.html</guid>
-      <pubDate>Mon, 23 Nov 2026 06:52:30 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
     </item>
   </channel>
 </rss>

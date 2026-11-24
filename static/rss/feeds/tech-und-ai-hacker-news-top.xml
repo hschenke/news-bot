@@ -5,17 +5,9 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:59:30 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CollectWise (YC F24) Is Hiring</title>
-      <link>https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager</link>
-      <guid isPermaLink="false">https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager</guid>
-      <pubDate>Mon, 23 Nov 2026 07:01:08 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
+
   </channel>
 </rss>

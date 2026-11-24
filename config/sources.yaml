@@ -14,9 +14,7 @@ categories:
   - name: Rbb Sport
     url: https://www.rbb24.de/sport/index.xml/feed=rss.xml
 - name: Finanzen & Coins
-  feeds:
-  - name: Investing de
-    url: https://de.investing.com/rss/news_301.rss
+  feeds: []
 - name: Fun
   feeds:
   - name: debeste.de
