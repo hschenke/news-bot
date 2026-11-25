@@ -17,8 +17,6 @@ categories:
   feeds: []
 - name: Fun
   feeds:
-  - name: debeste.de
-    url: https://debeste.de/rss-main
   - name: Witz des Tages
     url: https://www.hahaha.de/witze/witzdestages.xml
 - name: Fußball
@@ -29,6 +27,8 @@ categories:
     url: https://www.transfermarkt.de/rss/news
 - name: Games
   feeds:
+  - name: Dungeon crawler
+    url: https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527
   - name: Might & Magic Alert
     url: https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876
     offline_download: true
@@ -41,9 +41,9 @@ categories:
     url: https://www.all-ai.de/component/jmap/sitemap/rss?format=rss
   - name: Hacker News (Top)
     url: https://news.ycombinator.com/rss
-  - name: Heise Online News
-    url: https://www.heise.de/rss/heise-atom.xml
   - name: Huggingface
     url: https://huggingface.co/blog/feed.xml
+  - name: SSD issues
+    url: https://www.google.com/alerts/feeds/04536167566068725751/11217029976394893075
   - name: TechCrunch AI
     url: https://techcrunch.com/category/artificial-intelligence/feed/
