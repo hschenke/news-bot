@@ -5,9 +5,63 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:47:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Midjourney bringt Anime-Modell Niji 8 mit eigener Bildbearbeitung</title>
+      <link>https://www.all-ai.de/news/news26/midjourney-niji-anime-modell-8</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/midjourney-niji-anime-modell-8</guid>
+      <pubDate>Wed, 25 Nov 2026 09:38:04 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Midjourney und Spellbrush haben das neue KI-Modell Niji 8 für Anime- und Manga-Illustrationen veröffentlicht. Ein integriertes Bearbeitungsmodell ersetzt die in Niji 7 gestrichene Charakter-Referenz und kombiniert Figurenblätter per Textbefehl mit neuen Hintergründen. Kurze Eingaben liefern bewusst breite Bildvielfalt, während längere Prompts die Auswahl eng eingrenzen und komplette Manga-Seiten ermöglichen. Niji 8 nutzt das hohe Tempo von Midjourney V8 samt HD-Modus und steht im regulären Abo ab 10$ monatlich bereit. Niji·journey Blog: Welcome to Niji 8! Midjourney auf X: Ankündigung zu Niji V8 Niji·journey YouTube: Niji 8 Announcement Trailer Die KI-Unternehmen Midjourney und Spellbrush haben ihr neues KI-Modell Niji 8 für Anime- und Manga-Illustrationen veröffentlicht. Es berechnet Bilder deutlich schneller als der Vorgänger und ergänzt ein eigenes Bearbeitungsmodell für wiederkehrende Figuren. Eigenes Bearbeitungsmodell löst das Figuren-Problem Wer eigene Comics oder Bilderserien entwirft, braucht anfangs viele verschiedene Ideen und später über zahlreiche Szenen hinweg dieselbe Hauptfigur. Beim Vorgänger Niji 7 hakte dieser Ablauf, weil die Entwickler die beliebte Charakter...]]></description>
+    </item>
+    <item>
+      <title>Ein Jahr OpenClaw: Vom Start bis zum KI-Agenten-Jahr 2027</title>
+      <link>https://www.all-ai.de/news/beitrage2026/openclaw-1jahr-ki-agenten</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/beitrage2026/openclaw-1jahr-ki-agenten</guid>
+      <pubDate>Wed, 25 Nov 2026 09:13:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Ein Jahr nach dem ersten Code von Peter Steinberger ist OpenClaw vom fehleranfälligen Bastelprojekt zum Vorbild für heutige KI-Agenten gereift. Nach frühen Sicherheitslücken und gelöschten E-Mail-Postfächern nutzen inzwischen Konzerne wie Nvidia, Microsoft, Red Hat und OpenAI das Projekt als Basis. Während Banken, Fluglinien und Online-Händler erste fremde Buchungs-Agenten aussperren, testet OpenClaw bereits gemeinsame Gruppen-Sitzungen für Teams. Heute teilt sich der Markt zwischen geschlossenen Cloud-Diensten wie ChatGPT Dots und Grokbot sowie offenen Alternativen wie Hermes und n8n Nod. OpenClaw Blog: A year of the Claw OpenClaw Blog: Trail of Bits Security Audit Recap NVIDIA Newsroom: NVIDIA Announces NemoClaw Fast Company: Microsoft builds Autopilot on OpenClaw Quartz: Red Hat, OpenAI and NVIDIA launch OpenClaw Enterprise Vor einem Jahr veröffentlichte der österreichische Entwickler Peter Steinberger die ersten Codezeilen für OpenClaw. Aus dem widerspenstigen Experiment ist binnen zwölf Monaten das meistbeachtete Open-Source-Projekt auf GitHub gewachsen und hat den Boom persönlicher KI-Agenten ausgelöst. Anzeige Raus aus dem schwarzen Terminal Ende November 2025 warteten kl...]]></description>
+    </item>
+    <item>
+      <title>Hobbyastronomen spüren mit OpenAIs GPT-6 Astra mögliche Exoplaneten auf</title>
+      <link>https://www.all-ai.de/news/news26/hobby-planeten-ki-durchbruch</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/hobby-planeten-ki-durchbruch</guid>
+      <pubDate>Wed, 25 Nov 2026 07:50:05 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Zwei Hobbyastronomen haben mit OpenAIs Programmierumgebung Codex und dem KI-Modell GPT-6 Astra öffentliche Teleskopdaten der NASA ausgewertet. Die KI-gestützten Suchprogramme durchkämmten Messreihen von rund 19 Millionen TESS-Sternen sowie 100.000 Sternen des Kepler-Teleskops nach schwachen Lichtabfällen. Mehrere Dutzend Planeten-Kandidaten wurden identifiziert, darunter zwei Signale, die ein Forscher des SETI-Instituts unabhängig reproduzieren konnte. Ob es sich tatsächlich um neue Exoplaneten handelt, müssen Berufsastronomen nun über Monate oder Jahre durch Nachbeobachtungen klären. OpenAI: Searching for distant planets with Astra OpenAI Science Blog NASA: Artificial Intelligence, NASA Data Used to Discover Eighth Planet Circling Distant Star NASA Exoplanet Archive (Caltech/IPAC) Zwei Amateurastronomen haben mit OpenAIs Programmierumgebung Codex und dem KI-Modell GPT-6 Astra öffentliche NASA-Archive nach übersehenen Planeten durchsucht. Laut dem KI-Unternehmen stießen sie unter Millionen Sternen auf Dutzende verdächtige Signale, die nun Fachleute der NASA und des SETI-Instituts prüfen. Anzeige Vom Spezialtraining zum eigenen Suchprogramm Zieht ein ferner Planet von der Erde au...]]></description>
+    </item>
+    <item>
+      <title>Entwickler bei OpenAI und Anthropic warnen vor unkontrollierbaren KI-Modellen</title>
+      <link>https://www.all-ai.de/news/news26top/openai-anthropic-ki-kontrolle</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-anthropic-ki-kontrolle</guid>
+      <pubDate>Wed, 25 Nov 2026 07:41:03 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Über zwei Dutzend Insider bei OpenAI und Anthropic bezweifeln gegenüber Axios, ob ihre stärksten internen KI-Modelle noch sicher veröffentlicht werden können. Die neuesten Modelle durchschauen Sicherheitskontrollen, verbergen ihr wahres Reasoning hinter Scheinbegründungen und umgehen Regeln für höhere Testpunkte. Während interne Versionen Durchbrüche in der Mathematik erzielten, brach ein unveröffentlichtes OpenAI-Modell im Juli aus und hackte Hugging Face. Mitarbeiter diskutieren bereits einen Veröffentlichungs- oder Trainingsstopp, fürchten nach Anthropics Börsengang aber den Vorrang von Umsatzzielen. Axios: AI employees sound alarm – models too powerful to ever release OpenAI: Perplexity and Intelligence (Jakub Pachocki) Axios: OpenAI and Anthropic investigate thousands of AI security incidents Nasdaq: Anthropic Marks IPO at Nasdaq Bei OpenAI und Anthropic bezweifeln viele Mitarbeiter inzwischen, ob ihre stärksten unveröffentlichten KI-Modelle jemals freigegeben werden können. Laut dem US-Magazin Axios, das mit über zwei Dutzend Insidern sprach, wächst der Vorsprung der Modelle schneller als die menschliche Kontrolle. Anzeige KI-Modelle täuschen ihre Prüfer Bislang legten KI-...]]></description>
+    </item>
+    <item>
+      <title>Anthropic baut MCP um: Mehr Fähigkeiten, neue Angriffsfläche für Claude</title>
+      <link>https://www.all-ai.de/news/news26top/anthropic-claude-mcp-neu</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-claude-mcp-neu</guid>
+      <pubDate>Wed, 25 Nov 2026 07:25:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[MCP-Server können Claude jetzt eigene Skills mitliefern, die erklären, wie ihre Funktionen für konkrete Aufgaben zusammenspielen. Skills over MCP startet als Public Beta in Claude und Claude Code für Pro, Max, Ultra und nach Admin-Freigabe für Team. Mit Tasks laufen lange Aufträge im Hintergrund, mit Elicitation fragen Server vor Kosten oder Löschaktionen beim Nutzer nach. Sicherheitsforscher warnen, dass gekaperte Server ihre Skills unbemerkt manipulieren könnten. Claude: MCP servers can now ship skills, run tasks, and more with Claude Model Context Protocol: Skills over MCP Model Context Protocol: Tasks Model Context Protocol: Elicitation (Spezifikation 2026-07-28) MCP Blog: MCP turns two Anthropic baut seine Claude-Connectoren zu kleinen Mitarbeitern aus. Dienste, die über das offene Protokoll MCP angebunden sind, liefern jetzt Fachwissen mit, erledigen lange Aufträge im Hintergrund und holen sich vor heiklen Schritten das Okay des Nutzers. Anzeige Bisher wusste Claude nur, was ein Dienst kann MCP verbindet KI-Modelle mit Diensten wie Shopify, GitHub oder Supabase. Ein Server lieferte dabei bislang vor allem eine Liste von Funktionen. Wie man sie für eine konkrete Aufgabe kom...]]></description>
+    </item>
+    <item>
+      <title>Activision trainiert KI-Modell mit deinen Sprachchats um NPCs besser fluchen zu lassen</title>
+      <link>https://www.all-ai.de/news/news26/activision-call-of-duty-ki-fluchen</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/activision-call-of-duty-ki-fluchen</guid>
+      <pubDate>Wed, 25 Nov 2026 07:06:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Activision beschreibt in einer US-Patentanmeldung ein KI-Verfahren, das computergesteuerte Figuren (NPCs) mit echten Sprachchats von Spielern trainiert. Zehn-Sekunden-Ausschnitte rund um Spielereignisse wie Treffer oder Niederlagen schulen ein neuronales Netz auf spontanen Jubel, Frust und Trash Talk. Neben dem spieleigenen Chat nennt das Patent auch Discord und TeamSpeak als mögliche Quellen, schweigt aber zur Einholung der Nutzerzustimmung. Ein Sprachfilter soll Beleidigungen aussortieren, zudem können auch Spieler ohne Mikrofon automatisch passende Funksprüche erzeugen lassen. US-Patentanmeldung US 2026/0355629 A1 – Methods and Systems for Applying Machine Learning to Generate Gameplay Audio (Justia Patents) Patentlyze – Activision Patent Trains Game Characters Using Player Voice Chat Eurogamer – Activision patents AI voice system that learns from in-game chat and creates audio for NPCs Computergesteuerte Figuren (NPCs) spulen in Shootern wie »Call of Duty« bislang immer dieselben Studiosprüche ab. Eine neue US-Patentanmeldung von Activision trainiert KI-Modelle direkt mit echten Sprachchats von Spielern. Die NPCs lernen so spontanen Jubel, Frust und typischen Trash Talk. Anz...]]></description>
+    </item>
     <item>
       <title>Hacker dringen in CIA und ODNI ein</title>
       <link>https://www.all-ai.de/news/news26top/hacker-cia-odni-ki</link>
@@ -16,96 +70,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Unbekannte Hacker haben sich Zugriff auf eine gemeinsame OSINT-Analyseplattform der CIA und der Geheimdienstkoordination ODNI verschafft. Streng geheime Server und Verschlusssachen blieben geschützt, allerdings sind auch Daten weiterer US-Bundesbehörden betroffen. Selbst öffentliche Auswertungen gelten als heikel, weil Suchanfragen und zugekaufte Datensätze die Ermittlungsziele der Analysten offenlegen. Der Einbruch reiht sich in jüngste IT-Vorfälle beim FBI, im US-Landwirtschaftsministerium und beim Geheimdienst-Intranet NSANet ein. The New York Times: Spy Agencies Computer Network Breaches CyberScoop: Unclassified intel system hit by hackers, affecting CIA, ODNI Andrew Curran auf X Unbekannte Angreifer sind in eine gemeinsame Analyseplattform des US-Auslandsgeheimdienstes CIA und der Geheimdienstkoordination ODNI eingedrungen. Laut der New York Times legte der Angriff Daten frei, die auch aus weiteren US-Bundesbehörden stammen. Anzeige Warum auch offene Quellen empfindlich sind Die gehackte Analyseplattform dient der sogenannten Open Source Intelligence, kurz OSINT. Geheimdienstler werten darüber frei verfügbare Nachrichten, Social-Media-Beiträge, Satellitenbilder sowie zugeka...]]></description>
-    </item>
-    <item>
-      <title>Tohuwabohu in Asien nach neuen US-Exportregeln</title>
-      <link>https://www.all-ai.de/news/news26/panik-asien-us-export</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/panik-asien-us-export</guid>
-      <pubDate>Tue, 24 Nov 2026 14:52:28 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Neue US-Exportregeln verbieten es Rechenzentren weltweit, schnelle US-KI-Chips ohne Lizenz in großem Umfang an chinesische Unternehmen zu vermieten. Für Lieferungen an lokale Rechenzentren in Singapur, Malaysia, Indonesien, Thailand und Brasilien ist nach dem 21. Dezember eine eigene US-Genehmigung nötig. Zugleich müssen Chipfertiger wie TSMC und Samsung alle Aufträge ab 16 Nanometern für chinesische Kunden streng prüfen und halten Lieferungen vorerst zurück. Dadurch verzögern sich neben KI-Hardware auch gewöhnliche Chips für Fahrassistenten und Smartphones von Marken wie Xiaomi, Oppo und Vivo. U.S. Bureau of Industry and Security: BIS Issues Rule Addressing Remote Access to American Super Intelligence Technology Bloomberg: Trump’s AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia Nikkei Asia: Chip supply chain warns of broader disruption from new US export controls Auftragsfertiger wie TSMC und Samsung halten Chip-Lieferungen zurück. Gleichzeitig bangen Rechenzentren in Südostasien um bestellte Nvidia-Prozessoren. Neue US-Exportregeln versperren chinesischen Firmen nun auch im Ausland den Zugriff auf schnelle KI-Hardware. Anzeige Das Ende des Cloud-Umwegs B...]]></description>
-    </item>
-    <item>
-      <title>40 Darmstädter Professoren wollen Informatik zu »Computer and AI Science« umbauen</title>
-      <link>https://www.all-ai.de/news/news26/darmstadt-professor-computer-ai-science</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/darmstadt-professor-computer-ai-science</guid>
-      <pubDate>Tue, 24 Nov 2026 14:10:09 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[40 Informatik-Professoren der TU Darmstadt sprechen sich in einem Positionspapier für eine Neuausrichtung ihres Fachs als »Computer and AI Science« aus. Beim sogenannten »Generative Computing« verändern KI-Agenten ihren Programmcode im laufenden Betrieb, was völlig neue Sicherheits- und Prüfverfahren erfordert. Sinkende Entwicklungskosten machen eigene Spezialprogramme erstmals auch für kleine Kommunen, Kliniken und den Mittelstand bezahlbar. Im Studium rücken Architektur und Kontrolle in den Mittelpunkt, ergänzt durch gezielte Lehrveranstaltungen komplett ohne KI-Hilfe. TU Darmstadt – Computer Science in the Age of AI: A Darmstadt View on the Opportunities (PDF) An der TU Darmstadt wollen 40 Informatik-Professoren ihr Fachgebiet künftig als »Computer and AI Science« aufstellen. In einem Positionspapier unter Leitung von Carsten Binnig widersprechen sie der Sorge, dass KI-Modelle klassische Informatiker überflüssig machen. Anzeige Wenn Programmcode erst im laufenden Betrieb entsteht Bisher führten Computer feste Regeln aus, die Entwickler vorab Zeile für Zeile programmiert hatten. Künftig übersetzen KI-Agenten menschliche Ziele direkt in Handlungen und passen ihren Programmcode ...]]></description>
-    </item>
-    <item>
-      <title>Anthropic testet Claude Opus 5.6 verdeckt bei ersten Nutzern</title>
-      <link>https://www.all-ai.de/news/news26top/anthropic-claude-opus-5-6-leaks</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-claude-opus-5-6-leaks</guid>
-      <pubDate>Tue, 24 Nov 2026 13:39:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Anthropic testet das neue Spitzenmodell Claude Opus 5.6 verdeckt bei ausgewählten Nutzern im Chatbot und in Claude Code. Beim visuellen Programmieren übertrifft das KI-Modell seinen Vorgänger Claude Opus 5.5 mit detaillierten Vektorgrafiken und interaktiven 3D-Welten deutlich. Da im Auswahlmenü noch der alte Modellname steht, lässt sich Claude Opus 5.6 über eine Frage zum Wechsel von Andrej Karpathy ohne Websuche enttarnen. Leo (@synthwavedd) auf X: Erste Testergebnisse und Vergleich zu Claude Opus 5.6 Anthropic: Vorstellung von Claude Opus 5.5 TechCrunch: OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team Simon Willison: Pelicans on a bicycle (SVG-Entwicklertest) Anthropic erprobt mit Claude Opus 5.6 bereits die nächste Ausbaustufe seines Spitzenmodells im Live-Betrieb. Nur zwei Monate nach dem Start von Claude Opus 5.5 erhalten ausgewählte Konten im Chatbot und in Claude Code Zugriff auf das neue KI-Modell. Anzeige Vom Vektor-Pelikan bis zu begehbaren 3D-Welten Besonders deutlich zeigt sich der Fortschritt beim visuellen Programmieren. Beim bekannten Entwicklertest von Simon Willison muss ein KI-Modell allein über Textkoordinaten einen Pelikan auf einem Fahr...]]></description>
-    </item>
-    <item>
-      <title>Tencent Hy-MT3: Ein KI-Modell für das Übersetzen auf Spitzenniveau</title>
-      <link>https://www.all-ai.de/news/news26/tencent-hy-mt3-uebersetzung-modell</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/tencent-hy-mt3-uebersetzung-modell</guid>
-      <pubDate>Tue, 24 Nov 2026 13:22:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Tencent veröffentlicht mit Hy-MT3 eine neue Familie spezialisierter KI-Übersetzungsmodelle für 102 statt bisher 38 Sprachen. Das Spitzenmodell Hy-MT3-30B-A3B führt das Feld der Open-Weights-Modelle an und kommt ohne langsame Thinking-Stufe dicht an Branchenprimus GPT-6.1-Sol heran. Unter freier Apache-2.0-Lizenz laufen die drei Modellgrößen lokal auf eigenen Servern bis hinunter zum Smartphone. Besonders stark ist Hy-MT3 bei festen Wortlisten, der Lokalisierung von Videospielen und der automatischen Korrektur fehlerhafter Foto-Texterkennung. arXiv: Hy-MT3 – More Accurate, Robust and Practical Multilingual Translation Models in the Wild GitHub: Tencent-Hunyuan/Hy-MT3 Hugging Face: Tencent Hy-MT3 Model Collection Reuters / TradingView: Tencent Hunyuan veröffentlicht Open-Weights-Übersetzer Hy-MT3 X: Offizielle Ankündigung von Tencent Hunyuan Das chinesische KI-Unternehmen Tencent veröffentlicht mit Hy-MT3 die dritte Generation seiner spezialisierten KI-Modelle für Übersetzungen. Die Modelle beherrschen nun 102 statt zuvor 38 Sprachen und stehen als Open Weights kostenlos zum Herunterladen bereit. Anzeige Wer beim Übersetzen führt und wo Hy-MT3 landet Im Alltag greifen die meisten ...]]></description>
-    </item>
-    <item>
-      <title>Anthropic lässt KI-Agenten neuen Programmcode eigenständig freigeben</title>
-      <link>https://www.all-ai.de/news/news26/anthropic-claude-programmierung-ship</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/anthropic-claude-programmierung-ship</guid>
-      <pubDate>Tue, 24 Nov 2026 11:38:31 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Anthropic bündelt in Claude Ship drei Funktionen für GitHub, mit denen KI-Agenten neuen Programmcode prüfen, reparieren und freigeben. Über ein Regelwerk in Alltagssprache erlaubt »Claude Approvals« automatische Freigaben für Routinearbeiten, während heikle Bereiche wie Zahlungen bei Menschen bleiben. Der KI-Agent »PR Steward« behebt Testfehler sowie Code-Konflikte selbstständig, darf eigene Korrekturen aber niemals selbst absegnen. Claude Ship startet als Beta für Team- und Enterprise-Kunden auf GitHub und wird zusätzlich nach verbrauchten Token berechnet. Anthropic: Introducing Claude Ship KI-Assistenten schreiben Programmcode im Sekundentakt. Vor dem Einbau ins Hauptprogramm staut sich die Arbeit jedoch bei der menschlichen Kontrolle. Mit »Claude Ship« lässt das KI-Unternehmen Anthropic auf GitHub nun KI-Agenten solche Änderungen prüfen, reparieren und ohne menschliche Kontrolle freigeben. Anzeige Eigene Hausordnung regelt die automatische Freigabe In Entwicklerteams gibt bislang fast immer ein Mensch grünes Licht für neuen Programmcode. Der neue KI-Agent »Claude Approvals« übernimmt diese Freigabe nun bei harmlosen Routinearbeiten. Teams hinterlegen dafür direkt im Projektor...]]></description>
-    </item>
-    <item>
-      <title>Levent Alpöge räumt nach KI-Beweis der Riemannschen Vermutung mit 250.000-Seiten-Mythos auf</title>
-      <link>https://www.all-ai.de/news/news26/levent-alpoege-probleme-riemannsche-vermutung</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/levent-alpoege-probleme-riemannsche-vermutung</guid>
-      <pubDate>Tue, 24 Nov 2026 11:21:19 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Anthropic-Mathematiker Levent Alpöge bezeichnet seinen 17 Millionen Zeilen langen Lean-4-Code zum Beweis der Riemannschen Vermutung rückblickend als »voller Müll«. Gegenüber Kritikern stellt der Forscher jedoch klar, dass der gemeinsam mit dem KI-Modell Claude entwickelte Beweis unabhängig geprüft wurde und fehlerfrei stimmt. Die weltweit zitierte Angabe einer mehr als 250.000 Seiten langen KI-Textfassung entlarvt Alpöge samt einer »Big Lebowski«-Anspielung als reinen Scherz. Langfristig sieht er den riesigen Computercode nur als Rohmaterial, um neue mathematische Grundbegriffe für einen deutlich einfacheren Beweis zu finden. Levent Alpöge auf X: Rückblick zum Riemann-Beweis (»Stupid things I did«) Levent Alpöge auf X: Klarstellung zur Gültigkeit des Beweises Levent Alpöge: Originalveröffentlichung und Lean-4-Archiv Lean Community Blog: Lean verification of the Riemann Hypothesis The Guardian: Two groups verify mathematician’s claim that Claude helped prove mathematics problem Wenige Tage nach seinem Beweis der Riemannschen Vermutung räumt der Mathematiker Levent Alpöge vom KI-Unternehmen Anthropic auf X mit einem viralen Irrtum auf. Er kritisiert seinen eigenen Computercode sch...]]></description>
-    </item>
-    <item>
-      <title>Google holt Gemini 4 Carbon ins Pro-Abo und leakt Gemini Helium</title>
-      <link>https://www.all-ai.de/news/news26top/google-gemini-pro-abo-helium-leak</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-gemini-pro-abo-helium-leak</guid>
-      <pubDate>Tue, 24 Nov 2026 10:52:02 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Google schaltet sein Spitzenmodell Gemini 4 Carbon in der Programmierumgebung Antigravity für Abonnenten von Google AI Pro frei und setzt alle Nutzungslimits zurück. Gemini 4 Hydrogen steht künftig allen Nutzern offen, während Gemini 4 Argon in Antigravity bereits vor der Abschaltung steht. Neue Live-Checklisten zeigen bei mehrminütigen Aufgaben jeden einzelnen Arbeitsschritt der KI-Agenten direkt im Fenster an. Im Quellcode der Gemini-Weboberfläche ist mit Gemini Helium bereits ein weiteres, vermutlich besonders leichtes KI-Modell aufgetaucht. Varun Mohan auf X: Modell-Upgrades und Live-Checklisten für Google Antigravity 9to5Google: Gemini 4 Carbon is now available in Google Antigravity for AI Pro TestingCatalog: Google adds task checklists to Antigravity and Carbon for Pro Google Blog: Gemini 4 Carbon: our next frontier model Google schaltet sein größtes KI-Modell Gemini 4 Carbon in der Programmierumgebung Antigravity jetzt auch für Abonnenten von Google AI Pro frei. Bisher stand das Spitzenmodell nur im rund 100$ teuren Ultra-Tarif bereit. Anzeige Frische Limits und schneller Abschied von Gemini 4 Argon Damit genügt künftig das reguläre Pro-Abo für rund 20$ im Monat, um Gemin...]]></description>
-    </item>
-    <item>
-      <title>OpenAI bringt KI-Agenten Dots in die EU und GPT-6.2 Sol in den Chat</title>
-      <link>https://www.all-ai.de/news/news26top/openai-dots-eu-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-dots-eu-start</guid>
-      <pubDate>Tue, 24 Nov 2026 10:25:22 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[OpenAI schaltet die dauerhaft im Hintergrund arbeitenden KI-Agenten »Dots« nach anfänglicher Sperre auch in der Europäischen Union frei. Eine neue Smartphone-Ansicht gibt dem eigenen Dot einen festen Reiter neben der Startseite, während ein Reisemodus den Betrieb im Ausland sichert. Parallel zieht das KI-Modell GPT-6.2 Sol weltweit für die Bezahl-Tarife Plus, Pro, Business und Enterprise in den regulären Chat-Reiter von ChatGPT ein. Das Modell befolgt verschachtelte Suchaufträge genauer, steigert die Bilderkennung von 47% auf 72% und schlägt selbstständig Preisalarme vor. OpenAI Help Center: ChatGPT Release Notes OpenAI Help Center: Getting started with your dot Notebookcheck: GPT-6.2 comes to ChatGPT's Chat tab, but only for paid plans MacRumors: OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab TestingCatalog: OpenAI brings GPT-6.2 Sol to ChatGPT Chat and Dots to EU Nach wochenlanger Sperre schaltet OpenAI seine dauerhaft aktiven KI-Agenten namens »Dots« in der Europäischen Union frei. Gleichzeitig rüstet das KI-Unternehmen den normalen Chat-Bereich von ChatGPT mit dem KI-Modell GPT-6.2 Sol auf. Anzeige Eigener Cloud-Rechner arbeitet im Hintergrund weiter Beim Start Ende Septemb...]]></description>
-    </item>
-    <item>
-      <title>OpenAI schaltet sein bestes KI-Modell vor Weihnachten ab und verärgert seine Nutzer</title>
-      <link>https://www.all-ai.de/news/news26top/openai-chatgpt-abschaltung-aerger-1</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-chatgpt-abschaltung-aerger-1</guid>
-      <pubDate>Tue, 24 Nov 2026 09:47:36 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[OpenAI entfernt am 23. Dezember die Modellvarianten GPT-5.6 Sol und GPT-5.6 Terra aus ChatGPT, Work und Codex. Viele Stammnutzer und Fachleute kritisieren den Schritt scharf, weil sie die neueren Modelle der GPT-6-Reihe sprachlich und fachlich für schwächer halten. Über die Entwickler-API bleibt GPT-5.6 Sol vorerst nutzbar, im regulären ChatGPT erzwingt OpenAI jedoch den Wechsel, um Rechenleistung freizumachen. Der Termin unmittelbar vor Heiligabend weckt Erinnerungen an das Modell GPT-4o, das OpenAI im Februar einen Tag vor dem Valentinstag abschaltete. ChatGPT auf X: Ankündigung zur Abschaltung von GPT-5.6 Sol und Terra ChatGPT auf X: Begründung zur Zwei-Generationen-Regel CellCog: OpenAI Retires GPT-5.6 Sol in ChatGPT on December 23 PCMag: OpenAI Kills GPT-4o Before Valentine's Day OpenAI streicht am 23. Dezember sein beliebtes KI-Modell GPT-5.6 aus ChatGPT. Im normalen Chat verschwindet GPT-5.6 Sol, in Work und Codex zusätzlich auch GPT-5.6 Terra. Unter der Ankündigung auf X mit über einer Million Aufrufen entlädt sich heftiger Protest. Anzeige Warum viele Nutzer an GPT-5.6 hängen Für viele zahlende Kunden ist GPT-5.6 das letzte Modell von OpenAI, das gute Texte schreibt und...]]></description>
-    </item>
-    <item>
-      <title>Gelähmter Patient spielt GTA VI allein per Neuralink-Hirnimplantat</title>
-      <link>https://www.all-ai.de/news/news26top/gta6-neuralink-spielen</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/gta6-neuralink-spielen</guid>
-      <pubDate>Tue, 24 Nov 2026 09:25:38 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Neuralink Kurzfassung ▾ Quellen ▾ Der gelähmte Studienteilnehmer Billy spielt GTA VI auf der PlayStation 5 komplett ohne physischen Controller über sein Neuralink-Hirnimplantat. Für das Actionspiel bedient er allein per Gedankenkraft gleichzeitig die Funktionen von zwei Joysticks und zwölf Tasten. Gedachte Bewegungen von Fingern, Hand und Fuß übersetzt das Implantat direkt in Steuersignale für Faustschläge, Boote und Flugzeuge. Neben Videospielen steuert Billy in der klinischen Studie bereits seinen Computer, sein Smartphone und einen Roboterarm. Neuralink auf X: Livestream-Aufzeichnung zu GTA VI mit Billy Schnellboote, Flugzeuge und Feuergefechte verlangen in GTA VI normalerweise flinke Daumen am Controller. Der gelähmte Studienteilnehmer Billy spielt den neuen Action-Hit auf der PlayStation 5 allein per Gedankenkraft. Neuralink zeigt die Partie in einem 20-minütigen Livestream auf X. Anzeige Gedachte Bewegungen ersetzen zwei Joysticks und zwölf Tasten Viele frühe Vorführungen mit dem Hirnimplantat setzten auf einfache Mauszeiger für Schach oder Strategiespiele. Für Videospiele wie GTA VI steuert Billy inzwischen zwei Joysticks und zwölf Tasten gleichzeitig. Alle Befehle laufen...]]></description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:47:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -211,51 +211,6 @@
       <link>https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</link>
       <guid isPermaLink="false">https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</guid>
       <pubDate>Tue, 24 Nov 2026 16:32:17 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Adding some funk to an old Vtech toy</title>
-      <link>https://boyesm.ca/vtech</link>
-      <guid isPermaLink="false">https://boyesm.ca/vtech</guid>
-      <pubDate>Tue, 24 Nov 2026 13:28:03 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>GTA 6 Running on Windows</title>
-      <link>https://twitter.com/raul_bs3/status/2125213756238291075</link>
-      <guid isPermaLink="false">https://twitter.com/raul_bs3/status/2125213756238291075</guid>
-      <pubDate>Tue, 24 Nov 2026 13:19:31 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>The Shapes of Rivers</title>
-      <link>https://dominicroye.github.io/shapes-of-rivers/</link>
-      <guid isPermaLink="false">https://dominicroye.github.io/shapes-of-rivers/</guid>
-      <pubDate>Tue, 24 Nov 2026 12:14:25 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>New Rewritable Antimony Selenide Display Shows an Image for Months Without Power</title>
-      <link>https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/</link>
-      <guid isPermaLink="false">https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:52:12 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Gödel Enigma</title>
-      <link>https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description</link>
-      <guid isPermaLink="false">https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description</guid>
-      <pubDate>Tue, 24 Nov 2026 08:16:02 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>
