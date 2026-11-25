@@ -5,9 +5,18 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Huggingface</link>
     <description>RSS-Feed für die Quelle 'Huggingface' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-huggingface.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where scientists draw the line on AI agents</title>
+      <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+      <pubDate>Wed, 25 Nov 2026 18:52:55 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
+      <description><![CDATA[]]></description>
+    </item>
     <item>
       <title>An Indic Voice Agent with CUGA</title>
       <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
@@ -18,10 +27,10 @@
       <description><![CDATA[]]></description>
     </item>
     <item>
-      <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
-      <pubDate>Tue, 24 Nov 2026 16:34:13 GMT</pubDate>
+      <title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
+      <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
       <description><![CDATA[]]></description>

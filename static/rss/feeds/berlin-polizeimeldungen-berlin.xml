@@ -5,17 +5,17 @@
     <link>https://holli-news-bot.streamlit.app/?category=Berlin&amp;feed=Polizeimeldungen+Berlin</link>
     <description>RSS-Feed für die Quelle 'Polizeimeldungen Berlin' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-polizeimeldungen-berlin.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mann bei mutmaßlich religiös motiviertem Angriff verletzt</title>
-      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1743520.php</link>
-      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1743520.php</guid>
-      <pubDate>Wed, 25 Nov 2026 10:34:58 GMT</pubDate>
+      <title>Mehrere Durchsuchungsbeschlüsse vollstreckt – Verdacht des gewerbs- und bandenmäßigen Einschleusens</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1743695.php</link>
+      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1743695.php</guid>
+      <pubDate>Wed, 25 Nov 2026 13:48:00 GMT</pubDate>
       <category>Berlin</category>
       <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
-      <description><![CDATA[📍 **Marzahn-Hellersdorf** – In der vergangenen Nacht wurde ein Mann in Hellersdorf verletzt. Nach bisherigen Erkenntnissen wurde der 62-Jährige gegen 4:15 Uhr im Bereich Alte Hellersdorfer Straße Ecke Zossener Straße von vier unbekannten Männern angesprochen. Dabei soll ihm einer der Tatverdächtigen an seiner von ihm getrag...]]></description>
+      <description><![CDATA[📍 **bezirksübergreifend** – Marzahn-Hellersdorf/Lichtenberg Gemeinsame Meldung mit der Staatsanwaltschaft Berlin Nr. 1578 Wegen des Verdachts des gewerbs- und bandenmäßigen Einschleusens von Ausländern vollstreckten Einsatzkräfte der Polizei Berlin und der Bundespolizei gestern im Auftrag der Staatsanwaltschaft Berlin zehn ...]]></description>
     </item>
   </channel>
 </rss>

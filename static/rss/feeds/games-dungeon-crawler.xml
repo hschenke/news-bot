@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News Bot — Dungeon crawler (Games)</title>
+    <link>https://holli-news-bot.streamlit.app/?category=Games&amp;feed=Dungeon+crawler</link>
+    <description>RSS-Feed für die Quelle 'Dungeon crawler' (Kategorie: Games).</description>
+    <language>de</language>
+    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
+    <generator>News Bot RSS Engine</generator>
+    <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-dungeon-crawler.xml" rel="self" type="application/rss+xml" />
+
+  </channel>
+</rss>

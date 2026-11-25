@@ -5,9 +5,27 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verschlüsselungen schon knackbar durch OpenAI und Anthropic?</title>
+      <link>https://www.all-ai.de/news/news26top/openai-anthropic-verschluesselungen-gefahr</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-anthropic-verschluesselungen-gefahr</guid>
+      <pubDate>Wed, 25 Nov 2026 18:59:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[In der KI-Szene halten sich seit rund zehn Tagen Gerüchte, dass interne KI-Modelle von OpenAI und Anthropic Fortschritte gegen die gängige RSA-Verschlüsselung erzielt haben. Zuvor hatten Anthropic, OpenAI und Google kurz nacheinander bedeutende mathematische Beweise veröffentlicht, das Feld der Kryptografie dabei aber auffällig ausgespart. Weil eine geknackte Standard-Verschlüsselung weltweit Banken, Behörden und Webseiten träfe, liegt eine enge Abstimmung der KI-Unternehmen mit der US-Regierung nahe. Andrew Curran auf X über Krypto-Gerüchte bei OpenAI und Anthropic Andrew Curran auf X zu Google Gemini 4 und möglichen Regierungsabsprachen Scott Aaronson: Blog Shtetl-Optimized zur KI-Kryptografie Neue interne KI-Modelle von OpenAI und Anthropic sollen bereits an der weitverbreiteten RSA-Verschlüsselung rütteln. Laut dem KI-Beobachter Andrew Curran hält sich dieses Gerücht seit rund zehn Tagen in der Forschungsszene. Anzeige Warum ein Mathe-Durchbruch unsere Passwörter betrifft Die RSA-Verschlüsselung schützt heute Online-Banking, Passwörter und gesicherte Webseiten. Sie beruht darauf, dass klassische Computer riesige Zahlen kaum in ihre ursprünglichen Primzahlen zerlegen können. ...]]></description>
+    </item>
+    <item>
+      <title>Character.AI will Millionen private Chats versteigern</title>
+      <link>https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</guid>
+      <pubDate>Wed, 25 Nov 2026 18:25:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Das insolvente KI-Unternehmen Character.AI plant für den 1. Dezember die Versteigerung privater Chatverläufe von über 21 Millionen US-Konten, darunter mehr als 2,1 Millionen Konten von Minderjährigen. Eine Koalition aus 42 US-Generalstaatsanwälten will die Auktion vor Gericht stoppen, weil neue Eigentümer an frühere Datenschutzversprechen nicht gebunden wären und die Gespräche frei weiterverkaufen dürften. Als einziger bekannter Bieter tritt bislang die kurz zuvor in Delaware gegründete Briefkastenfirma Smirks and Pangs Acquisition LLC mit völlig unklaren Absichten auf. California Department of Justice: Attorney General Bonta Opposes Asset Sale of Character.AI Amid Child Safety Concerns Connecticut Attorney General: Attorney General Tong Challenges Plan to Auction Off Character.AI Private Chats TechCrunch: State AGs fight Character.AI’s plan to auction off users’ private chats Nach der Insolvenz im Oktober will das KI-Unternehmen Character.AI am 1. Dezember die privaten Chatverläufe von über 21 Millionen US-Konten versteigern. Eine Koalition aus 42 US-Generalstaatsanwälten schaltet sich nun vor dem Insolvenzgericht ein, um den Datenverkauf zu stoppen. Anzeige Schutzlose Gespräch...]]></description>
+    </item>
     <item>
       <title>Midjourney bringt Anime-Modell Niji 8 mit eigener Bildbearbeitung</title>
       <link>https://www.all-ai.de/news/news26/midjourney-niji-anime-modell-8</link>

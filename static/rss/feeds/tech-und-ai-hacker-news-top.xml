@@ -5,7 +5,7 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -202,15 +202,6 @@
       <link>https://prismml.com/news/bonsai-2-5-27b</link>
       <guid isPermaLink="false">https://prismml.com/news/bonsai-2-5-27b</guid>
       <pubDate>Tue, 24 Nov 2026 20:08:03 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Active intrusion campaign against Check Point security management servers</title>
-      <link>https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</link>
-      <guid isPermaLink="false">https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign</guid>
-      <pubDate>Tue, 24 Nov 2026 16:32:17 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>

@@ -5,9 +5,27 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
+      <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192412</guid>
+      <pubDate>Wed, 25 Nov 2026 18:11:46 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.]]></description>
+    </item>
+    <item>
+      <title>Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
+      <link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192361</guid>
+      <pubDate>Wed, 25 Nov 2026 17:35:58 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.]]></description>
+    </item>
     <item>
       <title>AI data centers are becoming harder to build, and neoclouds are feeling it</title>
       <link>https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/</link>
@@ -15,7 +33,7 @@
       <pubDate>Wed, 25 Nov 2026 15:41:43 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]]]></description>
+      <description><![CDATA[⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]]]></description>
     </item>
     <item>
       <title>Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</title>
@@ -33,7 +51,7 @@
       <pubDate>Wed, 25 Nov 2026 13:00:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.]]></description>
+      <description><![CDATA[The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.]]></description>
     </item>
     <item>
       <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</title>
@@ -88,69 +106,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
       <description><![CDATA[The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.]]></description>
-    </item>
-    <item>
-      <title>Anthropic shares fall below IPO price, a worrying sign for AI startups</title>
-      <link>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191971</guid>
-      <pubDate>Tue, 24 Nov 2026 18:30:42 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Anthropic’s post-IPO slump could put pressure on AI startup valuations.]]></description>
-    </item>
-    <item>
-      <title>UK warns AI-driven cyberattacks are exposing years of weak security</title>
-      <link>https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191956</guid>
-      <pubDate>Tue, 24 Nov 2026 18:02:59 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.]]></description>
-    </item>
-    <item>
-      <title>Meta brings its Muse AI assistant directly into Instagram DMs</title>
-      <link>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191770</guid>
-      <pubDate>Tue, 24 Nov 2026 17:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.]]></description>
-    </item>
-    <item>
-      <title>Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming</title>
-      <link>https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191757</guid>
-      <pubDate>Tue, 24 Nov 2026 16:46:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The company said it will still accept songs that were made with AI assistance, but not fully generated.]]></description>
-    </item>
-    <item>
-      <title>Why a Crusoe investor is betting on solar and batteries to power future AI data centers</title>
-      <link>https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191518</guid>
-      <pubDate>Tue, 24 Nov 2026 16:10:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.]]></description>
-    </item>
-    <item>
-      <title>Pinterest will now let parents limit the AI-generated content their teens see</title>
-      <link>https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191752</guid>
-      <pubDate>Tue, 24 Nov 2026 16:02:37 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.]]></description>
-    </item>
-    <item>
-      <title>Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</title>
-      <link>https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191706</guid>
-      <pubDate>Tue, 24 Nov 2026 15:51:07 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.]]></description>
     </item>
   </channel>
 </rss>
