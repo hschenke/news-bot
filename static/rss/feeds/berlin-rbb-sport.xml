@@ -5,9 +5,45 @@
     <link>https://holli-news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:01:35 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hertha BSC und Mattuschkas Mathematik für den Aufstieg</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-spitzenreiter-tabellenfuehrer-aufstieg-100-punkte-leitl-mattuschka-punkteschnitt-historie-ksc.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-spitzenreiter-tabellenfuehrer-aufstieg-100-punkte-leitl-mattuschka-punkteschnitt-historie-ksc.html</guid>
+      <pubDate>Wed, 25 Nov 2026 05:15:32 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Mit 34 Punkten aus den ersten zwölf Zweitliga-Spielen hat Hertha BSC den Startrekord weiter ausgebaut. Ein Ur-Unioner ist längst überzeugt, dass die ungeschlagene "Alte Dame" in die Bundesliga aufsteigen wird. Historische Vergleichswerte legen diesen Schluss ebenfalls nahe.]]></description>
+    </item>
+    <item>
+      <title>Höchster DEL-Saisonsieg: Eisbären deklassieren Frankfurt mit 7:1</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-loewen-frankfurt-spielbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-loewen-frankfurt-spielbericht.html</guid>
+      <pubDate>Tue, 24 Nov 2026 21:14:45 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Die Angst vor Minusgraden im Berliner Amateurfußball</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-berlin-amateure-spielabsagen-bfv-winter-wetter-schnee-absagen-gaertner.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-berlin-amateure-spielabsagen-bfv-winter-wetter-schnee-absagen-gaertner.html</guid>
+      <pubDate>Tue, 24 Nov 2026 17:12:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Die Minusgrade kommen und mit ihnen die Angst vor Spielabsagen im Berliner Amateurfußball. Ist der Berliner Fußballverband in dieser Saison mit Blick auf die Spielpläne besser vorbereitet als in der vergangenen Spielzeit? Der Spielbetriebsverantwortliche Joachim Gaertner gibt Antworten.]]></description>
+    </item>
+    <item>
+      <title>Kein rechtlicher Rahmen für Stadionverbot des Energie-Vorsängers</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-straftat-stadionverbot-verein-ausschluss-ultras-stopper-sportrecht-interview.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-straftat-stadionverbot-verein-ausschluss-ultras-stopper-sportrecht-interview.html</guid>
+      <pubDate>Tue, 24 Nov 2026 16:25:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Gegen den Vorsänger von Energie Cottbus ist ein Vereinsausschlussverfahren eingeleitet worden, nachdem er wegen schwerer Körperverletzung verurteilt worden war. Ein Stadionverbot sprach der Verein nicht aus. Sport-Jurist Martin Stopper erklärt, warum die Rechtslage das nicht zulässt.]]></description>
+    </item>
     <item>
       <title>Union Berlin im Tabellenkeller: Fassade des Zusammenhalts bröckelt</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</link>
@@ -34,24 +70,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Der 18-jährige Tobias Krestan zeigt bei den Eisbären Berlin gerade, warum er als großes Talent gilt. Nebenbei gewöhnt er sich an das Großstadtleben ohne Führerschein. Warum Berlin für das Eishockey-Talent gerade in Sachen Nahverkehr schon jetzt ein Gewinn ist.]]></description>
-    </item>
-    <item>
-      <title>Fan-Freundschaft Hertha-KSC: Alles Zufall oder doch geplant?</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-50-jahre-fanfreundschaft-ursprung.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-50-jahre-fanfreundschaft-ursprung.html</guid>
-      <pubDate>Tue, 24 Nov 2026 05:15:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Im August 1976 beginnt eine besondere Fanfreundschaft zwischen Hertha BSC und dem Karlsruher SC – doch wie genau es dazu kam, daran erinnern sich die Beteiligten bis heute unterschiedlich.]]></description>
-    </item>
-    <item>
-      <title>Union-Frauen holen DFB-Star Ann-Katrin Berger nach Berlin</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</guid>
-      <pubDate>Mon, 23 Nov 2026 16:38:48 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Die Frauen des 1. FC Union haben einen echten Sensationstransfer vermeldet. Die Berlinerinnen verpflichten ab Januar Ann-Katrin Berger - die aktuelle Nummer eins der deutschen Nationalmannschaft und eine der besten Torhüterinnen der Welt.]]></description>
     </item>
   </channel>
 </rss>

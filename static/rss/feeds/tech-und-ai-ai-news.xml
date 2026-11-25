@@ -5,9 +5,18 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:01:35 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacker dringen in CIA und ODNI ein</title>
+      <link>https://www.all-ai.de/news/news26top/hacker-cia-odni-ki</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/hacker-cia-odni-ki</guid>
+      <pubDate>Tue, 24 Nov 2026 23:00:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Unbekannte Hacker haben sich Zugriff auf eine gemeinsame OSINT-Analyseplattform der CIA und der Geheimdienstkoordination ODNI verschafft. Streng geheime Server und Verschlusssachen blieben geschützt, allerdings sind auch Daten weiterer US-Bundesbehörden betroffen. Selbst öffentliche Auswertungen gelten als heikel, weil Suchanfragen und zugekaufte Datensätze die Ermittlungsziele der Analysten offenlegen. Der Einbruch reiht sich in jüngste IT-Vorfälle beim FBI, im US-Landwirtschaftsministerium und beim Geheimdienst-Intranet NSANet ein. The New York Times: Spy Agencies Computer Network Breaches CyberScoop: Unclassified intel system hit by hackers, affecting CIA, ODNI Andrew Curran auf X Unbekannte Angreifer sind in eine gemeinsame Analyseplattform des US-Auslandsgeheimdienstes CIA und der Geheimdienstkoordination ODNI eingedrungen. Laut der New York Times legte der Angriff Daten frei, die auch aus weiteren US-Bundesbehörden stammen. Anzeige Warum auch offene Quellen empfindlich sind Die gehackte Analyseplattform dient der sogenannten Open Source Intelligence, kurz OSINT. Geheimdienstler werten darüber frei verfügbare Nachrichten, Social-Media-Beiträge, Satellitenbilder sowie zugeka...]]></description>
+    </item>
     <item>
       <title>Tohuwabohu in Asien nach neuen US-Exportregeln</title>
       <link>https://www.all-ai.de/news/news26/panik-asien-us-export</link>

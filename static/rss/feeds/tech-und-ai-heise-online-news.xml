@@ -5,9 +5,117 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Heise+Online+News</link>
     <description>RSS-Feed für die Quelle 'Heise Online News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:01:35 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-heise-online-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geldwäsche, Betrug, Lügen: US-Jury spricht Huawei in 10 Anklagepunkten schuldig</title>
+      <link>https://www.heise.de/news/Geldwaesche-Betrug-Luegen-US-Jury-spricht-Huawei-in-10-Anklagepunkten-schuldig-11537031.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11537031</guid>
+      <pubDate>Wed, 25 Nov 2026 05:55:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Huawei habe wissentlich US-Sanktionen gegen die Islamische Republik verletzt und dafür Banken betrogen. Zu diesem Schluss sind US-Geschworene jetzt gekommen.]]></description>
+    </item>
+    <item>
+      <title>Mittwoch: Erste Hilfe nach M365-Ausfall, US-Regierung für höheres NASA-Budget</title>
+      <link>https://www.heise.de/news/Mittwoch-Erste-Hilfe-nach-M365-Ausfall-US-Regierung-fuer-hoeheres-NASA-Budget-11537019.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11537019</guid>
+      <pubDate>Wed, 25 Nov 2026 05:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Sofortmaßnahmen bei Microsoft + Milliarden-Spritze für Mondprogramm + Kritik an deutscher Steuerverwaltung + Kontinuität bei Bundesnetzagentur + GTA-Hacker frei]]></description>
+    </item>
+    <item>
+      <title>NASA soll 2 Milliarden US-Dollar mehr für Artemis-Mondprogramm bekommen</title>
+      <link>https://www.heise.de/news/NASA-soll-2-Milliarden-US-Dollar-mehr-fuer-Artemis-Mondprogramm-bekommen-11537003.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11537003</guid>
+      <pubDate>Wed, 25 Nov 2026 04:02:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die US-Regierung schlägt dem Kongress eine massive NASA-Budgeterhöhung für das neue Haushaltsjahr vor. Anderenfalls würden weitere Verzögerungen drohen.]]></description>
+    </item>
+    <item>
+      <title>Deutsche Steuerverwaltung hat „strukturelles Problem“</title>
+      <link>https://www.heise.de/news/Deutsche-Steuerverwaltung-hat-strukturelles-Problem-11536961.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536961</guid>
+      <pubDate>Tue, 24 Nov 2026 21:15:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Deutschland hat ein „strukturelles Problem“ bei der digitalen Steuerverwaltung, konstatiert die Europäische Kommission. Das öffne Schlupflöcher.]]></description>
+    </item>
+    <item>
+      <title>Nach 365-Ausfall: Höchste Alarmstufe bei Microsoft</title>
+      <link>https://www.heise.de/news/Nach-365-Ausfall-Hoechste-Alarmstufe-bei-Microsoft-11536918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536918</guid>
+      <pubDate>Tue, 24 Nov 2026 20:03:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Bei Microsoft gilt jetzt „Code Red”, die höchste Alarmstufe. Vieles muss geändert werden, damit sich die weltweite Störung der Clouddienste nicht wiederholt.]]></description>
+    </item>
+    <item>
+      <title>Bundesnetzagentur: Müller soll zweite Amtszeit bekommen</title>
+      <link>https://www.heise.de/news/Bundesnetzagentur-Mueller-soll-zweite-Amtszeit-bekommen-11536896.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536896</guid>
+      <pubDate>Tue, 24 Nov 2026 19:20:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die Politik schätzt den Pragmatiker Klaus Müller und schlägt ihn für eine weitere Amtszeit vor. Auf den alten und neuen Chefregulierer warten große Aufgaben.]]></description>
+    </item>
+    <item>
+      <title>Black-Friday-Deals: PC-Monitore in der Black Week günstig ergattern</title>
+      <link>https://www.heise.de/bestenlisten/deals/black-friday-deals-pc-monitore-in-der-black-week-guenstig-abstauben/jgw720f?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536766</guid>
+      <pubDate>Tue, 24 Nov 2026 19:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Neuer PC-Monitor gesucht? Wir sammeln die besten Black-Friday-Deals und prüfen, ob es echte Schnäppchen sind – laufend aktualisiert.]]></description>
+    </item>
+    <item>
+      <title>Kamerabrillen: Verbraucherschützer ziehen gegen Meta und Ray-Ban vor Gericht</title>
+      <link>https://www.heise.de/news/Kamerabrillen-Verbraucherschuetzer-ziehen-gegen-Meta-und-Ray-Ban-vor-Gericht-11536854.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536854</guid>
+      <pubDate>Tue, 24 Nov 2026 17:14:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Der Verbraucherschutzverband geht juristisch gegen Meta und Luxottica vor. Im Fokus stehen die Vermarktung und die Bauweise ihrer Kamerabrillen.]]></description>
+    </item>
+    <item>
+      <title>NASA will Atomkraftwerk für den Mond entwickeln lassen</title>
+      <link>https://www.heise.de/news/NASA-will-Atomkraftwerk-fuer-den-Mond-entwickeln-lassen-11536848.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536848</guid>
+      <pubDate>Tue, 24 Nov 2026 17:14:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Die NASA lässt ein Atomkraftwerk für den Mond entwickeln. Bis Ende Dezember können Unternehmen Konzepte für den Lunar Reactor-1 einreichen.]]></description>
+    </item>
+    <item>
+      <title>TeamViewer: Sorge vor Präsenzpflicht nach Kündigung von Vereinbarung</title>
+      <link>https://www.heise.de/news/TeamViewer-kuendigt-Homeoffice-Regelung-Beschaeftigte-fuerchten-Praesenzpflicht-11536222.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536222</guid>
+      <pubDate>Tue, 24 Nov 2026 17:08:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[TeamViewer kündigt die Betriebsvereinbarung zu mobiler Arbeit. Beschäftigte befürchten künftig Präsenzpflicht – das Unternehmen äußert sich zurückhaltend.]]></description>
+    </item>
+    <item>
+      <title>Firefox 161: Ein Klick auf die Flamme tilgt alle Spuren</title>
+      <link>https://www.heise.de/news/Firefox-161-Das-Gratis-VPN-schaltet-sich-jetzt-pro-Website-ein-11536744.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536744</guid>
+      <pubDate>Tue, 24 Nov 2026 16:26:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Firefox 161 ist da: Das integrierte VPN erhält Regeln für einzelne Websites. Außerdem gibt es einen neuen Schnellzugriff zum Löschen von Browserdaten.]]></description>
+    </item>
+    <item>
+      <title>ARM verlängert mit CEO Rene Haas</title>
+      <link>https://www.heise.de/news/ARM-verlaengert-mit-CEO-Rene-Haas-11536454.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536454</guid>
+      <pubDate>Tue, 24 Nov 2026 16:23:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[Nachdem der Topjob bei Nvidia nun doch nicht mehr frei ist, verlängert Rene Haas seinen Einsatz bei Arbeitgeber ARM und steigt auch bei Softbank auf.]]></description>
+    </item>
     <item>
       <title>Mathe-Wettlauf: Anthropic und OpenAI mit fast zeitgleichen Beweisen für VP ≠ VNP</title>
       <link>https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
@@ -394,159 +502,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
       <description><![CDATA[Bald Fortnite auf CachyOS? Die Linux-Distribution unterstützt jetzt Easy Anti-Cheat v2. Der Package Installer hat eine frische grafische Oberfläche erhalten.]]></description>
-    </item>
-    <item>
-      <title>Die Crews bedroht: USA vermuten Iran hinter Cyberangriffen auf Schiffe</title>
-      <link>https://www.heise.de/news/Bis-zu-50-Schiffe-USA-vermuten-Iran-hinter-Cyberangriffen-auf-Frachtschiffe-11535470.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535470</guid>
-      <pubDate>Tue, 24 Nov 2026 05:53:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Frachtschiffe und Tanker sind weiterhin das Ziel von Cyberangriffen. Laut einem Zeitungsbericht werden dafür Lücken in Fortinet-Routern ausgenutzt.]]></description>
-    </item>
-    <item>
-      <title>Dienstag: Jensen Huang ist wieder da, CrowdStrike übernimmt Wettbewerber</title>
-      <link>https://www.heise.de/news/Dienstag-Jensen-Huang-ist-wieder-da-CrowdStrike-uebernimmt-Wettbewerber-11535424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535424</guid>
-      <pubDate>Tue, 24 Nov 2026 05:15:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Nvidia holt Jensen Huang zurück + CrowdStrike kauft Zscaler + USA jagen Binance-Milliarden + Starlink-Alternative zu teuer + Russlands Atomwaffenpläne für's All]]></description>
-    </item>
-    <item>
-      <title>Kommentar: Jensen Huang ist Nvidia – und das darf nicht so bleiben</title>
-      <link>https://www.heise.de/meinung/Kommentar-Jensen-Huang-ist-Nvidia-und-das-darf-nicht-so-bleiben-11535160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535160</guid>
-      <pubDate>Tue, 24 Nov 2026 05:15:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Huang ist wieder da, es gibt noch ein Gremium zur Untersuchung, also alles gut? Mitnichten, findet heise-online-Redakteur Nico Ernst.]]></description>
-    </item>
-    <item>
-      <title>Digitalsteuer, Frequenzen und Elektroschrott sollen EU-Ambitionen finanzieren</title>
-      <link>https://www.heise.de/news/Digitalsteuer-Frequenzen-und-Elektroschrott-sollen-EU-Ambitionen-finanzieren-11535458.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535458</guid>
-      <pubDate>Tue, 24 Nov 2026 04:45:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die EU soll mehr tun. Das Geld dafür soll aus neuen Steuern und von den Mitgliedsstaaten kommen. Ratspräsident Costa hat Ideen, darunter Frequenzgebühren.]]></description>
-    </item>
-    <item>
-      <title>Nvidia-Affäre: USA verhängen Handelsverbot über Megaspeed</title>
-      <link>https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535434</guid>
-      <pubDate>Tue, 24 Nov 2026 04:15:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Megaspeed soll Nvidia-Chips für China organisiert haben. Spät reagieren die USA mit einem Handelsembargo. Das trifft auch eine Alibaba-Tochter.]]></description>
-    </item>
-    <item>
-      <title>Binance-Kryptodiebstahl: USA wollen eine Milliarde US-Dollar zurück</title>
-      <link>https://www.heise.de/news/Binance-Kryptodiebstahl-USA-wollen-eine-Milliarde-US-Dollar-zurueck-11535386.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535386</guid>
-      <pubDate>Mon, 23 Nov 2026 21:18:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das US-Justizministerium jagt die Gelder aus dem Binance-Hack und will mehr als eine Milliarde Dollar in USDC-Stablecoin auf diversen Blockchains einziehen.]]></description>
-    </item>
-    <item>
-      <title>Mega-Deal: CrowdStrike übernimmt Zscaler</title>
-      <link>https://www.heise.de/news/Mega-Deal-CrowdStrike-uebernimmt-Zscaler-11535354.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535354</guid>
-      <pubDate>Mon, 23 Nov 2026 20:17:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Zwei Schwergewichte der Cybersicherheitsbranche gehen zusammen. CrowdStrike kauft den Wettbewerber Zscaler in einer 44-Milliarden-Dollar-Transaktion.]]></description>
-    </item>
-    <item>
-      <title>Black-Friday-Deals: Tastaturen, Mäuse &amp; Gaming-Zubehör bis 40 % reduziert</title>
-      <link>https://www.heise.de/bestenlisten/deals/black-friday-deals-tastaturen-maeuse-und-gaming-zubehoer-bis-40-prozent-reduziert/52x2pw2?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535214</guid>
-      <pubDate>Mon, 23 Nov 2026 19:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Zum Black Friday gibt es auch Gaming-Peripherien wie Mäuse, Tastaturen, Headsets und Controller im Angebot. Teilweise sogar bis zu 40 Prozent reduziert.]]></description>
-    </item>
-    <item>
-      <title>Teure Doppelstrukturen im All: Europas Starlink-Alternativen werden zu teuer</title>
-      <link>https://www.heise.de/news/Teure-Doppelstrukturen-im-All-Europas-Starlink-Alternativen-werden-zu-teuer-11535252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535252</guid>
-      <pubDate>Mon, 23 Nov 2026 18:33:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Um unabhängig von Musks Starlink zu werden, bauen EU und Bundeswehr zwei Satellitennetze nebeneinander auf. Forscher warnen vor hohen Kosten und Lücken.]]></description>
-    </item>
-    <item>
-      <title>KI-Migrationsgesetz: Experten fürchten mehr Klagen statt kürzerer Verfahren</title>
-      <link>https://www.heise.de/news/KI-Migrationsgesetz-Experten-fuerchten-mehr-Klagen-statt-kuerzerer-Verfahren-11535154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535154</guid>
-      <pubDate>Mon, 23 Nov 2026 18:07:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Bei der KIMVG-Anhörung forderten Sachverständige klare Einsatzgrenzen und unabhängige Prüfungen. Sonst drohten mehr Fehler, Klagen und längere Verfahren.]]></description>
-    </item>
-    <item>
-      <title>Dänemark will Mobilfunknutzung in der Schule verbieten</title>
-      <link>https://www.heise.de/news/Daenemark-will-Mobilfunknutzung-in-der-Schule-verbieten-11535292.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535292</guid>
-      <pubDate>Mon, 23 Nov 2026 17:53:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Keine Bildschirme in der Schule: In Dänemark sollen Smartphones ab dem kommenden Schuljahr bis zur 10. Klasse verboten sein.]]></description>
-    </item>
-    <item>
-      <title>DLR-Bericht: Der Radverkehr in Deutschland gewinnt Bedeutung</title>
-      <link>https://www.heise.de/news/DLR-Bericht-Der-Radverkehr-in-Deutschland-gewinnt-Bedeutung-11535222.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535222</guid>
-      <pubDate>Mon, 23 Nov 2026 17:47:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Der Anteil der Fahrradverkehrs am Gesamtverkehr ist konstant geblieben. Die Fahrleistung auf zwei Rädern sei aber gestiegen, schreibt das DLR.]]></description>
-    </item>
-    <item>
-      <title>NameDrop: US-Start-up verklagt Apple in Indien auf 160 Millionen Dollar</title>
-      <link>https://www.heise.de/news/NameDrop-US-Start-up-verklagt-Apple-in-Indien-auf-160-Millionen-Dollar-11535196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11535196</guid>
-      <pubDate>Mon, 23 Nov 2026 17:25:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die Firma hinter der App StayTouch sieht durch Apples NameDrop ein indisches Patent verletzt. Sie fordert Schadenersatz und will die Funktion stoppen lassen.]]></description>
-    </item>
-    <item>
-      <title>Neuer DJ-CD-Player mit offenem Laufwerk und Auracast</title>
-      <link>https://www.heise.de/news/Neuer-DJ-CD-Player-mit-offenem-Laufwerk-und-Auracast-11534926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11534926</guid>
-      <pubDate>Mon, 23 Nov 2026 16:59:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Teenage Engineering verkauft jetzt einen CD-Player, der von Rippen bis Mixen gleich alles können soll. Die Papierform ist jedoch durchwachsen.]]></description>
-    </item>
-    <item>
-      <title>Kostenloses Windows-Tool OLEDTextFix soll Textdarstellung auf OLEDs verbessern</title>
-      <link>https://www.heise.de/news/Kostenloses-Windows-Tool-OLEDTextFix-soll-Textdarstellung-auf-OLEDs-verbessern-11534988.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11534988</guid>
-      <pubDate>Mon, 23 Nov 2026 16:50:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Das kostenlose Open-Source-Tool für Windows soll Farbsäume an Schrift auf OLED-Monitoren mildern.]]></description>
-    </item>
-    <item>
-      <title>Black Friday: Interessante Hardware-Deals für Apple-Nutzer</title>
-      <link>https://www.heise.de/news/Black-Friday-Interessante-Hardware-Deals-fuer-Apple-Nutzer-11534920.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11534920</guid>
-      <pubDate>Mon, 23 Nov 2026 16:11:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Die Black-Friday-Woche hat begonnen – und auch Nutzer von iPhone, Mac & Co. können sparen. Ein Überblick beachtenswerter Angebote.]]></description>
-    </item>
-    <item>
-      <title>Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring</title>
-      <link>https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-betreffen-Komponenten-des-Java-Oekosystems-Spring-11534890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11534890</guid>
-      <pubDate>Mon, 23 Nov 2026 16:07:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[Wichtige Sicherheitsupdates schließen unter anderem Lücken in Spring AI, Spring Framework und Spring Security.]]></description>
     </item>
   </channel>
 </rss>

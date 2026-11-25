@@ -5,107 +5,143 @@
     <link>https://holli-news-bot.streamlit.app/?tab=ki</link>
     <description>Die von der Gemini KI kuratierten Top-Nachrichten aus allen Kategorien.</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:03:56 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/briefing.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Tech &amp; AI] Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race</title>
-      <link>https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191706</guid>
-      <pubDate>Tue, 24 Nov 2026 15:51:07 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[<p>Amazon übernimmt Decart für rund 7,5 Milliarden Dollar, um die Effizienz der eigenen Trainium-KI-Chips durch Software-Optimierung zu steigern und damit Nvidia näherzukommen.</p>]]></description>
+      <title>[Berlin] Hertha BSC und Mattuschkas Mathematik für den Aufstieg</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-spitzenreiter-tabellenfuehrer-aufstieg-100-punkte-leitl-mattuschka-punkteschnitt-historie-ksc.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3331046641559917779</guid>
+      <pubDate>Wed, 25 Nov 2026 05:18:35 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Mit 34 Punkten aus den ersten zwölf Zweitliga-Spielen hat Hertha BSC den Startrekord weiter ausgebaut. Historische Vergleichswerte und ein Ur-Unioner deuten auf einen sicheren Aufstieg hin.</p>]]></description>
     </item>
     <item>
-      <title>[Tech &amp; AI] Mathe-Wettlauf: Anthropic und OpenAI mit fast zeitgleichen Beweisen für VP ≠ VNP</title>
-      <link>https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
-      <guid isPermaLink="false">http://heise.de/-11536640</guid>
-      <pubDate>Tue, 24 Nov 2026 15:35:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
-      <description><![CDATA[<p>Wenige Tage nach dem Riemann-Beweis legen Anthropic und OpenAI fast gleichzeitig Beweise für ein jahrzehntealtes Problem der theoretischen Informatik vor.</p>]]></description>
+      <title>[Berlin] Höchster DEL-Saisonsieg: Eisbären deklassieren Frankfurt mit 7:1</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-loewen-frankfurt-spielbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-loewen-frankfurt-spielbericht.html</guid>
+      <pubDate>Tue, 24 Nov 2026 21:14:45 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Die Eisbären Berlin feierten mit dem 7:1 gegen die Löwen Frankfurt den höchsten Saisonsieg in der DEL.</p>]]></description>
     </item>
     <item>
-      <title>[Tech &amp; AI] Anthropic testet Claude Opus 5.6 verdeckt bei ersten Nutzern</title>
-      <link>https://www.all-ai.de/news/news26top/anthropic-claude-opus-5-6-leaks</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-claude-opus-5-6-leaks</guid>
-      <pubDate>Tue, 24 Nov 2026 13:39:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Anthropic erprobt das neue Spitzenmodell Claude Opus 5.6 verdeckt bei ausgewählten Nutzern; beim visuellen Programmieren übertrifft es den Vorgänger Claude Opus 5.5 deutlich.</p>]]></description>
+      <title>[Berlin] Neues Ärztezentrum in Hellersdorf öffnet zum Jahreswechsel</title>
+      <link>https://marzahn-hellersdorf.com/neues-aerztezentrum-in-hellersdorf-oeffnet-zum-jahreswechsel/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1213914631805839964</guid>
+      <pubDate>Tue, 24 Nov 2026 18:59:20 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[<p>In Hellersdorf entsteht ein neues Ärztezentrum, das zum Jahreswechsel seinen Betrieb aufnehmen soll.</p>]]></description>
     </item>
     <item>
-      <title>[Tech &amp; AI] OpenAI bringt KI-Agenten Dots in die EU und GPT-6.2 Sol in den Chat</title>
-      <link>https://www.all-ai.de/news/news26top/openai-dots-eu-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-dots-eu-start</guid>
-      <pubDate>Tue, 24 Nov 2026 10:25:22 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>OpenAI schaltet die dauerhaft aktiven KI-Agenten „Dots“ nach wochenlanger Sperre auch in der EU frei und rollt parallel GPT-6.2 Sol für Bezahlkunden im ChatGPT-Chat aus.</p>]]></description>
+      <title>[Berlin] Die Angst vor Minusgraden im Berliner Amateurfußball</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-berlin-amateure-spielabsagen-bfv-winter-wetter-schnee-absagen-gaertner.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-berlin-amateure-spielabsagen-bfv-winter-wetter-schnee-absagen-gaertner.html</guid>
+      <pubDate>Tue, 24 Nov 2026 17:12:00 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Der Berliner Fußballverband bereitet sich auf mögliche Spielabsagen durch Minusgrade vor; Spielbetriebsverantwortlicher Joachim Gaertner gibt Auskunft zur Vorbereitung.</p>]]></description>
     </item>
     <item>
-      <title>[Tech &amp; AI] Gelähmter Patient spielt GTA VI allein per Neuralink-Hirnimplantat</title>
-      <link>https://www.all-ai.de/news/news26top/gta6-neuralink-spielen</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/gta6-neuralink-spielen</guid>
-      <pubDate>Tue, 24 Nov 2026 09:25:38 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Der gelähmte Studienteilnehmer Billy steuert GTA VI auf der PlayStation 5 komplett gedankenbasiert über sein Neuralink-Implantat – zwei Joysticks und zwölf Tasten simultan.</p>]]></description>
+      <title>[Berlin] Kein rechtlicher Rahmen für Stadionverbot des Energie-Vorsängers</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-stadionverbot-verein-ausschluss-ultras-stopper-sportrecht-interview.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-energie-cottbus-vorsaenger-stadionverbot-verein-ausschluss-ultras-stopper-sportrecht-interview.html</guid>
+      <pubDate>Wed, 25 Nov 2026 06:03:56 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://holli-news-bot.streamlit.app">KI-Briefing</source>
+      <description><![CDATA[<p>Gegen den Vorsänger von Energie Cottbus läuft ein Vereinsausschlussverfahren nach einer Verurteilung wegen schwerer Körperverletzung; ein Stadionverbot ist rechtlich nicht möglich.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC – Karlsruher SC live im TV und Livestream</title>
-      <link>https://www.sportsillustrated.de/fussball/2-bundesliga/hertha-bsc-karlsruher-sc-live-im-tv-und-livestream</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8139550093384118541</guid>
-      <pubDate>Tue, 24 Nov 2026 15:05:41 +0000</pubDate>
+      <title>[Fun] Schotten im Fahrstuhl.</title>
+      <link>https://debeste.de/640402/Schotten-im-Fahrstuhl</link>
+      <guid isPermaLink="false">https://debeste.de/640402/Schotten-im-Fahrstuhl</guid>
+      <pubDate>Wed, 25 Nov 2026 05:59:01 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>Ein Schotte fährt mit dem Fahrstuhl in den 10. Stock. Oben angekommen, steigt er aus, dreht sich um und ruft in den Fahrstuhl hinein: "Und jetzt fahren Sie wieder runter, ich habe mein Portemonnaie vergessen!"</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Dekorative Glühbirne aus dem Jahr 1940...</title>
+      <link>https://debeste.de/640434/Dekorative-Gl-hbirne-aus-dem-Jahr-1940</link>
+      <guid isPermaLink="false">https://debeste.de/640434/Dekorative-Gl-hbirne-aus-dem-Jahr-1940</guid>
+      <pubDate>Wed, 25 Nov 2026 05:29:01 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>Dekorative Glühbirne aus dem Jahr 1940.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Drei Kilo mehr und trotzdem sieht sie schlanker aus...</title>
+      <link>https://debeste.de/640433/Drei-Kilo-mehr-und-trotzdem-sieht-sie-schlanker-aus</link>
+      <guid isPermaLink="false">https://debeste.de/640433/Drei-Kilo-mehr-und-trotzdem-sieht-sie-schlanker-aus</guid>
+      <pubDate>Wed, 25 Nov 2026 04:59:01 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>Drei Kilo mehr und trotzdem sieht sie schlanker aus.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Abstandshalter-Stiefel..</title>
+      <link>https://debeste.de/640410/Abstandshalter-Stiefel</link>
+      <guid isPermaLink="false">https://debeste.de/640410/Abstandshalter-Stiefel</guid>
+      <pubDate>Wed, 25 Nov 2026 04:29:01 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>Abstandshalter-Stiefel</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Fight in der Gemüseabteilung.</title>
+      <link>https://debeste.de/640406/Fight-in-der-Gem-seabteilung</link>
+      <guid isPermaLink="false">https://debeste.de/640406/Fight-in-der-Gem-seabteilung</guid>
+      <pubDate>Wed, 25 Nov 2026 03:59:02 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://debeste.de/rss-main">debeste.de</source>
+      <description><![CDATA[<p>Eine Frau steht im Supermarkt an der Gemüseabteilung und schaut sich die Gurken an. Plötzlich kommt ein Mann angerannt, reißt ihr die Gurke aus der Hand und schreit: "Die ist meine!" Die Frau schaut ihn entgeistert an und sagt: "Entschuldigung, aber ich glaube, die gehört zum Sortiment." Darauf der Mann: "Nicht die Gurke, die Frau!"</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC: Deyovaisio Zeefuik, vom Aussortierten zum Kultspieler</title>
+      <link>https://www.berliner-zeitung.de/article/hertha-bsc-deyovaisio-zeefuik-identifikationsfigur-gehaltsverzicht-10631227</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3102320308903241281</guid>
+      <pubDate>Wed, 25 Nov 2026 05:09:55 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Hertha BSC empfängt den Karlsruher SC zum 13. Spieltag der 2. Bundesliga; alle Infos zur TV- und Stream-Übertragung sowie zum Anstoß.</p>]]></description>
+      <description><![CDATA[<p>Zeefuik verzichtete auf Gehalt, um bei Hertha zu bleiben, und gilt für viele Fans als Identifikationsfigur.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Von den Kickers über Ulm: Spätstarter Niklas Kolbe mit Hertha BSC auf dem Weg in die Bundesliga</title>
-      <link>https://www.swp.de/sport/ssv-ulm/von-den-kickers-ueber-ulm-spaetstarter-niklas-kolbe-mit-hertha-bsc-auf-dem-weg-in-die-bundesliga-79771560.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14965080907599716188</guid>
-      <pubDate>Tue, 24 Nov 2026 14:45:01 +0000</pubDate>
+      <title>[Fußball] Hertha BSC: Fans verleihen Deyovaisio Zeefuik den Ballon d'Or</title>
+      <link>https://www.berliner-kurier.de/article/hertha-bsc-zeefuik-ballon-dor-ki-clip-10631412</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11488101827913331372</guid>
+      <pubDate>Wed, 25 Nov 2026 05:01:55 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Innenverteidiger Niklas Kolbe spielte 2024 noch Regionalliga für die Stuttgarter Kickers, wechselte über den SSV Ulm zu Hertha BSC und steht nun vor dem Bundesliga-Aufstieg.</p>]]></description>
+      <description><![CDATA[<p>Ein KI-Clip macht den Hertha-Verteidiger zum Weltfußballer, nachdem er für die Fans auf Gehalt verzichtete.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC: Nach der Erlösung hat Gustaf Nilsson sein nächstes Ziel im Visier</title>
-      <link>https://www.morgenpost.de/sport/hertha/article413762253/nach-der-erloesung-bei-hertha-bsc-hat-gustaf-nilsson-sein-naechstes-ziel-im-visier.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17853562297744484946</guid>
-      <pubDate>Tue, 24 Nov 2026 14:37:16 +0000</pubDate>
+      <title>[Fußball] Beier und Gadou sei Dank: BVB holt Punkt bei Arsenal</title>
+      <link>https://www.transfermarkt.de/beier-und-gadou-sei-dank-bvb-holt-punkt-bei-arsenal-leipzig-bleibt-im-rennen/view/news/491183</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/beier-und-gadou-sei-dank-bvb-holt-punkt-bei-arsenal-leipzig-bleibt-im-rennen/view/news/491183</guid>
+      <pubDate>Tue, 24 Nov 2026 21:54:08 +0000</pubDate>
       <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Schwedens Nationalstürmer Gustaf Nilsson erzielt sein erstes Pflichtspieltor für Hertha BSC und peilt weitere Treffer an.</p>]]></description>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Borussia Dortmund erkämpfte sich ein Remis beim FC Arsenal und bleibt in der Champions League auf Kurs für die K.o.-Phase.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC bringt Fan-Kollektion zum Jubiläum heraus</title>
-      <link>https://www.wochenblatt-reporter.de/karlsruhe/c-sport/hertha-bsc-bringt-fan-kollektion-zum-jubilaeum-heraus_a951104</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11682011234792004439</guid>
-      <pubDate>Tue, 24 Nov 2026 12:16:17 +0000</pubDate>
+      <title>[Fußball] Aufstiegscoach Schultz verlängert beim VfL Osnabrück</title>
+      <link>https://www.transfermarkt.de/aufstiegscoach-schultz-verlangert-beim-vfl-osnabruck-bester-punkteschnitt-seit-wollitz/view/news/491181</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/aufstiegscoach-schultz-verlangert-beim-vfl-osnabruck-bester-punkteschnitt-seit-wollitz/view/news/491181</guid>
+      <pubDate>Tue, 24 Nov 2026 20:53:39 +0000</pubDate>
       <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Hertha BSC stellt eine limitierte Fan-Kollektion zum 50-jährigen Bestehen der Fanfreundschaft mit dem Karlsruher SC vor.</p>]]></description>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Timo Schultz hat seinen Vertrag beim VfL Osnabrück verlängert; der 49-Jährige war bisher bis Saisonende gebunden.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] DFB-Pokal Übertragung: Diese drei Achtelfinale laufen im Free-TV</title>
-      <link>https://www.swp.de/sport/sport-mix/dfb-pokal-uebertragung-diese-drei-achtelfinale-laufen-im-free-tv-79775350.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1810690244302122741</guid>
-      <pubDate>Tue, 24 Nov 2026 12:12:24 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Titelverteidiger Bayern München empfängt Hertha BSC; zudem zwei reine Bundesliga-Duelle – alle drei Partien werden im Free-TV gezeigt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Enshrouded - First Impressions</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60633</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60633</guid>
-      <pubDate>Tue, 24 Nov 2026 14:19:52 +0000</pubDate>
+      <title>[Games] Heroes of Might and Magic 3 Remake: Playtest gestartet</title>
+      <link>https://pixelcritics.com/heroes-of-might-and-magic-3-remake-playtest-gestartet-so-kannst-du-dir-jetzt-einen-platz-sichern/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14073164927472452925</guid>
+      <pubDate>Tue, 24 Nov 2026 12:32:13 +0000</pubDate>
       <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Mortismal Gaming veröffentlicht erste Eindrücke zum Survival-Action-RPG Enshrouded.</p>]]></description>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
+      <description><![CDATA[<p>Ubisoft hat den Closed Playtest für das Heroes-of-Might-and-Magic-3-Remake gestartet; Anmeldung läuft für PC, Release folgt 2027.</p>]]></description>
     </item>
     <item>
       <title>[Games] Symphony of War II: Dominion - Announced</title>
@@ -114,16 +150,16 @@
       <pubDate>Tue, 24 Nov 2026 14:16:13 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das taktische RPG Symphony of War II: Dominion wurde angekündigt; Spieler rekrutieren Helden, trainieren Armeen und führen rundenbasierte Schlachten zu Land und zu Wasser.</p>]]></description>
+      <description><![CDATA[<p>Der taktische RPG "Symphony of War II: Dominion" wurde angekündigt; rundenbasierte Strategie-Schlachten über Land und See.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Heroes of Might and Magic 3 Remake: Playtest gestartet – so kannst du dir jetzt einen Platz sichern</title>
-      <link>https://pixelcritics.com/heroes-of-might-and-magic-3-remake-playtest-gestartet-so-kannst-du-dir-jetzt-einen-platz-sichern/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14073164927472452925</guid>
-      <pubDate>Tue, 24 Nov 2026 12:32:13 +0000</pubDate>
+      <title>[Games] Enshrouded - First Impressions</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60633</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60633</guid>
+      <pubDate>Tue, 24 Nov 2026 14:19:52 +0000</pubDate>
       <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[<p>Ubisoft startet den Closed Playtest für das Heroes-of-Might-and-Magic-3-Remake; Anmeldung für PC ab sofort möglich, Release geplant für 2027.</p>]]></description>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Mortismal Gaming hat erste Eindrücke zum Survival-RPG Enshrouded veröffentlicht.</p>]]></description>
     </item>
     <item>
       <title>[Games] Heroes of the Seven Islands - Review</title>
@@ -132,7 +168,7 @@
       <pubDate>Tue, 24 Nov 2026 08:27:17 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das RPG Codex rezensiert Heroes of the Seven Islands als hochwertiges rundenbasiertes Strategiespiel aus Frankreich.</p>]]></description>
+      <description><![CDATA[<p>RPG Codex rezensierte "Heroes of the Seven Islands" als hochwertiges RPG aus Frankreich.</p>]]></description>
     </item>
     <item>
       <title>[Games] Zenless Zone Zero - Version 3.4 Teaser</title>
@@ -141,97 +177,52 @@
       <pubDate>Tue, 24 Nov 2026 07:22:46 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Version 3.4 von Zenless Zone Zero startet am 2. Dezember; der Teaser „The Finality of the Day“ gibt erste Einblicke.</p>]]></description>
+      <description><![CDATA[<p>Version 3.4 "The Finality of the Day" startet am 2. Dezember für Zenless Zone Zero.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Beamte sind wie Bücher in einer Bibliothek..</title>
-      <link>https://debeste.de/640444/Beamte-sind-wie-B-cher-in-einer-Bibliothek</link>
-      <guid isPermaLink="false">https://debeste.de/640444/Beamte-sind-wie-B-cher-in-einer-Bibliothek</guid>
-      <pubDate>Tue, 24 Nov 2026 15:40:01 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Beamte sind wie Bücher in einer Bibliothek: Je höher sie stehen, desto seltener werden sie gebraucht.</p>]]></description>
+      <title>[Tech &amp; AI] Geldwäsche, Betrug, Lügen: US-Jury spricht Huawei in 10 Anklagepunkten schuldig</title>
+      <link>https://www.heise.de/news/Geldwaesche-Betrug-Luegen-US-Jury-spricht-Huawei-in-10-Anklagepunkten-schuldig-11537031.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11537031</guid>
+      <pubDate>Wed, 25 Nov 2026 05:55:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[<p>Eine US-Geschworenen-Jury befand Huawei für schuldig, wissentlich US-Sanktionen gegen den Iran verletzt und dafür Banken betrogen zu haben.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Eine Frau fährt mit dem Fahrrad durch die</title>
-      <link>https://www.hahaha.de/witze/menschen/fiese/14678/eine-frau-faehrt-mit-dem-fahrrad-durch-die.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/fiese/14678/eine-frau-faehrt-mit-dem-fahrrad-durch-die.html</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[<p>Eine Frau fährt mit dem Fahrrad durch die Stadt. Auf dem Gepäckträger hat sie zwei Säcke. Der eine Sack hat ein Loch, aus dem fallen dauernd Euromünzen raus. Zwei Polizisten bemerken das und machen die Frau darauf aufmerksam. Die Frau erstrickt: "Da muss ich schnell den ganzen Weg zurückfahren und die Dinger wieder einsammeln." "Moment mal", sagt einer der Polizisten, "woher haben Sie das Geld eigentlich? Irgendwo geklaut?" "Nee!", sagt die Frau, "wissen Sie, ich habe einen Schrebergarten, direkt neben dem Fußballstadion. Die Leute kommen immer und pinkeln in meinen Garten. Da habe ich mich eben mal mit der Heckenschere hingestellt und gesagt: Entweder zwei Euro, oder aber das gute Stück ist ab." Die Polizisten lachen: "Gute Idee!", sagt der eine, "aber was ist denn in dem anderen Sack?" "Naja", sagt die Frau, "es haben eben nicht alle bezahlt!"</p>]]></description>
+      <title>[Tech &amp; AI] NASA soll 2 Milliarden US-Dollar mehr für Artemis-Mondprogramm bekommen</title>
+      <link>https://www.heise.de/news/NASA-soll-2-Milliarden-US-Dollar-mehr-fuer-Artemis-Mondprogramm-bekommen-11537003.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11537003</guid>
+      <pubDate>Wed, 25 Nov 2026 04:02:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[<p>Die US-Regierung schlägt dem Kongress eine massive Budgeterhöhung für die NASA vor, um weitere Verzögerungen beim Mondprogramm zu vermeiden.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Junior-Stelle ausgeschrieben. Anforderungen: 5 Jahre..</title>
-      <link>https://debeste.de/640118/Junior-Stelle-ausgeschrieben-Anforderungen-5-Jahre</link>
-      <guid isPermaLink="false">https://debeste.de/640118/Junior-Stelle-ausgeschrieben-Anforderungen-5-Jahre</guid>
-      <pubDate>Tue, 24 Nov 2026 02:59:01 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Junior-Stelle ausgeschrieben. Anforderungen: 5 Jahre Berufserfahrung. Ich glaube, ich habe das Konzept von Junior falsch verstanden.</p>]]></description>
+      <title>[Tech &amp; AI] Hacker dringen in CIA und ODNI ein</title>
+      <link>https://www.all-ai.de/news/news26top/hacker-cia-odni-ki</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/hacker-cia-odni-ki</guid>
+      <pubDate>Tue, 24 Nov 2026 23:00:01 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Unbekannte Angreifer verschafften sich Zugriff auf eine gemeinsame OSINT-Analyseplattform von CIA und ODNI; streng geheime Server blieben geschützt, aber Daten weiterer US-Behörden sind betroffen.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Grab einer Katholikin und eines Protestanten..</title>
-      <link>https://debeste.de/640144/Grab-einer-Katholikin-und-eines-Protestanten</link>
-      <guid isPermaLink="false">https://debeste.de/640144/Grab-einer-Katholikin-und-eines-Protestanten</guid>
-      <pubDate>Mon, 23 Nov 2026 21:59:01 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Grab einer Katholikin und eines Protestanten - zusammen begraben, aber auf zwei verschiedenen Friedhöfen</p>]]></description>
+      <title>[Tech &amp; AI] Nach 365-Ausfall: Höchste Alarmstufe bei Microsoft</title>
+      <link>https://www.heise.de/news/Nach-365-Ausfall-Hoechste-Alarmstufe-bei-Microsoft-11536918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536918</guid>
+      <pubDate>Tue, 24 Nov 2026 20:03:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[<p>Microsoft rief nach dem weltweiten M365-Ausfall "Code Red" aus; umfangreiche Änderungen sollen Wiederholungen verhindern.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Manche haben vier Beine, ein großes Herz und heißen..</title>
-      <link>https://debeste.de/640151/Manche-haben-vier-Beine,-ein-gro-es-Herz-und-hei-en</link>
-      <guid isPermaLink="false">https://debeste.de/640151/Manche-haben-vier-Beine,-ein-gro-es-Herz-und-hei-en</guid>
-      <pubDate>Tue, 24 Nov 2026 04:59:01 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://debeste.de/rss-main">debeste.de</source>
-      <description><![CDATA[<p>Manche haben vier Beine, ein großes Herz und heißen Fiona. Fiona, die 2017 sechs Wochen zu früh zur Welt kam und nur 29 Pfund (ca. 13 kg) wog, wurde zur berühmtesten Flusspferddame im Zoo von Cincinnati. Sie starb am Donnerstag im Alter von 9 Jahren. Elf Tage zuvor hatte sie einen Hut verschluckt. Ein Besucher hatte ihn in die Luft geworfen, und ein Deckenventilator wehte ihn über die Trennscheibe zwischen Zuschauern und Gehege direkt zu ihr hinein. Die Obduktion ergab, dass der Hut auf halber Länge ihres Dünndarms steckengeblieben war. Außer unterstützender Pflege bot keine Behandlung eine Aussicht auf Erfolg. Sie hat der Welt so viel Freude geschenkt. Es fällt so schwer, heute Abschied von ihr zu nehmen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Union Berlin im Tabellenkeller: Fassade des Zusammenhalts bröckelt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fusball-bundesliga-union-berlin-abstiegskampf-mauro-lustrinelli-horst-heldt.html</guid>
-      <pubDate>Tue, 24 Nov 2026 15:57:52 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Union Berlin steckt nach zehn Spielen mittendrin im Tabellenkeller; neben Manager Heldt wird auch über Trainer Lustrinelli diskutiert, der harsche Kritik an seinen Spielern übt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Union-Frauen holen DFB-Star Ann-Katrin Berger nach Berlin</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/1-fc-union-berlin-frauen-verpflichtet-torhueterin-ann-katrin-berger-dfb.html</guid>
-      <pubDate>Mon, 23 Nov 2026 16:38:48 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Die Frauen des 1. FC Union verpflichten ab Januar Nationaltorhüterin Ann-Katrin Berger – die aktuelle Nummer eins im DFB-Team und eine der weltbesten Torhüterinnen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Fan-Freundschaft Hertha-KSC: Alles Zufall oder doch geplant?</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-50-jahre-fanfreundschaft-ursprung.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-50-jahre-fanfreundschaft-ursprung.html</guid>
-      <pubDate>Tue, 24 Nov 2026 05:15:00 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Im August 1976 beginnt die besondere Fanfreundschaft zwischen Hertha BSC und dem Karlsruher SC – der genaue Ursprung wird bis heute unterschiedlich erinnert.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Eishockey-Talent Krestan: Noch kein König, aber schon ein Eisbär</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-los-angeles-kings-nhl-tobias-krestan-portrait.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-los-angeles-kings-nhl-tobias-krestan-portrait.html</guid>
-      <pubDate>Tue, 24 Nov 2026 12:17:37 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Der 18-jährige Tobias Krestan zeigt bei den Eisbären Berlin sein Talent und gewöhnt sich an das Großstadtleben ohne Führerschein.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Kommentar zum Transfer von DFB-Keeperin Berger zu Union Berlin</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-frauen-bundesliga-union-berlin-ann-katrin-berger-kommentar.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-frauen-bundesliga-union-berlin-ann-katrin-berger-kommentar.html</guid>
-      <pubDate>Tue, 24 Nov 2026 14:48:19 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Mit der Verpflichtung von Ann-Katrin Berger setzt Union Berlin ein Ausrufezeichen; Bergers Erfahrung soll dem Kader der Köpenickerinnen guttun.</p>]]></description>
+      <title>[Tech &amp; AI] Mathe-Wettlauf: Anthropic und OpenAI mit fast zeitgleichen Beweisen für VP ≠ VNP</title>
+      <link>https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag</link>
+      <guid isPermaLink="false">http://heise.de/-11536640</guid>
+      <pubDate>Tue, 24 Nov 2026 15:35:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.heise.de/rss/heise-atom.xml">Heise Online News</source>
+      <description><![CDATA[<p>Wenige Tage nach dem Riemann-Beweis legten Anthropic und OpenAI fast gleichzeitig Beweise für ein jahrzehntealtes Problem der theoretischen Informatik vor.</p>]]></description>
     </item>
   </channel>
 </rss>
