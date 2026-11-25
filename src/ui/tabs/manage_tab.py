@@ -26,6 +26,7 @@ from src.aggregator import (
     get_offline_enabled_feeds,
     load_prompts,
     load_sources,
+    normalize_keywords,
     rename_category,
     save_sources,
     test_feed_connection,
@@ -33,7 +34,7 @@ from src.aggregator import (
     validate_feed_url,
 )
 from src.offline_archiver import start_offline_archive_task
-from src.storage import get_storage
+from src.storage import get_storage, is_cloud_storage
 from src.ui.background import run_in_background
 from src.ui.state import get_news_data
 from src.ui.styles import embed_client_script, render_dismissible_notice, set_dismissible_notice
@@ -142,6 +143,115 @@ def _apply_pending_settings_from_state(working_config: dict[str, Any]) -> None:
         "streamlit_app_url",
     ):
         settings.pop(deprecated_key, None)
+
+
+def _has_pending_feed_edits(working_config: dict[str, Any]) -> bool:
+    """Prüft, ob in aufgeklappten Feed-Bearbeitungsfeldern unübernommene Änderungen vorliegen."""
+    for cat in working_config.get("categories", []):
+        cat_name = str(cat.get("name") or "Allgemein").strip()
+        for feed in cat.get("feeds", []):
+            f_url = str(feed.get("url") or "").strip()
+            f_name = str(feed.get("name") or "Unbenannt").strip()
+            key_hash = _feed_widget_hash(cat_name, f_url)
+
+            if f"ed_name_{key_hash}" in st.session_state:
+                if str(st.session_state[f"ed_name_{key_hash}"]).strip() != f_name:
+                    return True
+            if f"ed_url_{key_hash}" in st.session_state:
+                if str(st.session_state[f"ed_url_{key_hash}"]).strip() != f_url:
+                    return True
+            if f"ed_cat_{key_hash}" in st.session_state:
+                if str(st.session_state[f"ed_cat_{key_hash}"]).strip().lower() != cat_name.lower():
+                    return True
+            if f"ed_inc_{key_hash}" in st.session_state:
+                if normalize_keywords(st.session_state[f"ed_inc_{key_hash}"]) != normalize_keywords(feed.get("include_keywords")):
+                    return True
+            if f"ed_exc_{key_hash}" in st.session_state:
+                if normalize_keywords(st.session_state[f"ed_exc_{key_hash}"]) != normalize_keywords(feed.get("exclude_keywords")):
+                    return True
+            if f"ed_offline_{key_hash}" in st.session_state:
+                if bool(st.session_state[f"ed_offline_{key_hash}"]) != bool(feed.get("offline_download", False)):
+                    return True
+    return False
+
+
+def _apply_pending_feed_edits_from_state(working_config: dict[str, Any]) -> list[str]:
+    """Übernimmt noch nicht explizit bestätigte Inline-Feed-Änderungen inkl. SSRF-Validierung vor dem Speichern."""
+    errors: list[str] = []
+    pending_updates: list[tuple[str, str, str, str, str, str, str, bool]] = []
+
+    for cat in list(working_config.get("categories", [])):
+        cat_name = str(cat.get("name") or "Allgemein").strip()
+        for feed in list(cat.get("feeds", [])):
+            f_url = str(feed.get("url") or "").strip()
+            f_name = str(feed.get("name") or "Unbenannt").strip()
+            f_inc = normalize_keywords(feed.get("include_keywords"))
+            f_exc = normalize_keywords(feed.get("exclude_keywords"))
+            f_offline = bool(feed.get("offline_download", False))
+            key_hash = _feed_widget_hash(cat_name, f_url)
+
+            has_any_widget = any(
+                f"{prefix}{key_hash}" in st.session_state
+                for prefix in ("ed_name_", "ed_url_", "ed_cat_", "ed_inc_", "ed_exc_", "ed_offline_")
+            )
+            if not has_any_widget:
+                continue
+
+            new_name = str(st.session_state.get(f"ed_name_{key_hash}", f_name)).strip()
+            new_url = str(st.session_state.get(f"ed_url_{key_hash}", f_url)).strip()
+            new_cat = str(st.session_state.get(f"ed_cat_{key_hash}", cat_name)).strip() or cat_name
+            new_inc_raw = str(st.session_state.get(f"ed_inc_{key_hash}", ", ".join(f_inc)))
+            new_exc_raw = str(st.session_state.get(f"ed_exc_{key_hash}", ", ".join(f_exc)))
+            new_offline = bool(st.session_state.get(f"ed_offline_{key_hash}", f_offline))
+
+            changed = (
+                new_name != f_name
+                or new_url != f_url
+                or new_cat.lower() != cat_name.lower()
+                or normalize_keywords(new_inc_raw) != f_inc
+                or normalize_keywords(new_exc_raw) != f_exc
+                or new_offline != f_offline
+            )
+            if not changed:
+                continue
+            if not new_name or not new_url:
+                errors.append(f"Feed '{f_name}': Name und URL dürfen nicht leer sein.")
+                continue
+            url_ok, url_err = validate_feed_url(new_url, resolve_dns=False)
+            if not url_ok:
+                errors.append(f"Feed '{new_name}': {url_err or 'Ungültige Feed-URL.'}")
+                continue
+            pending_updates.append((cat_name, f_url, new_name, new_url, new_cat, new_inc_raw, new_exc_raw, new_offline))
+
+    if errors:
+        return errors
+
+    for cat_name, old_url, new_name, new_url, new_cat, new_inc_raw, new_exc_raw, new_offline in pending_updates:
+        update_feed(
+            cat_name,
+            old_url,
+            new_name=new_name,
+            new_url=new_url,
+            new_category=new_cat,
+            include_keywords=new_inc_raw,
+            exclude_keywords=new_exc_raw,
+            offline_download=new_offline,
+            config=working_config,
+            save_to_disk=False,
+        )
+    return []
+
+
+def _get_storage_status_caption() -> str:
+    """Liefert eine kompakte, ehrliche Statuszeile zum aktiven Datenbank-Backend."""
+    try:
+        storage = get_storage()
+        if is_cloud_storage(storage):
+            return "☁️ Speicher: Turso Cloud-DB aktiv"
+        return "⚠️ Speicher: Nur lokale SQLite-DB aktiv (nicht dauerhaft in der Cloud)"
+    except Exception as exc:  # noqa: BLE001 - Anzeige darf UI nicht abbrechen
+        logger.debug("Speicher-Status konnte nicht ermittelt werden: %s", exc)
+        return "⚠️ Speicher-Backend konnte nicht geprüft werden"
 
 
 def _preserve_latest_prompts(working_config: dict[str, Any]) -> None:
@@ -292,26 +402,63 @@ def _sync_news_cache_after_save(
     return len(fetched_articles)
 
 
-def _build_save_notice(save_res: Any, newly_fetched_count: int = 0) -> tuple[str, str]:
-    """Formatiert eine ehrliche, präzise Statusmeldung für den Speichervorgang."""
+def _build_save_notice(save_res: Any, newly_fetched_count: int = 0) -> tuple[str, str, str]:
+    """
+    Formatiert eine strikt ehrliche Statusmeldung `(level, icon, message)` für den Speichervorgang.
+    Ein grünes `success` (`✅`) wird AUSSCHLIESSLICH zurückgegeben, wenn sowohl die echte Cloud-DB
+    (Turso, inkl. Read-Back-Verifikation) als auch GitHub erfolgreich synchronisiert wurden.
+    """
     extra = f" · {newly_fetched_count} neue Artikel geladen" if newly_fetched_count > 0 else ""
 
     if not isinstance(save_res, dict):
-        return "✅", f"Änderungen dauerhaft gespeichert & synchronisiert{extra}!"
+        return "success", "✅", f"Änderungen dauerhaft gespeichert & synchronisiert{extra}!"
 
     db_saved = bool(save_res.get("db_saved", False))
+    db_verified = bool(save_res.get("db_verified", db_saved))
+    storage_backend = str(save_res.get("storage_backend") or "").strip().lower()
+    if "is_cloud_db" in save_res:
+        is_cloud_db = bool(save_res["is_cloud_db"])
+    else:
+        is_cloud_db = db_saved and storage_backend != "sqlite"
+
+    cloud_db_ok = db_saved and db_verified and is_cloud_db
     gh_synced = bool(save_res.get("success", False))
     gh_err = str(save_res.get("error") or "").strip()
     db_err = str(save_res.get("db_error") or "").strip()
 
-    if db_saved and gh_synced:
-        return "✅", f"Änderungen dauerhaft in Cloud-Datenbank & GitHub gespeichert{extra}!"
-    if db_saved and not gh_synced:
-        hint = f"GitHub-Sync: {gh_err}" if gh_err else "GitHub-Sync übersprungen"
-        return "✅", f"Änderungen dauerhaft in Cloud-Datenbank gespeichert{extra}! ({hint} – wird beim nächsten Daily-Run abgeglichen.)"
-    if not db_saved and gh_synced:
-        return "✅", f"Änderungen lokal & auf GitHub gespeichert{extra}! (Cloud-Datenbank nicht erreichbar.)"
-    return "⚠️", f"Lokal gespeichert, aber Cloud-Sync fehlgeschlagen (DB: {db_err or '-'} · GitHub: {gh_err or '-'})."
+    if cloud_db_ok and gh_synced:
+        return "success", "✅", f"Änderungen dauerhaft in Cloud-Datenbank & GitHub gespeichert{extra}!"
+    if cloud_db_ok and not gh_synced:
+        hint = gh_err or "GitHub-Sync nicht konfiguriert"
+        return (
+            "warning",
+            "⚠️",
+            (
+                f"In Turso Cloud-Datenbank gespeichert & verifiziert{extra} – "
+                f"aber GitHub-Sync fehlgeschlagen ({hint}). "
+                "Änderungen bleiben über die Cloud-DB erhalten und werden beim nächsten Daily-Run zu GitHub übertragen."
+            ),
+        )
+    if not cloud_db_ok and gh_synced:
+        db_reason = db_err or (
+            "nur lokale SQLite aktiv" if db_saved and not is_cloud_db else "Cloud-Datenbank nicht erreichbar"
+        )
+        return (
+            "warning",
+            "⚠️",
+            f"Auf GitHub gespeichert{extra}, aber Cloud-Datenbank-Sync unvollständig ({db_reason}).",
+        )
+
+    db_reason = db_err or (
+        "nur temporäre lokale SQLite-DB aktiv – nicht persistent auf Streamlit Cloud"
+        if db_saved and not is_cloud_db
+        else "Speichern fehlgeschlagen"
+    )
+    return (
+        "error",
+        "❌",
+        f"NICHT dauerhaft gespeichert! Cloud-DB: {db_reason} · GitHub: {gh_err or 'fehlgeschlagen'}.",
+    )
 
 
 def render_feed_test_result(t_res: dict[str, Any]) -> None:
@@ -370,11 +517,15 @@ def render_manage_tab(
         st.info("🔒 Dieser Bereich erfordert eine Administrator-Anmeldung. Bitte melde dich links in der Leiste an.")
         return
 
-    # Prominenter Erfolgs- / Status-Hinweis nach Aktionen
+    # Prominenter Erfolgs- / Warn- / Fehler-Hinweis nach Aktionen
     if st.session_state.get("manage_notice"):
         render_dismissible_notice(st.session_state["manage_notice"], notice_key="manage_notice", icon="✅")
 
-    has_unsaved_changes = bool(st.session_state.get("has_unsaved_changes", False)) or _has_pending_settings_edits(working_config)
+    has_unsaved_changes = (
+        bool(st.session_state.get("has_unsaved_changes", False))
+        or _has_pending_settings_edits(working_config)
+        or _has_pending_feed_edits(working_config)
+    )
 
     # Top Status & Save Bar
     with st.container(border=True):
@@ -384,6 +535,7 @@ def render_manage_tab(
                 st.warning("⚠️ **Ungespeicherte Änderungen.**")
             else:
                 st.success("✅ **Alle Feeds & Einstellungen sind aktuell.**")
+            st.caption(_get_storage_status_caption())
         with col_st2:
             btn_save_label = "💾 Jetzt sichern" if has_unsaved_changes else "💾 Gespeichert"
             btn_save_disabled = not has_unsaved_changes or bool(st.session_state.get("is_saving_sources", False))
@@ -400,30 +552,48 @@ def render_manage_tab(
                     previous_config = copy.deepcopy(
                         st.session_state.get("last_loaded_saved_config") or working_config
                     )
-                    _apply_pending_settings_from_state(working_config)
-                    _preserve_latest_prompts(working_config)
-                    if "settings" in working_config and isinstance(working_config["settings"], dict):
-                        working_config["settings"].pop("ad_keywords", None)
+                    feed_edit_errors = _apply_pending_feed_edits_from_state(working_config)
+                    if feed_edit_errors:
+                        set_dismissible_notice(
+                            "manage_notice",
+                            "Speichern abgebrochen: " + " | ".join(feed_edit_errors),
+                            icon="❌",
+                            level="error",
+                        )
+                    else:
+                        _apply_pending_settings_from_state(working_config)
+                        _preserve_latest_prompts(working_config)
+                        if "settings" in working_config and isinstance(working_config["settings"], dict):
+                            working_config["settings"].pop("ad_keywords", None)
 
-                    save_res = save_sources(
-                        working_config,
-                        sync_github=True,
-                        persist_db=True,
-                        include_rss_feeds=False,
-                    )
-                    if get_offline_enabled_feeds(working_config):
-                        start_offline_archive_task(config=working_config)
+                        save_res = save_sources(
+                            working_config,
+                            sync_github=True,
+                            persist_db=True,
+                            include_rss_feeds=False,
+                        )
+                        if get_offline_enabled_feeds(working_config):
+                            start_offline_archive_task(config=working_config)
 
-                    reloaded_cfg = load_sources()
-                    newly_fetched = _sync_news_cache_after_save(previous_config, reloaded_cfg)
+                        reloaded_cfg = load_sources()
+                        newly_fetched = _sync_news_cache_after_save(previous_config, reloaded_cfg)
 
-                    st.session_state["working_sources_config"] = copy.deepcopy(reloaded_cfg)
-                    st.session_state["last_loaded_saved_config"] = copy.deepcopy(reloaded_cfg)
-                    st.session_state["has_unsaved_changes"] = False
-                    _clear_manage_form_keys()
+                        notice_level, notice_icon, notice_msg = _build_save_notice(
+                            save_res,
+                            newly_fetched_count=newly_fetched,
+                        )
+                        st.session_state["working_sources_config"] = copy.deepcopy(reloaded_cfg)
+                        st.session_state["last_loaded_saved_config"] = copy.deepcopy(reloaded_cfg)
+                        # Bei komplett fehlgeschlagener Persistenz Button aktiv lassen, damit Retry direkt möglich ist
+                        st.session_state["has_unsaved_changes"] = notice_level == "error"
+                        _clear_manage_form_keys()
 
-                    notice_icon, notice_msg = _build_save_notice(save_res, newly_fetched_count=newly_fetched)
-                    set_dismissible_notice("manage_notice", notice_msg, icon=notice_icon)
+                        set_dismissible_notice(
+                            "manage_notice",
+                            notice_msg,
+                            icon=notice_icon,
+                            level=notice_level,
+                        )
                 finally:
                     st.session_state["is_saving_sources"] = False
                 st.rerun()
@@ -436,7 +606,12 @@ def render_manage_tab(
                         st.session_state["last_loaded_saved_config"] = copy.deepcopy(reloaded_cfg)
                         st.session_state["has_unsaved_changes"] = False
                         _clear_manage_form_keys()
-                        set_dismissible_notice("manage_notice", "Ungespeicherte Änderungen verworfen.", icon="✅")
+                        set_dismissible_notice(
+                            "manage_notice",
+                            "Ungespeicherte Änderungen verworfen.",
+                            icon="✅",
+                            level="success",
+                        )
                         embed_client_script("setTimeout(function(){ window.location.reload(); }, 60);")
 
     # --- Sektion 1: Kategorien verwalten (standardmäßig zugeklappt) ---

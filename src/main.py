@@ -33,13 +33,19 @@ def run_pipeline() -> None:
 
     # 0. Schritt: Maßgebliche Konfiguration aus Cloud-Datenbank (Turso) abgleichen
     try:
+        from src.storage import get_storage
+
+        active_storage = get_storage()
+        backend_label = type(active_storage).__name__
         sync_statuses = sync_configs_from_storage(force=True)
-        restored = [fname for fname, st_val in sync_statuses.items() if st_val == "restored_from_db"]
-        if restored:
+        if sync_statuses:
+            summary_parts = [f"{fname}={status}" for fname, status in sorted(sync_statuses.items())]
             print(
-                f"      -> ☁️ Konfiguration aus Cloud-DB synchronisiert: {', '.join(restored)}",
+                f"      -> ☁️ Konfig-Sync ({backend_label}): {', '.join(summary_parts)}",
                 flush=True,
             )
+        else:
+            print(f"      -> ☁️ Konfig-Sync ({backend_label}): keine DB-Snapshots vorhanden.", flush=True)
     except Exception as exc:  # noqa: BLE001 - Fallback auf lokale YAML-Dateien
         logger.warning("Cloud-DB Konfigurationsabgleich beim Pipeline-Start fehlgeschlagen: %s", exc)
 

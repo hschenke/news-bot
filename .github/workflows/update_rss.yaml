@@ -89,6 +89,15 @@ jobs:
             echo "RSS-Feeds erfolgreich zu GitHub und CDN gepusht!"
           fi
 
+      - name: ☁️ Cloud-DB Git-Sync-Status bestätigen
+        if: success()
+        env:
+          TURSO_URL: ${{ secrets.TURSO_URL }}
+          TURSO_KEY: ${{ secrets.TURSO_KEY }}
+          TURSO_TIMEOUT: "30.0"
+        run: |
+          python -c "from src.sources_manager import mark_canonical_configs_synced_to_git; print('Cloud-DB Git-Sync CAS:', mark_canonical_configs_synced_to_git())"
+
       - name: ⚡ jsDelivr CDN-Cache leeren
         if: success()
         run: |

@@ -21,16 +21,27 @@ def embed_client_script(js_code: str) -> None:
     st.html(html_wrapper, unsafe_allow_javascript=True)
 
 
-def set_dismissible_notice(notice_key: str, message: str, icon: str = "✅") -> None:
+_VALID_NOTICE_LEVELS: frozenset[str] = frozenset({"success", "warning", "error"})
+
+
+def set_dismissible_notice(
+    notice_key: str,
+    message: str,
+    icon: str = "✅",
+    level: str = "success",
+) -> None:
     """
-    Zentrale Funktion zum Setzen einer grünen Info-/Erfolgsmeldung über alle Seiten hinweg.
+    Zentrale Funktion zum Setzen einer persistenten Hinweis-/Statusmeldung über alle Seiten hinweg.
+    Unterstützt die Stufen 'success' (grün), 'warning' (gelb/orange) und 'error' (rot).
     Erhöht automatisch die Sequenznummer, damit auch identische Folgemeldungen nach einem
     vorherigen Schließen per '✖' zuverlässig wieder eingeblendet werden.
     """
     if not notice_key or not message or not str(message).strip():
         return
+    resolved_level = level if level in _VALID_NOTICE_LEVELS else "success"
     st.session_state[notice_key] = str(message).strip()
     st.session_state[f"_notice_icon_{notice_key}"] = icon
+    st.session_state[f"_notice_level_{notice_key}"] = resolved_level
     curr_seq = int(st.session_state.get(f"_notice_seq_{notice_key}", 0))
     st.session_state[f"_notice_seq_{notice_key}"] = curr_seq + 1
 
@@ -39,9 +50,10 @@ def render_dismissible_notice(
     notice_text: str | None = None,
     notice_key: str = "global_notice",
     icon: str = "✅",
+    level: str | None = None,
 ) -> None:
     """
-    Zentrale Funktion zum Rendern aller grünen Info-/Erfolgsmeldungen.
+    Zentrale Funktion zum Rendern persistenter Statusmeldungen (success / warning / error).
     Verschwindet NICHT automatisch, sondern ausschließlich bei Klick auf das '✖'.
     """
     resolved_text = notice_text if notice_text is not None else st.session_state.get(notice_key)
@@ -49,22 +61,25 @@ def render_dismissible_notice(
         return
     import html
     import hashlib
+
     resolved_str = str(resolved_text).strip()
     if st.session_state.get(f"_notice_last_text_{notice_key}") != resolved_str:
         st.session_state[f"_notice_last_text_{notice_key}"] = resolved_str
         st.session_state[f"_notice_seq_{notice_key}"] = int(st.session_state.get(f"_notice_seq_{notice_key}", 0)) + 1
 
     resolved_icon = str(st.session_state.get(f"_notice_icon_{notice_key}") or icon)
+    raw_level = level if level is not None else st.session_state.get(f"_notice_level_{notice_key}", "success")
+    resolved_level = str(raw_level) if str(raw_level) in _VALID_NOTICE_LEVELS else "success"
     seq = int(st.session_state.get(f"_notice_seq_{notice_key}", 1))
     escaped_text = html.escape(resolved_str)
-    content_hash = hashlib.md5(f"{escaped_text}_{seq}".encode("utf-8")).hexdigest()[:8]
+    content_hash = hashlib.md5(f"{escaped_text}_{resolved_level}_{seq}".encode("utf-8")).hexdigest()[:8]
     banner_id = f"notice-banner-{notice_key}-{content_hash}"
     btn_id = f"notice-close-btn-{notice_key}-{content_hash}"
     html_markup = f"""
-    <div id="{banner_id}" class="persistent-dismissible-notice" data-banner-id="{banner_id}">
+    <div id="{banner_id}" class="persistent-dismissible-notice notice-{resolved_level}" data-banner-id="{banner_id}" data-notice-level="{resolved_level}">
         <div class="notice-content">
             <span class="notice-icon">{resolved_icon}</span>
-            <span class="notice-message" style="color: #065f46; font-weight: 600;">{escaped_text}</span>
+            <span class="notice-message">{escaped_text}</span>
         </div>
         <button id="{btn_id}" class="notice-close-btn" type="button" onclick="try{{sessionStorage.setItem('{banner_id}','dismissed');}}catch(e){{}}var el=document.getElementById('{banner_id}');if(el){{el.style.display='none';el.remove();}}" title="Hinweis schließen">✖</button>
     </div>
@@ -1057,6 +1072,44 @@ def apply_custom_styles() -> None:
         background-color: rgba(5, 150, 105, 0.15) !important;
     }
 
+    /* Warnhinweis (z. B. Cloud-DB OK, aber GitHub-Sync 401/403) */
+    .persistent-dismissible-notice.notice-warning {
+        background-color: #fffbeb !important;
+        border: 1px solid #fcd34d !important;
+        border-left: 4px solid #d97706 !important;
+        color: #92400e !important;
+    }
+    .persistent-dismissible-notice.notice-warning .notice-content,
+    .persistent-dismissible-notice.notice-warning .notice-message {
+        color: #92400e !important;
+    }
+    .persistent-dismissible-notice.notice-warning .notice-close-btn {
+        color: #b45309 !important;
+    }
+    .persistent-dismissible-notice.notice-warning .notice-close-btn:hover {
+        color: #78350f !important;
+        background-color: rgba(217, 119, 6, 0.15) !important;
+    }
+
+    /* Fehlerhinweis (z. B. weder Cloud-DB noch GitHub gespeichert) */
+    .persistent-dismissible-notice.notice-error {
+        background-color: #fef2f2 !important;
+        border: 1px solid #fca5a5 !important;
+        border-left: 4px solid #dc2626 !important;
+        color: #991b1b !important;
+    }
+    .persistent-dismissible-notice.notice-error .notice-content,
+    .persistent-dismissible-notice.notice-error .notice-message {
+        color: #991b1b !important;
+    }
+    .persistent-dismissible-notice.notice-error .notice-close-btn {
+        color: #b91c1c !important;
+    }
+    .persistent-dismissible-notice.notice-error .notice-close-btn:hover {
+        color: #7f1d1d !important;
+        background-color: rgba(220, 38, 38, 0.15) !important;
+    }
+
     @media (prefers-color-scheme: dark) {
         .persistent-dismissible-notice {
             background-color: rgba(6, 78, 59, 0.35) !important;
@@ -1074,6 +1127,32 @@ def apply_custom_styles() -> None:
         .persistent-dismissible-notice .notice-close-btn:hover {
             color: #ffffff !important;
             background-color: rgba(255, 255, 255, 0.15) !important;
+        }
+        .persistent-dismissible-notice.notice-warning {
+            background-color: rgba(120, 53, 15, 0.42) !important;
+            border-color: rgba(251, 191, 36, 0.45) !important;
+            border-left-color: #fbbf24 !important;
+            color: #fef3c7 !important;
+        }
+        .persistent-dismissible-notice.notice-warning .notice-content,
+        .persistent-dismissible-notice.notice-warning .notice-message {
+            color: #fef3c7 !important;
+        }
+        .persistent-dismissible-notice.notice-warning .notice-close-btn {
+            color: #fde68a !important;
+        }
+        .persistent-dismissible-notice.notice-error {
+            background-color: rgba(127, 29, 29, 0.45) !important;
+            border-color: rgba(248, 113, 113, 0.45) !important;
+            border-left-color: #f87171 !important;
+            color: #fee2e2 !important;
+        }
+        .persistent-dismissible-notice.notice-error .notice-content,
+        .persistent-dismissible-notice.notice-error .notice-message {
+            color: #fee2e2 !important;
+        }
+        .persistent-dismissible-notice.notice-error .notice-close-btn {
+            color: #fca5a5 !important;
         }
     }
 </style>

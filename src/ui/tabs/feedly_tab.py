@@ -84,9 +84,14 @@ def render_feedly_tab(
                     else:
                         trig_res = trigger_rss_update_workflow()
                         if trig_res.get("success"):
-                            set_dismissible_notice("feedly_notice", "GitHub Action 'Update RSS Feeds' wurde angestoßen!", icon="📡")
+                            set_dismissible_notice("feedly_notice", "GitHub Action 'Update RSS Feeds' wurde angestoßen!", icon="📡", level="success")
                         else:
-                            set_dismissible_notice("feedly_notice", f"Fehler beim Synchronisieren: {push_res.get('error')}", icon="⚠️")
+                            set_dismissible_notice(
+                                "feedly_notice",
+                                f"Fehler beim Synchronisieren: {push_res.get('error')}",
+                                icon="❌",
+                                level="error",
+                            )
                     st.rerun()
 
     # 1. Gesamt-Feed (Alle Nachrichten)

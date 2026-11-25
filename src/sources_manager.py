@@ -11,6 +11,7 @@ import hashlib
 import json
 import logging
 import os
+import subprocess
 import sys
 import tempfile
 import threading
@@ -44,12 +45,14 @@ _LAST_CONFIG_STORAGE_ID: int | None = None
 
 @dataclass(frozen=True)
 class ConfigSnapshot:
-    """Persistierter YAML-Snapshot einer Konfigurationsdatei mit 3-Wege-Hash-Metadaten."""
+    """Persistierter YAML-Snapshot einer Konfigurationsdatei mit explizitem Git-Sync-Status."""
 
     yaml_text: str
     sha256: str
     base_sha256: str
     updated_at: float
+    synced_to_git: bool = False
+    git_sha256: str = ""
 
     def to_json(self) -> str:
         """Serialisiert den Snapshot als kompaktes JSON für die `metadata`-Tabelle."""
@@ -59,13 +62,15 @@ class ConfigSnapshot:
                 "sha256": self.sha256,
                 "base_sha256": self.base_sha256,
                 "updated_at": self.updated_at,
+                "synced_to_git": self.synced_to_git,
+                "git_sha256": self.git_sha256,
             },
             ensure_ascii=False,
         )
 
     @classmethod
     def from_json(cls, raw_value: str) -> ConfigSnapshot | None:
-        """Deserialisiert einen gespeicherten Snapshot sicher (Fail-Secure bei korrupten Daten)."""
+        """Deserialisiert einen gespeicherten Snapshot sicher (Fail-Secure & abwärtskompatibel)."""
         if not raw_value or not raw_value.strip():
             return None
         try:
@@ -84,11 +89,24 @@ class ConfigSnapshot:
             updated_at = float(payload.get("updated_at") or 0.0)
         except (ValueError, TypeError):
             updated_at = 0.0
+
+        if "synced_to_git" in payload:
+            synced_to_git = bool(payload["synced_to_git"])
+        else:
+            # Abwärtskompatibilität für Legacy-Snapshots ohne explizites synced_to_git-Flag
+            synced_to_git = bool(base_sha256 and sha256 == base_sha256)
+
+        git_sha256 = str(payload.get("git_sha256") or "").strip()
+        if not git_sha256:
+            git_sha256 = sha256 if synced_to_git else base_sha256
+
         return cls(
             yaml_text=yaml_text,
             sha256=sha256,
             base_sha256=base_sha256,
             updated_at=updated_at,
+            synced_to_git=synced_to_git,
+            git_sha256=git_sha256,
         )
 
 
@@ -99,8 +117,12 @@ class ConfigSaveResult:
     local_saved: bool
     db_saved: bool
     github_synced: bool
+    is_cloud_db: bool = False
+    db_verified: bool = False
+    storage_backend: str = "sqlite"
     db_error: str | None = None
     github_error: str | None = None
+    github_status_code: int | None = None
     commit_sha: str | None = None
 
 
@@ -160,6 +182,40 @@ def _is_canonical_config_path(path: Path, default_rel: str) -> bool:
         return False
 
 
+def _get_git_file_commit_ts(rel_path: str) -> float | None:
+    """Ermittelt den Unix-Commit-Zeitstempel einer Datei im Git-Repository (falls verfügbar)."""
+    root_dir = _get_project_root()
+    if not (root_dir / ".git").exists():
+        return None
+    try:
+        res = subprocess.run(
+            ["git", "log", "-1", "--format=%ct", "--", rel_path],
+            cwd=str(root_dir),
+            capture_output=True,
+            text=True,
+            timeout=2,
+            check=False,
+            shell=False,
+        )
+        if res.returncode == 0 and res.stdout.strip():
+            return float(res.stdout.strip())
+    except (OSError, ValueError, subprocess.SubprocessError):
+        return None
+    return None
+
+
+def _detect_storage_backend(storage: Any) -> tuple[str, bool]:
+    """Bestimmt den Backend-Namen ('turso' vs 'sqlite') und ob es sich um echte Cloud-Persistenz handelt."""
+    from src.storage.sqlite import SqliteStorage
+    from src.storage.turso import TursoStorage
+
+    if isinstance(storage, TursoStorage):
+        return "turso", True
+    if isinstance(storage, SqliteStorage):
+        return "sqlite", False
+    return type(storage).__name__.lower(), False
+
+
 def invalidate_config_sync_cache() -> None:
     """Setzt den In-Process-TTL-Cache für den Cloud-DB-Konfigurationsabgleich zurück."""
     global _LAST_CONFIG_SYNC_TS, _LAST_CONFIG_STORAGE_ID
@@ -174,12 +230,14 @@ def sync_configs_from_storage(
 ) -> dict[str, str]:
     """
     Synchronisiert die kanonischen Konfigurationsdateien (sources.yaml, settings.yaml, prompts.yaml)
-    per 3-Wege-Hash-Abgleich zwischen lokalem Dateisystem (Git-Stand) und Cloud-Datenbank (Turso/SQLite).
+    zwischen lokalem Dateisystem (Git-Stand) und Cloud-Datenbank (Turso/SQLite).
 
-    - Unsynchronisierte UI-Änderungen in der Cloud-DB (`sha256 != base_sha256`) gewinnen stets
-      gegenüber einem veralteten Git-Checkout (z. B. nach Streamlit-Cloud-Redeploy oder im Daily-Digest-Runner).
-    - Direkte Git-Commits (`disk_hash != base_sha256` bei synchroner DB `sha256 == base_sha256`)
-      werden sauber übernommen und in die DB gespiegelt.
+    WICHTIG:
+    - Solange `snap.synced_to_git` False ist (z. B. nach UI-Speicherung ohne GitHub-Push),
+      wird `synced_to_git` NIEMALS durch den Vergleich mit der lokalen Disk auf True gesetzt!
+      Die Cloud-Datenbank gewinnt in diesem Zustand bedingungslos gegen jeden veralteten Git-Checkout.
+    - Nur wenn `snap.synced_to_git` True ist (nach echtem, bestätigtem Git-Push) UND ein neuerer
+      direkter Git-Commit vorliegt, wird der Git-Stand in die DB übernommen.
     """
     global _LAST_CONFIG_SYNC_TS, _LAST_CONFIG_STORAGE_ID
 
@@ -253,33 +311,47 @@ def sync_configs_from_storage(
                     default_flow_style=False,
                 )
                 cleaned_sha = _sha256_text(cleaned_yaml)
-                was_in_sync = bool(snap.base_sha256 and snap.sha256 == snap.base_sha256)
                 snap = ConfigSnapshot(
                     yaml_text=cleaned_yaml,
                     sha256=cleaned_sha,
-                    base_sha256=cleaned_sha if was_in_sync else snap.base_sha256,
+                    base_sha256=cleaned_sha if snap.synced_to_git else snap.base_sha256,
                     updated_at=snap.updated_at or time.time(),
+                    synced_to_git=snap.synced_to_git,
+                    git_sha256=cleaned_sha if snap.synced_to_git else snap.git_sha256,
                 )
                 db_updates[meta_key] = snap.to_json()
 
             abs_path = (root_dir / rel_path).resolve()
             disk_text, disk_hash = _read_disk_yaml_and_hash(abs_path)
 
+            # 1. Disk stimmt bereits exakt mit DB überein -> KEINE Änderung an synced_to_git!
             if disk_hash == snap.sha256:
-                # Datei und Datenbank sind identisch; ggf. base_sha256 nachziehen (Git hat aufgeholt)
-                if snap.base_sha256 != disk_hash:
-                    caught_up = ConfigSnapshot(
-                        yaml_text=snap.yaml_text,
-                        sha256=snap.sha256,
-                        base_sha256=disk_hash,
-                        updated_at=snap.updated_at or time.time(),
-                    )
-                    db_updates[meta_key] = caught_up.to_json()
-                statuses[fname] = "in_sync"
+                statuses[fname] = "in_sync" if snap.synced_to_git else "pending_git_sync"
                 continue
 
-            if snap.base_sha256 and snap.sha256 == snap.base_sha256 and disk_hash:
-                # Datenbank war synchron mit Git, Git wurde direkt aktualisiert -> Git-Stand übernehmen
+            # 2. DB enthält bestätigte ungesyncte UI-Änderungen -> DB gewinnt bedingungslos!
+            if not snap.synced_to_git:
+                try:
+                    _atomic_write_text(abs_path, snap.yaml_text)
+                    statuses[fname] = "restored_from_db"
+                    logger.info("Konfiguration '%s' aus Cloud-Datenbank wiederhergestellt.", fname)
+                except OSError as exc:
+                    logger.warning("Konnte DB-Konfiguration '%s' nicht auf Disk spiegeln: %s", fname, exc)
+                    statuses[fname] = "write_failed"
+                continue
+
+            # 3. DB war bereits bestätigt mit Git synchron (synced_to_git=True), Disk weicht ab:
+            #    Prüfen, ob ein echter neuerer Git-Commit vorliegt oder ein veralteter Checkout.
+            git_commit_ts = _get_git_file_commit_ts(rel_path)
+            is_newer_git_commit = False
+            if disk_hash:
+                if git_commit_ts is not None:
+                    is_newer_git_commit = git_commit_ts > snap.updated_at
+                else:
+                    # Ohne Git-Metadaten (z. B. Container ohne .git / Tests): alter Basis-Hash darf DB nicht überschreiben
+                    is_newer_git_commit = disk_hash != snap.base_sha256
+
+            if is_newer_git_commit:
                 try:
                     parsed_disk = yaml.safe_load(disk_text)
                 except yaml.YAMLError:
@@ -288,18 +360,20 @@ def sync_configs_from_storage(
                     git_snap = ConfigSnapshot(
                         yaml_text=disk_text,
                         sha256=disk_hash,
-                        base_sha256=disk_hash,
-                        updated_at=time.time(),
+                        base_sha256=snap.sha256,
+                        updated_at=max(time.time(), git_commit_ts or 0.0),
+                        synced_to_git=True,
+                        git_sha256=disk_hash,
                     )
                     db_updates[meta_key] = git_snap.to_json()
                     statuses[fname] = "updated_db_from_disk"
                     continue
 
-            # Datenbank enthält maßgebliche, noch nicht in Git angekommene Benutzeränderungen -> DB gewinnt!
+            # Veralteter lokaler Stand -> DB-Stand wiederherstellen
             try:
                 _atomic_write_text(abs_path, snap.yaml_text)
                 statuses[fname] = "restored_from_db"
-                logger.info("Konfiguration '%s' aus Cloud-Datenbank wiederhergestellt.", fname)
+                logger.info("Veraltete lokale Datei '%s' aus Cloud-Datenbank aktualisiert.", fname)
             except OSError as exc:
                 logger.warning("Konnte DB-Konfiguration '%s' nicht auf Disk spiegeln: %s", fname, exc)
                 statuses[fname] = "write_failed"
@@ -318,25 +392,40 @@ def sync_configs_from_storage(
 def _persist_configs_to_storage(
     file_entries: dict[str, tuple[str, str]],
     storage: Any | None = None,
-) -> tuple[bool, str | None]:
+) -> dict[str, Any]:
     """
-    Persistiert ein oder mehrere kanonische YAML-Dateien atomar in der Cloud-Datenbank (`metadata`).
+    Persistiert ein oder mehrere kanonische YAML-Dateien atomar in der Datenbank (`metadata`)
+    inklusive Read-Back-Verifikation und expliziter Unterscheidung Turso Cloud-DB vs. lokales SQLite.
     `file_entries` mappt Dateiname (z. B. 'sources.yaml') -> (pre_write_disk_hash, new_yaml_text).
     """
     global _LAST_CONFIG_SYNC_TS, _LAST_CONFIG_STORAGE_ID
 
     if not file_entries:
-        return True, None
+        return {
+            "db_saved": True,
+            "db_verified": True,
+            "is_cloud_db": False,
+            "storage_backend": "none",
+            "db_error": None,
+        }
 
     with _CONFIG_SYNC_LOCK:
         if storage is None:
             try:
                 from src.storage import get_storage
-                storage = get_storage()
+                # Bei explizitem Speichern ggf. temporären SQLite-Fallback sofort wieder zu Turso verbinden
+                storage = get_storage(force_reconnect=True)
             except Exception as exc:
                 logger.error("Persistierung in Datenbank fehlgeschlagen (Storage-Init): %s", exc)
-                return False, str(exc)
+                return {
+                    "db_saved": False,
+                    "db_verified": False,
+                    "is_cloud_db": False,
+                    "storage_backend": "none",
+                    "db_error": str(exc),
+                }
 
+        backend_name, is_cloud = _detect_storage_backend(storage)
         meta_keys = [f"{CONFIG_META_KEY_PREFIX}{fname}" for fname in file_entries]
         try:
             existing_raw = storage.get_metadata_many(meta_keys)
@@ -345,41 +434,88 @@ def _persist_configs_to_storage(
             existing_raw = {}
 
         now_ts = time.time()
+        expected_hashes: dict[str, str] = {}
         to_write: dict[str, str] = {}
         for fname, (pre_disk_hash, new_yaml) in file_entries.items():
             meta_key = f"{CONFIG_META_KEY_PREFIX}{fname}"
             new_hash = _sha256_text(new_yaml)
+            expected_hashes[meta_key] = new_hash
             existing_snap = ConfigSnapshot.from_json(existing_raw.get(meta_key, ""))
 
-            # Falls die lokale Datei bereits eine ungesyncte DB-Änderung enthielt, ursprüngliche Git-Basis behalten
-            if existing_snap is not None and pre_disk_hash and existing_snap.sha256 == pre_disk_hash:
-                base_hash = existing_snap.base_sha256
+            # Ursprüngliche Git-Basis bei aufeinanderfolgenden ungesyncten UI-Änderungen bewahren
+            if existing_snap is not None and not existing_snap.synced_to_git:
+                base_hash = existing_snap.base_sha256 or pre_disk_hash
+                git_hash = existing_snap.git_sha256 or base_hash
+            elif existing_snap is not None and pre_disk_hash and existing_snap.sha256 == pre_disk_hash:
+                base_hash = existing_snap.base_sha256 or pre_disk_hash
+                git_hash = existing_snap.git_sha256 or pre_disk_hash
             else:
                 base_hash = pre_disk_hash
+                git_hash = pre_disk_hash
 
             snap = ConfigSnapshot(
                 yaml_text=new_yaml,
                 sha256=new_hash,
                 base_sha256=base_hash,
                 updated_at=now_ts,
+                synced_to_git=False,
+                git_sha256=git_hash,
             )
             to_write[meta_key] = snap.to_json()
 
         try:
             storage.set_metadata_many(to_write)
+            # Read-Back-Verifikation: Sicherstellen, dass jeder geschriebene Hash auch wirklich lesbar in der DB liegt
+            verified_raw = storage.get_metadata_many(meta_keys)
+            db_verified = True
+            for meta_key, expected_sha in expected_hashes.items():
+                read_snap = ConfigSnapshot.from_json(verified_raw.get(meta_key, ""))
+                if read_snap is None or read_snap.sha256 != expected_sha or read_snap.synced_to_git:
+                    db_verified = False
+                    break
+
             _LAST_CONFIG_SYNC_TS = time.monotonic()
             _LAST_CONFIG_STORAGE_ID = id(storage)
-            return True, None
+            if not db_verified:
+                err_msg = "Datenbank-Verifikation (Read-Back) fehlgeschlagen."
+                logger.error("%s (Backend: %s)", err_msg, backend_name)
+                return {
+                    "db_saved": False,
+                    "db_verified": False,
+                    "is_cloud_db": is_cloud,
+                    "storage_backend": backend_name,
+                    "db_error": err_msg,
+                }
+            return {
+                "db_saved": True,
+                "db_verified": True,
+                "is_cloud_db": is_cloud,
+                "storage_backend": backend_name,
+                "db_error": None,
+            }
         except Exception as exc:  # noqa: BLE001 - Klare Fehlerrückgabe an Aufrufer
-            logger.error("Fehler beim Speichern der Konfiguration in Datenbank: %s", exc)
-            return False, str(exc)
+            logger.error("Fehler beim Speichern der Konfiguration in Datenbank (%s): %s", backend_name, exc)
+            return {
+                "db_saved": False,
+                "db_verified": False,
+                "is_cloud_db": is_cloud,
+                "storage_backend": backend_name,
+                "db_error": str(exc),
+            }
 
 
-def _mark_configs_synced_to_git(
-    config_files: list[tuple[str, Path]],
+def mark_canonical_configs_synced_to_git(
+    config_files: list[tuple[str, Path]] | None = None,
     storage: Any | None = None,
-) -> None:
-    """Markiert erfolgreich zu GitHub gepushte Konfigurationsdateien in der DB als synchron (`base_sha256 == sha256`)."""
+) -> dict[str, str]:
+    """
+    Markiert erfolgreich zu GitHub gepushte Konfigurationsdateien in der Cloud-DB via Compare-And-Swap
+    als synchron (`synced_to_git=True`).
+
+    WICHTIG (Race-Condition-Schutz): Falls während eines laufenden Workflows in der Zwischenzeit
+    neuere UI-Änderungen in der Cloud-DB gespeichert wurden (`existing.sha256 != disk_hash`),
+    werden diese NICHT überschrieben, sondern bleiben mit `synced_to_git=False` erhalten!
+    """
     with _CONFIG_SYNC_LOCK:
         if storage is None:
             try:
@@ -387,30 +523,88 @@ def _mark_configs_synced_to_git(
                 storage = get_storage()
             except Exception as exc:
                 logger.debug("Git-Sync-Markierung in DB übersprungen: %s", exc)
-                return
+                return {}
 
-        updates: dict[str, str] = {}
-        now_ts = time.time()
-        for rel_p, abs_p in config_files:
+        root_dir = _get_project_root()
+        target_files = (
+            config_files
+            if config_files is not None
+            else [(rel_path, (root_dir / rel_path).resolve()) for _, rel_path in CANONICAL_CONFIG_FILES]
+        )
+
+        canonical_items: list[tuple[str, str, str]] = []
+        for rel_p, abs_p in target_files:
             fname = Path(rel_p).name
             if not _is_canonical_config_path(abs_p, rel_p):
                 continue
             content, content_hash = _read_disk_yaml_and_hash(abs_p)
-            if not content_hash:
+            if content_hash:
+                canonical_items.append((fname, content, content_hash))
+
+        if not canonical_items:
+            return {}
+
+        meta_keys = [f"{CONFIG_META_KEY_PREFIX}{fname}" for fname, _, _ in canonical_items]
+        try:
+            existing_raw = storage.get_metadata_many(meta_keys)
+        except Exception as exc:  # noqa: BLE001 - Ohne CAS-Read keine potenziell destruktive Überschreibung
+            logger.warning("Konnte DB-Stand für CAS-Git-Sync-Markierung nicht lesen: %s", exc)
+            return {}
+
+        updates: dict[str, str] = {}
+        statuses: dict[str, str] = {}
+        now_ts = time.time()
+
+        for fname, content, content_hash in canonical_items:
+            meta_key = f"{CONFIG_META_KEY_PREFIX}{fname}"
+            existing = ConfigSnapshot.from_json(existing_raw.get(meta_key, ""))
+
+            if existing is not None and existing.sha256 != content_hash:
+                # Neuere UI-Änderung liegt bereits in DB -> NICHT überschreiben, nur git_sha256 nachziehen
+                preserved = ConfigSnapshot(
+                    yaml_text=existing.yaml_text,
+                    sha256=existing.sha256,
+                    base_sha256=existing.base_sha256 or content_hash,
+                    updated_at=existing.updated_at or now_ts,
+                    synced_to_git=False,
+                    git_sha256=content_hash,
+                )
+                updates[meta_key] = preserved.to_json()
+                statuses[fname] = "newer_db_preserved"
                 continue
-            snap = ConfigSnapshot(
+
+            prev_base = (
+                existing.base_sha256
+                if existing and existing.base_sha256 and existing.base_sha256 != content_hash
+                else content_hash
+            )
+            synced_snap = ConfigSnapshot(
                 yaml_text=content,
                 sha256=content_hash,
-                base_sha256=content_hash,
-                updated_at=now_ts,
+                base_sha256=prev_base,
+                updated_at=max(now_ts, existing.updated_at if existing else 0.0),
+                synced_to_git=True,
+                git_sha256=content_hash,
             )
-            updates[f"{CONFIG_META_KEY_PREFIX}{fname}"] = snap.to_json()
+            updates[meta_key] = synced_snap.to_json()
+            statuses[fname] = "marked_synced"
 
         if updates:
             try:
                 storage.set_metadata_many(updates)
             except Exception as exc:  # noqa: BLE001 - Nicht-kritisch nach erfolgreichem GitHub-Push
-                logger.debug("Konnte Git-Sync-Status in DB nicht aktualisieren: %s", exc)
+                logger.warning("Konnte Git-Sync-Status in DB nicht aktualisieren: %s", exc)
+                return {fname: "update_failed" for fname, _, _ in canonical_items}
+
+        return statuses
+
+
+def _mark_configs_synced_to_git(
+    config_files: list[tuple[str, Path]],
+    storage: Any | None = None,
+) -> None:
+    """Abwärtskompatibler Wrapper für `mark_canonical_configs_synced_to_git`."""
+    mark_canonical_configs_synced_to_git(config_files=config_files, storage=storage)
 
 
 def get_streamlit_app_url(config_path: str = "config/settings.yaml") -> str:
@@ -449,6 +643,28 @@ def get_prompts_path(config_path: str = "config/prompts.yaml") -> Path:
     return path
 
 
+def _sanitize_github_token(raw_token: str | None) -> str:
+    """Bereinigt einen GitHub-Token von Whitespace, Anführungszeichen und doppelten Auth-Präfixen."""
+    cleaned = (raw_token or "").strip()
+    if len(cleaned) >= 2 and cleaned[0] == cleaned[-1] and cleaned[0] in ("'", '"'):
+        cleaned = cleaned[1:-1].strip()
+    lower = cleaned.lower()
+    if lower.startswith("bearer "):
+        cleaned = cleaned[7:].strip()
+    elif lower.startswith("token "):
+        cleaned = cleaned[6:].strip()
+    return cleaned
+
+
+def _format_github_http_error(status_code: int, context: str) -> str:
+    """Erzeugt eine präzise, hilfreiche Fehlermeldung ohne sensible Token-Daten."""
+    if status_code == 401:
+        return "GitHub-Token ungültig oder abgelaufen (HTTP 401) – bitte GITHUB_TOKEN in Streamlit Secrets erneuern."
+    if status_code == 403:
+        return "GitHub-Token ohne Schreibrechte (HTTP 403) – bitte Contents: Read & Write prüfen."
+    return f"{context} (HTTP {status_code})"
+
+
 def get_github_sync_config() -> dict[str, str]:
     """Liest GitHub Sync Konfiguration aus Umgebungsvariablen oder Streamlit Secrets."""
     token = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
@@ -474,7 +690,7 @@ def get_github_sync_config() -> dict[str, str]:
             logger.debug("Streamlit Secrets für GitHub-Sync nicht lesbar: %s", type(exc).__name__)
 
     return {
-        "token": (token or "").strip(),
+        "token": _sanitize_github_token(token),
         "repo": (repo or "hschenke/news-bot").strip(),
         "branch": (branch or "main").strip(),
     }
@@ -541,10 +757,11 @@ def _push_via_git_data_api(
     headers: dict[str, str],
     tree_elements: list[dict[str, Any]],
     commit_message: str,
-) -> tuple[dict[str, Any] | None, str | None]:
+) -> tuple[dict[str, Any] | None, str | None, int | None]:
     """Führt einen atomaren Multi-File-Commit über die GitHub Git Data API inkl. 422-Retry aus."""
     active_repo = repo
     last_error: str | None = None
+    last_status: int | None = None
 
     for attempt in range(2):
         ref_res = requests.get(
@@ -552,6 +769,9 @@ def _push_via_git_data_api(
             headers=headers,
             timeout=8,
         )
+        if ref_res.status_code in (401, 403):
+            return None, _format_github_http_error(ref_res.status_code, "Git Ref Abruf"), ref_res.status_code
+
         # Bei Weiterleitung (umbenanntes Repo) kanonischen Namen auflösen, da POST/PATCH 301 nicht sicher folgen
         if getattr(ref_res, "history", None) or ref_res.status_code in (301, 302, 307, 308, 404):
             resolved_repo = _resolve_canonical_github_repo(active_repo, headers)
@@ -564,12 +784,13 @@ def _push_via_git_data_api(
                 )
 
         if ref_res.status_code != 200:
-            last_error = f"Git Ref Abruf HTTP {ref_res.status_code}"
-            return None, last_error
+            last_status = ref_res.status_code
+            last_error = _format_github_http_error(ref_res.status_code, "Git Ref Abruf")
+            return None, last_error, last_status
 
         latest_commit_sha = ref_res.json().get("object", {}).get("sha")
         if not latest_commit_sha:
-            return None, "Git Ref lieferte keine Commit-SHA"
+            return None, "Git Ref lieferte keine Commit-SHA", 200
 
         commit_info_res = requests.get(
             f"https://api.github.com/repos/{active_repo}/git/commits/{latest_commit_sha}",
@@ -577,8 +798,9 @@ def _push_via_git_data_api(
             timeout=8,
         )
         if commit_info_res.status_code != 200:
-            last_error = f"Git Commit-Info HTTP {commit_info_res.status_code}"
-            return None, last_error
+            last_status = commit_info_res.status_code
+            last_error = _format_github_http_error(commit_info_res.status_code, "Git Commit-Info")
+            return None, last_error, last_status
 
         base_tree_sha = commit_info_res.json().get("tree", {}).get("sha")
         tree_res = requests.post(
@@ -588,8 +810,9 @@ def _push_via_git_data_api(
             timeout=12,
         )
         if tree_res.status_code not in (200, 201):
-            last_error = f"Git Tree Erstellung HTTP {tree_res.status_code}"
-            return None, last_error
+            last_status = tree_res.status_code
+            last_error = _format_github_http_error(tree_res.status_code, "Git Tree Erstellung")
+            return None, last_error, last_status
 
         new_tree_sha = tree_res.json().get("sha")
         new_commit_res = requests.post(
@@ -603,8 +826,9 @@ def _push_via_git_data_api(
             timeout=10,
         )
         if new_commit_res.status_code not in (200, 201):
-            last_error = f"Git Commit Erstellung HTTP {new_commit_res.status_code}"
-            return None, last_error
+            last_status = new_commit_res.status_code
+            last_error = _format_github_http_error(new_commit_res.status_code, "Git Commit Erstellung")
+            return None, last_error, last_status
 
         new_commit_sha = new_commit_res.json().get("sha")
         update_ref_res = requests.patch(
@@ -620,15 +844,17 @@ def _push_via_git_data_api(
                 "method": "git_data_api_multi_file",
                 "files_count": len(tree_elements),
                 "repo": active_repo,
-            }, None
+                "status_code": 200,
+            }, None, 200
 
-        last_error = f"Git Ref Update HTTP {update_ref_res.status_code}"
+        last_status = update_ref_res.status_code
+        last_error = _format_github_http_error(update_ref_res.status_code, "Git Ref Update")
         if update_ref_res.status_code == 422 and attempt == 0:
             logger.info("GitHub Ref-Konflikt (HTTP 422) – wiederhole atomaren Commit gegen neuen HEAD.")
             continue
-        return None, last_error
+        return None, last_error, last_status
 
-    return None, last_error
+    return None, last_error, last_status
 
 
 def _push_via_contents_api(
@@ -637,10 +863,11 @@ def _push_via_contents_api(
     headers: dict[str, str],
     config_files: list[tuple[str, Path]],
     commit_message: str,
-) -> tuple[dict[str, Any] | None, str | None]:
+) -> tuple[dict[str, Any] | None, str | None, int | None]:
     """Fallback-Push einzelner Konfigurationsdateien über die GitHub Contents API."""
     active_repo = _resolve_canonical_github_repo(repo, headers)
     last_sha: str | None = None
+    last_status: int | None = None
     errors: list[str] = []
 
     for rel_p, abs_p in config_files:
@@ -651,6 +878,8 @@ def _push_via_contents_api(
             headers=headers,
             timeout=8,
         )
+        if get_res.status_code in (401, 403):
+            return None, _format_github_http_error(get_res.status_code, f"{rel_p}"), get_res.status_code
         current_sha = get_res.json().get("sha") if get_res.status_code == 200 else None
         content_b64 = base64.b64encode(abs_p.read_bytes()).decode("utf-8")
         payload: dict[str, Any] = {
@@ -667,6 +896,9 @@ def _push_via_contents_api(
             json=payload,
             timeout=10,
         )
+        last_status = put_res.status_code
+        if put_res.status_code in (401, 403):
+            return None, _format_github_http_error(put_res.status_code, f"{rel_p}"), put_res.status_code
         if put_res.status_code in (200, 201):
             commit_sha = put_res.json().get("commit", {}).get("sha")
             if commit_sha:
@@ -677,9 +909,15 @@ def _push_via_contents_api(
             errors.append(f"{rel_p}: HTTP {put_res.status_code}")
 
     if last_sha and not errors:
-        return {"success": True, "commit_sha": last_sha, "method": "contents_api", "repo": active_repo}, None
+        return {
+            "success": True,
+            "commit_sha": last_sha,
+            "method": "contents_api",
+            "repo": active_repo,
+            "status_code": last_status or 200,
+        }, None, last_status or 200
     err_detail = "; ".join(errors) if errors else "Fehler beim Aktualisieren der Konfigurationsdateien via Contents API"
-    return None, err_detail
+    return None, err_detail, last_status
 
 
 def sync_sources_to_github(
@@ -691,12 +929,12 @@ def sync_sources_to_github(
     """
     Pusht die aktuellen Konfigurationsdateien (sources.yaml, settings.yaml, prompts.yaml)
     und optional generierte static/rss/*.xml Feeds direkt per GitHub Git Data API
-    in einem einzigen atomaren Commit (inkl. Redirect-Auflösung & 422-Konflikt-Retry).
+    in einem einzigen atomaren Commit (inkl. Redirect-Auflösung, 422-Konflikt-Retry und 401/403 Short-Circuit).
     """
     gh_cfg = get_github_sync_config()
     token = gh_cfg["token"]
     if not token or token.startswith("your_"):
-        return {"success": False, "error": "Kein GITHUB_TOKEN hinterlegt."}
+        return {"success": False, "error": "Kein GITHUB_TOKEN hinterlegt.", "status_code": None}
 
     repo = gh_cfg["repo"]
     branch = gh_cfg["branch"]
@@ -720,9 +958,10 @@ def sync_sources_to_github(
 
         # 1. Versuch: Atomarer Commit via Git Data API (sowohl für Config-only als auch mit RSS)
         git_api_err: str | None = None
+        git_status: int | None = None
         if tree_elements:
             try:
-                api_res, git_api_err = _push_via_git_data_api(
+                api_res, git_api_err, git_status = _push_via_git_data_api(
                     repo=repo,
                     branch=branch,
                     headers=headers,
@@ -734,6 +973,20 @@ def sync_sources_to_github(
                     if include_rss_feeds:
                         api_res["jsdelivr_purge"] = purge_jsdelivr_cache()
                     return api_res
+                # Bei Authentifizierungs-/Berechtigungsfehler sofort abbrechen statt 6 Contents-API-Calls zu erzeugen
+                if git_status in (401, 403):
+                    logger.warning(
+                        "GitHub-Sync Auth-Fehler (%s@%s, HTTP %s): %s",
+                        repo,
+                        branch,
+                        git_status,
+                        git_api_err,
+                    )
+                    return {
+                        "success": False,
+                        "error": git_api_err or _format_github_http_error(git_status, "GitHub-Sync"),
+                        "status_code": git_status,
+                    }
             except requests.RequestException as e_tree:
                 git_api_err = str(e_tree)
                 logger.warning(
@@ -742,7 +995,7 @@ def sync_sources_to_github(
                 )
 
         # 2. Fallback: Konfigurationsdateien via Contents API aktualisieren
-        contents_res, contents_err = _push_via_contents_api(
+        contents_res, contents_err, contents_status = _push_via_contents_api(
             repo=repo,
             branch=branch,
             headers=headers,
@@ -756,12 +1009,13 @@ def sync_sources_to_github(
             return contents_res
 
         combined_error = contents_err or git_api_err or "GitHub-Synchronisation fehlgeschlagen."
+        final_status = contents_status if contents_status is not None else git_status
         logger.warning("GitHub-Sync fehlgeschlagen (%s@%s): %s", repo, branch, combined_error)
-        return {"success": False, "error": combined_error}
+        return {"success": False, "error": combined_error, "status_code": final_status}
 
     except Exception as exc:  # noqa: BLE001 - Klare Fehlerstruktur ohne Token-Leak
         logger.warning("GitHub-Sync unerwartet fehlgeschlagen (%s@%s): %s", repo, branch, exc)
-        return {"success": False, "error": str(exc)}
+        return {"success": False, "error": str(exc), "status_code": None}
 
 
 def trigger_rss_update_workflow() -> dict[str, Any]:
@@ -769,7 +1023,7 @@ def trigger_rss_update_workflow() -> dict[str, Any]:
     gh_cfg = get_github_sync_config()
     token = gh_cfg["token"]
     if not token or token.startswith("your_"):
-        return {"success": False, "error": "Kein GITHUB_TOKEN hinterlegt."}
+        return {"success": False, "error": "Kein GITHUB_TOKEN hinterlegt.", "status_code": None}
 
     repo = gh_cfg["repo"]
     branch = gh_cfg["branch"]
@@ -787,9 +1041,15 @@ def trigger_rss_update_workflow() -> dict[str, Any]:
             json={"ref": branch},
             timeout=10,
         )
-        if wf_res.status_code in [200, 204]:
-            return {"success": True, "method": "workflow_dispatch"}
-    except Exception as e_wf:
+        if wf_res.status_code in (200, 204):
+            return {"success": True, "method": "workflow_dispatch", "status_code": wf_res.status_code}
+        if wf_res.status_code in (401, 403):
+            return {
+                "success": False,
+                "error": _format_github_http_error(wf_res.status_code, "Workflow-Trigger"),
+                "status_code": wf_res.status_code,
+            }
+    except requests.RequestException as e_wf:
         logger.debug("workflow_dispatch fehlgeschlagen, versuche repository_dispatch: %s", e_wf)
 
     # 2. Fallback: repository_dispatch
@@ -804,11 +1064,15 @@ def trigger_rss_update_workflow() -> dict[str, Any]:
             json=payload,
             timeout=10,
         )
-        if res.status_code in [200, 204]:
-            return {"success": True, "method": "repository_dispatch"}
-        return {"success": False, "error": f"Status {res.status_code}: {res.text}"}
-    except Exception as e:
-        return {"success": False, "error": str(e)}
+        if res.status_code in (200, 204):
+            return {"success": True, "method": "repository_dispatch", "status_code": res.status_code}
+        return {
+            "success": False,
+            "error": _format_github_http_error(res.status_code, "Repository-Dispatch"),
+            "status_code": res.status_code,
+        }
+    except requests.RequestException as exc:
+        return {"success": False, "error": str(exc), "status_code": None}
 
 
 def purge_jsdelivr_cache(
@@ -926,6 +1190,28 @@ def load_prompts(config_path: str = "config/prompts.yaml") -> dict[str, Any]:
     return data if isinstance(data, dict) else {}
 
 
+def _default_db_meta() -> dict[str, Any]:
+    """Liefert ein leeres, sicheres Standard-Ergebnis für Datenbank-Persistierung."""
+    return {
+        "db_saved": False,
+        "db_verified": False,
+        "is_cloud_db": False,
+        "storage_backend": "none",
+        "db_error": None,
+    }
+
+
+def _attach_db_meta(gh_res: dict[str, Any], db_meta: dict[str, Any]) -> dict[str, Any]:
+    """Ergänzt das Rückgabe-Dictionary einer Speicherfunktion einheitlich um DB-Verifikationsdaten."""
+    gh_res["db_saved"] = bool(db_meta.get("db_saved", False))
+    gh_res["db_verified"] = bool(db_meta.get("db_verified", False))
+    gh_res["is_cloud_db"] = bool(db_meta.get("is_cloud_db", False))
+    gh_res["storage_backend"] = str(db_meta.get("storage_backend") or "none")
+    if db_meta.get("db_error"):
+        gh_res["db_error"] = db_meta["db_error"]
+    return gh_res
+
+
 def save_prompts(
     prompts: dict[str, Any],
     config_path: str = "config/prompts.yaml",
@@ -940,22 +1226,18 @@ def save_prompts(
     yaml_str = yaml.dump(prompts, allow_unicode=True, sort_keys=False, default_flow_style=False)
     _atomic_write_text(path, yaml_str)
 
-    db_saved = False
-    db_error: str | None = None
+    db_meta = _default_db_meta()
     if persist_db and is_app_config:
-        db_saved, db_error = _persist_configs_to_storage({"prompts.yaml": (pre_disk_hash, yaml_str)})
+        db_meta = _persist_configs_to_storage({"prompts.yaml": (pre_disk_hash, yaml_str)})
 
-    gh_res: dict[str, Any] = {"success": False, "error": "Kein Token"}
+    gh_res: dict[str, Any] = {"success": False, "error": "Nicht angefordert", "status_code": None}
     if sync_github:
         gh_res = sync_sources_to_github(
             config_dict=None,
             commit_message="chore(prompt): update custom AI prompts via dashboard",
             include_rss_feeds=False,
         )
-    gh_res["db_saved"] = db_saved
-    if db_error:
-        gh_res["db_error"] = db_error
-    return gh_res
+    return _attach_db_meta(gh_res, db_meta)
 
 
 def load_settings(config_path: str = "config/settings.yaml") -> dict[str, Any]:
@@ -997,10 +1279,9 @@ def save_settings(
     yaml_str = yaml.dump(clean_settings, allow_unicode=True, sort_keys=False, default_flow_style=False)
     _atomic_write_text(path, yaml_str)
 
-    db_saved = False
-    db_error: str | None = None
+    db_meta = _default_db_meta()
     if persist_db and is_app_config:
-        db_saved, db_error = _persist_configs_to_storage({"settings.yaml": (pre_disk_hash, yaml_str)})
+        db_meta = _persist_configs_to_storage({"settings.yaml": (pre_disk_hash, yaml_str)})
 
     # Automatisches Backup nur für die tatsächliche Anwendungs-Konfiguration, nicht für temporäre Testdateien
     if create_backup and is_app_config:
@@ -1017,13 +1298,10 @@ def save_settings(
         except Exception as exc:
             logger.debug("Automatisches Settings-Backup konnte nicht erstellt werden: %s", exc)
 
-    gh_res: dict[str, Any] = {"success": False, "error": "Kein Token"}
+    gh_res: dict[str, Any] = {"success": False, "error": "Nicht angefordert", "status_code": None}
     if sync_github:
         gh_res = sync_sources_to_github(config_dict=None, include_rss_feeds=False)
-    gh_res["db_saved"] = db_saved
-    if db_error:
-        gh_res["db_error"] = db_error
-    return gh_res
+    return _attach_db_meta(gh_res, db_meta)
 
 
 def load_sources_raw(config_path: str = "config/sources.yaml") -> dict[str, Any]:
@@ -1149,12 +1427,11 @@ def save_sources(
                 )
                 db_entries["prompts.yaml"] = (pre_prompts_hash, prompts_yaml)
 
-    db_saved = False
-    db_error: str | None = None
+    db_meta = _default_db_meta()
     if persist_db and db_entries:
-        db_saved, db_error = _persist_configs_to_storage(db_entries)
+        db_meta = _persist_configs_to_storage(db_entries)
 
-    gh_res: dict[str, Any] = {"success": False, "error": "Nicht angefordert"}
+    gh_res: dict[str, Any] = {"success": False, "error": "Nicht angefordert", "status_code": None}
     if sync_github:
         gh_res = sync_sources_to_github(
             config_dict=None,
@@ -1162,10 +1439,7 @@ def save_sources(
             include_rss_feeds=include_rss_feeds,
         )
 
-    gh_res["db_saved"] = db_saved
-    if db_error:
-        gh_res["db_error"] = db_error
-    return gh_res
+    return _attach_db_meta(gh_res, db_meta)
 
 
 def save_and_sync_sources(
@@ -1195,8 +1469,12 @@ def save_and_sync_sources(
         local_saved=True,
         db_saved=bool(save_res.get("db_saved", False)),
         github_synced=bool(gh_res.get("success", False)),
+        is_cloud_db=bool(save_res.get("is_cloud_db", False)),
+        db_verified=bool(save_res.get("db_verified", False)),
+        storage_backend=str(save_res.get("storage_backend") or "sqlite"),
         db_error=save_res.get("db_error"),
         github_error=None if gh_res.get("success") else str(gh_res.get("error") or "Unbekannter Fehler"),
+        github_status_code=gh_res.get("status_code"),
         commit_sha=gh_res.get("commit_sha"),
     )
 
