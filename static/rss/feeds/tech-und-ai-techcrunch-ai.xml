@@ -5,9 +5,45 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:01:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
+      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192614</guid>
+      <pubDate>Wed, 25 Nov 2026 22:44:32 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.]]></description>
+    </item>
+    <item>
+      <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+      <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192524</guid>
+      <pubDate>Wed, 25 Nov 2026 20:03:27 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.]]></description>
+    </item>
+    <item>
+      <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
+      <link>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192475</guid>
+      <pubDate>Wed, 25 Nov 2026 19:54:57 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.]]></description>
+    </item>
+    <item>
+      <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
+      <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192506</guid>
+      <pubDate>Wed, 25 Nov 2026 19:44:24 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.]]></description>
+    </item>
     <item>
       <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
       <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
@@ -52,60 +88,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
       <description><![CDATA[The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.]]></description>
-    </item>
-    <item>
-      <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</title>
-      <link>https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191990</guid>
-      <pubDate>Wed, 25 Nov 2026 00:12:02 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang still thinks a succession plan creates unnecessary hierarchy</title>
-      <link>https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192058</guid>
-      <pubDate>Tue, 24 Nov 2026 22:27:52 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.]]></description>
-    </item>
-    <item>
-      <title>In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy</title>
-      <link>https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192009</guid>
-      <pubDate>Tue, 24 Nov 2026 21:48:27 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.]]></description>
-    </item>
-    <item>
-      <title>Even the best AI agents struggle with everyday life</title>
-      <link>https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192038</guid>
-      <pubDate>Tue, 24 Nov 2026 21:33:29 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.]]></description>
-    </item>
-    <item>
-      <title>Walmart teams up with Meta to bring Black Friday deals to AI agent Muse</title>
-      <link>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192047</guid>
-      <pubDate>Tue, 24 Nov 2026 21:32:38 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.]]></description>
-    </item>
-    <item>
-      <title>Maple raises $5.3M to build AI products that protect your data, even from itself</title>
-      <link>https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191989</guid>
-      <pubDate>Tue, 24 Nov 2026 21:19:52 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.]]></description>
     </item>
   </channel>
 </rss>

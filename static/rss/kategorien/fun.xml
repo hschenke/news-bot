@@ -5,17 +5,17 @@
     <link>https://holli-news-bot.streamlit.app/?category=Fun</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Fun' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:01:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/fun.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sie ruft ihren Freund auf der Arbeit an:</title>
-      <link>https://www.hahaha.de/witze/menschen/frauen/470/sie-ruft-ihren-freund-auf-der-arbeit-an.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/frauen/470/sie-ruft-ihren-freund-auf-der-arbeit-an.html</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Ein Trabbi bleibt auf der Autobahn stehen.</title>
+      <link>https://www.hahaha.de/witze/auto/trabbi/13179/ein-trabbi-bleibt-auf-der-autobahn-stehen.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/auto/trabbi/13179/ein-trabbi-bleibt-auf-der-autobahn-stehen.html</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
       <category>Fun</category>
       <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[Sie ruft ihren Freund auf der Arbeit an: "Schatz, ich habe hier ein Puzzle, aber ich kann's einfach nicht - irgendwie gleicht jedes Teil dem andern wie ein Ei!" Darauf der Freund: "Hast du denn eine Vorlage? Wie sieht das Puzzle aus?" Sie: "Naja, auf der Schachtel ist ein Hahn, der ist ganz rot ... aber ich kann's trotzdem nicht!" Der Freund: "Okay, reg Dich nicht auf, wir werden es heute Abend zusammen versuchen, ja?" Am Abend treffen sie sich, er sieht sich die Schachtel an. - GROSSES SCHWEIGEN. Dann sagt der Freund: "So, Schatz, wir packen jetzt die Cornflakes wieder in die Schachtel zurück und reden nicht mehr darüber."]]></description>
+      <description><![CDATA[Ein Trabbi bleibt auf der Autobahn stehen. Ein freudlicher Porschefahrer hält an und schleppt ihn ab. Als ein Ferrari an den beiden vorbeizieht, denkt sich der Porschefahrer: "Den hol' ich ein!" Der Trabbifahrer bekommt bei 200 km/h Angst, blinkt und hupt heftig. Bei der nächsten Tankstelle sieht der Tankwart das und sagt zu seinem Kunden: "Haben Sie das gesehen? Vorne ein Ferrari mit 240, dahinter ein Porsche mit 240, dann ein Trabbi, der hupt und blinkt und die lassen ihn nicht vorbei!"]]></description>
     </item>
   </channel>
 </rss>

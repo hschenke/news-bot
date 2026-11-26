@@ -5,9 +5,18 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:01:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US-Behörde genehmigt SpaceX eine Million KI-Satelliten im All</title>
+      <link>https://www.all-ai.de/news/news26top/us-spacex-ki-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/us-spacex-ki-start</guid>
+      <pubDate>Wed, 25 Nov 2026 20:45:20 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Die US-Behörde FCC hat Elon Musks Raumfahrtunternehmen SpaceX unter dem Namen »Starmind« bis zu eine Million Satelliten für KI-Rechenzentren im All genehmigt. In 500 bis 1.000 Kilometern Höhe nutzen die Module fast durchgehendes Sonnenlicht für Nvidia-Chips und umgehen überlastete Stromnetze auf der Erde. Große Hürden bleiben die schwierige Wärmeabfuhr im Vakuum sowie der Transport einer Flotte, die fast sechzigmal größer wäre als alle heute aktiven Satelliten zusammen. Für Bahnen oberhalb von 600 Kilometern hält die FCC ihre Zustimmung vorerst zurück, bis SpaceX einen Entsorgungsplan gegen Weltraumschrott vorlegt. FCC: FCC Authorizes 1 Million Satellites for Data Centers in Space Brendan Carr (FCC-Vorsitzender) auf X zur Starmind-Genehmigung Elon Musk auf X zur FCC-Entscheidung Derzeit kreisen weltweit rund 17.000 aktive Satelliten um die Erde. Jetzt hat die US-Kommunikationsbehörde FCC Elon Musks Raumfahrtunternehmen SpaceX erlaubt, unter dem Namen »Starmind« bis zu eine Million Satelliten als fliegende KI-Rechenzentren zu starten. Anzeige Dauerstrom ohne irdische Engpässe Hinter dem Plan steckt ein wachsendes Infrastrukturproblem am Boden. Überlastete Stromnetze, langwierige ...]]></description>
+    </item>
     <item>
       <title>Verschlüsselungen schon knackbar durch OpenAI und Anthropic?</title>
       <link>https://www.all-ai.de/news/news26top/openai-anthropic-verschluesselungen-gefahr</link>
@@ -79,15 +88,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Activision beschreibt in einer US-Patentanmeldung ein KI-Verfahren, das computergesteuerte Figuren (NPCs) mit echten Sprachchats von Spielern trainiert. Zehn-Sekunden-Ausschnitte rund um Spielereignisse wie Treffer oder Niederlagen schulen ein neuronales Netz auf spontanen Jubel, Frust und Trash Talk. Neben dem spieleigenen Chat nennt das Patent auch Discord und TeamSpeak als mögliche Quellen, schweigt aber zur Einholung der Nutzerzustimmung. Ein Sprachfilter soll Beleidigungen aussortieren, zudem können auch Spieler ohne Mikrofon automatisch passende Funksprüche erzeugen lassen. US-Patentanmeldung US 2026/0355629 A1 – Methods and Systems for Applying Machine Learning to Generate Gameplay Audio (Justia Patents) Patentlyze – Activision Patent Trains Game Characters Using Player Voice Chat Eurogamer – Activision patents AI voice system that learns from in-game chat and creates audio for NPCs Computergesteuerte Figuren (NPCs) spulen in Shootern wie »Call of Duty« bislang immer dieselben Studiosprüche ab. Eine neue US-Patentanmeldung von Activision trainiert KI-Modelle direkt mit echten Sprachchats von Spielern. Die NPCs lernen so spontanen Jubel, Frust und typischen Trash Talk. Anz...]]></description>
-    </item>
-    <item>
-      <title>Hacker dringen in CIA und ODNI ein</title>
-      <link>https://www.all-ai.de/news/news26top/hacker-cia-odni-ki</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/hacker-cia-odni-ki</guid>
-      <pubDate>Tue, 24 Nov 2026 23:00:01 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Unbekannte Hacker haben sich Zugriff auf eine gemeinsame OSINT-Analyseplattform der CIA und der Geheimdienstkoordination ODNI verschafft. Streng geheime Server und Verschlusssachen blieben geschützt, allerdings sind auch Daten weiterer US-Bundesbehörden betroffen. Selbst öffentliche Auswertungen gelten als heikel, weil Suchanfragen und zugekaufte Datensätze die Ermittlungsziele der Analysten offenlegen. Der Einbruch reiht sich in jüngste IT-Vorfälle beim FBI, im US-Landwirtschaftsministerium und beim Geheimdienst-Intranet NSANet ein. The New York Times: Spy Agencies Computer Network Breaches CyberScoop: Unclassified intel system hit by hackers, affecting CIA, ODNI Andrew Curran auf X Unbekannte Angreifer sind in eine gemeinsame Analyseplattform des US-Auslandsgeheimdienstes CIA und der Geheimdienstkoordination ODNI eingedrungen. Laut der New York Times legte der Angriff Daten frei, die auch aus weiteren US-Bundesbehörden stammen. Anzeige Warum auch offene Quellen empfindlich sind Die gehackte Analyseplattform dient der sogenannten Open Source Intelligence, kurz OSINT. Geheimdienstler werten darüber frei verfügbare Nachrichten, Social-Media-Beiträge, Satellitenbilder sowie zugeka...]]></description>
     </item>
   </channel>
 </rss>
