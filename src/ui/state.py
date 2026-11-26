@@ -82,8 +82,6 @@ def init_session_state() -> None:
         except Exception as exc:
             logger.debug("Failed to fetch archived URLs: %s", exc)
             st.session_state["archived_urls"] = set()
-    if "has_unsaved_changes" not in st.session_state:
-        st.session_state["has_unsaved_changes"] = False
 
 
 @st.cache_data(ttl=300, show_spinner=False)

@@ -171,45 +171,52 @@ class TestWebappSmoke(unittest.TestCase):
             read_thread.join(timeout=2.0)
             self.assertTrue(mock_storage.archive_article.called)
 
-    def test_discard_changes_button_execution(self):
-        """Verifies that clicking '↩️ Verwerfen' in manage tab executes without NameError or exceptions."""
-        from src.aggregator import load_sources
-        at = self._create_app_test()
-        at.session_state["authenticated"] = True
-        at.session_state["auth_role"] = "admin"
-        at.session_state["active_nav_tab"] = "manage"
-        at.session_state["has_unsaved_changes"] = True
-        at.session_state["working_sources_config"] = load_sources()
-        at.run()
-        self.assertFalse(at.exception)
-        discard_btns = [b for b in at.button if b.key == "top_discard_sources_btn"]
-        self.assertEqual(len(discard_btns), 1)
-        discard_btns[0].click().run()
-        self.assertFalse(at.exception, f"Discard button threw exceptions: {at.exception}")
-        self.assertFalse(at.session_state["has_unsaved_changes"])
-        self.assertIn("manage_notice", at.session_state)
-
-    def test_save_changes_button_execution(self):
-        """Verifies that clicking '💾 Jetzt sichern' in manage tab executes without exceptions."""
+    def test_manage_tab_immediate_save_settings_execution(self):
+        """Verifies that clicking '💾 Einstellungen speichern' saves immediately without exceptions."""
         from unittest.mock import patch
-        from src.aggregator import load_sources
+
         at = self._create_app_test()
         at.session_state["authenticated"] = True
         at.session_state["auth_role"] = "admin"
         at.session_state["active_nav_tab"] = "manage"
-        at.session_state["has_unsaved_changes"] = True
-        at.session_state["working_sources_config"] = load_sources()
-        at.session_state["editing_feed_key"] = "testkey"
         at.run()
         self.assertFalse(at.exception)
-        save_btns = [b for b in at.button if b.key == "top_save_sources_btn"]
-        self.assertEqual(len(save_btns), 1)
-        with patch("src.ui.tabs.manage_tab.save_sources"), patch("src.ui.background.run_in_background"):
-            save_btns[0].click().run()
-        self.assertFalse(at.exception, f"Save button threw exceptions: {at.exception}")
-        self.assertFalse(at.session_state["has_unsaved_changes"])
-        self.assertNotIn("editing_feed_key", at.session_state)
-        self.assertIn("manage_notice", at.session_state)
+        # Keine Entwurfs-Buttons mehr vorhanden
+        self.assertEqual([b for b in at.button if b.key in ("top_save_sources_btn", "top_discard_sources_btn")], [])
+        save_set_btns = [b for b in at.button if b.key == "btn_apply_settings"]
+        self.assertEqual(len(save_set_btns), 1)
+        with patch(
+            "src.ui.tabs.manage_tab.save_sources",
+            return_value={"success": True, "db_saved": True, "db_verified": True, "is_cloud_db": True, "storage_backend": "turso", "error": None},
+        ):
+            save_set_btns[0].click().run()
+        self.assertFalse(at.exception, f"Immediate save threw exceptions: {at.exception}")
+        self.assertEqual(at.session_state.get("_notice_level_manage_notice"), "success")
+        self.assertIn("gespeichert", str(at.session_state.get("manage_notice", "")))
+
+    def test_manage_tab_immediate_save_failure_rolls_back_with_error(self):
+        """Verifies that a failed immediate save displays a red error banner and reloads old values."""
+        from unittest.mock import patch
+
+        at = self._create_app_test()
+        at.session_state["authenticated"] = True
+        at.session_state["auth_role"] = "admin"
+        at.session_state["active_nav_tab"] = "manage"
+        at.run()
+        self.assertFalse(at.exception)
+        orig_retention = next(ni for ni in at.number_input if ni.key == "inp_set_retention_days").value
+        next(ni for ni in at.number_input if ni.key == "inp_set_retention_days").set_value(99)
+        save_set_btn = next(b for b in at.button if b.key == "btn_apply_settings")
+        with patch(
+            "src.ui.tabs.manage_tab.save_sources",
+            return_value={"success": False, "db_saved": False, "db_verified": False, "error": "Turso Timeout"},
+        ):
+            save_set_btn.click().run()
+        self.assertFalse(at.exception)
+        self.assertEqual(at.session_state.get("_notice_level_manage_notice"), "error")
+        self.assertIn("alte Werte wurden wiederhergestellt", str(at.session_state.get("manage_notice", "")))
+        reloaded_retention = next(ni for ni in at.number_input if ni.key == "inp_set_retention_days").value
+        self.assertEqual(reloaded_retention, orig_retention)
 
 
 if __name__ == "__main__":

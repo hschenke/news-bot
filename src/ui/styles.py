@@ -1256,51 +1256,37 @@ def apply_custom_styles() -> None:
             var btn = e.target && e.target.closest ? e.target.closest("button") : null;
             if (!btn) return;
             if (btn.disabled || btn.classList.contains("disabled-nav-btn") || btn.classList.contains("arch-html-btn") || btn.classList.contains("arch-open-tab-btn") || btn.classList.contains("arch-art-dl-btn")) return;
-            var khCheck = btn.closest("[class*='st-key-']");
-            var kcCheck = khCheck ? khCheck.className : "";
-            if (kcCheck.indexOf("top_save_sources_btn") === -1 && kcCheck.indexOf("btn_generate_briefing") === -1 && kcCheck.indexOf("sb_btn_refresh_feeds") === -1 && kcCheck.indexOf("btn_refresh_rss") === -1 && kcCheck.indexOf("btn_push_rss_cdn") === -1 && kcCheck.indexOf("btn_archive_sync_refresh") === -1 && kcCheck.indexOf("btn_archive_cleanup_90d") === -1 && kcCheck.indexOf("arch_toggle_off_") === -1 && kcCheck.indexOf("btn_restore_sb_") === -1 && kcCheck.indexOf("btn_confirm_del_sb_") === -1) return;
-
             var keyHolder = btn.closest("[class*='st-key-']");
             var keyClass = keyHolder ? keyHolder.className : "";
-            var btnText = (btn.innerText || "").trim().toLowerCase();
+            if (!keyClass) return;
 
-            if (keyClass.indexOf("top_save_sources_btn") !== -1 || btnText.indexOf("jetzt sichern") !== -1 || btnText.indexOf("speichern") !== -1) {
-                showActionOverlay("💾 Sichere Feeds & Einstellungen...", "Synchronisiere mit Konfiguration & GitHub...");
-            } else if (keyClass.indexOf("top_discard_sources_btn") !== -1 || btnText.indexOf("verwerfen") !== -1) {
-                showActionOverlay("↩️ Verwerfe Änderungen...", "Setze Entwürfe auf gespeicherten Stand zurück...");
-            } else if (keyClass.indexOf("btn_save_feed_") !== -1 || btnText.indexOf("im entwurf merken") !== -1 || btnText.indexOf("entwurf merken") !== -1) {
-                showActionOverlay("✏️ Merke Feed-Änderungen...", "Übernehme Feed in den Arbeitsentwurf...");
-            } else if (keyClass.indexOf("btn_apply_settings") !== -1 || btnText.indexOf("einstellungen im entwurf übernehmen") !== -1) {
-                showActionOverlay("⚙️ Übernehme Einstellungen...", "Aktualisiere Einstellungen im Arbeitsentwurf...");
-            } else if (keyClass.indexOf("btn_generate_briefing") !== -1 || btnText.indexOf("neues briefing generieren") !== -1) {
-                showActionOverlay("🧠 Generiere KI-Briefing mit Gemini...", "Analysiere Artikel und erstelle Zusammenfassung...");
-            } else if (keyClass.indexOf("sb_btn_refresh_feeds") !== -1 || btnText.indexOf("feeds neu laden") !== -1) {
-                showActionOverlay("🔄 Lese RSS-Feeds ein...", "Lade Feeds live und aktualisiere Datenbank...");
-            } else if (keyClass.indexOf("btn_refresh_rss") !== -1 || btnText.indexOf("feeds neu generieren") !== -1) {
-                showActionOverlay("📡 Generiere RSS-Feeds neu...", "Erstelle XML-Dateien für Feedly & Reader...");
-            } else if (keyClass.indexOf("btn_push_rss_cdn") !== -1 || btnText.indexOf("zu github & cdn pushen") !== -1) {
-                showActionOverlay("🚀 Pushe Feeds zu GitHub & CDN...", "Synchronisiere Feeds mit GitHub Actions & CDN...");
-            } else if (keyClass.indexOf("btn_add_cat") !== -1 || btnText.indexOf("kategorie hinzufügen") !== -1) {
-                showActionOverlay("📁 Füge Kategorie hinzu...", "Kategorie wird im Entwurf angelegt...");
-            } else if (keyClass.indexOf("btn_ren_cat") !== -1 || btnText.indexOf("umbenennen") !== -1) {
-                showActionOverlay("✏️ Benenne Kategorie um...", "Kategorie wird im Entwurf umbenannt...");
-            } else if (keyClass.indexOf("btn_submit_new_feed") !== -1 || btnText.indexOf("feed hinzufügen") !== -1) {
-                showActionOverlay("➕ Füge Feed hinzu...", "Feed wird im Entwurf registriert...");
-            } else if (keyClass.indexOf("btn_save_ki_prompts") !== -1 || btnText.indexOf("prompts in prompts.yaml speichern") !== -1 || btnText.indexOf("prompts in sources.yaml speichern") !== -1) {
-                showActionOverlay("💾 Speichere KI-Prompts...", "Prompts werden in prompts.yaml gesichert...");
-            } else if (keyClass.indexOf("btn_reset_ki_main_prompt") !== -1 || btnText.indexOf("standard-hauptprompt laden") !== -1) {
-                showActionOverlay("↩️ Lade Standard-Prompt...", "Setze Prompt auf Werkseinstellung zurück...");
-            } else if (keyClass.indexOf("btn_archive_sync_refresh") !== -1 || btnText.indexOf("archiv aktualisieren") !== -1) {
-                showActionOverlay("🔄 Aktualisiere Offline-Archiv...", "Synchronisiere Offline-Feeds und lade gespeicherte Artikel...");
-            } else if (keyClass.indexOf("arch_toggle_off_") !== -1) {
-                showActionOverlay("⚙️ Aktualisiere Offline-Feed...", "Synchronisiere Feed-Einstellung und Offline-Archiv...");
+            var overlayActions = [
+                ["btn_add_cat", "📁 Speichere Kategorie...", "Schreibe Änderung direkt in die Datenbank..."],
+                ["btn_ren_cat", "✏️ Benenne Kategorie um...", "Speichere Änderung direkt in der Datenbank..."],
+                ["del_cat_", "🗑️ Lösche Kategorie...", "Entferne Kategorie und speichere in der Datenbank..."],
+                ["btn_submit_new_feed", "➕ Speichere neuen Feed...", "Speichere in der Datenbank & lade Artikel..."],
+                ["btn_save_feed_", "💾 Speichere Feed...", "Aktualisiere Feed direkt in der Datenbank..."],
+                ["del_feed_", "🗑️ Lösche Feed...", "Entferne Feed & bereinige Datenbank..."],
+                ["btn_apply_settings", "⚙️ Speichere Einstellungen...", "Speichere direkt in der Datenbank..."],
+                ["btn_save_ki_prompts", "💾 Speichere KI-Prompts...", "Speichere Prompts direkt in der Datenbank..."],
+                ["btn_reset_ki_main_prompt", "↩️ Setze Hauptprompt zurück...", "Speichere Standard-Prompt in der Datenbank..."],
+                ["btn_save_ai_brain_policy", "🧠 Speichere AI-Brain Optionen...", "Aktualisiere AI-Brain Policy..."],
+                ["btn_generate_briefing", "🧠 Generiere KI-Briefing...", "Analysiere Artikel und erstelle Zusammenfassung..."],
+                ["sb_btn_refresh_feeds", "🔄 Lese RSS-Feeds ein...", "Lade Feeds live und aktualisiere Datenbank..."],
+                ["btn_refresh_rss", "📡 Generiere RSS-Feeds neu...", "Erstelle XML-Dateien für Feedly & Reader..."],
+                ["btn_push_rss_cdn", "🚀 Pushe Feeds zu GitHub & CDN...", "Synchronisiere RSS-Feeds mit GitHub & CDN..."],
+                ["btn_archive_sync_refresh", "🔄 Aktualisiere Offline-Archiv...", "Synchronisiere Offline-Feeds und lade gespeicherte Artikel..."],
+                ["arch_toggle_off_", "⚙️ Speichere Offline-Feed...", "Aktualisiere Feed-Einstellung in der Datenbank..."],
+                ["btn_restore_sb_", "🔄 Stelle Settings-Backup wieder her...", "Speichere Einstellungen direkt in der Datenbank..."],
+                ["btn_confirm_del_sb_", "🗑️ Lösche Settings-Backup...", "Entferne Backup aus der Datenbank..."],
+                ["btn_archive_cleanup_90d", "🧹 Bereinige Offline-Archiv...", "Entferne abgelaufene Artikel älter als 90 Tage..."]
+            ];
 
-            } else if (keyClass.indexOf("btn_restore_sb_") !== -1 || btnText.indexOf("laden") !== -1) {
-                showActionOverlay("🔄 Lade Settings-Backup...", "Stelle Einstellungen aus Backup wieder her...");
-            } else if (keyClass.indexOf("btn_confirm_del_sb_") !== -1 || btnText.indexOf("unwiderruflich löschen") !== -1) {
-                showActionOverlay("🗑️ Lösche Settings-Backup...", "Entferne Backup aus der Datenbank...");
-            } else if (keyClass.indexOf("btn_archive_cleanup_90d") !== -1 || btnText.indexOf("bereinigen") !== -1) {
-                showActionOverlay("🧹 Bereinige Offline-Archiv...", "Entferne abgelaufene Artikel älter als 90 Tage...");
+            for (var i = 0; i < overlayActions.length; i++) {
+                if (keyClass.indexOf(overlayActions[i][0]) !== -1) {
+                    showActionOverlay(overlayActions[i][1], overlayActions[i][2]);
+                    return;
+                }
             }
         }
 

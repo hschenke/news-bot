@@ -74,17 +74,25 @@ def render_feedly_tab(
                 st.session_state["is_pushing_rss"] = True
                 with st.spinner("Pushe RSS-Feeds zu GitHub & jsDelivr CDN..."):
                     push_res = sync_sources_to_github(
-                        config_dict=working_config,
+                        config_dict=None,
                         commit_message="chore(rss): update RSS feeds via web dashboard",
                         include_rss_feeds=True,
                     )
                     st.session_state["is_pushing_rss"] = False
-                    if push_res.get("success"):
-                        set_dismissible_notice("feedly_notice", "Feeds erfolgreich zu GitHub & CDN synchronisiert!", icon="📡")
+                    cdn_ok = bool((push_res.get("jsdelivr_purge") or {}).get("success", True))
+                    if push_res.get("success") and cdn_ok:
+                        set_dismissible_notice("feedly_notice", "Feeds erfolgreich zu GitHub & CDN synchronisiert!", icon="✅", level="success")
+                    elif push_res.get("success") and not cdn_ok:
+                        set_dismissible_notice(
+                            "feedly_notice",
+                            "RSS-Push zu GitHub OK, aber CDN-Cache-Purge fehlgeschlagen – bitte später erneut prüfen.",
+                            icon="❌",
+                            level="error",
+                        )
                     else:
                         trig_res = trigger_rss_update_workflow()
                         if trig_res.get("success"):
-                            set_dismissible_notice("feedly_notice", "GitHub Action 'Update RSS Feeds' wurde angestoßen!", icon="📡", level="success")
+                            set_dismissible_notice("feedly_notice", "GitHub Action 'Update RSS Feeds' wurde angestoßen!", icon="✅", level="success")
                         else:
                             set_dismissible_notice(
                                 "feedly_notice",

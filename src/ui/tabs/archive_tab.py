@@ -26,7 +26,6 @@ import yaml
 
 from src.aggregator import (
     get_offline_enabled_feeds,
-    sync_sources_to_github,
     update_feed,
 )
 from src.models import OfflineArticle
@@ -42,7 +41,6 @@ from src.offline_archiver import (
 )
 from src.sources_manager import PROMPT_KEYS, save_settings
 from src.storage import OFFLINE_RETENTION_DAYS, get_storage
-from src.ui.background import run_in_background
 from src.ui.state import format_local_dt
 from src.ui.styles import render_dismissible_notice, set_dismissible_notice
 
@@ -174,8 +172,41 @@ def on_toggle_feed_offline(
     new_state: bool,
     working_config: dict[str, Any],
 ) -> None:
-    """Toggles offline_download, persists config, and immediately syncs if enabled."""
+    """Toggles offline_download, saves directly & atomically to DB, and rolls back on any error."""
+    import copy
+    from src.aggregator import invalidate_config_cache, load_sources, save_sources
+
     st.session_state["archive_mgmt_expanded"] = True
+    candidate = copy.deepcopy(working_config)
+    update_feed(
+        cat_name,
+        f_url,
+        offline_download=new_state,
+        config=candidate,
+        save_to_disk=False,
+    )
+    save_res = save_sources(candidate, sync_github=False, persist_db=True)
+    is_ok = (
+        not isinstance(save_res, dict)
+        or (bool(save_res.get("success")) and bool(save_res.get("db_saved")) and bool(save_res.get("db_verified", True)))
+    )
+    if not is_ok:
+        invalidate_config_cache()
+        try:
+            old_cfg = load_sources()
+            if isinstance(old_cfg, dict) and "categories" in old_cfg:
+                st.session_state["working_sources_config"] = old_cfg
+        except Exception:
+            pass
+        err_msg = str(save_res.get("error") or save_res.get("db_error") or "Unbekannter Speicherfehler")
+        set_dismissible_notice(
+            "archive_notice",
+            f"Speichern fehlgeschlagen – alte Einstellung wurde beibehalten. ({err_msg})",
+            icon="❌",
+            level="error",
+        )
+        return
+
     update_feed(
         cat_name,
         f_url,
@@ -183,19 +214,7 @@ def on_toggle_feed_offline(
         config=working_config,
         save_to_disk=False,
     )
-    import copy
-    config_copy = copy.deepcopy(working_config)
-
-    def _bg_persist() -> None:
-        from src.aggregator import save_sources
-        save_sources(config_copy, sync_github=False, persist_db=True)
-        sync_sources_to_github(
-            config_dict=None,
-            commit_message=f"chore(archive): set offline_download={new_state} for {f_name}",
-            include_rss_feeds=False,
-        )
-
-    run_in_background(_bg_persist)
+    st.session_state["working_sources_config"] = copy.deepcopy(working_config)
     if new_state:
         res = sync_offline_archive_now(config=working_config, target_feed_url=f_url)
         st.session_state.pop("cached_offline_articles", None)
@@ -203,14 +222,16 @@ def on_toggle_feed_offline(
         saved_cnt = int(res.get("saved", 0))
         set_dismissible_notice(
             "archive_notice",
-            f"Offline-Download für '{f_name}' aktiviert ({saved_cnt} neue Artikel archiviert)!",
-            icon="📦",
+            f"Offline-Download für '{f_name}' aktiviert & gespeichert ({saved_cnt} neue Artikel archiviert)!",
+            icon="✅",
+            level="success",
         )
     else:
         set_dismissible_notice(
             "archive_notice",
-            f"Offline-Download für '{f_name}' deaktiviert.",
-            icon="📦",
+            f"Offline-Download für '{f_name}' deaktiviert & gespeichert.",
+            icon="✅",
+            level="success",
         )
 
 
@@ -311,15 +332,36 @@ def _render_settings_backups_block(working_config: dict[str, Any]) -> None:
                     with col_b_act1:
                         if st.button("🔄 Laden", key=f"btn_restore_sb_{b_id}", help="Dieses Backup in den aktuellen Einstellungen laden"):
                             restored_dict = yaml.safe_load(b["settings_yaml"]) or {}
-                            save_settings(restored_dict, backup_label=f"Auto-Backup vor Wiederherstellung von #{b_id}")
-                            preserved_prompts = {
-                                k: v for k, v in working_config.get("settings", {}).items() if k in PROMPT_KEYS
-                            }
-                            working_config["settings"] = {**restored_dict, **preserved_prompts}
-                            st.session_state["has_unsaved_changes"] = True
-                            st.session_state["_reload_settings_backups"] = True
+                            save_res = save_settings(
+                                restored_dict,
+                                sync_github=False,
+                                backup_label=f"Auto-Backup vor Wiederherstellung von #{b_id}",
+                            )
+                            is_ok = (
+                                not isinstance(save_res, dict)
+                                or (bool(save_res.get("success")) and bool(save_res.get("db_saved")) and bool(save_res.get("db_verified", True)))
+                            )
                             st.session_state["settings_backups_expanded"] = True
-                            set_dismissible_notice("archive_notice", f"Settings aus Backup #{b_id} erfolgreich wiederhergestellt!", icon="✅")
+                            if is_ok:
+                                preserved_prompts = {
+                                    k: v for k, v in working_config.get("settings", {}).items() if k in PROMPT_KEYS
+                                }
+                                working_config["settings"] = {**restored_dict, **preserved_prompts}
+                                st.session_state["_reload_settings_backups"] = True
+                                set_dismissible_notice(
+                                    "archive_notice",
+                                    f"Settings aus Backup #{b_id} wiederhergestellt & gespeichert!",
+                                    icon="✅",
+                                    level="success",
+                                )
+                            else:
+                                err_msg = str(save_res.get("error") or save_res.get("db_error") or "Unbekannter Fehler")
+                                set_dismissible_notice(
+                                    "archive_notice",
+                                    f"Wiederherstellung fehlgeschlagen – alte Einstellungen blieben erhalten. ({err_msg})",
+                                    icon="❌",
+                                    level="error",
+                                )
                             st.rerun()
                     with col_b_act2:
                         with st.popover("", icon=":material/delete:", key=f"pop_del_sb_{b_id}", help="Dieses Backup löschen..."):

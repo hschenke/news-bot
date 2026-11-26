@@ -162,42 +162,36 @@ def _render_ai_brain_options(is_admin: bool) -> bool:
     return online
 
 
-def _build_prompt_save_notice(res: Any, action_label: str = "Prompts") -> tuple[str, str, str]:
-    """Erzeugt eine ehrliche (level, icon, message)-Statusmeldung für das Speichern von Prompts."""
+def _is_prompt_save_green(res: Any) -> tuple[bool, str]:
+    """Prüft strikt fail-closed, ob das Speichern der Prompts in der Datenbank verifiziert erfolgreich war."""
     if not isinstance(res, dict):
-        return "success", "✨", f"{action_label} gespeichert!"
+        return True, ""
+    ok = bool(res.get("success", False)) and bool(res.get("db_saved", False)) and bool(res.get("db_verified", True))
+    err = str(res.get("error") or res.get("db_error") or "").strip()
+    if ok and not err:
+        return True, ""
+    return False, err or "Datenbank-Speicherung oder Verifikation fehlgeschlagen."
 
-    db_saved = bool(res.get("db_saved", False))
-    db_verified = bool(res.get("db_verified", db_saved))
-    storage_backend = str(res.get("storage_backend") or "").strip().lower()
-    if "is_cloud_db" in res:
-        is_cloud_db = bool(res["is_cloud_db"])
-    else:
-        is_cloud_db = db_saved and storage_backend != "sqlite"
 
-    cloud_ok = db_saved and db_verified and is_cloud_db
-    gh_ok = bool(res.get("success", False))
-    gh_err = str(res.get("error") or "").strip()
-    db_err = str(res.get("db_error") or "").strip()
+def _restore_old_prompts_in_state() -> None:
+    """Lädt bei Speicherfehler die alten gespeicherten Prompts und setzt die Textareas per Key-Pop zurück."""
+    from src.aggregator import invalidate_config_cache
 
-    if cloud_ok and gh_ok:
-        return "success", "✅", f"{action_label} dauerhaft in Cloud-Datenbank & GitHub gespeichert!"
-    if cloud_ok and not gh_ok:
-        hint = gh_err or "GitHub-Sync nicht konfiguriert"
-        return (
-            "warning",
-            "⚠️",
-            f"{action_label} in Turso Cloud-Datenbank gespeichert – GitHub-Sync fehlgeschlagen ({hint}).",
+    invalidate_config_cache()
+    try:
+        old_prompts = load_prompts()
+    except Exception:
+        old_prompts = {}
+    old_main = (old_prompts.get("custom_main_prompt") or "").strip() or DEFAULT_MAIN_PROMPT_TEMPLATE.strip()
+    old_dir = (old_prompts.get("custom_prompt_directives") or "").strip() or DEFAULT_DIRECTIVES.strip()
+    # Widget-Keys dürfen nach Instanziierung nicht überschrieben werden – .pop() erzwingt sauberes Neuladen beim Rerun
+    st.session_state.pop("input_ki_main_prompt", None)
+    st.session_state.pop("input_ki_prompt_directives", None)
+    cfg_obj = st.session_state.get("working_sources_config")
+    if isinstance(cfg_obj, dict):
+        cfg_obj.setdefault("settings", {}).update(
+            {"custom_main_prompt": old_main, "custom_prompt_directives": old_dir}
         )
-    if not cloud_ok and gh_ok:
-        db_reason = db_err or ("nur lokale SQLite aktiv" if db_saved and not is_cloud_db else "Cloud-Datenbank nicht erreichbar")
-        return "warning", "⚠️", f"{action_label} auf GitHub gespeichert, aber Cloud-DB unvollständig ({db_reason})."
-    db_reason = db_err or ("nur temporäre lokale SQLite-DB aktiv" if db_saved and not is_cloud_db else "fehlgeschlagen")
-    return (
-        "error",
-        "❌",
-        f"{action_label} NICHT dauerhaft gespeichert! Cloud-DB: {db_reason} · GitHub: {gh_err or 'fehlgeschlagen'}.",
-    )
 
 
 def render_ki_tab(
@@ -236,7 +230,7 @@ def render_ki_tab(
     # Expander 2: Prompt Configuration (for Admin and read-only for others)
     try:
         prompts_cfg = load_prompts()
-    except Exception as exc:  # noqa: BLE001 - Standard-Prompts bei fehlender prompts.yaml
+    except Exception as exc:  # noqa: BLE001 - Standard-Prompts bei fehlender Konfiguration
         logger.debug("Failed to load prompts configuration: %s", exc)
         prompts_cfg = {}
 
@@ -272,8 +266,9 @@ def render_ki_tab(
             col_save_p, col_reset_p = st.columns([1, 1])
             with col_save_p:
                 save_prompts_clicked = st.button(
-                    "💾 Prompts in prompts.yaml speichern",
+                    "💾 Prompts speichern",
                     key="btn_save_ki_prompts",
+                    type="primary",
                     use_container_width=True,
                 )
             with col_reset_p:
@@ -284,35 +279,49 @@ def render_ki_tab(
                 )
 
             if save_prompts_clicked:
-                with st.spinner("Speichere Prompts in prompts.yaml..."):
-                    new_prompts = {
-                        "custom_main_prompt": ki_main_prompt.strip(),
-                        "custom_prompt_directives": ki_prompt_directives.strip(),
-                    }
-                    res = save_prompts(new_prompts, sync_github=True, persist_db=True)
-                    for cfg_key in ("working_sources_config", "last_loaded_saved_config"):
-                        cfg_obj = st.session_state.get(cfg_key)
-                        if isinstance(cfg_obj, dict):
-                            cfg_obj.setdefault("settings", {}).update(new_prompts)
-                    level, icon, notice = _build_prompt_save_notice(res, action_label="Prompts")
-                    set_dismissible_notice("ki_notice", notice, icon=icon, level=level)
-                    st.rerun()
+                new_prompts = {
+                    "custom_main_prompt": ki_main_prompt.strip(),
+                    "custom_prompt_directives": ki_prompt_directives.strip(),
+                }
+                res = save_prompts(new_prompts, sync_github=False, persist_db=True)
+                ok, err_detail = _is_prompt_save_green(res)
+                if ok:
+                    cfg_obj = st.session_state.get("working_sources_config")
+                    if isinstance(cfg_obj, dict):
+                        cfg_obj.setdefault("settings", {}).update(new_prompts)
+                    set_dismissible_notice("ki_notice", "Prompts dauerhaft in der Datenbank gespeichert!", icon="✅", level="success")
+                else:
+                    _restore_old_prompts_in_state()
+                    set_dismissible_notice(
+                        "ki_notice",
+                        f"Speichern fehlgeschlagen – alte Prompts wurden wiederhergestellt. ({err_detail})",
+                        icon="❌",
+                        level="error",
+                    )
+                st.rerun()
 
             if reset_prompts_clicked:
-                with st.spinner("Setze Hauptprompt auf Standard zurück..."):
-                    reset_prompts = {
-                        "custom_main_prompt": DEFAULT_MAIN_PROMPT_TEMPLATE.strip(),
-                        "custom_prompt_directives": ki_prompt_directives.strip(),
-                    }
-                    res = save_prompts(reset_prompts, sync_github=True, persist_db=True)
-                    for cfg_key in ("working_sources_config", "last_loaded_saved_config"):
-                        cfg_obj = st.session_state.get(cfg_key)
-                        if isinstance(cfg_obj, dict):
-                            cfg_obj.setdefault("settings", {}).update(reset_prompts)
-                    st.session_state["input_ki_main_prompt"] = DEFAULT_MAIN_PROMPT_TEMPLATE.strip()
-                    level, icon, notice = _build_prompt_save_notice(res, action_label="Standard-Prompt")
-                    set_dismissible_notice("ki_notice", notice, icon=icon, level=level)
-                    st.rerun()
+                reset_prompts = {
+                    "custom_main_prompt": DEFAULT_MAIN_PROMPT_TEMPLATE.strip(),
+                    "custom_prompt_directives": ki_prompt_directives.strip(),
+                }
+                res = save_prompts(reset_prompts, sync_github=False, persist_db=True)
+                ok, err_detail = _is_prompt_save_green(res)
+                if ok:
+                    cfg_obj = st.session_state.get("working_sources_config")
+                    if isinstance(cfg_obj, dict):
+                        cfg_obj.setdefault("settings", {}).update(reset_prompts)
+                    st.session_state.pop("input_ki_main_prompt", None)
+                    set_dismissible_notice("ki_notice", "Standard-Prompt wiederhergestellt & gespeichert!", icon="✅", level="success")
+                else:
+                    _restore_old_prompts_in_state()
+                    set_dismissible_notice(
+                        "ki_notice",
+                        f"Zurücksetzen fehlgeschlagen – alte Prompts wurden wiederhergestellt. ({err_detail})",
+                        icon="❌",
+                        level="error",
+                    )
+                st.rerun()
 
     # Direkt unterhalb der 2 Expander: Generieren-Button (nur Admin)
     if is_admin:

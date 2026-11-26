@@ -196,32 +196,16 @@ def persist_active_tab(active_nav_tab: str) -> None:
 
 
 def get_sources_config() -> dict[str, Any]:
-    """Liest die Konfiguration unzensiert von der Festplatte (abgeglichen mit Cloud-DB)."""
+    """Liest die aktuelle Konfiguration direkt aus dem schnellen Datenbank-Cache."""
     try:
         return load_sources()
     except Exception:
         return {}
 
 
-# Gespeicherten Stand laden oder bei externen Cloud-DB-/Git-Updates nachziehen (nur wenn keine ungespeicherten Entwürfe)
-if "working_sources_config" not in st.session_state:
-    saved_sources_config = get_sources_config()
-    st.session_state["working_sources_config"] = copy.deepcopy(saved_sources_config)
-    st.session_state["last_loaded_saved_config"] = copy.deepcopy(saved_sources_config)
-    st.session_state["has_unsaved_changes"] = False
-elif not st.session_state.get("has_unsaved_changes", False):
-    try:
-        from src.aggregator import sync_configs_from_storage
-
-        _sync_states = sync_configs_from_storage()
-        if any(s in ("restored_from_db", "updated_db_from_disk") for s in _sync_states.values()):
-            saved_sources_config = get_sources_config()
-            st.session_state["working_sources_config"] = copy.deepcopy(saved_sources_config)
-            st.session_state["last_loaded_saved_config"] = copy.deepcopy(saved_sources_config)
-    except Exception as exc:  # noqa: BLE001 - UI-Rendering darf nicht durch Sync-Fehler blockiert werden
-        logger.debug("Hintergrund-Konfigurationsabgleich übersprungen: %s", exc)
-
-working_config = st.session_state["working_sources_config"]
+# Live-Konfiguration direkt aus dem 30s-DB-Cache bereitstellen (keine Entwurfs-Sammlung)
+working_config = get_sources_config()
+st.session_state["working_sources_config"] = working_config
 
 # Berechtigungsstatus ermitteln
 is_admin = is_admin_user()

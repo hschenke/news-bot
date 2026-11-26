@@ -56,13 +56,13 @@ jobs:
         run: |
           python src/main.py
 
-      - name: 🚀 Aktualisierte RSS-Feeds & Konfiguration zu GitHub pushen
+      - name: 🚀 Aktualisierte RSS-Feeds zu GitHub pushen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
+          git add static/rss/
           if git diff --staged --quiet; then
-            echo "Keine Änderungen in den RSS-Feeds oder Konfigurationsdateien vorhanden."
+            echo "Keine Änderungen in den RSS-Feeds vorhanden."
           else
             COMMIT_MSG="chore(rss): update static RSS feeds [skip ci]"
             git commit -m "$COMMIT_MSG"
@@ -71,11 +71,11 @@ jobs:
               git fetch origin main
               LOCAL_SHA=$(git rev-parse HEAD)
               if ! git rebase -X theirs origin/main; then
-                echo "Rebase-Konflikt erkannt (Versuch $attempt) – übernehme frisch generierte RSS-/Konfig-Dateien auf origin/main..."
+                echo "Rebase-Konflikt erkannt (Versuch $attempt) – übernehme frisch generierte RSS-Dateien auf origin/main..."
                 git rebase --abort || true
                 git reset --hard origin/main
-                git checkout "$LOCAL_SHA" -- static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
-                git add static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
+                git checkout "$LOCAL_SHA" -- static/rss/
+                git add static/rss/
                 if git diff --staged --quiet; then
                   pushed=1
                   break
@@ -94,15 +94,6 @@ jobs:
               exit 1
             fi
           fi
-
-      - name: ☁️ Cloud-DB Git-Sync-Status bestätigen
-        if: success()
-        env:
-          TURSO_URL: ${{ secrets.TURSO_URL }}
-          TURSO_KEY: ${{ secrets.TURSO_KEY }}
-          TURSO_TIMEOUT: "30.0"
-        run: |
-          python -c "from src.sources_manager import mark_canonical_configs_synced_to_git; print('Cloud-DB Git-Sync CAS:', mark_canonical_configs_synced_to_git())"
 
       - name: ⚡ jsDelivr CDN-Cache leeren
         if: success()

@@ -31,23 +31,20 @@ def run_pipeline() -> None:
     print("🤖 News Bot: Pipeline gestartet...", flush=True)
     print("=" * 60, flush=True)
 
-    # 0. Schritt: Maßgebliche Konfiguration aus Cloud-Datenbank (Turso) abgleichen
+    # 0. Schritt: Konfiguration direkt aus der Datenbank (Turso / SQLite) laden
     try:
         from src.storage import get_storage
 
         active_storage = get_storage()
         backend_label = type(active_storage).__name__
-        sync_statuses = sync_configs_from_storage(force=True)
-        if sync_statuses:
-            summary_parts = [f"{fname}={status}" for fname, status in sorted(sync_statuses.items())]
-            print(
-                f"      -> ☁️ Konfig-Sync ({backend_label}): {', '.join(summary_parts)}",
-                flush=True,
-            )
-        else:
-            print(f"      -> ☁️ Konfig-Sync ({backend_label}): keine DB-Snapshots vorhanden.", flush=True)
-    except Exception as exc:  # noqa: BLE001 - Fallback auf lokale YAML-Dateien
-        logger.warning("Cloud-DB Konfigurationsabgleich beim Pipeline-Start fehlgeschlagen: %s", exc)
+        db_statuses = sync_configs_from_storage(force=True)
+        summary_parts = [f"{fname}={status}" for fname, status in sorted(db_statuses.items())]
+        print(
+            f"      -> ☁️ Konfiguration ({backend_label}): {', '.join(summary_parts) or 'geladen'}",
+            flush=True,
+        )
+    except Exception as exc:  # noqa: BLE001 - Fallback auf Initial-Vorlagen
+        logger.warning("Datenbank-Konfiguration beim Pipeline-Start nicht lesbar: %s", exc)
 
     # 1. Schritt: News aggregieren (save_to_db=False vermeidet redundantes Doppelspeichern vor Schritt 4)
     print("\n[1/3] 📡 Lese konfigurierte RSS-Feeds ein...", flush=True)

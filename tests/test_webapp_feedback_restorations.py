@@ -77,12 +77,16 @@ class TestWebappFeedbackRestorations(unittest.TestCase):
         # Concise briefing message
         self.assertNotIn("Aktuell nichts neues generiert.", self.ki_tab_py)
 
-    def test_manage_tab_no_purge_and_disabled_save_when_no_changes(self) -> None:
-        """Manage tab must not have purge block, and save button must be disabled when no changes."""
+    def test_manage_tab_no_purge_and_immediate_save_without_draft_bar(self) -> None:
+        """Manage tab must not have purge block or draft staging, and must save immediately on each action."""
         self.assertNotIn("purge_tables", self.manage_tab_py)
         self.assertNotIn("btn_confirm_db_purge", self.manage_tab_py)
-        self.assertIn("disabled=btn_save_disabled", self.manage_tab_py)
-        self.assertIn("btn_save_label = \"💾 Jetzt sichern\" if has_unsaved_changes else \"💾 Gespeichert\"", self.manage_tab_py)
+        self.assertNotIn("top_save_sources_btn", self.manage_tab_py)
+        self.assertNotIn("top_discard_sources_btn", self.manage_tab_py)
+        self.assertNotIn("has_unsaved_changes", self.manage_tab_py)
+        self.assertIn("_commit_config_change", self.manage_tab_py)
+        self.assertIn("💾 Feed speichern", self.manage_tab_py)
+        self.assertIn("💾 Einstellungen speichern", self.manage_tab_py)
         # Feed edit block retains state
         self.assertIn("editing_feed_key", self.manage_tab_py)
 
@@ -106,18 +110,17 @@ class TestWebappFeedbackRestorations(unittest.TestCase):
         self.assertIn("button:disabled", self.styles_py)
 
     def test_manage_tab_collapsible_sections_and_no_unnecessary_toast_text(self) -> None:
-        """Categories and Add Feed must be collapsible and collapsed by default; toast must omit redundant sentence."""
+        """Categories and Add Feed must be collapsible and collapsed by default; errors reload old persisted config."""
         self.assertIn('with st.expander("📁 Kategorien verwalten", expanded=False):', self.manage_tab_py)
         self.assertIn('with st.expander("➕ Neuen RSS-Feed hinzufügen", expanded=False):', self.manage_tab_py)
         self.assertNotIn("Der Bearbeiten-Block bleibt geöffnet", self.manage_tab_py)
         self.assertIn("manage_notice", self.manage_tab_py)
-        # Discard resets widget keys and triggers reload
-        self.assertIn("window.location.reload()", self.manage_tab_py)
+        self.assertIn("_reload_persisted_config", self.manage_tab_py)
 
     def test_prominent_notices_in_tabs(self) -> None:
         """KI, Feedly, and Manage tabs must use client-side instant dismissible notice banners."""
         self.assertIn("render_dismissible_notice", self.manage_tab_py)
-        self.assertIn("embed_client_script", self.manage_tab_py)
+        self.assertIn("set_dismissible_notice", self.manage_tab_py)
         self.assertIn("render_dismissible_notice", self.ki_tab_py)
         self.assertIn("render_dismissible_notice", self.feedly_tab_py)
         self.assertNotIn('st.success("RSS-Feeds erfolgreich zu GitHub & CDN synchronisiert!")', self.feedly_tab_py)
@@ -176,7 +179,7 @@ class TestWebappFeedbackRestorations(unittest.TestCase):
         self.assertIn("def on_reset_category_and_feed()", self.articles_tab_py)
 
     def test_compact_layout_and_shortened_texts(self) -> None:
-        """Verifies balanced CSS rules, divider spacing, and concise status texts without '(gespeichert)'."""
+        """Verifies balanced CSS rules, divider spacing, and concise immediate-save status texts."""
         # CSS rules for balanced spacing
         self.assertIn('hr, [data-testid="stDivider"], .stMarkdown hr', self.styles_py)
         self.assertIn('margin-top: 0.65rem !important;', self.styles_py)
@@ -191,11 +194,11 @@ class TestWebappFeedbackRestorations(unittest.TestCase):
         self.assertIn('st.sidebar.caption("24h Newsfeed")', self.webapp_py)
         self.assertIn('st.sidebar.markdown("---")', self.webapp_py)
 
-        # Concise text in manage_tab
-        self.assertIn("Alle Feeds & Einstellungen sind aktuell.", self.manage_tab_py)
+        # Concise immediate-save text in manage_tab (no draft collecting)
+        self.assertIn("Kategorien, Feeds und Einstellungen verwalten", self.manage_tab_py)
+        self.assertIn("Änderungen werden sofort gespeichert", self.manage_tab_py)
         self.assertNotIn("(gespeichert)", self.manage_tab_py)
-        self.assertIn("Ungespeicherte Änderungen.", self.manage_tab_py)
-        self.assertIn("Kategorien, Feeds und Einstellungen verwalten.", self.manage_tab_py)
+        self.assertNotIn("Im Entwurf merken", self.manage_tab_py)
 
         # Concise text in feedly_tab
         self.assertIn("RSS 2.0 XML-Feeds für Feedly, Inoreader und alle Newsreader.", self.feedly_tab_py)

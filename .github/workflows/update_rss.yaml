@@ -1,13 +1,6 @@
 name: Update RSS Feeds to CDN
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'config/sources.yaml'
-      - 'config/settings.yaml'
-      - 'config/prompts.yaml'
   workflow_dispatch:
   repository_dispatch:
     types: [update-rss-feeds]
@@ -47,13 +40,13 @@ jobs:
           TURSO_KEY: ${{ secrets.TURSO_KEY }}
           TURSO_TIMEOUT: "30.0"
         run: |
-          python -c "from src.aggregator import sync_configs_from_storage, collect_all_news; sync_configs_from_storage(force=True); collect_all_news()"
+          python -c "from src.aggregator import collect_all_news; collect_all_news()"
 
       - name: 🚀 Aktualisierte RSS-Feeds zu GitHub / CDN pushen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
+          git add static/rss/
           if git diff --staged --quiet; then
             echo "Keine Änderungen in den RSS-Feeds vorhanden."
           else
@@ -64,11 +57,11 @@ jobs:
               git fetch origin main
               LOCAL_SHA=$(git rev-parse HEAD)
               if ! git rebase -X theirs origin/main; then
-                echo "Rebase-Konflikt erkannt (Versuch $attempt) – übernehme frisch generierte RSS-/Konfig-Dateien auf origin/main..."
+                echo "Rebase-Konflikt erkannt (Versuch $attempt) – übernehme frisch generierte RSS-Dateien auf origin/main..."
                 git rebase --abort || true
                 git reset --hard origin/main
-                git checkout "$LOCAL_SHA" -- static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
-                git add static/rss/ config/sources.yaml config/settings.yaml config/prompts.yaml
+                git checkout "$LOCAL_SHA" -- static/rss/
+                git add static/rss/
                 if git diff --staged --quiet; then
                   pushed=1
                   break
@@ -88,15 +81,6 @@ jobs:
             fi
             echo "RSS-Feeds erfolgreich zu GitHub und CDN gepusht!"
           fi
-
-      - name: ☁️ Cloud-DB Git-Sync-Status bestätigen
-        if: success()
-        env:
-          TURSO_URL: ${{ secrets.TURSO_URL }}
-          TURSO_KEY: ${{ secrets.TURSO_KEY }}
-          TURSO_TIMEOUT: "30.0"
-        run: |
-          python -c "from src.sources_manager import mark_canonical_configs_synced_to_git; print('Cloud-DB Git-Sync CAS:', mark_canonical_configs_synced_to_git())"
 
       - name: ⚡ jsDelivr CDN-Cache leeren
         if: success()

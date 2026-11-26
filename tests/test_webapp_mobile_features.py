@@ -125,9 +125,9 @@ class TestWebappMobileFeatures(unittest.TestCase):
         # 5. Kategorie-Verschieben in Feed-Details
         self.assertIn('new_category=edit_cat_val.strip()', manage_code)
 
-        # 6. Tab- und Expander-Verbleib beim Entwurf-Vormerken
+        # 6. Tab- und Expander-Verbleib beim Sofort-Speichern von Feed-Änderungen
         self.assertIn('st.session_state["editing_feed_key"] = new_hash', manage_code)
-        self.assertIn('st.session_state["last_edited_category"] = edit_cat_val.strip()', manage_code)
+        self.assertIn('st.session_state["last_edited_category"] =', manage_code)
 
         # 7. Bewertungs-Daumen (st.feedback) direkt unter dem Text (ohne störende Extra-Labels daneben)
         self.assertIn('st.feedback(', articles_code)
@@ -200,8 +200,8 @@ class TestWebappMobileFeatures(unittest.TestCase):
         self.assertIn('or feed_name in st.session_state.get("persisted_open_feeds", set())', articles_code)
         self.assertIn('anchor-feed-', articles_code)
 
-    def test_manage_tab_global_settings_and_preview_structure(self):
-        """Prüft, dass alle Settings in den Globalen Einstellungen editierbar sind und nur settings.yaml in der Vorschau verbleibt."""
+    def test_manage_tab_global_settings_and_streamlined_structure(self):
+        """Prüft, dass alle Settings editierbar sind, sofort gespeichert werden und YAML-Vorschau/Entwurfs-Balken entfernt sind."""
         from pathlib import Path
         manage_code = Path("src/ui/tabs/manage_tab.py").read_text(encoding="utf-8")
 
@@ -214,13 +214,16 @@ class TestWebappMobileFeatures(unittest.TestCase):
         self.assertNotIn('inp_set_ad_keywords', manage_code)
         self.assertIn('inp_set_ad_patterns', manage_code)
 
-        # 2. Vorschau-Tabs für sources.yaml und prompts.yaml sind entfernt
+        # 2. Unnötige YAML-Vorschauen & Entwurfs-Sammlung sind vollständig entfernt
         self.assertNotIn('tab_src, tab_set, tab_prm = st.tabs', manage_code)
-        self.assertNotIn('"📁 sources.yaml"', manage_code)
-        self.assertNotIn('"🤖 prompts.yaml"', manage_code)
+        self.assertNotIn('Vorschau der settings.yaml', manage_code)
+        self.assertNotIn('top_save_sources_btn', manage_code)
+        self.assertNotIn('top_discard_sources_btn', manage_code)
+        self.assertNotIn('has_unsaved_changes', manage_code)
 
-        # 3. Nur noch Vorschau von settings.yaml vorhanden
-        self.assertIn('with st.expander("⚙️ Vorschau der settings.yaml", expanded=False):', manage_code)
+        # 3. Direkte Sofort-Speichern-Buttons sind vorhanden
+        self.assertIn('💾 Feed speichern', manage_code)
+        self.assertIn('💾 Einstellungen speichern', manage_code)
 
 
 if __name__ == "__main__":
