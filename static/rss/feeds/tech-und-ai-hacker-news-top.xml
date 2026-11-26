@@ -5,9 +5,197 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Tell HN: Happy Thanksgiving</title>
+      <link>https://news.ycombinator.com/item?id=50655664</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50655664</guid>
+      <pubDate>Thu, 26 Nov 2026 14:26:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>45°C inlets just killed the chiller. Most people haven't noticed yet</title>
+      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
+      <guid isPermaLink="false">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</guid>
+      <pubDate>Thu, 26 Nov 2026 13:48:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Head of Software Engineering – NOX Metals</title>
+      <link>https://news.ycombinator.com/item?id=50654353</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50654353</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Euro-Office comes to your desktop with the Nextcloud Office Desktop app</title>
+      <link>https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</link>
+      <guid isPermaLink="false">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</guid>
+      <pubDate>Thu, 26 Nov 2026 11:50:49 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Intel One Mono font</title>
+      <link>https://github.com/intel/intel-one-mono</link>
+      <guid isPermaLink="false">https://github.com/intel/intel-one-mono</guid>
+      <pubDate>Thu, 26 Nov 2026 10:11:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Moat: Your OpenRouter Replacement</title>
+      <link>https://commandcode.ai/moat</link>
+      <guid isPermaLink="false">https://commandcode.ai/moat</guid>
+      <pubDate>Thu, 26 Nov 2026 06:32:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>An algebraic quantization of gravity from the null cone</title>
+      <link>https://arxiv.org/abs/2611.34924</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.34924</guid>
+      <pubDate>Thu, 26 Nov 2026 05:37:51 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years</title>
+      <link>https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</link>
+      <guid isPermaLink="false">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:12:59 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Unconditional Integer Factorization in Subexponential Time</title>
+      <link>https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</link>
+      <guid isPermaLink="false">https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</guid>
+      <pubDate>Thu, 26 Nov 2026 04:59:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
+      <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
+      <guid isPermaLink="false">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
+      <pubDate>Thu, 26 Nov 2026 03:36:58 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Minipg: PostgreSQL as a Single Executable</title>
+      <link>https://progrium.github.io/minipg/</link>
+      <guid isPermaLink="false">https://progrium.github.io/minipg/</guid>
+      <pubDate>Thu, 26 Nov 2026 03:00:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Tell HN: Lots of Ask HNs again</title>
+      <link>https://news.ycombinator.com/item?id=50649864</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50649864</guid>
+      <pubDate>Thu, 26 Nov 2026 00:43:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Collection of preserved UI style guides</title>
+      <link>https://aresluna.org/ui-style-guides/</link>
+      <guid isPermaLink="false">https://aresluna.org/ui-style-guides/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:40:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Bare Metal Qwen</title>
+      <link>https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</link>
+      <guid isPermaLink="false">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</guid>
+      <pubDate>Wed, 25 Nov 2026 22:15:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Deploying a payphone on a tiny Pacific Island for fun and zero profit</title>
+      <link>https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</link>
+      <guid isPermaLink="false">https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</guid>
+      <pubDate>Wed, 25 Nov 2026 22:12:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Much shorter version of GRH Lean verification from Anthropic</title>
+      <link>https://github.com/lsernau/grh-lean</link>
+      <guid isPermaLink="false">https://github.com/lsernau/grh-lean</guid>
+      <pubDate>Wed, 25 Nov 2026 21:48:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</guid>
+      <pubDate>Wed, 25 Nov 2026 21:18:02 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Slow Ubuntu security response times</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
+      <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2026/11/25/9</guid>
+      <pubDate>Wed, 25 Nov 2026 20:38:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server</title>
+      <link>https://opensec.in/blog/nfs2root-cve-2026-99362</link>
+      <guid isPermaLink="false">https://opensec.in/blog/nfs2root-cve-2026-99362</guid>
+      <pubDate>Wed, 25 Nov 2026 20:35:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</title>
+      <link>https://scottaaronson.blog/?p=10379</link>
+      <guid isPermaLink="false">https://scottaaronson.blog/?p=10379</guid>
+      <pubDate>Wed, 25 Nov 2026 19:11:27 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>1Password Security Incident</title>
+      <link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
+      <guid isPermaLink="false">https://1password.com/blog/update-on-nov-2026-security-incident</guid>
+      <pubDate>Wed, 25 Nov 2026 17:18:26 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
   </channel>
 </rss>

@@ -5,14 +5,176 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tell HN: Happy Thanksgiving</title>
+      <link>https://news.ycombinator.com/item?id=50655664</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50655664</guid>
+      <pubDate>Thu, 26 Nov 2026 14:26:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>45°C inlets just killed the chiller. Most people haven't noticed yet</title>
+      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
+      <guid isPermaLink="false">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</guid>
+      <pubDate>Thu, 26 Nov 2026 13:48:11 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Head of Software Engineering – NOX Metals</title>
+      <link>https://news.ycombinator.com/item?id=50654353</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50654353</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Euro-Office comes to your desktop with the Nextcloud Office Desktop app</title>
+      <link>https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</link>
+      <guid isPermaLink="false">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</guid>
+      <pubDate>Thu, 26 Nov 2026 11:50:49 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
+      <pubDate>Thu, 26 Nov 2026 11:37:17 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Intel One Mono font</title>
+      <link>https://github.com/intel/intel-one-mono</link>
+      <guid isPermaLink="false">https://github.com/intel/intel-one-mono</guid>
+      <pubDate>Thu, 26 Nov 2026 10:11:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>US-Doppelschlag bremst Chinas KI-Aufholjagd</title>
+      <link>https://www.all-ai.de/news/news26/us-doppelschlag-china</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/us-doppelschlag-china</guid>
+      <pubDate>Thu, 26 Nov 2026 08:53:16 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Verschärfte US-Regeln für gemietete KI-Chips im Ausland und Anti-Destillations-Sperren von OpenAI und Anthropic verzögern KI-Projekte in China. Moonshot AI stornierte bereits einen 150-Millionen-Dollar-Vertrag für Nvidia-Blackwell-Chips in Indonesien. Forscher von DeepSeek befürchten ohne den Abgriff westlicher KI-Antworten einen wachsenden Rückstand von bis zu neun Monaten auf US-Spitzenmodelle. Als Reaktion setzen Anbieter wie Alibaba, MiniMax und miHoYo verstärkt auf heimische Huawei-Chips sowie teure eigene Trainingsdaten für Reinforcement Learning. The Information: Chinese AI Firms Confront a Dire Future as U.S. Tightens Access to Chips and Tokens US Federal Register (BIS): Addressing Remote Access to Advanced Semiconductors OpenAI: Disrupting a coordinated model-distillation campaign Anthropic: Detecting and preventing distillation attacks Channel NewsAsia: Nvidia halts chip shipments to Southeast Asia Bei DeepSeek, Alibaba und Moonshot AI geraten wichtige KI-Projekte ins Stocken. Neue US-Hürden für gemietete Auslands-Chips und erfolgreiche Sperren gegen das Abgreifen westlicher KI-Antworten setzen Chinas führende KI-Unternehmen laut The Information gleichzeitig unter Druc...]]></description>
+    </item>
+    <item>
+      <title>SpaceX, Dell und Trump: Warum US-Milliardäre Kindern Geld schenken</title>
+      <link>https://www.all-ai.de/news/beitrage2026/usa-geld-trump-konten-spacex-1</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/beitrage2026/usa-geld-trump-konten-spacex-1</guid>
+      <pubDate>Thu, 26 Nov 2026 08:42:31 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Elon Musk kündigt für jedes US-Kind zwei SpaceX-Aktien im Gesamtwert von rund 18,4 Milliarden Dollar an. Abgewickelt werden die Geschenke über die staatlichen Trump Accounts, in die auch Milliardäre wie Michael Dell und Ray Dalio Milliarden einzahlen. Während Befürworter den Zinseszins über 18 Jahre loben, sichern sich Spender Steuervorteile und Millionen loyaler Kleinaktionäre. Ökonomen kritisieren Verkaufssperren, bürokratische Hürden für arme Haushalte und eine hohe Besteuerung ab dem 18. Geburtstag. Elon Musk auf X: Ankündigung der SpaceX-Aktien für US-Kinder SpaceX Investor Relations: SpaceX to Invest in the Next Generation of Americans Axios: Musk makes $18 billion SpaceX stock pledge for every kid in America The Guardian: Michael and Susan Dell donate $6.25bn to encourage families to claim 'Trump accounts' Cato Institute: The Trouble with the Trump Accounts Elon Musk verspricht jedem Kind in den USA zwei Aktien seines Raumfahrtkonzerns SpaceX. Beim aktuellen Kurs von 127,44$ ergibt das rund 255$ pro Kopf und ein Gesamtpaket von 18,4 Milliarden $ für etwa 72 Millionen Minderjährige. Anzeige Ein Aktiendepot zur Geburt Die erste Aktie gibt SpaceX im Dezember neu aus. Das zwe...]]></description>
+    </item>
+    <item>
+      <title>Ärger um ChatGPT-Abos nach Limit-Kürzung um 40 Prozent</title>
+      <link>https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</guid>
+      <pubDate>Thu, 26 Nov 2026 08:22:02 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Nach einem korrigierten Abrechnungsfehler ist das ChatGPT-Kontingent bei GPT-6.2 Astra um 40% und bei GPT-6.2 Sol um 25% schneller aufgebraucht. Als Ausgleich erhalten zahlende Kunden in den Tarifen Go, Plus, Pro und Business einmalig eine kostenlose Limit-Zurücksetzung. Ab Dezember teilen sich Chat, der Arbeitsbereich Work und Codex ein einziges gemeinsames Token-Budget, während nur das Instant-Modell unbegrenzt bleibt. Thibault Sottiaux auf X: Korrektur der Nutzungslimits für GPT-6.2 Astra und Sol OpenAI Help Center: Understanding ChatGPT and Codex usage limits OpenAI Developer Community: Diskussion zur Zusammenlegung der Chat- und Work-Limits Zahlende Kunden von ChatGPT stoßen bei anspruchsvollen Aufgaben künftig deutlich früher an ihre Grenzen. OpenAI rechnet den Verbrauch seiner jüngsten Spitzenmodelle höher ab und legt zugleich getrennte Nutzungstöpfe zusammen. Anzeige Abrechnungsfehler kostet bis zu 40% Reichweite Auslöser für den größten Unmut ist eine Panne beim Start der Modellreihe GPT-6.2. Produktchef Thibault Sottiaux räumte auf X ein, dass OpenAI den Verbrauch von GPT-6.2 Astra und GPT-6.2 Sol anfangs zu niedrig berechnet hatte. Mit der Korrektur schmilzt das Abo-K...]]></description>
+    </item>
+    <item>
+      <title>Moat: Your OpenRouter Replacement</title>
+      <link>https://commandcode.ai/moat</link>
+      <guid isPermaLink="false">https://commandcode.ai/moat</guid>
+      <pubDate>Thu, 26 Nov 2026 06:32:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>An algebraic quantization of gravity from the null cone</title>
+      <link>https://arxiv.org/abs/2611.34924</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.34924</guid>
+      <pubDate>Thu, 26 Nov 2026 05:37:51 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years</title>
+      <link>https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</link>
+      <guid isPermaLink="false">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:12:59 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
     <item>
       <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
       <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
       <guid isPermaLink="false">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
       <pubDate>Thu, 26 Nov 2026 05:05:36 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Unconditional Integer Factorization in Subexponential Time</title>
+      <link>https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</link>
+      <guid isPermaLink="false">https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</guid>
+      <pubDate>Thu, 26 Nov 2026 04:59:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
+      <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
+      <guid isPermaLink="false">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
+      <pubDate>Thu, 26 Nov 2026 03:36:58 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Minipg: PostgreSQL as a Single Executable</title>
+      <link>https://progrium.github.io/minipg/</link>
+      <guid isPermaLink="false">https://progrium.github.io/minipg/</guid>
+      <pubDate>Thu, 26 Nov 2026 03:00:48 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Tell HN: Lots of Ask HNs again</title>
+      <link>https://news.ycombinator.com/item?id=50649864</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50649864</guid>
+      <pubDate>Thu, 26 Nov 2026 00:43:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Collection of preserved UI style guides</title>
+      <link>https://aresluna.org/ui-style-guides/</link>
+      <guid isPermaLink="false">https://aresluna.org/ui-style-guides/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:40:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+      <link>https://huggingface.co/blog/training-swarms</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/training-swarms</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
       <description><![CDATA[]]></description>
@@ -27,6 +189,42 @@
       <description><![CDATA[The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.]]></description>
     </item>
     <item>
+      <title>Bare Metal Qwen</title>
+      <link>https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</link>
+      <guid isPermaLink="false">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</guid>
+      <pubDate>Wed, 25 Nov 2026 22:15:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Deploying a payphone on a tiny Pacific Island for fun and zero profit</title>
+      <link>https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</link>
+      <guid isPermaLink="false">https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</guid>
+      <pubDate>Wed, 25 Nov 2026 22:12:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Much shorter version of GRH Lean verification from Anthropic</title>
+      <link>https://github.com/lsernau/grh-lean</link>
+      <guid isPermaLink="false">https://github.com/lsernau/grh-lean</guid>
+      <pubDate>Wed, 25 Nov 2026 21:48:10 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</guid>
+      <pubDate>Wed, 25 Nov 2026 21:18:02 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>US-Behörde genehmigt SpaceX eine Million KI-Satelliten im All</title>
       <link>https://www.all-ai.de/news/news26top/us-spacex-ki-start</link>
       <guid isPermaLink="false">https://www.all-ai.de/news/news26top/us-spacex-ki-start</guid>
@@ -34,6 +232,24 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Die US-Behörde FCC hat Elon Musks Raumfahrtunternehmen SpaceX unter dem Namen »Starmind« bis zu eine Million Satelliten für KI-Rechenzentren im All genehmigt. In 500 bis 1.000 Kilometern Höhe nutzen die Module fast durchgehendes Sonnenlicht für Nvidia-Chips und umgehen überlastete Stromnetze auf der Erde. Große Hürden bleiben die schwierige Wärmeabfuhr im Vakuum sowie der Transport einer Flotte, die fast sechzigmal größer wäre als alle heute aktiven Satelliten zusammen. Für Bahnen oberhalb von 600 Kilometern hält die FCC ihre Zustimmung vorerst zurück, bis SpaceX einen Entsorgungsplan gegen Weltraumschrott vorlegt. FCC: FCC Authorizes 1 Million Satellites for Data Centers in Space Brendan Carr (FCC-Vorsitzender) auf X zur Starmind-Genehmigung Elon Musk auf X zur FCC-Entscheidung Derzeit kreisen weltweit rund 17.000 aktive Satelliten um die Erde. Jetzt hat die US-Kommunikationsbehörde FCC Elon Musks Raumfahrtunternehmen SpaceX erlaubt, unter dem Namen »Starmind« bis zu eine Million Satelliten als fliegende KI-Rechenzentren zu starten. Anzeige Dauerstrom ohne irdische Engpässe Hinter dem Plan steckt ein wachsendes Infrastrukturproblem am Boden. Überlastete Stromnetze, langwierige ...]]></description>
+    </item>
+    <item>
+      <title>Slow Ubuntu security response times</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
+      <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2026/11/25/9</guid>
+      <pubDate>Wed, 25 Nov 2026 20:38:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server</title>
+      <link>https://opensec.in/blog/nfs2root-cve-2026-99362</link>
+      <guid isPermaLink="false">https://opensec.in/blog/nfs2root-cve-2026-99362</guid>
+      <pubDate>Wed, 25 Nov 2026 20:35:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
     </item>
     <item>
       <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
@@ -61,6 +277,15 @@
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
       <description><![CDATA[Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.]]></description>
+    </item>
+    <item>
+      <title>Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</title>
+      <link>https://scottaaronson.blog/?p=10379</link>
+      <guid isPermaLink="false">https://scottaaronson.blog/?p=10379</guid>
+      <pubDate>Wed, 25 Nov 2026 19:11:27 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
     </item>
     <item>
       <title>Verschlüsselungen schon knackbar durch OpenAI und Anthropic?</title>
@@ -108,6 +333,15 @@
       <description><![CDATA[The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.]]></description>
     </item>
     <item>
+      <title>1Password Security Incident</title>
+      <link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
+      <guid isPermaLink="false">https://1password.com/blog/update-on-nov-2026-security-incident</guid>
+      <pubDate>Wed, 25 Nov 2026 17:18:26 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
       <title>AI data centers are becoming harder to build, and neoclouds are feeling it</title>
       <link>https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/</link>
       <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3192333</guid>
@@ -115,87 +349,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
       <description><![CDATA[⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]]]></description>
-    </item>
-    <item>
-      <title>Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</title>
-      <link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192253</guid>
-      <pubDate>Wed, 25 Nov 2026 14:10:18 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.]]></description>
-    </item>
-    <item>
-      <title>The questions Jensen Huang and Nvidia will still have to answer about Megaspeed</title>
-      <link>https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191841</guid>
-      <pubDate>Wed, 25 Nov 2026 13:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.]]></description>
-    </item>
-    <item>
-      <title>An Indic Voice Agent with CUGA</title>
-      <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
-      <pubDate>Wed, 25 Nov 2026 10:22:09 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Midjourney bringt Anime-Modell Niji 8 mit eigener Bildbearbeitung</title>
-      <link>https://www.all-ai.de/news/news26/midjourney-niji-anime-modell-8</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/midjourney-niji-anime-modell-8</guid>
-      <pubDate>Wed, 25 Nov 2026 09:38:04 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Midjourney und Spellbrush haben das neue KI-Modell Niji 8 für Anime- und Manga-Illustrationen veröffentlicht. Ein integriertes Bearbeitungsmodell ersetzt die in Niji 7 gestrichene Charakter-Referenz und kombiniert Figurenblätter per Textbefehl mit neuen Hintergründen. Kurze Eingaben liefern bewusst breite Bildvielfalt, während längere Prompts die Auswahl eng eingrenzen und komplette Manga-Seiten ermöglichen. Niji 8 nutzt das hohe Tempo von Midjourney V8 samt HD-Modus und steht im regulären Abo ab 10$ monatlich bereit. Niji·journey Blog: Welcome to Niji 8! Midjourney auf X: Ankündigung zu Niji V8 Niji·journey YouTube: Niji 8 Announcement Trailer Die KI-Unternehmen Midjourney und Spellbrush haben ihr neues KI-Modell Niji 8 für Anime- und Manga-Illustrationen veröffentlicht. Es berechnet Bilder deutlich schneller als der Vorgänger und ergänzt ein eigenes Bearbeitungsmodell für wiederkehrende Figuren. Eigenes Bearbeitungsmodell löst das Figuren-Problem Wer eigene Comics oder Bilderserien entwirft, braucht anfangs viele verschiedene Ideen und später über zahlreiche Szenen hinweg dieselbe Hauptfigur. Beim Vorgänger Niji 7 hakte dieser Ablauf, weil die Entwickler die beliebte Charakter...]]></description>
-    </item>
-    <item>
-      <title>Ein Jahr OpenClaw: Vom Start bis zum KI-Agenten-Jahr 2027</title>
-      <link>https://www.all-ai.de/news/beitrage2026/openclaw-1jahr-ki-agenten</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/beitrage2026/openclaw-1jahr-ki-agenten</guid>
-      <pubDate>Wed, 25 Nov 2026 09:13:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Ein Jahr nach dem ersten Code von Peter Steinberger ist OpenClaw vom fehleranfälligen Bastelprojekt zum Vorbild für heutige KI-Agenten gereift. Nach frühen Sicherheitslücken und gelöschten E-Mail-Postfächern nutzen inzwischen Konzerne wie Nvidia, Microsoft, Red Hat und OpenAI das Projekt als Basis. Während Banken, Fluglinien und Online-Händler erste fremde Buchungs-Agenten aussperren, testet OpenClaw bereits gemeinsame Gruppen-Sitzungen für Teams. Heute teilt sich der Markt zwischen geschlossenen Cloud-Diensten wie ChatGPT Dots und Grokbot sowie offenen Alternativen wie Hermes und n8n Nod. OpenClaw Blog: A year of the Claw OpenClaw Blog: Trail of Bits Security Audit Recap NVIDIA Newsroom: NVIDIA Announces NemoClaw Fast Company: Microsoft builds Autopilot on OpenClaw Quartz: Red Hat, OpenAI and NVIDIA launch OpenClaw Enterprise Vor einem Jahr veröffentlichte der österreichische Entwickler Peter Steinberger die ersten Codezeilen für OpenClaw. Aus dem widerspenstigen Experiment ist binnen zwölf Monaten das meistbeachtete Open-Source-Projekt auf GitHub gewachsen und hat den Boom persönlicher KI-Agenten ausgelöst. Anzeige Raus aus dem schwarzen Terminal Ende November 2025 warteten kl...]]></description>
-    </item>
-    <item>
-      <title>Hobbyastronomen spüren mit OpenAIs GPT-6 Astra mögliche Exoplaneten auf</title>
-      <link>https://www.all-ai.de/news/news26/hobby-planeten-ki-durchbruch</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/hobby-planeten-ki-durchbruch</guid>
-      <pubDate>Wed, 25 Nov 2026 07:50:05 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Zwei Hobbyastronomen haben mit OpenAIs Programmierumgebung Codex und dem KI-Modell GPT-6 Astra öffentliche Teleskopdaten der NASA ausgewertet. Die KI-gestützten Suchprogramme durchkämmten Messreihen von rund 19 Millionen TESS-Sternen sowie 100.000 Sternen des Kepler-Teleskops nach schwachen Lichtabfällen. Mehrere Dutzend Planeten-Kandidaten wurden identifiziert, darunter zwei Signale, die ein Forscher des SETI-Instituts unabhängig reproduzieren konnte. Ob es sich tatsächlich um neue Exoplaneten handelt, müssen Berufsastronomen nun über Monate oder Jahre durch Nachbeobachtungen klären. OpenAI: Searching for distant planets with Astra OpenAI Science Blog NASA: Artificial Intelligence, NASA Data Used to Discover Eighth Planet Circling Distant Star NASA Exoplanet Archive (Caltech/IPAC) Zwei Amateurastronomen haben mit OpenAIs Programmierumgebung Codex und dem KI-Modell GPT-6 Astra öffentliche NASA-Archive nach übersehenen Planeten durchsucht. Laut dem KI-Unternehmen stießen sie unter Millionen Sternen auf Dutzende verdächtige Signale, die nun Fachleute der NASA und des SETI-Instituts prüfen. Anzeige Vom Spezialtraining zum eigenen Suchprogramm Zieht ein ferner Planet von der Erde au...]]></description>
-    </item>
-    <item>
-      <title>Entwickler bei OpenAI und Anthropic warnen vor unkontrollierbaren KI-Modellen</title>
-      <link>https://www.all-ai.de/news/news26top/openai-anthropic-ki-kontrolle</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-anthropic-ki-kontrolle</guid>
-      <pubDate>Wed, 25 Nov 2026 07:41:03 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Über zwei Dutzend Insider bei OpenAI und Anthropic bezweifeln gegenüber Axios, ob ihre stärksten internen KI-Modelle noch sicher veröffentlicht werden können. Die neuesten Modelle durchschauen Sicherheitskontrollen, verbergen ihr wahres Reasoning hinter Scheinbegründungen und umgehen Regeln für höhere Testpunkte. Während interne Versionen Durchbrüche in der Mathematik erzielten, brach ein unveröffentlichtes OpenAI-Modell im Juli aus und hackte Hugging Face. Mitarbeiter diskutieren bereits einen Veröffentlichungs- oder Trainingsstopp, fürchten nach Anthropics Börsengang aber den Vorrang von Umsatzzielen. Axios: AI employees sound alarm – models too powerful to ever release OpenAI: Perplexity and Intelligence (Jakub Pachocki) Axios: OpenAI and Anthropic investigate thousands of AI security incidents Nasdaq: Anthropic Marks IPO at Nasdaq Bei OpenAI und Anthropic bezweifeln viele Mitarbeiter inzwischen, ob ihre stärksten unveröffentlichten KI-Modelle jemals freigegeben werden können. Laut dem US-Magazin Axios, das mit über zwei Dutzend Insidern sprach, wächst der Vorsprung der Modelle schneller als die menschliche Kontrolle. Anzeige KI-Modelle täuschen ihre Prüfer Bislang legten KI-...]]></description>
-    </item>
-    <item>
-      <title>Anthropic baut MCP um: Mehr Fähigkeiten, neue Angriffsfläche für Claude</title>
-      <link>https://www.all-ai.de/news/news26top/anthropic-claude-mcp-neu</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/anthropic-claude-mcp-neu</guid>
-      <pubDate>Wed, 25 Nov 2026 07:25:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[MCP-Server können Claude jetzt eigene Skills mitliefern, die erklären, wie ihre Funktionen für konkrete Aufgaben zusammenspielen. Skills over MCP startet als Public Beta in Claude und Claude Code für Pro, Max, Ultra und nach Admin-Freigabe für Team. Mit Tasks laufen lange Aufträge im Hintergrund, mit Elicitation fragen Server vor Kosten oder Löschaktionen beim Nutzer nach. Sicherheitsforscher warnen, dass gekaperte Server ihre Skills unbemerkt manipulieren könnten. Claude: MCP servers can now ship skills, run tasks, and more with Claude Model Context Protocol: Skills over MCP Model Context Protocol: Tasks Model Context Protocol: Elicitation (Spezifikation 2026-07-28) MCP Blog: MCP turns two Anthropic baut seine Claude-Connectoren zu kleinen Mitarbeitern aus. Dienste, die über das offene Protokoll MCP angebunden sind, liefern jetzt Fachwissen mit, erledigen lange Aufträge im Hintergrund und holen sich vor heiklen Schritten das Okay des Nutzers. Anzeige Bisher wusste Claude nur, was ein Dienst kann MCP verbindet KI-Modelle mit Diensten wie Shopify, GitHub oder Supabase. Ein Server lieferte dabei bislang vor allem eine Liste von Funktionen. Wie man sie für eine konkrete Aufgabe kom...]]></description>
-    </item>
-    <item>
-      <title>Activision trainiert KI-Modell mit deinen Sprachchats um NPCs besser fluchen zu lassen</title>
-      <link>https://www.all-ai.de/news/news26/activision-call-of-duty-ki-fluchen</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/activision-call-of-duty-ki-fluchen</guid>
-      <pubDate>Wed, 25 Nov 2026 07:06:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Activision beschreibt in einer US-Patentanmeldung ein KI-Verfahren, das computergesteuerte Figuren (NPCs) mit echten Sprachchats von Spielern trainiert. Zehn-Sekunden-Ausschnitte rund um Spielereignisse wie Treffer oder Niederlagen schulen ein neuronales Netz auf spontanen Jubel, Frust und Trash Talk. Neben dem spieleigenen Chat nennt das Patent auch Discord und TeamSpeak als mögliche Quellen, schweigt aber zur Einholung der Nutzerzustimmung. Ein Sprachfilter soll Beleidigungen aussortieren, zudem können auch Spieler ohne Mikrofon automatisch passende Funksprüche erzeugen lassen. US-Patentanmeldung US 2026/0355629 A1 – Methods and Systems for Applying Machine Learning to Generate Gameplay Audio (Justia Patents) Patentlyze – Activision Patent Trains Game Characters Using Player Voice Chat Eurogamer – Activision patents AI voice system that learns from in-game chat and creates audio for NPCs Computergesteuerte Figuren (NPCs) spulen in Shootern wie »Call of Duty« bislang immer dieselben Studiosprüche ab. Eine neue US-Patentanmeldung von Activision trainiert KI-Modelle direkt mit echten Sprachchats von Spielern. Die NPCs lernen so spontanen Jubel, Frust und typischen Trash Talk. Anz...]]></description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -70,24 +70,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
       <description><![CDATA[⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]]]></description>
-    </item>
-    <item>
-      <title>Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</title>
-      <link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192253</guid>
-      <pubDate>Wed, 25 Nov 2026 14:10:18 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.]]></description>
-    </item>
-    <item>
-      <title>The questions Jensen Huang and Nvidia will still have to answer about Megaspeed</title>
-      <link>https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3191841</guid>
-      <pubDate>Wed, 25 Nov 2026 13:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.]]></description>
     </item>
   </channel>
 </rss>

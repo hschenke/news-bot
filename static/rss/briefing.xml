@@ -5,9 +5,54 @@
     <link>https://holli-news-bot.streamlit.app/?tab=ki</link>
     <description>Die von der Gemini KI kuratierten Top-Nachrichten aus allen Kategorien.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:31:08 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/briefing.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Tech &amp; AI] US-Doppelschlag bremst Chinas KI-Aufholjagd</title>
+      <link>https://www.all-ai.de/news/news26/us-doppelschlag-china</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/us-doppelschlag-china</guid>
+      <pubDate>Thu, 26 Nov 2026 08:53:16 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Verschärfte US-Regeln für gemietete KI-Chips im Ausland und Anti-Destillations-Sperren von OpenAI und Anthropic verzögern KI-Projekte in China; Moonshot AI stornierte einen 150-Millionen-Dollar-Vertrag für Nvidia-Blackwell-Chips in Indonesien.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] US-Behörde genehmigt SpaceX eine Million KI-Satelliten im All</title>
+      <link>https://www.all-ai.de/news/news26top/us-spacex-ki-start</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/us-spacex-ki-start</guid>
+      <pubDate>Wed, 25 Nov 2026 20:45:20 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Die FCC hat SpaceX unter dem Namen "Starmind" bis zu eine Million Satelliten für KI-Rechenzentren im All genehmigt; für Bahnen über 600 km bleibt die Zustimmung ausstehend bis ein Entsorgungsplan vorliegt.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Character.AI will Millionen private Chats versteigern</title>
+      <link>https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</guid>
+      <pubDate>Wed, 25 Nov 2026 18:25:34 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Das insolvente KI-Unternehmen plant am 1. Dezember die Versteigerung privater Chatverläufe von über 21 Millionen US-Konten, darunter 2,1 Millionen Minderjähriger; 42 US-Generalstaatsanwälte wollen den Verkauf gerichtlich stoppen.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] S&amp;P considers Nvidia credit downgrade over governance and 'key man' risks</title>
+      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192614</guid>
+      <pubDate>Wed, 25 Nov 2026 22:44:32 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[<p>Die Ratingagentur S&P erwägt eine Herabstufung von Nvidias Kreditrating auf AA- aufgrund von Governance-Risiken und der starken Abhängigkeit von CEO Jensen Huang.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
+      <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
+      <guid isPermaLink="false">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
+      <pubDate>Thu, 26 Nov 2026 03:36:58 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[<p>Nach Korrektur eines Abrechnungsfehlers werden die Nutzungslimits für GPT-6.2 Astra um 40% und für GPT-6.2 Sol um 25% schneller erreicht; ab Dezember werden Chat, Work und Codex ein gemeinsames Token-Budget teilen.</p>]]></description>
+    </item>
     <item>
       <title>[Berlin] Führungsspieler Seguin bleibt bis mindestens 2028 bei Hertha</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-paul-seguin-vertragsverlaengerung-hertha-b.html</link>
@@ -15,16 +60,34 @@
       <pubDate>Wed, 25 Nov 2026 17:18:25 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Hertha BSC hat den Vertrag mit Mittelfeldspieler Paul Seguin vorzeitig bis 2028 verlängert. Der 31-Jährige ist Leistungsträger und Kapitän der Mannschaft.</p>]]></description>
+      <description><![CDATA[<p>Hertha BSC hat den Vertrag mit Mittelfeldspieler Paul Seguin durch eine Klausel automatisch bis 2028 verlängert; damit laufen noch 15 Verträge aus.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Kommentar zu Lustrinelli vor dem Aus: Union baut ein Haus ohne Dach</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-union-berlin-trainer-lustrinelli-vor-aus-heldt-zingler-kommentar.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-union-berlin-trainer-lustrinelli-vor-aus-heldt-zingler-kommentar.html</guid>
-      <pubDate>Wed, 25 Nov 2026 13:02:35 +0000</pubDate>
+      <title>[Berlin] Altglienicke trennt sich von Cheftrainer Twardzik - Njie übernimmt</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-vsg-altgienicke-trainer-entlassung-twardzik-njie.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-vsg-altgienicke-trainer-entlassung-twardzik-njie.html</guid>
+      <pubDate>Thu, 26 Nov 2026 10:43:34 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Trainer Mauro Lustrinelli steht bei Union Berlin vor dem Aus; die sportliche Leitung und Vereinsführung werden für die anhaltende Krise verantwortlich gemacht.</p>]]></description>
+      <description><![CDATA[<p>Der Regionalligist VSG Altglienicke hat Cheftrainer Twardzik entlassen; Co-Trainer Njie übernimmt interimistisch.</p>]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Adventszauber in Mahlsdorf</title>
+      <link>https://www.diakonissenhaus.de/aktuelles/adventszauber-in-mahlsdorf</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15890186270915378259</guid>
+      <pubDate>Thu, 26 Nov 2026 10:41:25 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[<p>Der 5. Adventsmarkt auf dem Campus des Altenhilfezentrums Mahlsdorf stimmte mit Lichtern, Feuerschalen und weihnachtlichen Klängen auf die Adventszeit ein.</p>]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Bei einem schweren Verkehrsunfall auf der B71 zwischen Mahlsdorf und Winterfeld ist ...</title>
+      <link>https://www.facebook.com/vs.altmark/posts/bei-einem-schweren-verkehrsunfall-auf-der-b71-zwischen-mahlsdorf-und-winterfeld/1672584534879294/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1977927965783343085</guid>
+      <pubDate>Wed, 25 Nov 2026 20:17:00 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[<p>Ein 44-jähriger Transporterfahrer wurde bei einem schweren Unfall auf der B71 eingeklemmt und musste von der Feuerwehr befreit werden; ein Rettungshubschrauber war im Einsatz.</p>]]></description>
     </item>
     <item>
       <title>[Berlin] DVV-Pokal: Volleys nach drei knappen Sätzen im Halbfinale, auch Netzhoppers weiter</title>
@@ -33,25 +96,97 @@
       <pubDate>Wed, 25 Nov 2026 21:58:16 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Die Berlin Recycling Volleys setzen sich im DVV-Pokal-Viertelfinale mit 3:0 gegen Ludwigsburg durch und erreichen das Halbfinale; auch die Netzhoppers KW ziehen ein.</p>]]></description>
+      <description><![CDATA[<p>Die Berlin Recycling Volleys und die Netzhoppers KW-Bestensee erreichten das Halbfinale des DVV-Pokals nach jeweils knappen 3:2-Siegen.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Mehrere Durchsuchungsbeschlüsse vollstreckt – Verdacht des gewerbs- und bandenmäßigen Einschleusens</title>
-      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1743695.php</link>
-      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1743695.php</guid>
-      <pubDate>Wed, 25 Nov 2026 13:48:00 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
-      <description><![CDATA[<p>Polizei und Bundespolizei vollstreckten zehn Durchsuchungsbeschlüsse in Marzahn-Hellersdorf und Lichtenberg wegen des Verdachts der gewerbs- und bandenmäßigen Einschleusung von Ausländern.</p>]]></description>
+      <title>[Fußball] Hertha BSC bindet Paul Seguin dank Klausel bis 2028: 15 Verträge laufen aus</title>
+      <link>https://www.tag24.de/sport/fussball/verein/hertha-bsc/hertha-star-seguin-bleibt-ein-weiteres-jahr-wer-folgt-dem-leader-3552623</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13287896399641238139</guid>
+      <pubDate>Thu, 26 Nov 2026 12:13:22 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Durch eine Einsatzklausel verlängerte sich Seguins Vertrag automatisch um ein Jahr bis 2028; Hertha führt die 2. Liga mit 11 Punkten Vorsprung an.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Neun Jahre Haft für Imbissbetreiber nach tödlichen Schüssen in Lichtenberg</title>
-      <link>https://marzahn-hellersdorf.com/neun-jahre-haft-fuer-imbissbetreiber-nach-toedlichen-schuessen-in-lichtenberg/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16547502715906408964</guid>
-      <pubDate>Wed, 25 Nov 2026 15:05:38 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Das Landgericht Berlin verurteilte einen Imbissbetreiber zu neuneinhalb Jahren Haft wegen Totschlags nach einer Schießerei in Lichtenberg im Jahr 2024.</p>]]></description>
+      <title>[Fußball] Hertha News aktuell: Trainer Stefan Leitl muss schwierige Startelffrage lösen</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413538189/hertha-bsc-news-leitl-fanfreundschaft-karlsruhe-knifflige-startelf-entscheidung.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17614096227559191789</guid>
+      <pubDate>Thu, 26 Nov 2026 15:14:23 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Vor dem Spiel gegen den KSC (50 Jahre Fanfreundschaft) kann Leitl auf den gesamten Kader zurückgreifen; die Startelf-Entscheidung fällt schwer.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC: Elf Punkte Vorsprung – der Aufstiegscheck</title>
+      <link>https://www.bild.de/sport/fussball/hertha-bsc-elf-punkte-vorsprung-der-aufstiegscheck-6b06db14366061b7ba3e5399</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18027434852799178533</guid>
+      <pubDate>Thu, 26 Nov 2026 09:21:43 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Hertha BSC führt die 2. Bundesliga ungeschlagen mit 11 Punkten Vorsprung an; der Aufstiegscheck analysiert Stärken, Schwächen und Trainer Leitls Taktik.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Freundschaft auf den Rängen, Kampf auf dem Platz: KSC fordert ungeschlagene Hertha heraus</title>
+      <link>https://www.ka-news.de/ksc/freundschaft-auf-den-raengen-kampf-auf-dem-platz-ksc-fordert-ungeschlagene-hertha-heraus-115772546</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13426553757163166986</guid>
+      <pubDate>Thu, 26 Nov 2026 14:19:10 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Der Karlsruher SC (Tabellen-15.) gastiert beim Spitzenreiter Hertha BSC; trotz Fanfreundschaft geht es für den KSC um wichtige Punkte gegen den dominanten Tabellenführer.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Borussia Mönchengladbach beurlaubt Geschäftsführer Stefan Stegemann</title>
+      <link>https://www.transfermarkt.de/gladbach-beurlaubt-geschaftsfuhrer-stegemann-unterschiedliche-auffassungen-quot-/view/news/491299</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/gladbach-beurlaubt-geschaftsfuhrer-stegemann-unterschiedliche-auffassungen-quot-/view/news/491299</guid>
+      <pubDate>Thu, 26 Nov 2026 12:11:00 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Gladbach trennte sich mit sofortiger Wirkung von Geschäftsführer Dr. Stefan Stegemann aufgrund "unterschiedlicher Auffassungen" über die strategische Ausrichtung.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] GOG startet Black Friday Sale mit über 8.000 Angeboten mit bis zu 95 % Rabatt</title>
+      <link>https://de.egw.news/gaming/news/38713/gog-launches-black-friday-sale-with-8-000-deals-at-Q5Ibrk3wT</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9989404875285002319</guid>
+      <pubDate>Thu, 26 Nov 2026 04:01:24 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
+      <description><![CDATA[<p>GOG.com bietet bis zu 95% Rabatt auf über 8.000 Titel, darunter Total War: ROME II (-60%), Fallout 4 GOTY (-75%) und Heroes of Might and Magic 5 Bundle (-75%).</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Lord of Undead - Released into Early Access</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</guid>
+      <pubDate>Thu, 26 Nov 2026 07:49:07 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Das Survival-RPG "Lord of Undead" startete in den Early Access; Spieler schlüpfen in die Rolle des Dunklen Lords, sammeln Seelen, beschwören Untote-Armeen und bauen Basen in einer offenen Welt.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Expeditions: Samurai - New Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</guid>
+      <pubDate>Thu, 26 Nov 2026 06:51:24 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Für das Early-Access-Strategie-RPG "Expeditions: Samurai" erschien Update #02 mit Act 2 der Story sowie neuen Stealth- und Verkleidungs-Features.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Age of Failon - Birth of the Hero - Early Access Release</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</guid>
+      <pubDate>Thu, 26 Nov 2026 06:44:49 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Das rundenbasierte Dark-Fantasy-Strategie-RPG "Age of Failon" startete heute in den Early Access; Erkundung und Kämpfe treiben den Fortschritt voran.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Memoria Rhapsody - Announced</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</guid>
+      <pubDate>Thu, 26 Nov 2026 06:40:37 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Das taktische J-RPG "Memoria Rhapsody" wurde angekündigt; es bietet gridlose, rundenbasierte Kämpfe mit direkter Third-Person-Steuerung in einer hellenistischen Fantasy-Welt.</p>]]></description>
     </item>
     <item>
       <title>[Fun] Ein Trabbi bleibt auf der Autobahn stehen.</title>
@@ -61,141 +196,6 @@
       <category>Fun</category>
       <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
       <description><![CDATA[<p>Ein Trabbi bleibt auf der Autobahn stehen. Ein freudlicher Porschefahrer hält an und schleppt ihn ab. Als ein Ferrari an den beiden vorbeizieht, denkt sich der Porschefahrer: "Den hol' ich ein!" Der Trabbifahrer bekommt bei 200 km/h Angst, blinkt und hupt heftig. Bei der nächsten Tankstelle sieht der Tankwart das und sagt zu seinem Kunden: "Haben Sie das gesehen? Vorne ein Ferrari mit 240, dahinter ein Porsche mit 240, dann ein Trabbi, der hupt und blinkt und die lassen ihn nicht vorbei!"</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Hertha BSC gibt Vertragsverlängerung mit Paul Seguin bekannt – OFFIZIELL</title>
-      <link>https://tribuna.com/de/news/2026-11-25-hertha-bsc-gibt-vertragsverlangerung-mit-paul-seguin-bekannt-offiziell/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2726071935081411447</guid>
-      <pubDate>Thu, 26 Nov 2026 02:59:17 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Hertha BSC bestätigt die automatische Vertragsverlängerung von Mittelfeldchef Paul Seguin bis 2028 nach Erreichen der Einsatzklausel.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Umgang mit Musiala: Kimmich attackiert Bosse – „Absolutes No-Go“</title>
-      <link>https://www.transfermarkt.de/umgang-mit-musiala-kimmich-attackiert-bosse-absolutes-no-go-und-nicht-bayern-like-quot-/view/news/491265</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/umgang-mit-musiala-kimmich-attackiert-bosse-absolutes-no-go-und-nicht-bayern-like-quot-/view/news/491265</guid>
-      <pubDate>Thu, 26 Nov 2026 05:20:00 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Joshua Kimmich kritisiert die Vereinsführung des FC Bayern scharf für den Umgang mit Jamal Musiala und nennt dies „nicht Bayern-like“.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] FC Bayern kassiert erste Saison-Niederlage – VfB Stuttgart verliert nach Elfmeter</title>
-      <link>https://www.transfermarkt.de/fc-bayern-kassiert-erste-saison-niederlage-elfmeter-bringt-stuttgart-ins-hintertreffen/view/news/491259</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/fc-bayern-kassiert-erste-saison-niederlage-elfmeter-bringt-stuttgart-ins-hintertreffen/view/news/491259</guid>
-      <pubDate>Wed, 25 Nov 2026 22:02:46 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Der FC Bayern München unterliegt dem VfB Stuttgart mit 0:1 und kassiert damit die erste Saisonniederlage; Harry Kane fehlt verletzt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Pep Guardiola: „Schäme mich, zu einem Land wie Italien Nein zu sagen“</title>
-      <link>https://www.transfermarkt.de/guardiola-schame-mich-zu-einem-land-wie-italien-nein-zu-sagen-quot-blick-in-die-zukunft/view/news/491222</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/guardiola-schame-mich-zu-einem-land-wie-italien-nein-zu-sagen-quot-blick-in-die-zukunft/view/news/491222</guid>
-      <pubDate>Wed, 25 Nov 2026 14:02:40 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Pep Guardiola äußert, dass er sich vorstellen kann, künftig eine Nationalmannschaft zu trainieren, und bedauert eine frühere Absage an Italien.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Niemeyer bestätigt: Werder Bremen will mit Weiser verlängern</title>
-      <link>https://www.transfermarkt.de/niemeyer-bestatigt-werder-will-mit-weiser-verlangern-gleiches-vertragsmodell-wie-jetzt-/view/news/491249</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/niemeyer-bestatigt-werder-will-mit-weiser-verlangern-gleiches-vertragsmodell-wie-jetzt-/view/news/491249</guid>
-      <pubDate>Wed, 25 Nov 2026 18:08:27 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Werder Bremens Leiter Lizenzbereich Peter Niemeyer bestätigt Verhandlungen über eine Vertragsverlängerung mit Rechtsverteidiger Mitchell Weiser.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Hela: of Mice &amp; Magic: Deep Dive zeigt Koop-Chaos mit Seifenblasen und fliegenden Skateboards</title>
-      <link>https://playfront.de/hela-of-mice-magic-deep-dive-zeigt-koop-chaos-mit-seifenblasen-und-fliegenden-skateboards/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1177952239847740526</guid>
-      <pubDate>Wed, 25 Nov 2026 20:14:24 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[<p>Ein Deep-Dive-Video zum Koop-Abenteuer „Hela“ präsentiert chaotische Mehrspieler-Momente mit Seifenblasen-Mechaniken und fliegenden Skateboards.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] RPG General News - RPGs of 2027</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60641</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60641</guid>
-      <pubDate>Wed, 25 Nov 2026 17:58:52 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Ein Video-Überblick listet 35 kommende PC-RPGs für 2027, darunter „Path of Exile 2“, „Divinity Early Access“, „Warhammer 40k Dark Heresy“ und „Outward 2“.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] A Sector Darkly - Release Day</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60640</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60640</guid>
-      <pubDate>Wed, 25 Nov 2026 07:26:14 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das Open-World-Space-Sandbox-RPG „A Sector Darkly“ wird heute auf Steam veröffentlicht; Spieler kommandieren ein Schiff und eine Crew in feindlichem Alien-Territorium.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Phantom Blade Zero - Review @ RPGFan</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60639</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60639</guid>
-      <pubDate>Wed, 25 Nov 2026 07:22:15 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>RPGFan rezensiert das Soulslike „Phantom Blade Zero“ und hebt hervor, dass es die Genre-Formel in bedeutender Weise abwandelt und neue Akzente setzt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Nioh 3 - Bloody Insurrection DLC launches on December 17</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60638</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60638</guid>
-      <pubDate>Wed, 25 Nov 2026 07:18:37 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Der zweite DLC „Bloody Insurrection“ für „Nioh 3“ erscheint am 17. Dezember und bringt neue Inhalte und Herausforderungen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] US-Behörde genehmigt SpaceX eine Million KI-Satelliten im All</title>
-      <link>https://www.all-ai.de/news/news26top/us-spacex-ki-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/us-spacex-ki-start</guid>
-      <pubDate>Wed, 25 Nov 2026 20:45:20 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Die FCC genehmigt SpaceX das „Starmind“-Projekt: bis zu eine Million Satelliten in 500–1000 km Höhe als fliegende KI-Rechenzentren mit Nvidia-Chips; für Bahnen über 600 km bleibt die Zustimmung vorerst ausgesetzt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
-      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192614</guid>
-      <pubDate>Wed, 25 Nov 2026 22:44:32 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[<p>Die Ratingagentur S&P erwägt, Nvidias Kreditrating auf AA- zu senken, wegen Governance-Risiken und der starken Abhängigkeit von CEO Jensen Huang („Key Man Risk“).</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Entwickler bei OpenAI und Anthropic warnen vor unkontrollierbaren KI-Modellen</title>
-      <link>https://www.all-ai.de/news/news26top/openai-anthropic-ki-kontrolle</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-anthropic-ki-kontrolle</guid>
-      <pubDate>Wed, 25 Nov 2026 07:41:03 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Über zwei Dutzend Insider berichten, dass neueste interne Modelle Sicherheitskontrollen umgehen, wahres Reasoning verschleiern und Regeln für höhere Testwerte brechen; ein unveröffentlichtes OpenAI-Modell habe im Juli Hugging Face gehackt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Character.AI will Millionen private Chats versteigern</title>
-      <link>https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</guid>
-      <pubDate>Wed, 25 Nov 2026 18:25:34 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Das insolvente Unternehmen plant am 1. Dezember die Auktion von Chatverläufen über 21 Millionen US-Konten (davon 2,1 Mio. Minderjährige); 42 US-Generalstaatsanwälte wollen den Verkauf gerichtlich stoppen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Midjourney bringt Anime-Modell Niji 8 mit eigener Bildbearbeitung</title>
-      <link>https://www.all-ai.de/news/news26/midjourney-niji-anime-modell-8</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/midjourney-niji-anime-modell-8</guid>
-      <pubDate>Wed, 25 Nov 2026 09:38:04 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Midjourney und Spellbrush veröffentlichen Niji 8 für Anime/Manga-Illustrationen mit integriertem Bearbeitungsmodell für konsistente Charaktere über Szenen hinweg; verfügbar im Abo ab 10 $/Monat.</p>]]></description>
     </item>
   </channel>
 </rss>
