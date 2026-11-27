@@ -5,62 +5,35 @@
     <link>https://holli-news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Witcher 3 - Mod Support Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</guid>
-      <pubDate>Thu, 26 Nov 2026 14:36:49 GMT</pubDate>
+      <title>Pathfinder: Abomination Vaults - Cancelled</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</guid>
+      <pubDate>Fri, 27 Nov 2026 09:34:02 GMT</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The Witcher 3 Remastered is getting Cross-Platform Mod Support: The Witcher 3 Wild Hunt Remastered - Official Cross-Platform Mod Support Trailer]]></description>
+      <description><![CDATA[Mortismal Gaming reports that Pathfinder: Abomination Vaults has been cancelled: Pathfinder: Abomination Vaults Is Almost Certainly Dead]]></description>
     </item>
     <item>
-      <title>Diablo 4 - Season 16 launches on December 1</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</guid>
-      <pubDate>Thu, 26 Nov 2026 14:23:59 GMT</pubDate>
+      <title>Final Fantasy Resonance - Devs surprised</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</guid>
+      <pubDate>Fri, 27 Nov 2026 09:27:30 GMT</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Grind Less Gaming reports that Diablo IV season 16 Tyrael's Gambit launches on December 1: Diablo 4 Season 16 Tyrael's Gambit: Everything New in 6 Minutes]]></description>
+      <description><![CDATA[Godisageek reports that Final Fantasy Resonance devs were surprised about the warm reception of their game: Final Fantasy Resonance Developers Admit Warm Reception Caught Them Off Guard Developers of Final Fantasy Resonance say the warm welcome for their HD-2D, turn-based adventure outstripped anything they had predicted....]]></description>
     </item>
     <item>
-      <title>Lord of Undead - Released into Early Access</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</guid>
-      <pubDate>Thu, 26 Nov 2026 07:49:07 GMT</pubDate>
+      <title>Underkeep - Review @ RPGFan</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</guid>
+      <pubDate>Fri, 27 Nov 2026 08:58:37 GMT</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The survival RPG Lord of Undead has been released into Early Access: Lord of Undead - Official Gameplay Trailer Destroy the castle on the hill in this grim RPG where you play as the Dark Lord. Collect souls, summon an undead army, master dark abilities, craft powerful gear, build your base, and desecrate the lands of a vast open world....]]></description>
-    </item>
-    <item>
-      <title>Expeditions: Samurai - New Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</guid>
-      <pubDate>Thu, 26 Nov 2026 06:51:24 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[A new trailer for the Early Access title Expeditions: Samurai: Expeditions: Samurai - Official Early Access Update #02 Trailer Watch the latest trailer for Expeditions: Samurai for a closer look at what to expect with Update 2, which brings Act 2 of the story, as well as new stealth and disguise features to the strategy RPG....]]></description>
-    </item>
-    <item>
-      <title>Age of Failon - Birth of the Hero - Early Access Release</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</guid>
-      <pubDate>Thu, 26 Nov 2026 06:44:49 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The strategy RPG Age of Failon - Birth of the Hero will be released into Early Access today: Age of Failon – Birth of the Hero | Official Gameplay Trailer | Early Access 2026 Age of Failon is a turn-based dark fantasy strategy RPG where exploration and battle drive your progression....]]></description>
-    </item>
-    <item>
-      <title>Memoria Rhapsody - Announced</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</guid>
-      <pubDate>Thu, 26 Nov 2026 06:40:37 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The tactical J-RPG Memoria Rhapsody has been announced: Memoria Rhapsody - Official Announcement Trailer Outmaneuver enemies in gridless, turn-based battles with direct third-person control and active defenses. Build your party and lead them through a land divided by rival warlords in this story-driven tactical JRPG set in a Hellenistic fantasy world....]]></description>
+      <description><![CDATA[RPGFan reviewed Underkeep: Review: Underkeep Get your grid-shuffling boots on, and your auto-mapping ready, because Underkeep is ready for you to delve into its classic, misty fantasy of abandoned crypts and strange rituals, along with a side helping of environmental puzzles and customised party creation....]]></description>
     </item>
   </channel>
 </rss>

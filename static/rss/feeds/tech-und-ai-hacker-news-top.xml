@@ -5,62 +5,9 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tell HN: Happy Thanksgiving</title>
-      <link>https://news.ycombinator.com/item?id=50655664</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50655664</guid>
-      <pubDate>Thu, 26 Nov 2026 14:26:54 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>45°C inlets just killed the chiller. Most people haven't noticed yet</title>
-      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
-      <guid isPermaLink="false">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</guid>
-      <pubDate>Thu, 26 Nov 2026 13:48:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Head of Software Engineering – NOX Metals</title>
-      <link>https://news.ycombinator.com/item?id=50654353</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50654353</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Euro-Office comes to your desktop with the Nextcloud Office Desktop app</title>
-      <link>https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</link>
-      <guid isPermaLink="false">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</guid>
-      <pubDate>Thu, 26 Nov 2026 11:50:49 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Intel One Mono font</title>
-      <link>https://github.com/intel/intel-one-mono</link>
-      <guid isPermaLink="false">https://github.com/intel/intel-one-mono</guid>
-      <pubDate>Thu, 26 Nov 2026 10:11:01 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Moat: Your OpenRouter Replacement</title>
-      <link>https://commandcode.ai/moat</link>
-      <guid isPermaLink="false">https://commandcode.ai/moat</guid>
-      <pubDate>Thu, 26 Nov 2026 06:32:48 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
+
   </channel>
 </rss>

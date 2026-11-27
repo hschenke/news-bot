@@ -5,53 +5,107 @@
     <link>https://holli-news-bot.streamlit.app/?tab=ki</link>
     <description>Die von der Gemini KI kuratierten Top-Nachrichten aus allen Kategorien.</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:20:38 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/briefing.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Berlin] So bunt ist Lichtenberg: Über 100 Jahre queeres Leben im Bezirk</title>
-      <link>https://www.tip-berlin.de/stadt/geschichte/queeres-leben-lichtenberg/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16913746459864713014</guid>
-      <pubDate>Fri, 27 Nov 2026 02:13:18 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Der Artikel beleuchtet die Geschichte queeren Lebens in Lichtenberg anhand von Persönlichkeiten wie Michael Eggert, Charlotte von Mahlsdorf und Peter Rausch sowie der Homosexuellen Interessengemeinschaft Berlin (HIB).</p>]]></description>
+      <title>[Tech &amp; AI] Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192803</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[<p>Nvidia hat Herstellungspartner angewiesen, Server-Lieferungen nach Malaysia, Singapur, Thailand und Indonesien zu stoppen, da die USA den Druck erhöhen, KI-Chips aus China fernzuhalten.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] 2. Bundesliga: Unschlagbare Hertha empfängt Freunde vom Karlsruher SC</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13811671807888014645</guid>
-      <pubDate>Thu, 26 Nov 2026 19:58:22 +0000</pubDate>
-      <category>Berlin</category>
+      <title>[Tech &amp; AI] Grand Theft Auto VI proves why efficiency isn't a virtue</title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190829</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[<p>Am selben Tag, an dem Anthropic an die Börse ging, wurde das aufwendig produzierte Videospiel GTA VI zu einem der erfolgreichsten Entertainment-Starts aller Zeiten.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+      <link>https://huggingface.co/blog/video-trainium3</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/video-trainium3</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
+      <description><![CDATA[<p>Hugging Face demonstriert Videoerzeugung mit dem LTX-2.5-Modell auf AWS Trainium3-Chips und zeigt Performance-Vergleiche zu GPU-basierten Inferenz-Pipelines.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC: Keeper Gersbeck über den Aufstieg, Bayern und sein Pech bei Elfmetern</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413780521/interview-gersbeck.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15770237383506680418</guid>
+      <pubDate>Fri, 27 Nov 2026 14:07:18 +0000</pubDate>
+      <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Hertha BSC empfängt den Karlsruher SC zum 50-jährigen Jubiläum der Fanfreundschaft; Trainer Stefan Leitl zeigt sich optimistisch, die Ungeschlagen-Serie fortzusetzen.</p>]]></description>
+      <description><![CDATA[<p>Torhüter Marius Gersbeck spricht vor dem Spiel gegen den befreundeten KSC über den Aufstiegsweg, seine Zeit beim FC Bayern und seine Elfmeter-Statistik.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Union in Mainz: Lustrinellis Schicksalsspiel bei Urs Fischer</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-mainz-05-union-berlin-mauro-lustrinelli-urs-fischer.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-mainz-05-union-berlin-mauro-lustrinelli-urs-fischer.html</guid>
-      <pubDate>Thu, 26 Nov 2026 18:54:28 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Union Berlin gastiert beim 1. FSV Mainz 05; für Trainer Mauro Lustrinelli ist es ein wichtiges Duell gegen seinen Landsmann und ehemaligen Vorgesetzten Urs Fischer.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Bilanz nach Eklat bei Hertha-Spiel: Urteile und Stadionverbote</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11287646376483573152</guid>
-      <pubDate>Thu, 26 Nov 2026 17:44:52 +0000</pubDate>
-      <category>Berlin</category>
+      <title>[Fußball] Hertha BSC: Leitl schwärmt von Seguin - "Er ist der strategische Fixpunkt"</title>
+      <link>https://www.tipico.de/wett-tipps/sportwetten-news/hertha-bsc-leitl-schwaermt-von-seguin-er-ist-der-strategische-fixpunkt</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17667680064318355243</guid>
+      <pubDate>Fri, 27 Nov 2026 11:28:50 +0000</pubDate>
+      <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Zehn Monate nach den Ausschreitungen beim Spiel Hertha BSC gegen FC Schalke 04 wurden Urteile gesprochen, Ermittlungen teils eingestellt und Stadionverbote verhängt.</p>]]></description>
+      <description><![CDATA[<p>Trainer Stefan Leitl hebt die taktische Bedeutung von Mittelfeldspieler Paul Seguin hervor, der das Aufstiegs-Team als zentraler Spielmacher prägt.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Fußgängerin in Fennpfuhl von Tram erfasst und lebensgefährlich verletzt</title>
-      <link>https://marzahn-hellersdorf.com/fussgaengerin-in-fennpfuhl-von-tram-erfasst-und-lebensgefaehrlich-verletzt/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7393542921795245477</guid>
-      <pubDate>Thu, 26 Nov 2026 15:34:36 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Eine Fußgängerin wurde im Ortsteil Fennpfuhl von einer Straßenbahn erfasst und erlitt lebensgefährliche Verletzungen; die Polizei ermittelt zum Unfallhergang.</p>]]></description>
+      <title>[Fußball] Bis 2028: Ex-Schalker verlängert Vertrag – Rückkehr rückt näher</title>
+      <link>https://www.ruhr24.de/s04/fc-schalke-04-news-paul-seguin-hertha-bsc-rueckkehr-bundesliga-vertrag-verlaengerung-klausel-s04-94611215.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:297590941280903565</guid>
+      <pubDate>Fri, 27 Nov 2026 11:43:52 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Paul Seguin hat seinen Vertrag bei Hertha BSC bis 2028 verlängert; mit dem wahrscheinlichen Aufstieg könnte er bald auf seinen Ex-Klub Schalke 04 treffen.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Nach Diskriminierungsvorfällen: Union Berlin hält an Jens Härtel fest</title>
+      <link>https://www.transfermarkt.de/union-berlin-halt-an-hartel-fest-letzte-wochen-zur-reflexion-und-weiterbildung-genutzt-quot-/view/news/491354</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/union-berlin-halt-an-hartel-fest-letzte-wochen-zur-reflexion-und-weiterbildung-genutzt-quot-/view/news/491354</guid>
+      <pubDate>Fri, 27 Nov 2026 10:11:02 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Nach mehrwöchigem Funktionsverbot wegen diskriminierender Äußerungen erhält Trainer Jens Härtel beim 1. FC Union Berlin eine zweite Chance.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] FC Bayern: Musiala erneut verletzt – Alte Verletzung aufgebrochen</title>
+      <link>https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</guid>
+      <pubDate>Fri, 27 Nov 2026 14:34:37 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Jamal Musiala fällt beim FC Bayern für mehrere Wochen aus; bei dem 23-Jährigen wurde eine Muskelverletzung im rechten Oberschenkel diagnostiziert, eine alte Verletzung ist wieder aufgebrochen.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Pathfinder: Abomination Vaults - Cancelled</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</guid>
+      <pubDate>Fri, 27 Nov 2026 09:34:02 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Mortismal Gaming berichtet, dass das CRPG "Pathfinder: Abomination Vaults" eingestellt wurde und als "fast sicher tot" gilt.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Final Fantasy Resonance - Devs surprised</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</guid>
+      <pubDate>Fri, 27 Nov 2026 09:27:30 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Die Entwickler von Final Fantasy Resonance zeigen sich überrascht von der sehr positiven Resonanz auf ihr HD-2D-Turn-Based-Adventure, die alle Erwartungen übertraf.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Underkeep - Review @ RPGFan</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</guid>
+      <pubDate>Fri, 27 Nov 2026 08:58:37 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>RPGFan rezensiert den Dungeon-Crawler Underkeep mit Grid-basierter Erkundung, Umwelt-Rätseln und anpassbarer Partyerstellung im klassischen Fantasy-Setting.</p>]]></description>
     </item>
     <item>
       <title>[Fun] Sonntagmorgens. Der Vater will die Mutter</title>
@@ -63,121 +117,49 @@
       <description><![CDATA[<p>Sonntagmorgens. Der Vater will die Mutter besteigen, aber wohin mit dem fünfjährigen Sohn? Kurzerhand schickt der Vater ihn auf den Balkon: "Schau mal, was da so los ist und erzähl es uns." Der Vater ist gerade voll bei der Sache, als der Kleine ruft: "Schmidts haben sich ein neues Auto gekauft, einen Golf!" Keuchend antwortet der Vater: "Super, weiterschauen!" Zwei Minuten später meldet sich der Junior erneut: "Meiers bekommen gerade Besuch aus Freiburg!" Der Vater stöhnt: "O.k., beobachte weiter das Geschehen!" Nach weiteren drei Minuten verkündet der Kleine: "Die Meiers poppen gerade!" Der Vater: "Wie kommst du denn darauf?" - "Naja, die haben ihren Sohn auch gerade auf den Balkon geschickt."</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Weltmeister Häßler: „Hertha macht allen Klubs vor, wie es geht!“</title>
-      <link>https://www.bild.de/sport/fussball/weltmeister-haessler-hertha-macht-allen-klubs-vor-wie-es-geht-6b069f1ed4a4a3142c5729cb</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4298656189232049526</guid>
-      <pubDate>Fri, 27 Nov 2026 04:22:46 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Thomas Häßler lobt im BILD-Interview Herthas sportliche Entwicklung und eröffnet am Samstag eine Hertha-Kneipe in Berlin.</p>]]></description>
+      <title>[Berlin] 2. Bundesliga: Unschlagbare Hertha empfängt Freunde vom Karlsruher SC</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</guid>
+      <pubDate>Thu, 26 Nov 2026 19:52:23 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Exakt 50 Jahre Fanfreundschaft feiern Hertha BSC und Karlsruher SC am Samstag im Olympiastadion; Spitzenreiter Hertha ist seit 11 Spielen ungeschlagen (11 Siege, 0 Niederlagen).</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Herthas Aufgabe gegen Karlsruhe: Was Leitl egal ist und welches Ziel er verfolgt</title>
-      <link>https://www.fussballdaten.de/news/herthas-aufgabe-gegen-karlsruhe-was-leitl-egal-welches-ziel-er/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:806414978255972710</guid>
-      <pubDate>Thu, 26 Nov 2026 21:10:38 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Trainer Stefan Leitl betont vor dem Heimspiel gegen den KSC, dass ihn die Tabellenführung nicht interessiert; Fokus liegt auf der spielerischen Weiterentwicklung.</p>]]></description>
+      <title>[Berlin] Bilanz nach Eklat bei Hertha-Spiel: Urteile und Stadionverbote</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</guid>
+      <pubDate>Thu, 26 Nov 2026 17:46:25 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Zehn Monate nach den Ausschreitungen beim Zweitliga-Spiel Hertha BSC gegen FC Schalke 04 wurden Urteile gesprochen, Ermittlungen eingestellt und Stadionverbote verhängt.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Conference League: Inter Escaldes feiert historischen Sieg für Andorra</title>
-      <link>https://www.transfermarkt.de/2-0-gegen-kopenhagen-inter-escaldes-feiert-historischen-sieg-fur-andorras-fussball/view/news/491341</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/2-0-gegen-kopenhagen-inter-escaldes-feiert-historischen-sieg-fur-andorras-fussball/view/news/491341</guid>
-      <pubDate>Fri, 27 Nov 2026 05:54:03 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Der andorranische Klub Inter Club d'Escaldes besiegt den FC Kopenhagen 2:0 und schreibt Geschichte für den Fußball des kleinen Pyrenäenstaates.</p>]]></description>
+      <title>[Berlin] Union Berlin hält nach Diskriminierungsvorfällen an Härtel fest</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/bundesliga-union-berlin-vorwurf-diskriminierung-jens-haertel.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/bundesliga-union-berlin-vorwurf-diskriminierung-jens-haertel.html</guid>
+      <pubDate>Fri, 27 Nov 2026 09:24:00 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Nach mehrwöchigem Funktionsverbot wegen diskriminierender Äußerungen erhält Trainer Jens Härtel beim 1. FC Union Berlin eine zweite Chance.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Witcher 3 - Mod Support Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</guid>
-      <pubDate>Thu, 26 Nov 2026 14:36:49 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>CD Projekt Red veröffentlicht einen Trailer zum plattformübergreifenden Mod-Support für The Witcher 3 Wild Hunt Remastered.</p>]]></description>
+      <title>[Berlin] Raub auf Tankstelle</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</link>
+      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</guid>
+      <pubDate>Fri, 27 Nov 2026 10:47:00 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
+      <description><![CDATA[<p>In der Nacht wurde eine Tankstelle in Mahlsdorf an der Straße Alt-Mahlsdorf von zwei maskierten Männern überfallen; ein Täter bedrohte die 21-jährige Angestellte mit Messer und Pfefferspray, beide flüchteten mit Beute.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Diablo 4 - Season 16 launches on December 1</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</guid>
-      <pubDate>Thu, 26 Nov 2026 14:23:59 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Season 16 "Tyrael's Gambit" startet am 1. Dezember; Grind Less Gaming fasst alle Neuerungen in einem Video zusammen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Eins der einflussreichsten Brettspiele der Welt ist jetzt so günstig wie noch in diesem Jahr</title>
-      <link>https://www.gamestar.de/artikel/einflussreichsten-brettspiele-guenstig-hero-quest,3463803.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18395160742887429873</guid>
-      <pubDate>Thu, 26 Nov 2026 10:26:31 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[<p>HeroQuest, das in den 90ern das Dungeon-Crawler-Genre prägte, ist aktuell stark reduziert erhältlich.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Lord of Undead - Released into Early Access</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</guid>
-      <pubDate>Thu, 26 Nov 2026 07:49:07 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das Survival-RPG Lord of Undead startet in den Early Access; Spieler schlüpfen in die Rolle eines Dunklen Lords, bauen eine Untotenarmee auf und erobern eine offene Welt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Games] Expeditions: Samurai - New Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</guid>
-      <pubDate>Thu, 26 Nov 2026 06:51:24 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Für das Early-Access-Strategie-RPG Expeditions: Samurai erscheint ein Trailer zu Update #02, das Akt 2 der Story sowie Stealth- und Verkleidungsmechaniken bringt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Nvidia hits pause on chip shipments to Southeast Asia</title>
-      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192803</guid>
-      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[<p>Nvidia stoppt Lieferungen von KI-Servern nach Malaysia, Singapur, Thailand und Indonesien, da die USA den Zugang Chinas zu Hochleistungschips weiter einschränken.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Grand Theft Auto VI proves why efficiency isn't a virtue</title>
-      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3190829</guid>
-      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[<p>Am Tag des Anthropic-Börsengangs wird GTA VI zu einem der erfolgreichsten Entertainment-Starts aller Zeiten und zeigt, dass menschliche Kreativität Effizienz übertrifft.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] 45°C inlets just killed the chiller. Most people haven't noticed yet</title>
-      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
-      <guid isPermaLink="false">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</guid>
-      <pubDate>Thu, 26 Nov 2026 13:48:11 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[<p>Steigende Einlasstemperaturen von 45°C in Rechenzentren machen herkömmliche Kühlsysteme obsolet und erzwingen neue Ansätze für HPC-Kühlung.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] US-Doppelschlag bremst Chinas KI-Aufholjagd</title>
-      <link>https://www.all-ai.de/news/news26/us-doppelschlag-china</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/us-doppelschlag-china</guid>
-      <pubDate>Thu, 26 Nov 2026 08:53:16 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Verschärfte US-Regeln für gemietete KI-Chips im Ausland und Anti-Destillations-Sperren von OpenAI/Anthropic verzögern chinesische KI-Projekte; Moonshot AI streicht 150-Millionen-Dollar-Vertrag für Nvidia-Blackwell-Chips.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Ärger um ChatGPT-Abos nach Limit-Kürzung um 40 Prozent</title>
-      <link>https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</guid>
-      <pubDate>Thu, 26 Nov 2026 08:22:02 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>OpenAI korrigiert Abrechnungsfehler bei GPT-6.2-Modellen; Nutzerkontingente schmelzen um 25–40 %, ab Dezember werden Chat-, Work- und Codex-Limits in einem gemeinsamen Token-Budget zusammengefasst.</p>]]></description>
+      <title>[Berlin] Handball-CL: Gidsel wirft Füchse Berlin zum Sieg gegen Melsungen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/handball-champions-league-fuechse-berlin-mt-melsungen.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/handball-champions-league-fuechse-berlin-mt-melsungen.html</guid>
+      <pubDate>Fri, 27 Nov 2026 06:41:07 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Mathias Gidsel führte die Füchse Berlin in der Champions League zu einem Heimsieg gegen MT Melsungen und sicherte die Tabellenführung in der Gruppe.</p>]]></description>
     </item>
   </channel>
 </rss>

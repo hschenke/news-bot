@@ -5,9 +5,27 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diese 3 KI Tools brauchst DU 2027. Vergiss ChatGPT und Claude!</title>
+      <link>https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</link>
+      <guid isPermaLink="false">https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</guid>
+      <pubDate>Fri, 27 Nov 2026 14:46:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[GPT Image 2.6 Inhaltsverzeichnis ▾ Ressourcen ▾ Für 2027 decken Google Gemini Pro, ElevenLabs und Higgsfield rund 90% aller täglichen KI-Aufgaben für Text, deutsche Sprachausgabe, Avatare, Bilder und Videos ab. Google Gemini schlägt im 20$-Vergleich ChatGPT und Claude mit Gemini 4 Argon und Neon besonders bei deutschen Texten und enthält YouTube Lite, 5 TB Cloudspeicher sowie 10$ monatliches API-Guthaben. Als versteckte Highlights bietet das Gemini-Abo Zugriff auf Claude 5.5 in Google Antigravity sowie ab dem 2. Dezember die direkte Anbindung an externe KI-Agenten wie den Hermes Agent. ElevenLabs führt bei deutschen Stimmen (Artificial Analysis) und bietet heute Hörbücher, Flows, HeyGen-Avatar-Kopien und Vorlagen wie Chimära, während Higgsfield alle aktuellen Bild- und Videomodelle samt Templates bündelt. Google Gemini – Offizielle Plattform und Pro-Abo Logan Kilpatrick auf X – Gemini-Abo für externe KI-Agenten ab 2. Dezember ElevenLabs – KI-Stimmen, Studio, Flows, Avatare und Vorlagen Artificial Analysis – Unabhängige Benchmarks für Sprach- und TTS-Modelle Für 2027 habe ich meinen kompletten KI-Alltag auf drei zentrale Abos reduziert, mit denen ich rund 90% meiner gesamten Proj...]]></description>
+    </item>
+    <item>
+      <title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+      <link>https://huggingface.co/blog/video-trainium3</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/video-trainium3</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
+      <description><![CDATA[]]></description>
+    </item>
     <item>
       <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
       <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
@@ -25,96 +43,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
       <description><![CDATA[On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.]]></description>
-    </item>
-    <item>
-      <title>Tell HN: Happy Thanksgiving</title>
-      <link>https://news.ycombinator.com/item?id=50655664</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50655664</guid>
-      <pubDate>Thu, 26 Nov 2026 14:26:54 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>45°C inlets just killed the chiller. Most people haven't noticed yet</title>
-      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
-      <guid isPermaLink="false">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</guid>
-      <pubDate>Thu, 26 Nov 2026 13:48:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Head of Software Engineering – NOX Metals</title>
-      <link>https://news.ycombinator.com/item?id=50654353</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50654353</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Euro-Office comes to your desktop with the Nextcloud Office Desktop app</title>
-      <link>https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</link>
-      <guid isPermaLink="false">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</guid>
-      <pubDate>Thu, 26 Nov 2026 11:50:49 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
-      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
-      <pubDate>Thu, 26 Nov 2026 11:37:17 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Intel One Mono font</title>
-      <link>https://github.com/intel/intel-one-mono</link>
-      <guid isPermaLink="false">https://github.com/intel/intel-one-mono</guid>
-      <pubDate>Thu, 26 Nov 2026 10:11:01 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>US-Doppelschlag bremst Chinas KI-Aufholjagd</title>
-      <link>https://www.all-ai.de/news/news26/us-doppelschlag-china</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/us-doppelschlag-china</guid>
-      <pubDate>Thu, 26 Nov 2026 08:53:16 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Verschärfte US-Regeln für gemietete KI-Chips im Ausland und Anti-Destillations-Sperren von OpenAI und Anthropic verzögern KI-Projekte in China. Moonshot AI stornierte bereits einen 150-Millionen-Dollar-Vertrag für Nvidia-Blackwell-Chips in Indonesien. Forscher von DeepSeek befürchten ohne den Abgriff westlicher KI-Antworten einen wachsenden Rückstand von bis zu neun Monaten auf US-Spitzenmodelle. Als Reaktion setzen Anbieter wie Alibaba, MiniMax und miHoYo verstärkt auf heimische Huawei-Chips sowie teure eigene Trainingsdaten für Reinforcement Learning. The Information: Chinese AI Firms Confront a Dire Future as U.S. Tightens Access to Chips and Tokens US Federal Register (BIS): Addressing Remote Access to Advanced Semiconductors OpenAI: Disrupting a coordinated model-distillation campaign Anthropic: Detecting and preventing distillation attacks Channel NewsAsia: Nvidia halts chip shipments to Southeast Asia Bei DeepSeek, Alibaba und Moonshot AI geraten wichtige KI-Projekte ins Stocken. Neue US-Hürden für gemietete Auslands-Chips und erfolgreiche Sperren gegen das Abgreifen westlicher KI-Antworten setzen Chinas führende KI-Unternehmen laut The Information gleichzeitig unter Druc...]]></description>
-    </item>
-    <item>
-      <title>SpaceX, Dell und Trump: Warum US-Milliardäre Kindern Geld schenken</title>
-      <link>https://www.all-ai.de/news/beitrage2026/usa-geld-trump-konten-spacex-1</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/beitrage2026/usa-geld-trump-konten-spacex-1</guid>
-      <pubDate>Thu, 26 Nov 2026 08:42:31 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Elon Musk kündigt für jedes US-Kind zwei SpaceX-Aktien im Gesamtwert von rund 18,4 Milliarden Dollar an. Abgewickelt werden die Geschenke über die staatlichen Trump Accounts, in die auch Milliardäre wie Michael Dell und Ray Dalio Milliarden einzahlen. Während Befürworter den Zinseszins über 18 Jahre loben, sichern sich Spender Steuervorteile und Millionen loyaler Kleinaktionäre. Ökonomen kritisieren Verkaufssperren, bürokratische Hürden für arme Haushalte und eine hohe Besteuerung ab dem 18. Geburtstag. Elon Musk auf X: Ankündigung der SpaceX-Aktien für US-Kinder SpaceX Investor Relations: SpaceX to Invest in the Next Generation of Americans Axios: Musk makes $18 billion SpaceX stock pledge for every kid in America The Guardian: Michael and Susan Dell donate $6.25bn to encourage families to claim 'Trump accounts' Cato Institute: The Trouble with the Trump Accounts Elon Musk verspricht jedem Kind in den USA zwei Aktien seines Raumfahrtkonzerns SpaceX. Beim aktuellen Kurs von 127,44$ ergibt das rund 255$ pro Kopf und ein Gesamtpaket von 18,4 Milliarden $ für etwa 72 Millionen Minderjährige. Anzeige Ein Aktiendepot zur Geburt Die erste Aktie gibt SpaceX im Dezember neu aus. Das zwe...]]></description>
-    </item>
-    <item>
-      <title>Ärger um ChatGPT-Abos nach Limit-Kürzung um 40 Prozent</title>
-      <link>https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</guid>
-      <pubDate>Thu, 26 Nov 2026 08:22:02 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Nach einem korrigierten Abrechnungsfehler ist das ChatGPT-Kontingent bei GPT-6.2 Astra um 40% und bei GPT-6.2 Sol um 25% schneller aufgebraucht. Als Ausgleich erhalten zahlende Kunden in den Tarifen Go, Plus, Pro und Business einmalig eine kostenlose Limit-Zurücksetzung. Ab Dezember teilen sich Chat, der Arbeitsbereich Work und Codex ein einziges gemeinsames Token-Budget, während nur das Instant-Modell unbegrenzt bleibt. Thibault Sottiaux auf X: Korrektur der Nutzungslimits für GPT-6.2 Astra und Sol OpenAI Help Center: Understanding ChatGPT and Codex usage limits OpenAI Developer Community: Diskussion zur Zusammenlegung der Chat- und Work-Limits Zahlende Kunden von ChatGPT stoßen bei anspruchsvollen Aufgaben künftig deutlich früher an ihre Grenzen. OpenAI rechnet den Verbrauch seiner jüngsten Spitzenmodelle höher ab und legt zugleich getrennte Nutzungstöpfe zusammen. Anzeige Abrechnungsfehler kostet bis zu 40% Reichweite Auslöser für den größten Unmut ist eine Panne beim Start der Modellreihe GPT-6.2. Produktchef Thibault Sottiaux räumte auf X ein, dass OpenAI den Verbrauch von GPT-6.2 Astra und GPT-6.2 Sol anfangs zu niedrig berechnet hatte. Mit der Korrektur schmilzt das Abo-K...]]></description>
-    </item>
-    <item>
-      <title>Moat: Your OpenRouter Replacement</title>
-      <link>https://commandcode.ai/moat</link>
-      <guid isPermaLink="false">https://commandcode.ai/moat</guid>
-      <pubDate>Thu, 26 Nov 2026 06:32:48 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
     </item>
   </channel>
 </rss>

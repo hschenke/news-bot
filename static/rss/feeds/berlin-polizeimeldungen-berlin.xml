@@ -5,9 +5,26 @@
     <link>https://holli-news-bot.streamlit.app/?category=Berlin&amp;feed=Polizeimeldungen+Berlin</link>
     <description>RSS-Feed für die Quelle 'Polizeimeldungen Berlin' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-polizeimeldungen-berlin.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Festnahme nach Erpressung</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744923.php</link>
+      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1744923.php</guid>
+      <pubDate>Fri, 27 Nov 2026 14:15:41 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
+      <description><![CDATA[📍 **bezirksübergreifend** – Friedrichshain-Kreuzberg/Marzahn-Hellersdorf Nr. 1597 Gestern Abend wurde ein Mann in Friedrichshain zur Übergabe von Geld gedrängt. Nach bisherigen Erkenntnissen sei ein 23-jähriger Mann gegen 23 Uhr, nach einem Streitgespräch vor einem Restaurant an der Niederbarnimstraße, zu zwei Männern in ei...]]></description>
+    </item>
+    <item>
+      <title>Raub auf Tankstelle</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</link>
+      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</guid>
+      <pubDate>Fri, 27 Nov 2026 10:47:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
+      <description><![CDATA[📍 **Marzahn-Hellersdorf** – In der vergangenen Nacht wurde eine Tankstelle in Mahlsdorf überfallen. Nach bisherigen Erkenntnissen betraten gegen 1 Uhr zwei maskierte Männer eine Tankstelle an der Straße Alt-Mahlsdorf. Einer der Täter habe die 21-jährige Angestellte mit einem Messer sowie einem Pfefferspray bedroht. Dabei ha...]]></description>
+    </item>
   </channel>
 </rss>

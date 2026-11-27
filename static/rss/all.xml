@@ -5,53 +5,467 @@
     <link>https://holli-news-bot.streamlit.app</link>
     <description>Alle aggregierten Nachrichten aus sämtlichen Kategorien und Quellen im News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/all.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Fußball] Conference League: Inter Escaldes feiert historischen Sieg für Andorra</title>
-      <link>https://www.transfermarkt.de/2-0-gegen-kopenhagen-inter-escaldes-feiert-historischen-sieg-fur-andorras-fussball/view/news/491341</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/2-0-gegen-kopenhagen-inter-escaldes-feiert-historischen-sieg-fur-andorras-fussball/view/news/491341</guid>
-      <pubDate>Fri, 27 Nov 2026 05:54:03 GMT</pubDate>
+      <title>[Fußball] Schöttel-Nachfolge geklärt: Nachwuchsleiter Prödl neuer ÖFB-Sportdirektor</title>
+      <link>https://www.transfermarkt.de/schottel-nachfolge-geklart-nachwuchsleiter-prodl-neuer-ofb-sportdirektor/view/news/491376</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/schottel-nachfolge-geklart-nachwuchsleiter-prodl-neuer-ofb-sportdirektor/view/news/491376</guid>
+      <pubDate>Fri, 27 Nov 2026 14:59:28 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der Inter Club d'Escaldes hat ein weiteres Kapitel in der Geschichte des Fußballs in Andorra geschrieben. Der Klub aus dem kleinen Binnenstaat in den östlichen Pyrenäen zwischen...]]></description>
+      <description><![CDATA[Der ÖFB hat am Freitag seinen neuen Sportdirektor präsentiert: Sebastian Prödl konnte sich im Auswahlprozess durchsetzen. Der 39-jährige Steirer folgt auf Peter Schöttel,...]]></description>
     </item>
     <item>
-      <title>[Fußball] 10. Sieg in Folge: Marco Rose mit Bournemouth weiter auf Rekordkurs</title>
-      <link>https://www.transfermarkt.de/10-sieg-in-folge-rose-mit-bournemouth-weiter-auf-rekordkurs-65-minuten-in-unterzahl/view/news/491339</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/10-sieg-in-folge-rose-mit-bournemouth-weiter-auf-rekordkurs-65-minuten-in-unterzahl/view/news/491339</guid>
-      <pubDate>Fri, 27 Nov 2026 05:34:23 GMT</pubDate>
+      <title>[Berlin] Eishockey: Eisbären monatelang ohne Veilleux</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-yannick-veilleux-verletzung.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-eisbaeren-berlin-yannick-veilleux-verletzung.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:55:52 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Pochettinos Einfluss: So plant Manchester United – Klarheit bei Fernandes</title>
+      <link>https://www.transfermarkt.de/so-plant-das-strauchelnde-man-united-fulhams-bassey-im-fokus-klarheit-bei-fernandes/view/news/491367</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/so-plant-das-strauchelnde-man-united-fulhams-bassey-im-fokus-klarheit-bei-fernandes/view/news/491367</guid>
+      <pubDate>Fri, 27 Nov 2026 14:52:07 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der frühere Bundesliga-Coach Marco Rose bleibt mit dem AFC Bournemouth auf Rekordkurs – und das sogar in Unterzahl. Mit dem 2:1 (0:1) in der Europa League bei Celta Vigo bauten die...]]></description>
+      <description><![CDATA[Das in Schlingern geratene Manchester United beschäftigt sich mit einer Verpflichtung von Calvin Bassey. Wie „The Athletic“ berichtet, steht der Innenverteidiger des FC Fulham weit...]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha - Karlsruhe Tipp, KI-Prognose &amp; Quoten | 28.11.2026 - Wettfreunde.net</title>
-      <link>https://www.wettfreunde.net/zweite-liga-tipps/hertha-karlsruhe-tipp-ki-prognose-quoten-28-11-2026/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10739452614294236242</guid>
-      <pubDate>Fri, 27 Nov 2026 04:51:21 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha KSC Tipp mit Experten-Prognose, Statistik & Value-Quote für deine 2. Liga Wette | Geht der KSC in Berlin wieder einmal leer aus?]]></description>
+      <title>[Tech &amp; AI] Diese 3 KI Tools brauchst DU 2027. Vergiss ChatGPT und Claude!</title>
+      <link>https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</link>
+      <guid isPermaLink="false">https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</guid>
+      <pubDate>Fri, 27 Nov 2026 14:46:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[GPT Image 2.6 Inhaltsverzeichnis ▾ Ressourcen ▾ Für 2027 decken Google Gemini Pro, ElevenLabs und Higgsfield rund 90% aller täglichen KI-Aufgaben für Text, deutsche Sprachausgabe, Avatare, Bilder und Videos ab. Google Gemini schlägt im 20$-Vergleich ChatGPT und Claude mit Gemini 4 Argon und Neon besonders bei deutschen Texten und enthält YouTube Lite, 5 TB Cloudspeicher sowie 10$ monatliches API-Guthaben. Als versteckte Highlights bietet das Gemini-Abo Zugriff auf Claude 5.5 in Google Antigravity sowie ab dem 2. Dezember die direkte Anbindung an externe KI-Agenten wie den Hermes Agent. ElevenLabs führt bei deutschen Stimmen (Artificial Analysis) und bietet heute Hörbücher, Flows, HeyGen-Avatar-Kopien und Vorlagen wie Chimära, während Higgsfield alle aktuellen Bild- und Videomodelle samt Templates bündelt. Google Gemini – Offizielle Plattform und Pro-Abo Logan Kilpatrick auf X – Gemini-Abo für externe KI-Agenten ab 2. Dezember ElevenLabs – KI-Stimmen, Studio, Flows, Avatare und Vorlagen Artificial Analysis – Unabhängige Benchmarks für Sprach- und TTS-Modelle Für 2027 habe ich meinen kompletten KI-Alltag auf drei zentrale Abos reduziert, mit denen ich rund 90% meiner gesamten Proj...]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha baut mit Seguin weiter, Hannover steht vor dem Duell in Osnabrück - Diebewertung</title>
-      <link>https://www.diebewertung.de/hertha-baut-mit-seguin-weiter-hannover-steht-vor-dem-duell-in-osnabrueck/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1460794346405021977</guid>
-      <pubDate>Fri, 27 Nov 2026 04:24:03 GMT</pubDate>
+      <title>[Fußball] FC Bayern: Musiala erneut verletzt – Alte Verletzung aufgebrochen</title>
+      <link>https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</guid>
+      <pubDate>Fri, 27 Nov 2026 14:34:37 GMT</pubDate>
       <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Freitag, 27. November 2026 | diebewertung.de Hertha BSC geht mit zehn Punkten Vorsprung an der Tabellenspitze in den 13. Spieltag der 2.]]></description>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Jamal Musiala muss beim FC Bayern erneut für mehrere Wochen aussetzen. Wie die Münchner am Freitag vermeldeten, wurde bei dem 23-Jährigen eine Muskelverletzung im rechten...]]></description>
     </item>
     <item>
-      <title>[Fußball] Weltmeister Häßler: „Hertha macht allen Klubs vor, wie es geht!“ | Sport - BILD.de</title>
-      <link>https://www.bild.de/sport/fussball/weltmeister-haessler-hertha-macht-allen-klubs-vor-wie-es-geht-6b069f1ed4a4a3142c5729cb</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4298656189232049526</guid>
-      <pubDate>Fri, 27 Nov 2026 04:22:46 GMT</pubDate>
+      <title>[Fußball] Das ist Hertha | Karlsruher SC</title>
+      <link>https://www.ksc.de/aktuelles/news/das-ist-hertha</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15930980476262321888</guid>
+      <pubDate>Fri, 27 Nov 2026 14:17:17 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Weltmeister Thomas Häßler spricht kurz vor der Eröffnung seiner Hertha-Kneipe (Samstag, 11 Uhr) im BILD-Interview über Hertha, Klopp und eigene ...]]></description>
+      <description><![CDATA[... Hertha und unsere langjährige Verbindung zur Alten Dame vorstellen. Alle Infos rund um die Namensherkunft der „Hertha“, das Olympiastadion, die ...]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Festnahme nach Erpressung</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744923.php</link>
+      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1744923.php</guid>
+      <pubDate>Fri, 27 Nov 2026 14:15:41 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
+      <description><![CDATA[📍 **bezirksübergreifend** – Friedrichshain-Kreuzberg/Marzahn-Hellersdorf Nr. 1597 Gestern Abend wurde ein Mann in Friedrichshain zur Übergabe von Geld gedrängt. Nach bisherigen Erkenntnissen sei ein 23-jähriger Mann gegen 23 Uhr, nach einem Streitgespräch vor einem Restaurant an der Niederbarnimstraße, zu zwei Männern in ei...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Kurvenwissen: Fakten zu #BSCKSC - Hertha BSC</title>
+      <link>https://www.herthabsc.com/de/nachrichten/2026/11/fakten-bscksc-2627</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11064076604845071263</guid>
+      <pubDate>Fri, 27 Nov 2026 14:12:21 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Erneut gilt dabei die in der bisherigen Saison bewährte Marschroute: Das nächste Spiel ist das wichtigste! Demzufolge betonte Stefan Leitl auch auf ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC: Keeper Gersbeck über den Aufstieg, Bayern und sein Pech bei Elfmetern</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413780521/interview-gersbeck.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15770237383506680418</guid>
+      <pubDate>Fri, 27 Nov 2026 14:07:18 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC trifft am Samstag auf den befreundeten Karlsruher SC. Für Torhüter Marius Gersbeck aus mehreren Gründen eine besondere Partie.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Berlin: Bier vom 90er-Weltmeister: "Icke" Häßler wird Wirt | tagesschau.de</title>
+      <link>https://www.tagesschau.de/inland/regional/berlin/rbb-bier-vom-90er-weltmeister-icke-haessler-wird-wirt-102.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2958987784932319519</guid>
+      <pubDate>Fri, 27 Nov 2026 13:53:10 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA["Hertha spielt hier in Charlottenburg natürlich eine große Rolle. Toll, was die Jungs gerade für einen begeisternden Fußball spielen. Da lacht als ...]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Monobob: Berlinerin Buckwitz fährt zum Saisonauftakt auf zweiten Platz</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/monobob-lisa-buckwitz-berlin-saisonauftakt-altenberg-platz-zwei.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/monobob-lisa-buckwitz-berlin-saisonauftakt-altenberg-platz-zwei.html</guid>
+      <pubDate>Fri, 27 Nov 2026 13:47:50 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] OP-Tippduell: Cölbe-Kapitän und Hertha-Fan Sinan Kluth setzt auf Sieg von Union Berlin</title>
+      <link>https://www.op-marburg.de/sport/regional/op-tippduell-coelbe-kapitaen-und-hertha-fan-sinan-kluth-setzt-auf-sieg-von-union-berlin-2QXRTVSJKFAUVNDLWFJE565FRU.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6934857206933930607</guid>
+      <pubDate>Fri, 27 Nov 2026 13:17:55 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Sinan Kluth hat aktuell viel zu lachen: Der Kapitän des FV Cölbe ist Fan von Hertha BSC und sieht die Berliner auf einem guten Weg, wieder in die ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Spitzenreiter Hertha BSC empfängt den Karlsruher SC: So siehst du das Zweitliga-Spiel ...</title>
+      <link>https://www.goal.com/de/meldungen/spitzenreiter-hertha-bsc-empfaengt-den-karlsruher-sc-so-siehst-du-das-zweitliga-spiel-heute-live-im-tv-und-livestream/blt8eaa458b979a57ad</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6152773760673022009</guid>
+      <pubDate>Fri, 27 Nov 2026 12:54:16 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC trifft heute in der 2. Bundesliga auf den Karlsruher SC. Der Spitzenreiter hat seine letzten fünf Pflichtspiele gewonnen.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Eintracht Mahlsdorf vs. Lichtenberg 47 | OFV-Oberliga Nord | 15. Spieltag - Eventim</title>
+      <link>https://www.eventim.de/artist/bsv-eintracht-mahlsdorf/eintracht-mahlsdorf-vs-lichtenberg-47-ofv-oberliga-nord-15-spieltag-4110842/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14112832964775817545</guid>
+      <pubDate>Fri, 27 Nov 2026 12:52:34 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Eintracht Mahlsdorf vs. Lichtenberg 47 | OFV-Oberliga Nord | 15. Spieltag - Bestelle jetzt deine Tickets und erlebe das Spektakel live in deiner ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Burnleys Sieglosserie stellt deutschen Heim-Negativrekord in Schatten</title>
+      <link>https://www.transfermarkt.de/kompanys-ex-klub-burnleys-sieglosserie-neun-spiele-langer-als-deutscher-heim-negativrekord/view/news/491348</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/kompanys-ex-klub-burnleys-sieglosserie-neun-spiele-langer-als-deutscher-heim-negativrekord/view/news/491348</guid>
+      <pubDate>Fri, 27 Nov 2026 12:42:54 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[24 Heimspiele, kein einziger Sieg: Der FC Burnley hat einen Negativlauf hingelegt, der im englischen Profifußball bis dato einmalig ist. Durch das 0:2 gegen Birmingham City unter der Woche...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC: Korb kassiert! Aber Leitl kämpfte um diese Beziehung! | Sport - BILD.de</title>
+      <link>https://www.bild.de/sport/fussball/hertha-bsc-korb-kassiert-aber-leitl-kaempfte-um-diese-beziehung-6b084ac51c4d5a00bfba0422</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18033057593003996233</guid>
+      <pubDate>Fri, 27 Nov 2026 12:34:51 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Am Samstag will Tabellenführer Hertha BSC im Heimspiel gegen den Karlsruher SC (13 Uhr, Olympiastadion) die Ungeschlagen-Serie (11 Siege, ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Kommt zum Ostkurven-Weihnachtsmarkt! - Hertha BSC</title>
+      <link>https://www.herthabsc.com/de/nachrichten/2026/11/ostkurven-weihnachtsmarkt-2627</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11892104803616784594</guid>
+      <pubDate>Fri, 27 Nov 2026 12:34:09 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Wer sich eine Karte für die Begegnung holt, kann das blau-weiße Event für weitere 5 Euro dazubuchen. Tickets gibt es ab sofort hier. von Hertha BSC.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Vertriebsmitarbeiter/-in im Außendienst (m/w/d) in Berlin - Mahlsdorf | kleinanzeigen.de</title>
+      <link>https://www.kleinanzeigen.de/s-anzeige/vertriebsmitarbeiter-in-im-aussendienst-m-w-d-/3583595730-117-27141</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17799827267918241233</guid>
+      <pubDate>Fri, 27 Nov 2026 12:09:15 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Vertriebsmitarbeiter/-in im Außendienst (m/w/d) ✓ Berolina...,Vertriebsmitarbeiter/-in im Außendienst (m/w/d) in Berlin - Mahlsdorf.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Real Madrid: Auch Joker Brahim Díaz unterschreibt langfristig</title>
+      <link>https://www.transfermarkt.de/nachste-real-verlangerung-diaz-unterschreibt-langfristig-jedes-cl-spiel-eine-vorlage/view/news/491360</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/nachste-real-verlangerung-diaz-unterschreibt-langfristig-jedes-cl-spiel-eine-vorlage/view/news/491360</guid>
+      <pubDate>Fri, 27 Nov 2026 12:07:31 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Die Verlängerungs-Wochen bei Real Madrid gehen in die nächste Runde. Nun hat auch Offensivspieler Brahim Díaz einen neuen Vertrag unterzeichnet, der laut Angaben der...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Frühes Tor, späte Ernüchterung: Hansa Rostock kassiert Ausgleich in letzter Aktion</title>
+      <link>https://www.nordkurier.de/regional/rostock/rostock/fruehes-tor-spaete-ernuechterung-hansa-rostock-kassiert-ausgleich-in-letzter-aktion-5041777</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15453972158581871067</guid>
+      <pubDate>Fri, 27 Nov 2026 12:06:08 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hansa Rostocks U17 lässt bei Hertha BSC durch späten Ausgleich den Sieg liegen. Nächster Prüfstein ist am Samstag Union Berlin.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC vs. Karlsruher SC: Übertragung, TV-Sender und Livestream - SPOX.com</title>
+      <link>https://www.spox.com/fussball/news/Hertha%20BSC-vs-Karlsruher%20SC-heute-live-sehen-wer-zeigt-uebertraegt-das-spiel-im-tv-und-livestream/blt8eaa458b979a57ad</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15909477050611722119</guid>
+      <pubDate>Fri, 27 Nov 2026 12:05:50 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC empfängt den Karlsruher SC im Olympiastadion. Hier erfährst du, wo du das Zweitligaspiel live im TV und im Livestream sehen kannst.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha News aktuell: Trainer Stefan Leitl muss schwierige Startelffrage lösen - Berliner Morgenpost</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413538189/hertha-bsc-news-polizei-fans-ausschreitung-schalke-stadionverbote-urteil-staatsanwaltschaft.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5481379152192024040</guid>
+      <pubDate>Fri, 27 Nov 2026 11:56:56 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Die Krawalle im Januar beschäftigen die Justiz weiter. Derweil richtet sich der Blick der Profis auf das nächste Heimspiel. Die Hertha-News im ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Calvert-Lewin verlängert in Leeds – Auch Ex-Düsseldorfer Tanaka bleibt</title>
+      <link>https://www.transfermarkt.de/calvert-lewin-verlangert-in-leeds-unter-farke-erstmals-seit-2020-marktwert-gesteigert/view/news/491344</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/calvert-lewin-verlangert-in-leeds-unter-farke-erstmals-seit-2020-marktwert-gesteigert/view/news/491344</guid>
+      <pubDate>Fri, 27 Nov 2026 11:47:17 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Dieser Artikel erschien auf Transfermarkt in seiner ersten Fassung um 08:40 Uhr und wurde anschließend mit der Personalie Ao Tanaka aktualisiert. Der englische Nationalspieler Dominic...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Bis 2028: Ex-Schalker verlängert Vertrag – Rückkehr rückt näher - RUHR24</title>
+      <link>https://www.ruhr24.de/s04/fc-schalke-04-news-paul-seguin-hertha-bsc-rueckkehr-bundesliga-vertrag-verlaengerung-klausel-s04-94611215.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:297590941280903565</guid>
+      <pubDate>Fri, 27 Nov 2026 11:43:52 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Ein ehemaliger Schalker bleibt bei Hertha BSC. Mit Berlin steuert er auf die Bundesliga zu – und könnte bald auf den S04 treffen.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Fußball DFB-Pokal: FC Bayern gegen Hertha BSC - Liveticker - Achtelfinale - 2026/2027</title>
+      <link>https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-dfb-pokal/ma12102627/bayern-muenchen_hertha-bsc/liveticker</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:260273132808621903</guid>
+      <pubDate>Fri, 27 Nov 2026 11:40:24 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Liveticker vom Spiel Bayern München gegen Hertha BSC vom 01.12.2026: heute live.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Bestelle BRGRS-Lieferung in Berlin-mahlsdorf - Lieferando</title>
+      <link>https://www.lieferando.de/lieferdienst/ketten/brgrs/berlin-mahlsdorf</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3991879813848545374</guid>
+      <pubDate>Fri, 27 Nov 2026 11:35:15 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Bestelle bei BRGRS in Berlin-mahlsdorf mit Lieferando! Wähle eine BRGRS-Lieferung in deiner Nähe, such dir deine Lieblingsgerichte aus und wir ...]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Bestelle Burgerzimmer-Lieferung in Berlin-mahlsdorf - Lieferando</title>
+      <link>https://www.lieferando.de/lieferdienst/ketten/burgerzimmer/berlin-mahlsdorf</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14303955732804467984</guid>
+      <pubDate>Fri, 27 Nov 2026 11:31:11 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Bestelle bei Burgerzimmer in Berlin-mahlsdorf mit Lieferando! Wähle eine Burgerzimmer-Lieferung in deiner Nähe, such dir deine Lieblingsgerichte ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC: Leitl schwärmt von Seguin - "Er ist der strategische Fixpunkt" - Tipico</title>
+      <link>https://www.tipico.de/wett-tipps/sportwetten-news/hertha-bsc-leitl-schwaermt-von-seguin-er-ist-der-strategische-fixpunkt</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17667680064318355243</guid>
+      <pubDate>Fri, 27 Nov 2026 11:28:50 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Seguin hat sich bei Hertha BSC zum unverzichtbaren Taktgeber entwickelt. Mit seinem Trainer verbindet ihn eine Geschichte, die schon Jahre ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Herthas BSC: Wie die Freundschaft zum KSC auch bei viel Bier entstand - Berliner Morgenpost</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413781020/hertha-bsc-karlsruher-sc-fan-freundschaft-kneipe-zufall.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5011496006156429128</guid>
+      <pubDate>Fri, 27 Nov 2026 11:16:09 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Vor 50 Jahren begann die besondere Beziehung von Hertha BSC und dem Karlsruher SC. Ein Beteiligter erinnert sich – auch an viele Runden Bier.]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Neuer zurück beim FC Bayern – Personal-Update vor HSV-Spiel</title>
+      <link>https://www.transfermarkt.de/neuer-zuruck-beim-fc-bayern-freund-nicht-ganz-einfache-phase-in-seinem-leben-quot-/view/news/491356</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/neuer-zuruck-beim-fc-bayern-freund-nicht-ganz-einfache-phase-in-seinem-leben-quot-/view/news/491356</guid>
+      <pubDate>Fri, 27 Nov 2026 11:15:13 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Der aktuell verletzte Manuel Neuer ist nach einem Kurztrip wieder zurück beim FC Bayern München. „Er hat natürlich eine nicht ganz einfache Phase in seinem Leben, vor allem...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Marktwerte Schweden: Leverkusen-Ziel Bo Hegland an Spitze</title>
+      <link>https://www.transfermarkt.de/marktwerte-schweden-bayer-ziel-hegland-an-spitze-talente-um-doumbia-amp-mansson-steigen/view/news/491285</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/marktwerte-schweden-bayer-ziel-hegland-an-spitze-talente-um-doumbia-amp-mansson-steigen/view/news/491285</guid>
+      <pubDate>Fri, 27 Nov 2026 11:05:00 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Die Allsvenskan hat sich in den vergangenen Jahren als Quell der Talentförderung gezeigt und Spieler wie Bazoumana Touré, Lucas Bergvall oder Zadok Yohanna in die Top-Ligen gebracht (zu...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Aufstiegsreform mit Kompass! - Harlekins Berlin ´98</title>
+      <link>https://hb98.de/fanpolitik/aufstiegsreform-mit-kompass/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2421984224257278406</guid>
+      <pubDate>Fri, 27 Nov 2026 11:02:47 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha wärmt! Presseberichte · Fanpolitik · Fanpolitik Stellungnahmen · Mitteilungen · Fananwälte & Fanhilfe Hertha BSC · Farben und Wappen von Hertha ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Thomas Häßler über Klopp: „Direkt hinter Beckenbauer als Trainer“ - BZ-BERLIN.de</title>
+      <link>https://www.bz-berlin.de/berlin-sport/hertha-bsc/thomas-haessler-ueber-klopp-direkt-hinter-beckenbauer-als-trainer-6b0858010df5a2a9b728855e</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:435091850564466537</guid>
+      <pubDate>Fri, 27 Nov 2026 10:59:40 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Thomas Häßler spricht über die Fanfreundschaft von Hertha und KSC, Jürgen Klopp als DFB-Hoffnung und seine Arthrose. Lesen Sie das Interview.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] DTL-Finale: SC Cottbus will außergewöhnliche Turn-Saison krönen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/finale-deutsche-turn-liga-geraeteturnen-sc-cottbus-straubenhardt.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/finale-deutsche-turn-liga-geraeteturnen-sc-cottbus-straubenhardt.html</guid>
+      <pubDate>Fri, 27 Nov 2026 10:53:42 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Die Turner des SC Cottbus kämpfen am Samstag um ihren ersten Meistertitel seit 16 Jahren. Im Großen DTL-Finale wartet Rekordmeister Straubenhardt. Die Lausitzer hoffen als Außenseiter auf eine Überraschung.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Raub auf Tankstelle</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</link>
+      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</guid>
+      <pubDate>Fri, 27 Nov 2026 10:47:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
+      <description><![CDATA[📍 **Marzahn-Hellersdorf** – In der vergangenen Nacht wurde eine Tankstelle in Mahlsdorf überfallen. Nach bisherigen Erkenntnissen betraten gegen 1 Uhr zwei maskierte Männer eine Tankstelle an der Straße Alt-Mahlsdorf. Einer der Täter habe die 21-jährige Angestellte mit einem Messer sowie einem Pfefferspray bedroht. Dabei ha...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha-Star Nilsson feiert Tor-Erlösung: Jetzt hat Leitl ein "Sturm-Problem" - TAG24</title>
+      <link>https://www.tag24.de/sport/fussball/verein/hertha-bsc/hertha-star-nilsson-feiert-tor-erloesung-jetzt-hat-leitl-ein-sturm-problem-3552888</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4009633976948889066</guid>
+      <pubDate>Fri, 27 Nov 2026 10:42:58 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Damit ist Grönning gemeinsam mit Josip Brekalo (28) und Oluwaseun Adewumi (21) bester Torjäger bei Hertha BSC. Genug Argumente, um auch gegen den KSC ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Live-Ticker: KSC fordert in Berlin den Spitzenreiter Hertha BSC - BNN</title>
+      <link>https://bnn.de/sport/ksc/live-ticker-ksc-fordert-in-berlin-den-spitzenreiter-hertha-bsc</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15661844303607714945</guid>
+      <pubDate>Fri, 27 Nov 2026 10:22:29 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Bleibt die Berliner Hertha weiter im Flow? Oder schafft der KSC im Olympiastadion eine Überraschung? Antworten gibt es im Live-Ticker der BNN.]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Unbedingt Punkten in Neustrelitz! - Tennis Borussia Berlin</title>
+      <link>https://www.tebe.de/beitraege/unbedingt-punkten-in-neustrelitz/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8714794884798713005</guid>
+      <pubDate>Fri, 27 Nov 2026 10:16:38 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Der schwer erkämpfte Punkt gegen Mahlsdorf am vergangenen Sonntag hat uns tabellarisch über dem Strich gehalten – allerdings nur wegen des ...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Nach Diskriminierungsvorfällen: Union Berlin hält an Jens Härtel fest</title>
+      <link>https://www.transfermarkt.de/union-berlin-halt-an-hartel-fest-letzte-wochen-zur-reflexion-und-weiterbildung-genutzt-quot-/view/news/491354</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/union-berlin-halt-an-hartel-fest-letzte-wochen-zur-reflexion-und-weiterbildung-genutzt-quot-/view/news/491354</guid>
+      <pubDate>Fri, 27 Nov 2026 10:11:02 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Nach einem mehrwöchigen Funktionsverbot wegen diskriminierender Äußerungen erhält Jens Härtel beim 1. FC Union Berlin eine zweite Chance. Der 57-Jährige wird...]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Leitl und Seguin: Aufstiegspaar bei Hertha wiedervereint - BZ-BERLIN.de</title>
+      <link>https://www.bz-berlin.de/berlin-sport/hertha-bsc/leitl-und-seguin-aufstiegspaar-bei-hertha-wiedervereint-6b094ed54f5d4fcd0acd2e05</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10407031269093937560</guid>
+      <pubDate>Fri, 27 Nov 2026 09:45:17 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Stefan Leitl und Paul Seguin sind bei Hertha BSC wieder vereint. So prägt der Mittelfeldchef den Aufstiegskurs.]]></description>
+    </item>
+    <item>
+      <title>[Games] Pathfinder: Abomination Vaults - Cancelled</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</guid>
+      <pubDate>Fri, 27 Nov 2026 09:34:02 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Mortismal Gaming reports that Pathfinder: Abomination Vaults has been cancelled: Pathfinder: Abomination Vaults Is Almost Certainly Dead]]></description>
+    </item>
+    <item>
+      <title>[Games] Final Fantasy Resonance - Devs surprised</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</guid>
+      <pubDate>Fri, 27 Nov 2026 09:27:30 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Godisageek reports that Final Fantasy Resonance devs were surprised about the warm reception of their game: Final Fantasy Resonance Developers Admit Warm Reception Caught Them Off Guard Developers of Final Fantasy Resonance say the warm welcome for their HD-2D, turn-based adventure outstripped anything they had predicted....]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Union Berlin hält nach Diskriminierungsvorfällen an Härtel fest</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/bundesliga-union-berlin-vorwurf-diskriminierung-jens-haertel.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/bundesliga-union-berlin-vorwurf-diskriminierung-jens-haertel.html</guid>
+      <pubDate>Fri, 27 Nov 2026 09:24:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Gerücht: FC Bayern beschäftigt sich mit Derry Scherhant vom SC Freiburg</title>
+      <link>https://www.transfermarkt.de/fc-bayern-beschaftigt-sich-mit-scherhant-vor-marktwert-update-noch-15-munchner-wertvoller/view/news/491347</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/fc-bayern-beschaftigt-sich-mit-scherhant-vor-marktwert-update-noch-15-munchner-wertvoller/view/news/491347</guid>
+      <pubDate>Fri, 27 Nov 2026 09:23:47 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Seine rasante Entwicklung befördert Derry Scherhant offenbar ins Blickfeld des FC Bayern. Wie zunächst die „tz“ meldete und im Anschluss im „Bild“-Podcast...]]></description>
+    </item>
+    <item>
+      <title>[Games] Underkeep - Review @ RPGFan</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</guid>
+      <pubDate>Fri, 27 Nov 2026 08:58:37 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[RPGFan reviewed Underkeep: Review: Underkeep Get your grid-shuffling boots on, and your auto-mapping ready, because Underkeep is ready for you to delve into its classic, misty fantasy of abandoned crypts and strange rituals, along with a side helping of environmental puzzles and customised party creation....]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Maskierte überfallen Star-Tankstelle in Mahlsdorf - Marzahn-Hellersdorf LIVE</title>
+      <link>https://marzahn-hellersdorf.com/maskierte-ueberfallen-star-tankstelle-in-mahlsdorf/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8234677847711070370</guid>
+      <pubDate>Fri, 27 Nov 2026 08:01:14 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Zwei maskierte Männer haben in der Nacht eine Star-Tankstelle in Mahlsdorf überfallen. Sie räumten zwei Kassen aus, nahmen Zigaretten mit und ...]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Eiskunstlauf-Paar Hase/Volodin in Japan mit furiosem Kurzprogramm</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-paarlauf-grand-prix-japan-nikita-volodin-minerva-ha.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eiskunstlauf-paarlauf-grand-prix-japan-nikita-volodin-minerva-ha.html</guid>
+      <pubDate>Fri, 27 Nov 2026 07:39:00 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Handball-CL: Gidsel wirft Füchse Berlin zum Sieg gegen Melsungen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/handball-champions-league-fuechse-berlin-mt-melsungen.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/handball-champions-league-fuechse-berlin-mt-melsungen.html</guid>
+      <pubDate>Fri, 27 Nov 2026 06:41:07 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>[Games] Heroes of Might and Magic - YouTube</title>
+      <link>https://m.youtube.com/playlist?list=PLfkM0XyFTolVuwG_lTqJjJJ9RTwECnSL4</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14097642335200493532</guid>
+      <pubDate>Fri, 27 Nov 2026 04:18:22 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
+      <description><![CDATA[Tap to unmute. Your browser can't play this video. Learn more. Heroes of Might and Magic. Home. Shorts. Library. Heroes of Might and Magic.]]></description>
+    </item>
+    <item>
+      <title>[Games] Might and Magic III: Isles of Terra für PC (NTSC-U) - The Games Market</title>
+      <link>https://www.thegamesmarket.com/de-de/archive/pc-microsoft-windows/might-and-magic-iii-isles-of-terra</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5750409629008077061</guid>
+      <pubDate>Fri, 27 Nov 2026 03:18:07 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
+      <description><![CDATA[Might and Magic III: Isles of Terra (1990) für PC (Microsoft Windows), Role-playing (RPG): Editionen, Regionalversionen und aktuelle Werte auf The ...]]></description>
+    </item>
+    <item>
+      <title>[Berlin] BSV Eintracht Mahlsdorf vs. Anker Wismar | NOFV-Oberliga Nord | 13. Spieltag</title>
+      <link>https://www.urbanite.net/events/bsv-eintracht-mahlsdorf-vs-anker-wismar-nofv-oberliga-nord-13-spieltag/2026-11-28/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2082768450139912452</guid>
+      <pubDate>Fri, 27 Nov 2026 02:59:27 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Termin in Berlin: Samstag, 28.11.2026. Heimspiel am Rosenhag: BSV Eintracht Mahlsdorf vs. FC Anker WismarUnsere 1. Herren sind wieder gefordert!]]></description>
     </item>
     <item>
       <title>[Berlin] So bunt ist Lichtenberg: Über 100 Jahre queeres Leben im Bezirk - tip Berlin</title>
@@ -63,31 +477,22 @@
       <description><![CDATA[Michael Eggert, Charlotte von Mahlsdorf und Peter Rausch bei einem Treffen der Homosexuellen Interessengemeinschaft Berlin (HIB) im Gründerzeitmuseum ...]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha-Freundschaft hin oder her: Der KSC will den Spitzenreiter ärgern - Karlsruhe</title>
-      <link>https://www.wochenblatt-reporter.de/karlsruhe/c-community/hertha-freundschaft-hin-oder-her-der-ksc-will-den-spitzenreiter-aergern_a954278</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2361825788461024169</guid>
-      <pubDate>Fri, 27 Nov 2026 01:37:32 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Für den KSC wird das sicherlich keine leichte Aufgabe, denn die Hertha steht aktuell recht einsam nach zwölf Spieltagen an der Tabellenspitze mit zehn ...]]></description>
+      <title>[Berlin] Haus 260 m² 998600 € zum Kauf Mahlsdorf,Berlin (12623) - Immowelt</title>
+      <link>https://www.immowelt.de/expose/7dac26c4-bfe1-4107-bc59-0d293bc0ad8e</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13424818076092099512</guid>
+      <pubDate>Fri, 27 Nov 2026 01:48:58 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[Mahlsdorf, Berlin (12623). Anrufen. Nachricht. Mit dem Anruf stimme ich der Anruf-Kontakt-Funktion zu. Haus mit 13 Zimmern für betreutes Wohnen oder ...]]></description>
     </item>
     <item>
-      <title>[Fußball] Spielstatistik Chemnitzer FC - Hertha II | mdr.de</title>
-      <link>https://www.mdr.de/sport/ergebnisse/spielstatistik-7894.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14214255236170585684</guid>
-      <pubDate>Fri, 27 Nov 2026 01:11:48 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC II Hertha II. -:-. Tabelle. Tabelle 18. Spieltag. Tabelle 18. Spieltag. P. Platz. Verein. Sp. Spiele. S Siege. U Unentschieden. N ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] VIP-Tickets für das Heimspiel des FC Bayern gegen Hertha BSC gewinnen</title>
-      <link>https://www.abendzeitung-muenchen.de/sport/fcbayern/vip-tickets-fuer-das-heimspiel-des-fc-bayern-gegen-hertha-bsc-gewinnen-art-1175799</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:159233836441104670</guid>
-      <pubDate>Fri, 27 Nov 2026 00:58:43 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Für das Heimspiel des FC Bayern gegen Hertha BSC verlosen die Telekom und die Abendzeitung 2 x 2 VIP-Tickets. Jetzt mitmachen und live in der ...]]></description>
+      <title>[Berlin] Spiele &amp; Ergebnisse - Berlin - FuPa</title>
+      <link>https://www.fupa.net/region/berlin/matches?date=2026-11-27</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12163780333982547481</guid>
+      <pubDate>Fri, 27 Nov 2026 00:48:08 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[FSV Blau-Weiß Mahlsdorf WaldesruhBW Mahlsdorf. 20:00. PUSH. Tabelle · 7er-Frauen-Verbandsliga Berlin. 10. Spieltag.]]></description>
     </item>
     <item>
       <title>[Fun] Sonntagmorgens. Der Vater will die Mutter</title>
@@ -99,6 +504,15 @@
       <description><![CDATA[Sonntagmorgens. Der Vater will die Mutter besteigen, aber wohin mit dem fünfjährigen Sohn? Kurzerhand schickt der Vater ihn auf den Balkon: "Schau mal, was da so los ist und erzähl es uns." Der Vater ist gerade voll bei der Sache, als der Kleine ruft: "Schmidts haben sich ein neues Auto gekauft, einen Golf!" Keuchend antwortet der Vater: "Super, weiterschauen!" Zwei Minuten später meldet sich der Junior erneut: "Meiers bekommen gerade Besuch aus Freiburg!" Der Vater stöhnt: "O.k., beobachte weiter das Geschehen!" Nach weiteren drei Minuten verkündet der Kleine: "Die Meiers poppen gerade!" Der Vater: "Wie kommst du denn darauf?" - "Naja, die haben ihren Sohn auch gerade auf den Balkon geschickt."]]></description>
     </item>
     <item>
+      <title>[Tech &amp; AI] Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+      <link>https://huggingface.co/blog/video-trainium3</link>
+      <guid isPermaLink="false">https://huggingface.co/blog/video-trainium3</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
       <title>[Berlin] Erzieherin und Erzieher (m/w/d) an der Mahlsdorfer Grundschule - Berlin-Mahlsdorf - Indeed</title>
       <link>https://de.indeed.com/viewjob?jk=37baf38382a59ea8&amp;from=vjs&amp;tk=1k8cu3njij0pr800&amp;viewtype=embedded&amp;xkcb=SoBt67M2bM0BLWyMcR0CbzkdCdPP&amp;continueUrl=%2Fjobs%3Fq%3Derzieher%26l%3Dgr%25C3%25BCnheide%2B%2528mark%2529</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14425256976668893430</guid>
@@ -106,60 +520,6 @@
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
       <description><![CDATA[: Mahlsdorfer Grundschule in Berlin-Mahlsdorf. Vertragsart: Teilzeit- / Vollzeit. Ansprechpartner: Paul Teic... Mehr anzeigen. Erstellen Sie ein ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Hoffenheim dreht Partie gegen Graz – Freiburg macht's dramatisch</title>
-      <link>https://www.transfermarkt.de/drei-spate-treffer-tsg-dreht-partie-gegen-graz-freiburg-machts-gegen-twente-dramatisch/view/news/491337</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/drei-spate-treffer-tsg-dreht-partie-gegen-graz-freiburg-machts-gegen-twente-dramatisch/view/news/491337</guid>
-      <pubDate>Thu, 26 Nov 2026 22:04:16 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Dank drei später Treffer hat die TSG Hoffenheim im Duell mit Trainer Christian Ilzers Ex-Klub Sturm Graz in der Europa League einen wichtigen Schritt in Richtung Weiterkommen gemacht. In der...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] 13. Spieltag: Hertha BSC - Karlsruher SC - Karlsruher SC - Forum | Seite 3 | Transfermarkt</title>
-      <link>https://www.transfermarkt.de/13-spieltag-hertha-bsc-karlsruher-sc/thread/forum/37/thread_id/191253/page/3</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5731287279768406968</guid>
-      <pubDate>Thu, 26 Nov 2026 21:14:29 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Thema: 13. Spieltag: Hertha BSC - Karlsruher SC, Beiträge: 23, Datum letzter Beitrag: 26.11.2026 - 21:22 Uhr.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Herthas Aufgabe gegen Karlsruhe: Was Leitl egal ist und welches Ziel er verfolgt</title>
-      <link>https://www.fussballdaten.de/news/herthas-aufgabe-gegen-karlsruhe-was-leitl-egal-welches-ziel-er/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:806414978255972710</guid>
-      <pubDate>Thu, 26 Nov 2026 21:10:38 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC ist perfekt aus der Länderspielpause zurückgekehrt und bekommt am Samstag den Karlsruher SC zu Gast. Trainer Stefan Leitl bereitet sich ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Hertha BSC gegen Karlsruhe: Ein Hoch auf Freundschaft und Unschlagbarkeit - Sportschau</title>
-      <link>https://www.sportschau.de/regional/rbb/rbb-hertha-bsc-gegen-karlsruhe-ein-hoch-auf-freundschaft-und-unschlagbarkeit-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11159582131699579745</guid>
-      <pubDate>Thu, 26 Nov 2026 21:02:29 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Mehr vom rbb. Stefan Leitl, Trainer von Hertha BSC (Quelle: IMAGO / Nordphoto). Player: audioHertha BSC gegen Karlsruhe: Ein Hoch auf Freundschaft und ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Urteile, Stadionverbote, offene Ermittlungen: Bilanz nach Eklat bei Hertha-Spiel</title>
-      <link>https://www.sportschau.de/regional/rbb/rbb-urteile-stadionverbote-offene-ermittlungen-bilanz-nach-eklat-bei-hertha-spiel-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6517064796951987427</guid>
-      <pubDate>Thu, 26 Nov 2026 21:02:28 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Urteile, Stadionverbote, offene Ermittlungen: Bilanz nach Eklat bei Hertha-Spiel. Stand: 26.11.2026 • 00:00 Uhr.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Keven Schlotterbeck tippt 11. Spieltag: BVB behauptet Spitze vor FC Bayern</title>
-      <link>https://www.transfermarkt.de/schlotterbeck-tippt-11-spieltag-bvb-behauptet-spitze-vor-fc-bayern-schalke-jubelt-auswarts/view/news/491273</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/schlotterbeck-tippt-11-spieltag-bvb-behauptet-spitze-vor-fc-bayern-schalke-jubelt-auswarts/view/news/491273</guid>
-      <pubDate>Thu, 26 Nov 2026 20:30:58 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Innenverteidiger Keven Schlotterbeck vom FC Southampton hat für Transfermarkt den 11. Bundesliga-Spieltag getippt und tritt gegen die TM-Community an. Der 29-Jährige ist davon...]]></description>
     </item>
     <item>
       <title>[Tech &amp; AI] Nvidia hits pause on chip shipments to Southeast Asia</title>
@@ -171,24 +531,6 @@
       <description><![CDATA[Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.]]></description>
     </item>
     <item>
-      <title>[Fußball] Das sind die deutschen Gruppengegner bei der U21-Europameisterschaft</title>
-      <link>https://www.transfermarkt.de/mit-niederlande-das-sind-die-deutschen-gruppengegner-bei-der-u21-europameisterschaft/view/news/491336</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/mit-niederlande-das-sind-die-deutschen-gruppengegner-bei-der-u21-europameisterschaft/view/news/491336</guid>
-      <pubDate>Thu, 26 Nov 2026 20:00:55 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Die deutsche U21-Nationalmannschaft trifft bei der EM-Endrunde im kommenden Sommer in der Gruppenphase auf die Niederlande, Norwegen und Belgien. Das ergab die Auslosung im Kongresszentrum in...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] 2. Bundesliga: Unschlagbare Hertha empfängt Freunde vom Karlsruher SC - rbb24</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13811671807888014645</guid>
-      <pubDate>Thu, 26 Nov 2026 19:58:22 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Exakt 50 Jahre Fanfreundschaft feiern die Fans von Hertha BSC und dem Karlsruher SC am Samstag im Olympiastadion. Aber können die Berliner Fans ...]]></description>
-    </item>
-    <item>
       <title>[Berlin] 2. Bundesliga: Unschlagbare Hertha empfängt Freunde vom Karlsruher SC</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</link>
       <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</guid>
@@ -196,51 +538,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[Exakt 50 Jahre Fanfreundschaft feiern die Fans von Hertha BSC und dem Karlsruher SC am Samstag im Olympiastadion. Aber können die Berliner Fans ihr Team nach Spielende auch weiter als "ungeschlagen" feiern? Trainer Stefan Leitl ist optimistisch.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] "Focus on us" | Press conference ahead of Karlsruhe with Stefan Leitl - YouTube</title>
-      <link>https://www.youtube.com/watch?v=Evxs28IoMAs</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5402717607961486800</guid>
-      <pubDate>Thu, 26 Nov 2026 19:43:29 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[... hertha.de/ #HaHoHe #HerthaBSC #BSCKSC #Hertha.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Bayer Leverkusen gewinnt souverän in Zagreb - Tillman trifft</title>
-      <link>https://www.transfermarkt.de/tillman-trifft-bayer-leverkusen-gewinnt-souveran-bei-dinamo-zagreb/view/news/491335</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/tillman-trifft-bayer-leverkusen-gewinnt-souveran-bei-dinamo-zagreb/view/news/491335</guid>
-      <pubDate>Thu, 26 Nov 2026 19:41:41 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Bayer Leverkusen hat in der Europa League zurück in die Spur gefunden und ohne große Probleme beim kroatischen Meister Dinamo Zagreb gewonnen. Im altehrwürdigen Stadion Maksimir...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] "Um jeden Preis gewinnen" | Karlsruher SC</title>
-      <link>https://www.ksc.de/aktuelles/news/-um-jeden-preis-gewinnen-</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9676310912902756241</guid>
-      <pubDate>Thu, 26 Nov 2026 19:18:01 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[... Hertha BSC. Bevor es am Samstagmittag ab 13:00 Uhr im Olympiastadion um wichtige Punkte geht, blicken wir gemeinsam mit unserem Chefcoach Max ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] HSV-Vertrag von Vuskovic verlängert – Wie Bruder Luka erstmals gegen Bayern in Startelf?</title>
-      <link>https://www.transfermarkt.de/hsv-vertrag-von-vuskovic-verlangert-wie-bruder-luka-erstmals-gegen-bayern-in-startelf-/view/news/491333</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/hsv-vertrag-von-vuskovic-verlangert-wie-bruder-luka-erstmals-gegen-bayern-in-startelf-/view/news/491333</guid>
-      <pubDate>Thu, 26 Nov 2026 19:12:50 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Mario Vuskovic wird über die laufende Saison beim HSV gebunden sein. Was vor einigen Wochen publik wurde, bestätigte nun das „Hamburger Abendblatt“: Durch die erste...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] „Bevor da ein Bücherladen reinkommt“ – Thomas Häßler übernimmt alte Kneipe - WELT</title>
-      <link>https://www.welt.de/sport/fussball/article6b07ee4d7af5dee5d20ac415/thomas-haessler-bevor-da-ein-buecherladen-reinkommt-weltmeister-uebernimmt-alte-kneipe.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1651267032007648311</guid>
-      <pubDate>Thu, 26 Nov 2026 19:10:04 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Häßler eröffnet bei Party mit Hertha BSC gegen den KSC. Unterstützt wird er bei dem neuen Projekt von einem Freund. Am Samstag (11 Uhr) steigt nun die ...]]></description>
     </item>
     <item>
       <title>[Berlin] Sozialpädagoge für Wohngruppe in Mahlsdorf - Caritasverband für den Kreis Höxter e.V.</title>
@@ -261,15 +558,6 @@
       <description><![CDATA[Union Berlin am Samstag ist am Samstag zu Gast bei Mainz 05. Es ist das erste Schicksaalsspiel für den viel diskutierten Trainer Mauro Lustrinelli - ausgerechnet gegen seinen Landsmann und ehemaligen Chef: Union-Legende Urs Fischer.]]></description>
     </item>
     <item>
-      <title>[Fußball] Herthas BSC: Was die Bierlaune mit der Fanfreundschaft zum KSC zu tun hat - Berliner Morgenpost</title>
-      <link>https://www.morgenpost.de/sport/hertha/article413781020/herthas-freundschaft-mit-dem-ksc-zufall-alkohol-und-ein-entscheidender-faktor.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18009591354828347673</guid>
-      <pubDate>Thu, 26 Nov 2026 18:32:15 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Seit 1976 sind Fans von Hertha BSC und dem Karlsruher SC freundschaftlich verbunden. Die unwahrscheinliche Beziehung hat einen kuriosen Ursprung.]]></description>
-    </item>
-    <item>
       <title>[Games] Dark Messiah Might and Magic Elements - Xbox 360 in Dortmund | X-Box Spiele gebraucht kaufen</title>
       <link>https://www.kleinanzeigen.de/s-anzeige/dark-messiah-might-and-magic-elements-xbox-360/3583169730-227-1101</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:893557769755761581</guid>
@@ -277,15 +565,6 @@
       <category>Games</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
       <description><![CDATA[Details. Kategorie: Videospiele; Art: Xbox; USK-Freigabe: USK 18. Beschreibung. Ich verkaufe das Spiel Dark Messiah Might and Magic Elements für ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] 2. Bundesliga: Diese Rolle spielt Fitness für Herthas Erfolgsserie | DIE ZEIT</title>
-      <link>https://www.zeit.de/news/2026-11/26/diese-rolle-spielt-fitness-fuer-herthas-erfolgsserie</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6107006875089933856</guid>
-      <pubDate>Thu, 26 Nov 2026 18:24:15 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Kein Spieler verletzt, Fitnessprobleme gegen Ende der Hinrunde sind nicht zu sehen: Auch deswegen führt Hertha BSC die Tabelle der zweiten Liga ...]]></description>
     </item>
     <item>
       <title>[Berlin] Nachhilfelehrer in Berlin-Mahlsdorf (m/w/d) bei Schülerhilfe GmbH &amp; Co. KG - LinkedIn</title>
@@ -315,15 +594,6 @@
       <description><![CDATA[Zehn Monate nach den Ausschreitungen rund um das Zweitliga-Spiel zwischen Hertha BSC und dem FC Schalke 04 wurden Urteile gesprochen, Ermittlungen eingestellt und Stadionverbote verhängt. rbb|24 fasst die wichtigsten Fragen und Antworten rund um die Aufarbeitung der Vorfälle zusammen.]]></description>
     </item>
     <item>
-      <title>[Fußball] Bilanz nach Eklat bei Hertha-Spiel: Urteile und Stadionverbote - rbb24</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11287646376483573152</guid>
-      <pubDate>Thu, 26 Nov 2026 17:44:52 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Zehn Monate nach den Ausschreitungen rund um das Zweitliga-Spiel zwischen Hertha BSC und dem FC Schalke 04 wurden Urteile gesprochen, Ermittlungen ...]]></description>
-    </item>
-    <item>
       <title>[Berlin] Warum wird das Einkommen der Mutter zum Maßstab für den Unterhaltsvorschuss, während ...</title>
       <link>https://www.abgeordnetenwatch.de/profile/katharina-guenther-wuensch/fragen-antworten/warum-wird-das-einkommen-der-mutter-zum-massstab-fuer-den-unterhaltsvorschuss-waehrend-die</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8535338228362069000</guid>
@@ -333,33 +603,6 @@
       <description><![CDATA[Ich habe eine konkrete Frage zum Neubau der Elsengrundschule in Mahlsdorf. In den bestehenden Schulen herrscht große Personalnot. Gibt es genug ...]]></description>
     </item>
     <item>
-      <title>[Fußball] Fragen und Antworten: Bilanz nach Eklat bei Hertha-Spiel: Urteile und Stadionverbote</title>
-      <link>https://www.sportschau.de/regional/rbb/rbb-bilanz-nach-eklat-bei-hertha-spiel-urteile-und-stadionverbote-100.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2090897234562565231</guid>
-      <pubDate>Thu, 26 Nov 2026 17:40:57 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Zehn Monate nach den Ausschreitungen rund um das Zweitliga-Spiel zwischen Hertha BSC und dem FC Schalke 04 wurden Urteile gesprochen, ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Herthas Nilsson unternimmt den zweiten Anlauf - Kicker</title>
-      <link>https://www.kicker.de/herthas-nilsson-unternimmt-den-zweiten-anlauf-1275316/artikel</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13914984410606715265</guid>
-      <pubDate>Thu, 26 Nov 2026 17:26:26 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Neuzugang Gustaf Nilsson ringt bei Hertha BSC - auch aus Verletzungsgründen - noch um einen festen Platz im Team. Zuletzt in Cottbus hat der ...]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Freiburg will Ben Farhats Rückleihe zum KSC abbrechen – „Noch gar nichts entschieden“</title>
-      <link>https://www.transfermarkt.de/freiburg-will-ben-farhats-ruckleihe-zum-ksc-abbrechen-noch-gar-nichts-entschieden-quot-/view/news/491284</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/freiburg-will-ben-farhats-ruckleihe-zum-ksc-abbrechen-noch-gar-nichts-entschieden-quot-/view/news/491284</guid>
-      <pubDate>Thu, 26 Nov 2026 17:15:06 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Veröffentlicht am 26.11.2026 um 11:04 Uhr, aktualisiert um 18:15 Uhr Louey Ben Farhat soll nach Informationen von Transfermarkt vorzeitig zum SC Freiburg zurückkehren. Entschieden ist...]]></description>
-    </item>
-    <item>
       <title>[Games] Might and Magic Millennium Edition Bonus Disc PC. in Wandsbek - Hamburg Rahlstedt</title>
       <link>https://www.kleinanzeigen.de/s-anzeige/might-and-magic-millennium-edition-bonus-disc-pc-/3582958572-227-9457</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16781027883049426310</guid>
@@ -367,6 +610,15 @@
       <category>Games</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
       <description><![CDATA[Biete die offizielle Bonus-Disc zur Might and Magic Millennium Edition für den PC an. Die CD enthält exklusives Videomaterial sowie digitale ...]]></description>
+    </item>
+    <item>
+      <title>[Games] Heroes of Might and Magic III 1/12 figure Archangel (Deluxe Version) 15 cm Figurine</title>
+      <link>https://www.1001hobbies.de/minifiguren/886172-fusion-fantasy-ffts915753-heroes-of-might-and-magic-iii-1-12-figure-archangel-deluxe-version-15-cm.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2375639417284671941</guid>
+      <pubDate>Thu, 26 Nov 2026 16:07:54 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
+      <description><![CDATA[Vorbestellen Sie Ihr "Heroes of Might and Magic III 1/12 figure Archangel (Deluxe " figuren mit 1001hobbies, der Fusion Fantasy Spezialist.]]></description>
     </item>
     <item>
       <title>[Games] Heroes of Might and Magic 5: Bundle (GOG) - Preisjäger</title>
@@ -387,15 +639,6 @@
       <description><![CDATA[On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.]]></description>
     </item>
     <item>
-      <title>[Fußball] Jamal Musiala: Warum sein Marktwert für Bayern schwer zu bewerten ist</title>
-      <link>https://www.transfermarkt.de/der-fall-musiala-warum-die-marktwert-analyse-so-kompliziert-ist-es-gibt-kein-handbuch-quot-/view/news/491318</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/der-fall-musiala-warum-die-marktwert-analyse-so-kompliziert-ist-es-gibt-kein-handbuch-quot-/view/news/491318</guid>
-      <pubDate>Thu, 26 Nov 2026 15:51:20 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Jamal Musiala steht wieder auf dem Platz – und trotzdem sind die Fragen nach seiner sportlichen Zukunft größer denn je. Die gesundheitliche Situation des 23 Jahre alten...]]></description>
-    </item>
-    <item>
       <title>[Berlin] Solide Doppelhaushälfte mit Keller in Mahlsdorf Süd in Berlin - Kleinanzeigen</title>
       <link>https://www.kleinanzeigen.de/s-anzeige/solide-doppelhaushaelfte-mit-keller-in-mahlsdorf-sued/3582981054-208-27141</link>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:479963249403989585</guid>
@@ -412,429 +655,6 @@
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
       <description><![CDATA[... Mahlsdorf, Kaulsdorf, Biesdorf, Marzahn & Hellersdorf. Informationen ... Mahlsdorf (550) Marzahn (2544) Neubau (66) PKW (63) Polizei (1298) ...]]></description>
-    </item>
-    <item>
-      <title>[Games] Disney Lorcana Starter Deck Rise Of The Floodborn - Might And Magic (Merlin und Tiana)</title>
-      <link>https://www.blent.be/de-de/disney-lorcana-starter-deck-rise-of-the-floodborn-might-and-magic-merlin-and-tiana-de-de.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17222512003704649504</guid>
-      <pubDate>Thu, 26 Nov 2026 15:17:08 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Erkunde die magische Welt des Lorcana TCG mit dem Starter-Deck "Aufstieg der Flutgeborenen", in dem Merlin und Tiana die Hauptrollen spielen.]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Darmstadts Fernie über Transfers: „Im Winter werden häufig emotionale Entscheidungen getroffen“</title>
-      <link>https://www.transfermarkt.de/darmstadts-fernie-uber-transfers-im-winter-werden-haufig-emotionale-entscheidungen-getroffen-quot-/view/news/491323</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/darmstadts-fernie-uber-transfers-im-winter-werden-haufig-emotionale-entscheidungen-getroffen-quot-/view/news/491323</guid>
-      <pubDate>Thu, 26 Nov 2026 15:07:27 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Mit zwölf Punkten aus zwölf Spielen und einer der schwächsten Defensiven (22 Gegentore) steht der SV Darmstadt 98 auf Relegationsrang 16 in der 2. Bundesliga. Kein Wunder, dass bei...]]></description>
-    </item>
-    <item>
-      <title>[Games] Christmas Magic at and around Leubnitz Castle - YouTube</title>
-      <link>https://www.youtube.com/watch?v=s9oK2EP95TI</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14813811740231735435</guid>
-      <pubDate>Thu, 26 Nov 2026 14:50:45 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[It can be received via digital terrestrial television (DVB-T) using an antenna and is also available on many cable networks. Since 2004, TV ...]]></description>
-    </item>
-    <item>
-      <title>[Games] Heroes of Might and Magic 5: Bundle (GOG) - mydealz</title>
-      <link>https://www.mydealz.de/deals/heroes-of-might-and-magic-5-bundle-gog-2882490</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5316836765971776652</guid>
-      <pubDate>Thu, 26 Nov 2026 14:43:46 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Baue Städte und führe Armeen: Heroes of Might and Magic 5 bietet sechs Fraktionen sowie zwei Erweiterungen. Jetzt entdecken.]]></description>
-    </item>
-    <item>
-      <title>[Games] Heroes of Might &amp; MagicVII 7 Collectors Edition PC OVP NEU in Wandsbek - Kleinanzeigen</title>
-      <link>https://www.kleinanzeigen.de/s-anzeige/heroes-of-might-magicvii-7-collectors-edition-pc-ovp-neu/3583016058-227-17624</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5807557918551939252</guid>
-      <pubDate>Thu, 26 Nov 2026 14:42:50 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Heroes of Might & MagicVII 7 Collectors Edition PC OVP NEU. 50 €. + Versand ab 0,49 €. 22049 Hamburg Dulsberg. 26.11.2026 ...]]></description>
-    </item>
-    <item>
-      <title>[Games] Witcher 3 - Mod Support Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</guid>
-      <pubDate>Thu, 26 Nov 2026 14:36:49 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The Witcher 3 Remastered is getting Cross-Platform Mod Support: The Witcher 3 Wild Hunt Remastered - Official Cross-Platform Mod Support Trailer]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Tell HN: Happy Thanksgiving</title>
-      <link>https://news.ycombinator.com/item?id=50655664</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50655664</guid>
-      <pubDate>Thu, 26 Nov 2026 14:26:54 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Games] Diablo 4 - Season 16 launches on December 1</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</guid>
-      <pubDate>Thu, 26 Nov 2026 14:23:59 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[Grind Less Gaming reports that Diablo IV season 16 Tyrael's Gambit launches on December 1: Diablo 4 Season 16 Tyrael's Gambit: Everything New in 6 Minutes]]></description>
-    </item>
-    <item>
-      <title>[Berlin] 2-Zimmer-Souterrainwohnung mit neuer Einbauküche in Berlin-Mahlsdorf - Wohnglück.de</title>
-      <link>https://wohnglueck.de/property/2106547</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16802457975535119790</guid>
-      <pubDate>Thu, 26 Nov 2026 14:18:31 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[In einem freistehenden Mehrfamilienhaus mit nur fünf Wohneinheiten in ruhiger Wohnlage von Berlin-Mahlsdorf wird diese frisch sanierte ...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Kostenlose Rechtsberatung im Pestalozzi-Treff: Anwältin hilft heute bei Fragen zu Familie ...</title>
-      <link>https://marzahn-hellersdorf.com/kostenlose-rechtsberatung-im-pestalozzi-treff-anwaeltin-hilft-heute-bei-fragen-zu-familie-und-trennung/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10788482367205498058</guid>
-      <pubDate>Thu, 26 Nov 2026 14:15:43 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Wer mit Fragen zu Unterhalt, Sorgerecht oder Scheidung allein nicht weiterkommt, kann sich am heutigen Donnerstag, 26. November, in Mahlsdorf ...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Störung Rahnsdorfer Str. heute – Tram aktuell | Bahnstörung</title>
-      <link>https://bahnstoerung.de/bahnhof/rahnsdorfer-str</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16516471374572337248</guid>
-      <pubDate>Thu, 26 Nov 2026 13:53:47 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Bus 398: Umleitung aufgrund von Bauarbeiten Richtung Wodanstraße von Kressenweg bis Rahnsdorfer Straße via Alt-Mahlsdorf/Neuenhagener Straße und ...]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] 45°C inlets just killed the chiller. Most people haven't noticed yet</title>
-      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
-      <guid isPermaLink="false">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</guid>
-      <pubDate>Thu, 26 Nov 2026 13:48:11 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Berlin] 96-Jährige nach Verkehrsunfall in Hannover verstorben</title>
-      <link>https://www.nachrichten-heute.net/1794244-96-jaehrige-nach-verkehrsunfall-in-hannover-verstorben.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17755496844582399238</guid>
-      <pubDate>Thu, 26 Nov 2026 13:00:49 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Der Unfall ereignete… Tram kollidiert mit Taxi in Berlin-Mahlsdorf Berlin () - In Berlin-Mahlsdorf hat es einen schweren Verkehrsunfall zwischen einer ...]]></description>
-    </item>
-    <item>
-      <title>[Games] Might and Magic TCG im Test: Taktische Kartenduelle - EndeNews</title>
-      <link>https://endenews.de/reviews/2026/might-and-magic-tcg-im-test-taktische-kartenduelle/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13256000631993425513</guid>
-      <pubDate>Thu, 26 Nov 2026 12:56:13 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[Eine ehrliche Analyse des strategischen Kartenspiels im Might and Magic-Universum auf Android, PC und iOS.]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Fake Leder Jacke in Berlin - Mahlsdorf | kleinanzeigen.de</title>
-      <link>https://www.kleinanzeigen.de/s-anzeige/fake-leder-jacke/3582907024-154-27141</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6405064954764336809</guid>
-      <pubDate>Thu, 26 Nov 2026 12:32:12 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[M-L, selten getragen,Fake Leder Jacke in Berlin - Mahlsdorf.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Head of Software Engineering – NOX Metals</title>
-      <link>https://news.ycombinator.com/item?id=50654353</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50654353</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Euro-Office comes to your desktop with the Nextcloud Office Desktop app</title>
-      <link>https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</link>
-      <guid isPermaLink="false">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</guid>
-      <pubDate>Thu, 26 Nov 2026 11:50:49 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
-      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
-      <pubDate>Thu, 26 Nov 2026 11:37:17 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Berlin] bauträgerfrei, provisionsfrei: 600m² Baugrundstück Mahlsdorf-Nord - ImmoScout24</title>
-      <link>https://www.immobilienscout24.de/expose/173054199</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5490670816809299192</guid>
-      <pubDate>Thu, 26 Nov 2026 11:17:55 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Grundstück zum Kauf (Grundstück Wohnen Kauf): 600 qm - Mahlsdorf (Hellersdorf) bei ImmobilienScout24 (Scout-ID: 173054199)]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Altglienicke trennt sich von Cheftrainer Twardzik - Njie übernimmt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-vsg-altgienicke-trainer-entlassung-twardzik-njie.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-vsg-altgienicke-trainer-entlassung-twardzik-njie.html</guid>
-      <pubDate>Thu, 26 Nov 2026 10:43:34 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Adventszauber in Mahlsdorf - Evangelisches Diakonissenhaus Berlin Teltow Lehnin</title>
-      <link>https://www.diakonissenhaus.de/aktuelles/adventszauber-in-mahlsdorf</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15890186270915378259</guid>
-      <pubDate>Thu, 26 Nov 2026 10:41:25 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Mit Lichtern, Feuerschalen und weihnachtlichen Klängen stimmte der 5. Adventsmarkt auf dem Campus des Altenhilfezentrums Mahlsdorf auf die ...]]></description>
-    </item>
-    <item>
-      <title>[Games] Eins der einflussreichsten Brettspiele der Welt ist jetzt so günstig wie noch in diesem Jahr</title>
-      <link>https://www.gamestar.de/artikel/einflussreichsten-brettspiele-guenstig-hero-quest,3463803.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18395160742887429873</guid>
-      <pubDate>Thu, 26 Nov 2026 10:26:31 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[Denn es hat in den 90ern das Dungeon-Crawler-Genre groß gemacht und gezeigt, dass Fantasy auch abseits von Dungeons & Dragons auf dem Spieltisch ...]]></description>
-    </item>
-    <item>
-      <title>[Games] 15 Upcoming First-Person Turn-Based RPGs to Watch</title>
-      <link>https://turnbasedlovers.com/lists/15-upcoming-first-person-turn-based-rpgs-to-watch/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12423162772612174223</guid>
-      <pubDate>Thu, 26 Nov 2026 10:20:12 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[15 upcoming first-person turn-based RPGs to watch, from classic dungeon crawlers to horror adventures, deckbuilders, and unusual hybrids.]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Intel One Mono font</title>
-      <link>https://github.com/intel/intel-one-mono</link>
-      <guid isPermaLink="false">https://github.com/intel/intel-one-mono</guid>
-      <pubDate>Thu, 26 Nov 2026 10:11:01 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Games] 5 Anime With Better Dungeons Than Solo Leveling - CBR</title>
-      <link>https://www.cbr.com/anime-better-dungeons-than-solo-leveling/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15275458067834549150</guid>
-      <pubDate>Thu, 26 Nov 2026 09:51:37 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[Delicious in Dungeon Has a Wholesome Dungeon Crawling With a Dark Undertone. Laios and his party escape the red dragon in Delicious in Dungeon.]]></description>
-    </item>
-    <item>
-      <title>[Games] Peacock's New Epic Science Fantasy Series Is Coming to Dethrone Star Wars for Good</title>
-      <link>https://www.cbr.com/peacock-dungeon-crawler-carl-adaptation-dethrone-star-wars/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6557433069674538469</guid>
-      <pubDate>Thu, 26 Nov 2026 09:47:40 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[Peacock's upcoming Dungeon Crawler Carl adaptation is set to shake up the streaming world with its unique blend of high fantasy and sci-fi.]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Schließanlagen Mahlsdorf – Schlüsseldienst 24/7 ab 79 €</title>
-      <link>https://schluesseldienst-mahlsdorf.de/leistungen/schliessanlagen/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16508960345237221004</guid>
-      <pubDate>Thu, 26 Nov 2026 09:44:10 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Schließanlagen in Mahlsdorf: Planung, Einbau und Erweiterung für Mehrfamilienhäuser, Praxen und Betriebe, Nachbestellung mit Sicherungskarte.]]></description>
-    </item>
-    <item>
-      <title>[Games] Dungeon Crawler Carl's Brand-New Sequel Officially Named One of the Best Books of the Year</title>
-      <link>https://www.cbr.com/dungeon-crawler-carl-parade-horribles-best-books-2026/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8319623911004312424</guid>
-      <pubDate>Thu, 26 Nov 2026 09:21:30 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[Dungeon Crawler Carl fans just got some good news, as the hit fantasy RPG series receives some well-deserved acclaim. The eighth and most recent ...]]></description>
-    </item>
-    <item>
-      <title>[Games] Inside RetroEngine, the Custom Engine Behind The King's Surveyor - 80 Level</title>
-      <link>https://80.lv/articles/inside-retroengine-the-custom-engine-behind-the-king-s-surveyor</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18179312232442252693</guid>
-      <pubDate>Thu, 26 Nov 2026 09:08:21 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[Alexander Rybak talked to us about RetroEngine, the custom engine behind the upcoming dungeon crawler The King's Surveyor, and how he approached ...]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] US-Doppelschlag bremst Chinas KI-Aufholjagd</title>
-      <link>https://www.all-ai.de/news/news26/us-doppelschlag-china</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/us-doppelschlag-china</guid>
-      <pubDate>Thu, 26 Nov 2026 08:53:16 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Verschärfte US-Regeln für gemietete KI-Chips im Ausland und Anti-Destillations-Sperren von OpenAI und Anthropic verzögern KI-Projekte in China. Moonshot AI stornierte bereits einen 150-Millionen-Dollar-Vertrag für Nvidia-Blackwell-Chips in Indonesien. Forscher von DeepSeek befürchten ohne den Abgriff westlicher KI-Antworten einen wachsenden Rückstand von bis zu neun Monaten auf US-Spitzenmodelle. Als Reaktion setzen Anbieter wie Alibaba, MiniMax und miHoYo verstärkt auf heimische Huawei-Chips sowie teure eigene Trainingsdaten für Reinforcement Learning. The Information: Chinese AI Firms Confront a Dire Future as U.S. Tightens Access to Chips and Tokens US Federal Register (BIS): Addressing Remote Access to Advanced Semiconductors OpenAI: Disrupting a coordinated model-distillation campaign Anthropic: Detecting and preventing distillation attacks Channel NewsAsia: Nvidia halts chip shipments to Southeast Asia Bei DeepSeek, Alibaba und Moonshot AI geraten wichtige KI-Projekte ins Stocken. Neue US-Hürden für gemietete Auslands-Chips und erfolgreiche Sperren gegen das Abgreifen westlicher KI-Antworten setzen Chinas führende KI-Unternehmen laut The Information gleichzeitig unter Druc...]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] SpaceX, Dell und Trump: Warum US-Milliardäre Kindern Geld schenken</title>
-      <link>https://www.all-ai.de/news/beitrage2026/usa-geld-trump-konten-spacex-1</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/beitrage2026/usa-geld-trump-konten-spacex-1</guid>
-      <pubDate>Thu, 26 Nov 2026 08:42:31 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Elon Musk kündigt für jedes US-Kind zwei SpaceX-Aktien im Gesamtwert von rund 18,4 Milliarden Dollar an. Abgewickelt werden die Geschenke über die staatlichen Trump Accounts, in die auch Milliardäre wie Michael Dell und Ray Dalio Milliarden einzahlen. Während Befürworter den Zinseszins über 18 Jahre loben, sichern sich Spender Steuervorteile und Millionen loyaler Kleinaktionäre. Ökonomen kritisieren Verkaufssperren, bürokratische Hürden für arme Haushalte und eine hohe Besteuerung ab dem 18. Geburtstag. Elon Musk auf X: Ankündigung der SpaceX-Aktien für US-Kinder SpaceX Investor Relations: SpaceX to Invest in the Next Generation of Americans Axios: Musk makes $18 billion SpaceX stock pledge for every kid in America The Guardian: Michael and Susan Dell donate $6.25bn to encourage families to claim 'Trump accounts' Cato Institute: The Trouble with the Trump Accounts Elon Musk verspricht jedem Kind in den USA zwei Aktien seines Raumfahrtkonzerns SpaceX. Beim aktuellen Kurs von 127,44$ ergibt das rund 255$ pro Kopf und ein Gesamtpaket von 18,4 Milliarden $ für etwa 72 Millionen Minderjährige. Anzeige Ein Aktiendepot zur Geburt Die erste Aktie gibt SpaceX im Dezember neu aus. Das zwe...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Provisionsfreies Zweifamilienhaus mit Westgarten in Mahlsdorf-Nord - ImmoScout24</title>
-      <link>https://www.immobilienscout24.de/expose/172175678</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1126678052024450417</guid>
-      <pubDate>Thu, 26 Nov 2026 08:42:20 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Einfamilienhaus zum Kauf (Haus/Kauf): 5 Zimmer - 137 qm - An den Siedlergärten 3, 12623 Berlin, Mahlsdorf (Hellersdorf) bei ImmobilienScout24 ...]]></description>
-    </item>
-    <item>
-      <title>[Games] Hometown star Matt Dinniman among big names coming to Tucson Festival of Books</title>
-      <link>https://tucson.com/life-entertainment/local/article_7c69bd78-2db4-4296-a37b-d8ae5ed0706a.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11235940189913822624</guid>
-      <pubDate>Thu, 26 Nov 2026 08:28:33 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[The eight installments of his Dungeon Crawler Carl series have sold more than 14 million copies, and the re-release of “Dungeon Crawler Carl” is ...]]></description>
-    </item>
-    <item>
-      <title>[Games] The Lord of the Rings Illustrated Editions Are on Sale for Black Friday - IGN</title>
-      <link>https://www.ign.com/articles/lord-of-the-rings-illustrated-books-deal-black-friday-2026</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4038289823415355766</guid>
-      <pubDate>Thu, 26 Nov 2026 08:27:48 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[You can also bundle and save on ACOTAR books, Red Rising, Dungeon Crawler Carl, Harry Potter, and so much more during the sale period. 3 for 2 ...]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Ärger um ChatGPT-Abos nach Limit-Kürzung um 40 Prozent</title>
-      <link>https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</guid>
-      <pubDate>Thu, 26 Nov 2026 08:22:02 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Nach einem korrigierten Abrechnungsfehler ist das ChatGPT-Kontingent bei GPT-6.2 Astra um 40% und bei GPT-6.2 Sol um 25% schneller aufgebraucht. Als Ausgleich erhalten zahlende Kunden in den Tarifen Go, Plus, Pro und Business einmalig eine kostenlose Limit-Zurücksetzung. Ab Dezember teilen sich Chat, der Arbeitsbereich Work und Codex ein einziges gemeinsames Token-Budget, während nur das Instant-Modell unbegrenzt bleibt. Thibault Sottiaux auf X: Korrektur der Nutzungslimits für GPT-6.2 Astra und Sol OpenAI Help Center: Understanding ChatGPT and Codex usage limits OpenAI Developer Community: Diskussion zur Zusammenlegung der Chat- und Work-Limits Zahlende Kunden von ChatGPT stoßen bei anspruchsvollen Aufgaben künftig deutlich früher an ihre Grenzen. OpenAI rechnet den Verbrauch seiner jüngsten Spitzenmodelle höher ab und legt zugleich getrennte Nutzungstöpfe zusammen. Anzeige Abrechnungsfehler kostet bis zu 40% Reichweite Auslöser für den größten Unmut ist eine Panne beim Start der Modellreihe GPT-6.2. Produktchef Thibault Sottiaux räumte auf X ein, dass OpenAI den Verbrauch von GPT-6.2 Astra und GPT-6.2 Sol anfangs zu niedrig berechnet hatte. Mit der Korrektur schmilzt das Abo-K...]]></description>
-    </item>
-    <item>
-      <title>[Games] Lord of Undead - Released into Early Access</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</guid>
-      <pubDate>Thu, 26 Nov 2026 07:49:07 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The survival RPG Lord of Undead has been released into Early Access: Lord of Undead - Official Gameplay Trailer Destroy the castle on the hill in this grim RPG where you play as the Dark Lord. Collect souls, summon an undead army, master dark abilities, craft powerful gear, build your base, and desecrate the lands of a vast open world....]]></description>
-    </item>
-    <item>
-      <title>[Games] Talking Success In VR Gaming With Dungeons Of Eternity's Ryan Rutherford - UploadVR</title>
-      <link>https://www.uploadvr.com/vr-spotlight-interview-ryan-rutherford-dungeons-of-eternity/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16102865212584382129</guid>
-      <pubDate>Thu, 26 Nov 2026 07:26:38 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[Ryan, in your own words, what is Dungeons of Eternity?” Ryan Rutherford (Othergate):. “At its heart, it's a four-player co-op dungeon crawler built ...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Oberliga Nordost Staffel Nord ⚽️ Tennis Borussia Berlin vs Eintracht Mahlsdorf 0:0 22.11 ...</title>
-      <link>https://www.instagram.com/p/DgMiybGjqr1/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7318948014413574592</guid>
-      <pubDate>Thu, 26 Nov 2026 07:15:48 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[BSV Eintracht Mahlsdorf Datum: Sonntag, 22.11.2026. Anstoß: 13:30 Uhr Spielort: Mommsenstadion (Waldschulallee 34-42, 14055 Berlin)]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Haus 163.45 m² 543000 € zum Kauf Mahlsdorf,Berlin (12623) - Immowelt</title>
-      <link>https://www.immowelt.de/expose/26jydgnb4aca?utm_source=immobilo2&amp;utm_medium=koop&amp;utm_campaign=koop_seeker_iwt_b2c_immobilo2_x_buy_x_germany_x_x_x_de_x_x_x_x&amp;utm_term=high&amp;utm_content=xml</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:307109938856961450</guid>
-      <pubDate>Thu, 26 Nov 2026 07:04:37 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Oh nein… da ist etwas schief gelaufen. Geben Sie uns einen Moment und versuchen, die Seite neu zu laden. Wir sind dran.]]></description>
-    </item>
-    <item>
-      <title>[Games] Expeditions: Samurai - New Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60644</guid>
-      <pubDate>Thu, 26 Nov 2026 06:51:24 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[A new trailer for the Early Access title Expeditions: Samurai: Expeditions: Samurai - Official Early Access Update #02 Trailer Watch the latest trailer for Expeditions: Samurai for a closer look at what to expect with Update 2, which brings Act 2 of the story, as well as new stealth and disguise features to the strategy RPG....]]></description>
-    </item>
-    <item>
-      <title>[Games] Retro style first person dungeon crawler Captive 3000 released on Steam - Gamemeca</title>
-      <link>https://www.gamemeca.com/en/mv.php?gid=1784234</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:863147407767584571</guid>
-      <pubDate>Thu, 26 Nov 2026 06:47:53 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[Captive 3000 has launched on Steam with free levels. It offers fast-paced dungeon crawling and retro sci-fi horror. Players can dive straight into ...]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Physiotherapeut (m/w/d) in Mahlsdorf Süd für Praxis mit kleinerem Team gesucht</title>
-      <link>https://www.xn--jobs-fr-meine-region-uec.de/job/physiotherapeut-m-w-d-in-mahlsdorf-sued-fuer-praxis-mit-kleinerem-team-gesucht.2015594685.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9716988309650895515</guid>
-      <pubDate>Thu, 26 Nov 2026 06:46:23 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[Bewerben Sie sich auf Physiotherapeut (m/w/d) in Mahlsdorf Süd für Praxis mit kleinerem Team gesucht bei Physiotherapie Doreen Piltz.]]></description>
-    </item>
-    <item>
-      <title>[Games] Age of Failon - Birth of the Hero - Early Access Release</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</guid>
-      <pubDate>Thu, 26 Nov 2026 06:44:49 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The strategy RPG Age of Failon - Birth of the Hero will be released into Early Access today: Age of Failon – Birth of the Hero | Official Gameplay Trailer | Early Access 2026 Age of Failon is a turn-based dark fantasy strategy RPG where exploration and battle drive your progression....]]></description>
-    </item>
-    <item>
-      <title>[Games] Memoria Rhapsody - Announced</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</guid>
-      <pubDate>Thu, 26 Nov 2026 06:40:37 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[The tactical J-RPG Memoria Rhapsody has been announced: Memoria Rhapsody - Official Announcement Trailer Outmaneuver enemies in gridless, turn-based battles with direct third-person control and active defenses. Build your party and lead them through a land divided by rival warlords in this story-driven tactical JRPG set in a Hellenistic fantasy world....]]></description>
-    </item>
-    <item>
-      <title>[Games] Dungeon Monsters released worldwide today, Featured on the App Store Home Page</title>
-      <link>https://www.gamespress.com/Dungeon-Monsters-released-worldwide-today-Featured-on-the-App-Store-Ho</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10211700082075018452</guid>
-      <pubDate>Thu, 26 Nov 2026 06:38:13 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[The rebirth of the dungeon crawler on iOS and Android. Paris, March 2016 ... dungeon-crawling gameplay. You have one quest: rescue the Kingdom ...]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Moat: Your OpenRouter Replacement</title>
-      <link>https://commandcode.ai/moat</link>
-      <guid isPermaLink="false">https://commandcode.ai/moat</guid>
-      <pubDate>Thu, 26 Nov 2026 06:32:48 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>[Games] Jeff Hays' Least Favorite Dungeon Crawler Carl Character Voice Isn't Who You'd Expect</title>
-      <link>https://screenrant.com/dungeon-crawler-carl-audiobooks-jeff-hays-least-favorite-character-voice/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6114962868977301651</guid>
-      <pubDate>Thu, 26 Nov 2026 06:11:53 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
-      <description><![CDATA[The official Jeff Hays and Matt Dinniman ranking of Dungeon Crawler Character voices has a few surprises for audiobook fans.]]></description>
     </item>
   </channel>
 </rss>
