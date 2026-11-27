@@ -5,7 +5,7 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -34,33 +34,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
       <description><![CDATA[Nach einem korrigierten Abrechnungsfehler ist das ChatGPT-Kontingent bei GPT-6.2 Astra um 40% und bei GPT-6.2 Sol um 25% schneller aufgebraucht. Als Ausgleich erhalten zahlende Kunden in den Tarifen Go, Plus, Pro und Business einmalig eine kostenlose Limit-Zurücksetzung. Ab Dezember teilen sich Chat, der Arbeitsbereich Work und Codex ein einziges gemeinsames Token-Budget, während nur das Instant-Modell unbegrenzt bleibt. Thibault Sottiaux auf X: Korrektur der Nutzungslimits für GPT-6.2 Astra und Sol OpenAI Help Center: Understanding ChatGPT and Codex usage limits OpenAI Developer Community: Diskussion zur Zusammenlegung der Chat- und Work-Limits Zahlende Kunden von ChatGPT stoßen bei anspruchsvollen Aufgaben künftig deutlich früher an ihre Grenzen. OpenAI rechnet den Verbrauch seiner jüngsten Spitzenmodelle höher ab und legt zugleich getrennte Nutzungstöpfe zusammen. Anzeige Abrechnungsfehler kostet bis zu 40% Reichweite Auslöser für den größten Unmut ist eine Panne beim Start der Modellreihe GPT-6.2. Produktchef Thibault Sottiaux räumte auf X ein, dass OpenAI den Verbrauch von GPT-6.2 Astra und GPT-6.2 Sol anfangs zu niedrig berechnet hatte. Mit der Korrektur schmilzt das Abo-K...]]></description>
-    </item>
-    <item>
-      <title>US-Behörde genehmigt SpaceX eine Million KI-Satelliten im All</title>
-      <link>https://www.all-ai.de/news/news26top/us-spacex-ki-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/us-spacex-ki-start</guid>
-      <pubDate>Wed, 25 Nov 2026 20:45:20 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Die US-Behörde FCC hat Elon Musks Raumfahrtunternehmen SpaceX unter dem Namen »Starmind« bis zu eine Million Satelliten für KI-Rechenzentren im All genehmigt. In 500 bis 1.000 Kilometern Höhe nutzen die Module fast durchgehendes Sonnenlicht für Nvidia-Chips und umgehen überlastete Stromnetze auf der Erde. Große Hürden bleiben die schwierige Wärmeabfuhr im Vakuum sowie der Transport einer Flotte, die fast sechzigmal größer wäre als alle heute aktiven Satelliten zusammen. Für Bahnen oberhalb von 600 Kilometern hält die FCC ihre Zustimmung vorerst zurück, bis SpaceX einen Entsorgungsplan gegen Weltraumschrott vorlegt. FCC: FCC Authorizes 1 Million Satellites for Data Centers in Space Brendan Carr (FCC-Vorsitzender) auf X zur Starmind-Genehmigung Elon Musk auf X zur FCC-Entscheidung Derzeit kreisen weltweit rund 17.000 aktive Satelliten um die Erde. Jetzt hat die US-Kommunikationsbehörde FCC Elon Musks Raumfahrtunternehmen SpaceX erlaubt, unter dem Namen »Starmind« bis zu eine Million Satelliten als fliegende KI-Rechenzentren zu starten. Anzeige Dauerstrom ohne irdische Engpässe Hinter dem Plan steckt ein wachsendes Infrastrukturproblem am Boden. Überlastete Stromnetze, langwierige ...]]></description>
-    </item>
-    <item>
-      <title>Verschlüsselungen schon knackbar durch OpenAI und Anthropic?</title>
-      <link>https://www.all-ai.de/news/news26top/openai-anthropic-verschluesselungen-gefahr</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-anthropic-verschluesselungen-gefahr</guid>
-      <pubDate>Wed, 25 Nov 2026 18:59:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[In der KI-Szene halten sich seit rund zehn Tagen Gerüchte, dass interne KI-Modelle von OpenAI und Anthropic Fortschritte gegen die gängige RSA-Verschlüsselung erzielt haben. Zuvor hatten Anthropic, OpenAI und Google kurz nacheinander bedeutende mathematische Beweise veröffentlicht, das Feld der Kryptografie dabei aber auffällig ausgespart. Weil eine geknackte Standard-Verschlüsselung weltweit Banken, Behörden und Webseiten träfe, liegt eine enge Abstimmung der KI-Unternehmen mit der US-Regierung nahe. Andrew Curran auf X über Krypto-Gerüchte bei OpenAI und Anthropic Andrew Curran auf X zu Google Gemini 4 und möglichen Regierungsabsprachen Scott Aaronson: Blog Shtetl-Optimized zur KI-Kryptografie Neue interne KI-Modelle von OpenAI und Anthropic sollen bereits an der weitverbreiteten RSA-Verschlüsselung rütteln. Laut dem KI-Beobachter Andrew Curran hält sich dieses Gerücht seit rund zehn Tagen in der Forschungsszene. Anzeige Warum ein Mathe-Durchbruch unsere Passwörter betrifft Die RSA-Verschlüsselung schützt heute Online-Banking, Passwörter und gesicherte Webseiten. Sie beruht darauf, dass klassische Computer riesige Zahlen kaum in ihre ursprünglichen Primzahlen zerlegen können. ...]]></description>
-    </item>
-    <item>
-      <title>Character.AI will Millionen private Chats versteigern</title>
-      <link>https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</guid>
-      <pubDate>Wed, 25 Nov 2026 18:25:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Das insolvente KI-Unternehmen Character.AI plant für den 1. Dezember die Versteigerung privater Chatverläufe von über 21 Millionen US-Konten, darunter mehr als 2,1 Millionen Konten von Minderjährigen. Eine Koalition aus 42 US-Generalstaatsanwälten will die Auktion vor Gericht stoppen, weil neue Eigentümer an frühere Datenschutzversprechen nicht gebunden wären und die Gespräche frei weiterverkaufen dürften. Als einziger bekannter Bieter tritt bislang die kurz zuvor in Delaware gegründete Briefkastenfirma Smirks and Pangs Acquisition LLC mit völlig unklaren Absichten auf. California Department of Justice: Attorney General Bonta Opposes Asset Sale of Character.AI Amid Child Safety Concerns Connecticut Attorney General: Attorney General Tong Challenges Plan to Auction Off Character.AI Private Chats TechCrunch: State AGs fight Character.AI’s plan to auction off users’ private chats Nach der Insolvenz im Oktober will das KI-Unternehmen Character.AI am 1. Dezember die privaten Chatverläufe von über 21 Millionen US-Konten versteigern. Eine Koalition aus 42 US-Generalstaatsanwälten schaltet sich nun vor dem Insolvenzgericht ein, um den Datenverkauf zu stoppen. Anzeige Schutzlose Gespräch...]]></description>
     </item>
   </channel>
 </rss>

@@ -5,71 +5,26 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
-      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192614</guid>
-      <pubDate>Wed, 25 Nov 2026 22:44:32 GMT</pubDate>
+      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192803</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.]]></description>
+      <description><![CDATA[Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.]]></description>
     </item>
     <item>
-      <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
-      <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192524</guid>
-      <pubDate>Wed, 25 Nov 2026 20:03:27 GMT</pubDate>
+      <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190829</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
-      <link>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192475</guid>
-      <pubDate>Wed, 25 Nov 2026 19:54:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.]]></description>
-    </item>
-    <item>
-      <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
-      <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192506</guid>
-      <pubDate>Wed, 25 Nov 2026 19:44:24 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.]]></description>
-    </item>
-    <item>
-      <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
-      <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192412</guid>
-      <pubDate>Wed, 25 Nov 2026 18:11:46 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.]]></description>
-    </item>
-    <item>
-      <title>Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
-      <link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192361</guid>
-      <pubDate>Wed, 25 Nov 2026 17:35:58 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.]]></description>
-    </item>
-    <item>
-      <title>AI data centers are becoming harder to build, and neoclouds are feeling it</title>
-      <link>https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3192333</guid>
-      <pubDate>Wed, 25 Nov 2026 15:41:43 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]]]></description>
+      <description><![CDATA[On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.]]></description>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://holli-news-bot.streamlit.app/?category=Berlin&amp;feed=Rbb+Sport</link>
     <description>RSS-Feed für die Quelle 'Rbb Sport' (Kategorie: Berlin).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/berlin-rbb-sport.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Bundesliga: Unschlagbare Hertha empfängt Freunde vom Karlsruher SC</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</guid>
+      <pubDate>Thu, 26 Nov 2026 19:52:23 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Exakt 50 Jahre Fanfreundschaft feiern die Fans von Hertha BSC und dem Karlsruher SC am Samstag im Olympiastadion. Aber können die Berliner Fans ihr Team nach Spielende auch weiter als "ungeschlagen" feiern? Trainer Stefan Leitl ist optimistisch.]]></description>
+    </item>
+    <item>
+      <title>Union in Mainz: Lustrinellis Schicksalsspiel bei Urs Fischer</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-mainz-05-union-berlin-mauro-lustrinelli-urs-fischer.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-mainz-05-union-berlin-mauro-lustrinelli-urs-fischer.html</guid>
+      <pubDate>Thu, 26 Nov 2026 18:54:28 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Union Berlin am Samstag ist am Samstag zu Gast bei Mainz 05. Es ist das erste Schicksaalsspiel für den viel diskutierten Trainer Mauro Lustrinelli - ausgerechnet gegen seinen Landsmann und ehemaligen Chef: Union-Legende Urs Fischer.]]></description>
+    </item>
+    <item>
+      <title>Bilanz nach Eklat bei Hertha-Spiel: Urteile und Stadionverbote</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</guid>
+      <pubDate>Thu, 26 Nov 2026 17:46:25 GMT</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[Zehn Monate nach den Ausschreitungen rund um das Zweitliga-Spiel zwischen Hertha BSC und dem FC Schalke 04 wurden Urteile gesprochen, Ermittlungen eingestellt und Stadionverbote verhängt. rbb|24 fasst die wichtigsten Fragen und Antworten rund um die Aufarbeitung der Vorfälle zusammen.]]></description>
+    </item>
     <item>
       <title>Altglienicke trennt sich von Cheftrainer Twardzik - Njie übernimmt</title>
       <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-vsg-altgienicke-trainer-entlassung-twardzik-njie.html</link>
@@ -16,51 +43,6 @@
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
       <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>DVV-Pokal: Volleys nach drei knappen Sätzen im Halbfinale, auch Netzhoppers weiter</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/volleyball-dvv-pokal-ludwigsburg-br-volleys-netzhoppers.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/volleyball-dvv-pokal-ludwigsburg-br-volleys-netzhoppers.html</guid>
-      <pubDate>Wed, 25 Nov 2026 21:58:16 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>81:82-Niederlage: Alba-Frauen verlieren knapp bei Castors Braine</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/alba-berlin-frauen-eurocup-niederlage-castors-braine.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/alba-berlin-frauen-eurocup-niederlage-castors-braine.html</guid>
-      <pubDate>Wed, 25 Nov 2026 21:57:36 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>BFC-Dynamo-Trainer vor Erfurt-Spiel: "Wollen neue Serie starten"</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-dynamo-vor-rot-weiss-erfurt-sven-koerne.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/regionalliga-nordost-bfc-dynamo-vor-rot-weiss-erfurt-sven-koerne.html</guid>
-      <pubDate>Wed, 25 Nov 2026 20:11:41 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Vor der Saison hatten wohl die wenigsten den BFC Dynamo auf dem Zettel. Und auf einmal blieben die Berliner 13 Mal in Folge ungeschlagen. Doch vor wenigen Tagen riss die Serie. Jetzt geht es gegen den Spitzenreiter. Greift der BFC noch mal oben an?]]></description>
-    </item>
-    <item>
-      <title>Führungsspieler Seguin bleibt bis mindestens 2028 bei Hertha</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-paul-seguin-vertragsverlaengerung-hertha-b.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-paul-seguin-vertragsverlaengerung-hertha-b.html</guid>
-      <pubDate>Wed, 25 Nov 2026 17:18:25 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Running Club für Frauen: "Catcalling ist niemals ein Kompliment"</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/joggen-laufen-frauen-winter-dunkelheit-female-run-club-interview-laufgruppen.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/joggen-laufen-frauen-winter-dunkelheit-female-run-club-interview-laufgruppen.html</guid>
-      <pubDate>Wed, 25 Nov 2026 16:04:00 GMT</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[Lisa Küsters gründete vor zwei Jahren "The Female Run Club". Auch in Berlin gibt es mittlerweile mehrmals wöchentlich Läufe nur für Frauen. Ihre Motivation: Eine Community erschaffen, in der Joggerinnen sich sicher und verstanden fühlen. Das ist besonders in der dunklen Jahreszeit wichtig.]]></description>
     </item>
   </channel>
 </rss>

@@ -5,17 +5,17 @@
     <link>https://holli-news-bot.streamlit.app/?category=Fun&amp;feed=Witz+des+Tages</link>
     <description>RSS-Feed für die Quelle 'Witz des Tages' (Kategorie: Fun).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/fun-witz-des-tages.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ein Trabbi bleibt auf der Autobahn stehen.</title>
-      <link>https://www.hahaha.de/witze/auto/trabbi/13179/ein-trabbi-bleibt-auf-der-autobahn-stehen.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/auto/trabbi/13179/ein-trabbi-bleibt-auf-der-autobahn-stehen.html</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Sonntagmorgens. Der Vater will die Mutter</title>
+      <link>https://www.hahaha.de/witze/menschen/kinder/13599/sonntagmorgens-der-vater-will-die-mutter.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/kinder/13599/sonntagmorgens-der-vater-will-die-mutter.html</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
       <category>Fun</category>
       <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[Ein Trabbi bleibt auf der Autobahn stehen. Ein freudlicher Porschefahrer hält an und schleppt ihn ab. Als ein Ferrari an den beiden vorbeizieht, denkt sich der Porschefahrer: "Den hol' ich ein!" Der Trabbifahrer bekommt bei 200 km/h Angst, blinkt und hupt heftig. Bei der nächsten Tankstelle sieht der Tankwart das und sagt zu seinem Kunden: "Haben Sie das gesehen? Vorne ein Ferrari mit 240, dahinter ein Porsche mit 240, dann ein Trabbi, der hupt und blinkt und die lassen ihn nicht vorbei!"]]></description>
+      <description><![CDATA[Sonntagmorgens. Der Vater will die Mutter besteigen, aber wohin mit dem fünfjährigen Sohn? Kurzerhand schickt der Vater ihn auf den Balkon: "Schau mal, was da so los ist und erzähl es uns." Der Vater ist gerade voll bei der Sache, als der Kleine ruft: "Schmidts haben sich ein neues Auto gekauft, einen Golf!" Keuchend antwortet der Vater: "Super, weiterschauen!" Zwei Minuten später meldet sich der Junior erneut: "Meiers bekommen gerade Besuch aus Freiburg!" Der Vater stöhnt: "O.k., beobachte weiter das Geschehen!" Nach weiteren drei Minuten verkündet der Kleine: "Die Meiers poppen gerade!" Der Vater: "Wie kommst du denn darauf?" - "Naja, die haben ihren Sohn auch gerade auf den Balkon geschickt."]]></description>
     </item>
   </channel>
 </rss>

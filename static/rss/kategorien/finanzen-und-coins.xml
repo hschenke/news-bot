@@ -5,7 +5,7 @@
     <link>https://holli-news-bot.streamlit.app/?category=Finanzen+%26+Coins</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Finanzen &amp; Coins' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/finanzen-und-coins.xml" rel="self" type="application/rss+xml" />
 

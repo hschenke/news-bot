@@ -5,9 +5,27 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192803</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.]]></description>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190829</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.]]></description>
+    </item>
     <item>
       <title>Tell HN: Happy Thanksgiving</title>
       <link>https://news.ycombinator.com/item?id=50655664</link>
@@ -97,258 +115,6 @@
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>An algebraic quantization of gravity from the null cone</title>
-      <link>https://arxiv.org/abs/2611.34924</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.34924</guid>
-      <pubDate>Thu, 26 Nov 2026 05:37:51 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years</title>
-      <link>https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</link>
-      <guid isPermaLink="false">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</guid>
-      <pubDate>Thu, 26 Nov 2026 05:12:59 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
-      <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
-      <pubDate>Thu, 26 Nov 2026 05:05:36 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Unconditional Integer Factorization in Subexponential Time</title>
-      <link>https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</link>
-      <guid isPermaLink="false">https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</guid>
-      <pubDate>Thu, 26 Nov 2026 04:59:56 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
-      <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
-      <guid isPermaLink="false">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
-      <pubDate>Thu, 26 Nov 2026 03:36:58 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Minipg: PostgreSQL as a Single Executable</title>
-      <link>https://progrium.github.io/minipg/</link>
-      <guid isPermaLink="false">https://progrium.github.io/minipg/</guid>
-      <pubDate>Thu, 26 Nov 2026 03:00:48 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Tell HN: Lots of Ask HNs again</title>
-      <link>https://news.ycombinator.com/item?id=50649864</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50649864</guid>
-      <pubDate>Thu, 26 Nov 2026 00:43:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Collection of preserved UI style guides</title>
-      <link>https://aresluna.org/ui-style-guides/</link>
-      <guid isPermaLink="false">https://aresluna.org/ui-style-guides/</guid>
-      <pubDate>Thu, 26 Nov 2026 00:40:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
-      <link>https://huggingface.co/blog/training-swarms</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/training-swarms</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
-      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192614</guid>
-      <pubDate>Wed, 25 Nov 2026 22:44:32 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.]]></description>
-    </item>
-    <item>
-      <title>Bare Metal Qwen</title>
-      <link>https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</link>
-      <guid isPermaLink="false">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</guid>
-      <pubDate>Wed, 25 Nov 2026 22:15:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Deploying a payphone on a tiny Pacific Island for fun and zero profit</title>
-      <link>https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</link>
-      <guid isPermaLink="false">https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</guid>
-      <pubDate>Wed, 25 Nov 2026 22:12:25 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Much shorter version of GRH Lean verification from Anthropic</title>
-      <link>https://github.com/lsernau/grh-lean</link>
-      <guid isPermaLink="false">https://github.com/lsernau/grh-lean</guid>
-      <pubDate>Wed, 25 Nov 2026 21:48:10 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</guid>
-      <pubDate>Wed, 25 Nov 2026 21:18:02 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>US-Behörde genehmigt SpaceX eine Million KI-Satelliten im All</title>
-      <link>https://www.all-ai.de/news/news26top/us-spacex-ki-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/us-spacex-ki-start</guid>
-      <pubDate>Wed, 25 Nov 2026 20:45:20 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Die US-Behörde FCC hat Elon Musks Raumfahrtunternehmen SpaceX unter dem Namen »Starmind« bis zu eine Million Satelliten für KI-Rechenzentren im All genehmigt. In 500 bis 1.000 Kilometern Höhe nutzen die Module fast durchgehendes Sonnenlicht für Nvidia-Chips und umgehen überlastete Stromnetze auf der Erde. Große Hürden bleiben die schwierige Wärmeabfuhr im Vakuum sowie der Transport einer Flotte, die fast sechzigmal größer wäre als alle heute aktiven Satelliten zusammen. Für Bahnen oberhalb von 600 Kilometern hält die FCC ihre Zustimmung vorerst zurück, bis SpaceX einen Entsorgungsplan gegen Weltraumschrott vorlegt. FCC: FCC Authorizes 1 Million Satellites for Data Centers in Space Brendan Carr (FCC-Vorsitzender) auf X zur Starmind-Genehmigung Elon Musk auf X zur FCC-Entscheidung Derzeit kreisen weltweit rund 17.000 aktive Satelliten um die Erde. Jetzt hat die US-Kommunikationsbehörde FCC Elon Musks Raumfahrtunternehmen SpaceX erlaubt, unter dem Namen »Starmind« bis zu eine Million Satelliten als fliegende KI-Rechenzentren zu starten. Anzeige Dauerstrom ohne irdische Engpässe Hinter dem Plan steckt ein wachsendes Infrastrukturproblem am Boden. Überlastete Stromnetze, langwierige ...]]></description>
-    </item>
-    <item>
-      <title>Slow Ubuntu security response times</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
-      <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2026/11/25/9</guid>
-      <pubDate>Wed, 25 Nov 2026 20:38:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server</title>
-      <link>https://opensec.in/blog/nfs2root-cve-2026-99362</link>
-      <guid isPermaLink="false">https://opensec.in/blog/nfs2root-cve-2026-99362</guid>
-      <pubDate>Wed, 25 Nov 2026 20:35:50 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
-      <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192524</guid>
-      <pubDate>Wed, 25 Nov 2026 20:03:27 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.]]></description>
-    </item>
-    <item>
-      <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
-      <link>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192475</guid>
-      <pubDate>Wed, 25 Nov 2026 19:54:57 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.]]></description>
-    </item>
-    <item>
-      <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
-      <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192506</guid>
-      <pubDate>Wed, 25 Nov 2026 19:44:24 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.]]></description>
-    </item>
-    <item>
-      <title>Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</title>
-      <link>https://scottaaronson.blog/?p=10379</link>
-      <guid isPermaLink="false">https://scottaaronson.blog/?p=10379</guid>
-      <pubDate>Wed, 25 Nov 2026 19:11:27 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Verschlüsselungen schon knackbar durch OpenAI und Anthropic?</title>
-      <link>https://www.all-ai.de/news/news26top/openai-anthropic-verschluesselungen-gefahr</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-anthropic-verschluesselungen-gefahr</guid>
-      <pubDate>Wed, 25 Nov 2026 18:59:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[In der KI-Szene halten sich seit rund zehn Tagen Gerüchte, dass interne KI-Modelle von OpenAI und Anthropic Fortschritte gegen die gängige RSA-Verschlüsselung erzielt haben. Zuvor hatten Anthropic, OpenAI und Google kurz nacheinander bedeutende mathematische Beweise veröffentlicht, das Feld der Kryptografie dabei aber auffällig ausgespart. Weil eine geknackte Standard-Verschlüsselung weltweit Banken, Behörden und Webseiten träfe, liegt eine enge Abstimmung der KI-Unternehmen mit der US-Regierung nahe. Andrew Curran auf X über Krypto-Gerüchte bei OpenAI und Anthropic Andrew Curran auf X zu Google Gemini 4 und möglichen Regierungsabsprachen Scott Aaronson: Blog Shtetl-Optimized zur KI-Kryptografie Neue interne KI-Modelle von OpenAI und Anthropic sollen bereits an der weitverbreiteten RSA-Verschlüsselung rütteln. Laut dem KI-Beobachter Andrew Curran hält sich dieses Gerücht seit rund zehn Tagen in der Forschungsszene. Anzeige Warum ein Mathe-Durchbruch unsere Passwörter betrifft Die RSA-Verschlüsselung schützt heute Online-Banking, Passwörter und gesicherte Webseiten. Sie beruht darauf, dass klassische Computer riesige Zahlen kaum in ihre ursprünglichen Primzahlen zerlegen können. ...]]></description>
-    </item>
-    <item>
-      <title>Where scientists draw the line on AI agents</title>
-      <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
-      <pubDate>Wed, 25 Nov 2026 18:52:55 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
-    </item>
-    <item>
-      <title>Character.AI will Millionen private Chats versteigern</title>
-      <link>https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</guid>
-      <pubDate>Wed, 25 Nov 2026 18:25:34 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[Das insolvente KI-Unternehmen Character.AI plant für den 1. Dezember die Versteigerung privater Chatverläufe von über 21 Millionen US-Konten, darunter mehr als 2,1 Millionen Konten von Minderjährigen. Eine Koalition aus 42 US-Generalstaatsanwälten will die Auktion vor Gericht stoppen, weil neue Eigentümer an frühere Datenschutzversprechen nicht gebunden wären und die Gespräche frei weiterverkaufen dürften. Als einziger bekannter Bieter tritt bislang die kurz zuvor in Delaware gegründete Briefkastenfirma Smirks and Pangs Acquisition LLC mit völlig unklaren Absichten auf. California Department of Justice: Attorney General Bonta Opposes Asset Sale of Character.AI Amid Child Safety Concerns Connecticut Attorney General: Attorney General Tong Challenges Plan to Auction Off Character.AI Private Chats TechCrunch: State AGs fight Character.AI’s plan to auction off users’ private chats Nach der Insolvenz im Oktober will das KI-Unternehmen Character.AI am 1. Dezember die privaten Chatverläufe von über 21 Millionen US-Konten versteigern. Eine Koalition aus 42 US-Generalstaatsanwälten schaltet sich nun vor dem Insolvenzgericht ein, um den Datenverkauf zu stoppen. Anzeige Schutzlose Gespräch...]]></description>
-    </item>
-    <item>
-      <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
-      <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192412</guid>
-      <pubDate>Wed, 25 Nov 2026 18:11:46 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.]]></description>
-    </item>
-    <item>
-      <title>Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
-      <link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192361</guid>
-      <pubDate>Wed, 25 Nov 2026 17:35:58 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.]]></description>
-    </item>
-    <item>
-      <title>1Password Security Incident</title>
-      <link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
-      <guid isPermaLink="false">https://1password.com/blog/update-on-nov-2026-security-incident</guid>
-      <pubDate>Wed, 25 Nov 2026 17:18:26 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>AI data centers are becoming harder to build, and neoclouds are feeling it</title>
-      <link>https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_podcast&amp;p=3192333</guid>
-      <pubDate>Wed, 25 Nov 2026 15:41:43 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]]]></description>
     </item>
   </channel>
 </rss>

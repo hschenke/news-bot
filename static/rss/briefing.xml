@@ -5,152 +5,116 @@
     <link>https://holli-news-bot.streamlit.app/?tab=ki</link>
     <description>Die von der Gemini KI kuratierten Top-Nachrichten aus allen Kategorien.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:03:12 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/briefing.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Tech &amp; AI] US-Doppelschlag bremst Chinas KI-Aufholjagd</title>
-      <link>https://www.all-ai.de/news/news26/us-doppelschlag-china</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26/us-doppelschlag-china</guid>
-      <pubDate>Thu, 26 Nov 2026 08:53:16 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Verschärfte US-Regeln für gemietete KI-Chips im Ausland und Anti-Destillations-Sperren von OpenAI und Anthropic verzögern KI-Projekte in China; Moonshot AI stornierte einen 150-Millionen-Dollar-Vertrag für Nvidia-Blackwell-Chips in Indonesien.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] US-Behörde genehmigt SpaceX eine Million KI-Satelliten im All</title>
-      <link>https://www.all-ai.de/news/news26top/us-spacex-ki-start</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/us-spacex-ki-start</guid>
-      <pubDate>Wed, 25 Nov 2026 20:45:20 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Die FCC hat SpaceX unter dem Namen "Starmind" bis zu eine Million Satelliten für KI-Rechenzentren im All genehmigt; für Bahnen über 600 km bleibt die Zustimmung ausstehend bis ein Entsorgungsplan vorliegt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Character.AI will Millionen private Chats versteigern</title>
-      <link>https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/character-ai-private-chats-skandal</guid>
-      <pubDate>Wed, 25 Nov 2026 18:25:34 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Das insolvente KI-Unternehmen plant am 1. Dezember die Versteigerung privater Chatverläufe von über 21 Millionen US-Konten, darunter 2,1 Millionen Minderjähriger; 42 US-Generalstaatsanwälte wollen den Verkauf gerichtlich stoppen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] S&amp;P considers Nvidia credit downgrade over governance and 'key man' risks</title>
-      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192614</guid>
-      <pubDate>Wed, 25 Nov 2026 22:44:32 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[<p>Die Ratingagentur S&P erwägt eine Herabstufung von Nvidias Kreditrating auf AA- aufgrund von Governance-Risiken und der starken Abhängigkeit von CEO Jensen Huang.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
-      <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
-      <guid isPermaLink="false">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
-      <pubDate>Thu, 26 Nov 2026 03:36:58 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[<p>Nach Korrektur eines Abrechnungsfehlers werden die Nutzungslimits für GPT-6.2 Astra um 40% und für GPT-6.2 Sol um 25% schneller erreicht; ab Dezember werden Chat, Work und Codex ein gemeinsames Token-Budget teilen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Führungsspieler Seguin bleibt bis mindestens 2028 bei Hertha</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-paul-seguin-vertragsverlaengerung-hertha-b.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-paul-seguin-vertragsverlaengerung-hertha-b.html</guid>
-      <pubDate>Wed, 25 Nov 2026 17:18:25 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Hertha BSC hat den Vertrag mit Mittelfeldspieler Paul Seguin durch eine Klausel automatisch bis 2028 verlängert; damit laufen noch 15 Verträge aus.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Altglienicke trennt sich von Cheftrainer Twardzik - Njie übernimmt</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-vsg-altgienicke-trainer-entlassung-twardzik-njie.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-regionalliga-nordost-vsg-altgienicke-trainer-entlassung-twardzik-njie.html</guid>
-      <pubDate>Thu, 26 Nov 2026 10:43:34 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Der Regionalligist VSG Altglienicke hat Cheftrainer Twardzik entlassen; Co-Trainer Njie übernimmt interimistisch.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Adventszauber in Mahlsdorf</title>
-      <link>https://www.diakonissenhaus.de/aktuelles/adventszauber-in-mahlsdorf</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15890186270915378259</guid>
-      <pubDate>Thu, 26 Nov 2026 10:41:25 +0000</pubDate>
+      <title>[Berlin] So bunt ist Lichtenberg: Über 100 Jahre queeres Leben im Bezirk</title>
+      <link>https://www.tip-berlin.de/stadt/geschichte/queeres-leben-lichtenberg/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16913746459864713014</guid>
+      <pubDate>Fri, 27 Nov 2026 02:13:18 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Der 5. Adventsmarkt auf dem Campus des Altenhilfezentrums Mahlsdorf stimmte mit Lichtern, Feuerschalen und weihnachtlichen Klängen auf die Adventszeit ein.</p>]]></description>
+      <description><![CDATA[<p>Der Artikel beleuchtet die Geschichte queeren Lebens in Lichtenberg anhand von Persönlichkeiten wie Michael Eggert, Charlotte von Mahlsdorf und Peter Rausch sowie der Homosexuellen Interessengemeinschaft Berlin (HIB).</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Bei einem schweren Verkehrsunfall auf der B71 zwischen Mahlsdorf und Winterfeld ist ...</title>
-      <link>https://www.facebook.com/vs.altmark/posts/bei-einem-schweren-verkehrsunfall-auf-der-b71-zwischen-mahlsdorf-und-winterfeld/1672584534879294/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1977927965783343085</guid>
-      <pubDate>Wed, 25 Nov 2026 20:17:00 +0000</pubDate>
+      <title>[Berlin] 2. Bundesliga: Unschlagbare Hertha empfängt Freunde vom Karlsruher SC</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13811671807888014645</guid>
+      <pubDate>Thu, 26 Nov 2026 19:58:22 +0000</pubDate>
       <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Ein 44-jähriger Transporterfahrer wurde bei einem schweren Unfall auf der B71 eingeklemmt und musste von der Feuerwehr befreit werden; ein Rettungshubschrauber war im Einsatz.</p>]]></description>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Hertha BSC empfängt den Karlsruher SC zum 50-jährigen Jubiläum der Fanfreundschaft; Trainer Stefan Leitl zeigt sich optimistisch, die Ungeschlagen-Serie fortzusetzen.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] DVV-Pokal: Volleys nach drei knappen Sätzen im Halbfinale, auch Netzhoppers weiter</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/volleyball-dvv-pokal-ludwigsburg-br-volleys-netzhoppers.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/volleyball-dvv-pokal-ludwigsburg-br-volleys-netzhoppers.html</guid>
-      <pubDate>Wed, 25 Nov 2026 21:58:16 +0000</pubDate>
+      <title>[Berlin] Union in Mainz: Lustrinellis Schicksalsspiel bei Urs Fischer</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-mainz-05-union-berlin-mauro-lustrinelli-urs-fischer.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-mainz-05-union-berlin-mauro-lustrinelli-urs-fischer.html</guid>
+      <pubDate>Thu, 26 Nov 2026 18:54:28 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Die Berlin Recycling Volleys und die Netzhoppers KW-Bestensee erreichten das Halbfinale des DVV-Pokals nach jeweils knappen 3:2-Siegen.</p>]]></description>
+      <description><![CDATA[<p>Union Berlin gastiert beim 1. FSV Mainz 05; für Trainer Mauro Lustrinelli ist es ein wichtiges Duell gegen seinen Landsmann und ehemaligen Vorgesetzten Urs Fischer.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC bindet Paul Seguin dank Klausel bis 2028: 15 Verträge laufen aus</title>
-      <link>https://www.tag24.de/sport/fussball/verein/hertha-bsc/hertha-star-seguin-bleibt-ein-weiteres-jahr-wer-folgt-dem-leader-3552623</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13287896399641238139</guid>
-      <pubDate>Thu, 26 Nov 2026 12:13:22 +0000</pubDate>
+      <title>[Berlin] Bilanz nach Eklat bei Hertha-Spiel: Urteile und Stadionverbote</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11287646376483573152</guid>
+      <pubDate>Thu, 26 Nov 2026 17:44:52 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Zehn Monate nach den Ausschreitungen beim Spiel Hertha BSC gegen FC Schalke 04 wurden Urteile gesprochen, Ermittlungen teils eingestellt und Stadionverbote verhängt.</p>]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Fußgängerin in Fennpfuhl von Tram erfasst und lebensgefährlich verletzt</title>
+      <link>https://marzahn-hellersdorf.com/fussgaengerin-in-fennpfuhl-von-tram-erfasst-und-lebensgefaehrlich-verletzt/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7393542921795245477</guid>
+      <pubDate>Thu, 26 Nov 2026 15:34:36 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[<p>Eine Fußgängerin wurde im Ortsteil Fennpfuhl von einer Straßenbahn erfasst und erlitt lebensgefährliche Verletzungen; die Polizei ermittelt zum Unfallhergang.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Sonntagmorgens. Der Vater will die Mutter</title>
+      <link>https://www.hahaha.de/witze/menschen/kinder/13599/sonntagmorgens-der-vater-will-die-mutter.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/kinder/13599/sonntagmorgens-der-vater-will-die-mutter.html</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
+      <description><![CDATA[<p>Sonntagmorgens. Der Vater will die Mutter besteigen, aber wohin mit dem fünfjährigen Sohn? Kurzerhand schickt der Vater ihn auf den Balkon: "Schau mal, was da so los ist und erzähl es uns." Der Vater ist gerade voll bei der Sache, als der Kleine ruft: "Schmidts haben sich ein neues Auto gekauft, einen Golf!" Keuchend antwortet der Vater: "Super, weiterschauen!" Zwei Minuten später meldet sich der Junior erneut: "Meiers bekommen gerade Besuch aus Freiburg!" Der Vater stöhnt: "O.k., beobachte weiter das Geschehen!" Nach weiteren drei Minuten verkündet der Kleine: "Die Meiers poppen gerade!" Der Vater: "Wie kommst du denn darauf?" - "Naja, die haben ihren Sohn auch gerade auf den Balkon geschickt."</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Weltmeister Häßler: „Hertha macht allen Klubs vor, wie es geht!“</title>
+      <link>https://www.bild.de/sport/fussball/weltmeister-haessler-hertha-macht-allen-klubs-vor-wie-es-geht-6b069f1ed4a4a3142c5729cb</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4298656189232049526</guid>
+      <pubDate>Fri, 27 Nov 2026 04:22:46 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Durch eine Einsatzklausel verlängerte sich Seguins Vertrag automatisch um ein Jahr bis 2028; Hertha führt die 2. Liga mit 11 Punkten Vorsprung an.</p>]]></description>
+      <description><![CDATA[<p>Thomas Häßler lobt im BILD-Interview Herthas sportliche Entwicklung und eröffnet am Samstag eine Hertha-Kneipe in Berlin.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha News aktuell: Trainer Stefan Leitl muss schwierige Startelffrage lösen</title>
-      <link>https://www.morgenpost.de/sport/hertha/article413538189/hertha-bsc-news-leitl-fanfreundschaft-karlsruhe-knifflige-startelf-entscheidung.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17614096227559191789</guid>
-      <pubDate>Thu, 26 Nov 2026 15:14:23 +0000</pubDate>
+      <title>[Fußball] Herthas Aufgabe gegen Karlsruhe: Was Leitl egal ist und welches Ziel er verfolgt</title>
+      <link>https://www.fussballdaten.de/news/herthas-aufgabe-gegen-karlsruhe-was-leitl-egal-welches-ziel-er/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:806414978255972710</guid>
+      <pubDate>Thu, 26 Nov 2026 21:10:38 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Vor dem Spiel gegen den KSC (50 Jahre Fanfreundschaft) kann Leitl auf den gesamten Kader zurückgreifen; die Startelf-Entscheidung fällt schwer.</p>]]></description>
+      <description><![CDATA[<p>Trainer Stefan Leitl betont vor dem Heimspiel gegen den KSC, dass ihn die Tabellenführung nicht interessiert; Fokus liegt auf der spielerischen Weiterentwicklung.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC: Elf Punkte Vorsprung – der Aufstiegscheck</title>
-      <link>https://www.bild.de/sport/fussball/hertha-bsc-elf-punkte-vorsprung-der-aufstiegscheck-6b06db14366061b7ba3e5399</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18027434852799178533</guid>
-      <pubDate>Thu, 26 Nov 2026 09:21:43 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Hertha BSC führt die 2. Bundesliga ungeschlagen mit 11 Punkten Vorsprung an; der Aufstiegscheck analysiert Stärken, Schwächen und Trainer Leitls Taktik.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Freundschaft auf den Rängen, Kampf auf dem Platz: KSC fordert ungeschlagene Hertha heraus</title>
-      <link>https://www.ka-news.de/ksc/freundschaft-auf-den-raengen-kampf-auf-dem-platz-ksc-fordert-ungeschlagene-hertha-heraus-115772546</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13426553757163166986</guid>
-      <pubDate>Thu, 26 Nov 2026 14:19:10 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Der Karlsruher SC (Tabellen-15.) gastiert beim Spitzenreiter Hertha BSC; trotz Fanfreundschaft geht es für den KSC um wichtige Punkte gegen den dominanten Tabellenführer.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Borussia Mönchengladbach beurlaubt Geschäftsführer Stefan Stegemann</title>
-      <link>https://www.transfermarkt.de/gladbach-beurlaubt-geschaftsfuhrer-stegemann-unterschiedliche-auffassungen-quot-/view/news/491299</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/gladbach-beurlaubt-geschaftsfuhrer-stegemann-unterschiedliche-auffassungen-quot-/view/news/491299</guid>
-      <pubDate>Thu, 26 Nov 2026 12:11:00 +0000</pubDate>
+      <title>[Fußball] Conference League: Inter Escaldes feiert historischen Sieg für Andorra</title>
+      <link>https://www.transfermarkt.de/2-0-gegen-kopenhagen-inter-escaldes-feiert-historischen-sieg-fur-andorras-fussball/view/news/491341</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/2-0-gegen-kopenhagen-inter-escaldes-feiert-historischen-sieg-fur-andorras-fussball/view/news/491341</guid>
+      <pubDate>Fri, 27 Nov 2026 05:54:03 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Gladbach trennte sich mit sofortiger Wirkung von Geschäftsführer Dr. Stefan Stegemann aufgrund "unterschiedlicher Auffassungen" über die strategische Ausrichtung.</p>]]></description>
+      <description><![CDATA[<p>Der andorranische Klub Inter Club d'Escaldes besiegt den FC Kopenhagen 2:0 und schreibt Geschichte für den Fußball des kleinen Pyrenäenstaates.</p>]]></description>
     </item>
     <item>
-      <title>[Games] GOG startet Black Friday Sale mit über 8.000 Angeboten mit bis zu 95 % Rabatt</title>
-      <link>https://de.egw.news/gaming/news/38713/gog-launches-black-friday-sale-with-8-000-deals-at-Q5Ibrk3wT</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9989404875285002319</guid>
-      <pubDate>Thu, 26 Nov 2026 04:01:24 +0000</pubDate>
+      <title>[Games] Witcher 3 - Mod Support Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</guid>
+      <pubDate>Thu, 26 Nov 2026 14:36:49 +0000</pubDate>
       <category>Games</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
-      <description><![CDATA[<p>GOG.com bietet bis zu 95% Rabatt auf über 8.000 Titel, darunter Total War: ROME II (-60%), Fallout 4 GOTY (-75%) und Heroes of Might and Magic 5 Bundle (-75%).</p>]]></description>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>CD Projekt Red veröffentlicht einen Trailer zum plattformübergreifenden Mod-Support für The Witcher 3 Wild Hunt Remastered.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Diablo 4 - Season 16 launches on December 1</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</guid>
+      <pubDate>Thu, 26 Nov 2026 14:23:59 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Season 16 "Tyrael's Gambit" startet am 1. Dezember; Grind Less Gaming fasst alle Neuerungen in einem Video zusammen.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Eins der einflussreichsten Brettspiele der Welt ist jetzt so günstig wie noch in diesem Jahr</title>
+      <link>https://www.gamestar.de/artikel/einflussreichsten-brettspiele-guenstig-hero-quest,3463803.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18395160742887429873</guid>
+      <pubDate>Thu, 26 Nov 2026 10:26:31 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
+      <description><![CDATA[<p>HeroQuest, das in den 90ern das Dungeon-Crawler-Genre prägte, ist aktuell stark reduziert erhältlich.</p>]]></description>
     </item>
     <item>
       <title>[Games] Lord of Undead - Released into Early Access</title>
@@ -159,7 +123,7 @@
       <pubDate>Thu, 26 Nov 2026 07:49:07 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das Survival-RPG "Lord of Undead" startete in den Early Access; Spieler schlüpfen in die Rolle des Dunklen Lords, sammeln Seelen, beschwören Untote-Armeen und bauen Basen in einer offenen Welt.</p>]]></description>
+      <description><![CDATA[<p>Das Survival-RPG Lord of Undead startet in den Early Access; Spieler schlüpfen in die Rolle eines Dunklen Lords, bauen eine Untotenarmee auf und erobern eine offene Welt.</p>]]></description>
     </item>
     <item>
       <title>[Games] Expeditions: Samurai - New Trailer</title>
@@ -168,34 +132,52 @@
       <pubDate>Thu, 26 Nov 2026 06:51:24 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Für das Early-Access-Strategie-RPG "Expeditions: Samurai" erschien Update #02 mit Act 2 der Story sowie neuen Stealth- und Verkleidungs-Features.</p>]]></description>
+      <description><![CDATA[<p>Für das Early-Access-Strategie-RPG Expeditions: Samurai erscheint ein Trailer zu Update #02, das Akt 2 der Story sowie Stealth- und Verkleidungsmechaniken bringt.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Age of Failon - Birth of the Hero - Early Access Release</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60643</guid>
-      <pubDate>Thu, 26 Nov 2026 06:44:49 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das rundenbasierte Dark-Fantasy-Strategie-RPG "Age of Failon" startete heute in den Early Access; Erkundung und Kämpfe treiben den Fortschritt voran.</p>]]></description>
+      <title>[Tech &amp; AI] Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192803</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[<p>Nvidia stoppt Lieferungen von KI-Servern nach Malaysia, Singapur, Thailand und Indonesien, da die USA den Zugang Chinas zu Hochleistungschips weiter einschränken.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Memoria Rhapsody - Announced</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60642</guid>
-      <pubDate>Thu, 26 Nov 2026 06:40:37 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das taktische J-RPG "Memoria Rhapsody" wurde angekündigt; es bietet gridlose, rundenbasierte Kämpfe mit direkter Third-Person-Steuerung in einer hellenistischen Fantasy-Welt.</p>]]></description>
+      <title>[Tech &amp; AI] Grand Theft Auto VI proves why efficiency isn't a virtue</title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3190829</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[<p>Am Tag des Anthropic-Börsengangs wird GTA VI zu einem der erfolgreichsten Entertainment-Starts aller Zeiten und zeigt, dass menschliche Kreativität Effizienz übertrifft.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Ein Trabbi bleibt auf der Autobahn stehen.</title>
-      <link>https://www.hahaha.de/witze/auto/trabbi/13179/ein-trabbi-bleibt-auf-der-autobahn-stehen.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/auto/trabbi/13179/ein-trabbi-bleibt-auf-der-autobahn-stehen.html</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[<p>Ein Trabbi bleibt auf der Autobahn stehen. Ein freudlicher Porschefahrer hält an und schleppt ihn ab. Als ein Ferrari an den beiden vorbeizieht, denkt sich der Porschefahrer: "Den hol' ich ein!" Der Trabbifahrer bekommt bei 200 km/h Angst, blinkt und hupt heftig. Bei der nächsten Tankstelle sieht der Tankwart das und sagt zu seinem Kunden: "Haben Sie das gesehen? Vorne ein Ferrari mit 240, dahinter ein Porsche mit 240, dann ein Trabbi, der hupt und blinkt und die lassen ihn nicht vorbei!"</p>]]></description>
+      <title>[Tech &amp; AI] 45°C inlets just killed the chiller. Most people haven't noticed yet</title>
+      <link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
+      <guid isPermaLink="false">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</guid>
+      <pubDate>Thu, 26 Nov 2026 13:48:11 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[<p>Steigende Einlasstemperaturen von 45°C in Rechenzentren machen herkömmliche Kühlsysteme obsolet und erzwingen neue Ansätze für HPC-Kühlung.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] US-Doppelschlag bremst Chinas KI-Aufholjagd</title>
+      <link>https://www.all-ai.de/news/news26/us-doppelschlag-china</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/us-doppelschlag-china</guid>
+      <pubDate>Thu, 26 Nov 2026 08:53:16 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Verschärfte US-Regeln für gemietete KI-Chips im Ausland und Anti-Destillations-Sperren von OpenAI/Anthropic verzögern chinesische KI-Projekte; Moonshot AI streicht 150-Millionen-Dollar-Vertrag für Nvidia-Blackwell-Chips.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Ärger um ChatGPT-Abos nach Limit-Kürzung um 40 Prozent</title>
+      <link>https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/openai-limit-kuerzung-aktuell</guid>
+      <pubDate>Thu, 26 Nov 2026 08:22:02 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>OpenAI korrigiert Abrechnungsfehler bei GPT-6.2-Modellen; Nutzerkontingente schmelzen um 25–40 %, ab Dezember werden Chat-, Work- und Codex-Limits in einem gemeinsamen Token-Budget zusammengefasst.</p>]]></description>
     </item>
   </channel>
 </rss>

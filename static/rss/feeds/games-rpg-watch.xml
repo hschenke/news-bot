@@ -5,9 +5,27 @@
     <link>https://holli-news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:01:23 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Witcher 3 - Mod Support Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60647</guid>
+      <pubDate>Thu, 26 Nov 2026 14:36:49 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[The Witcher 3 Remastered is getting Cross-Platform Mod Support: The Witcher 3 Wild Hunt Remastered - Official Cross-Platform Mod Support Trailer]]></description>
+    </item>
+    <item>
+      <title>Diablo 4 - Season 16 launches on December 1</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60646</guid>
+      <pubDate>Thu, 26 Nov 2026 14:23:59 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Grind Less Gaming reports that Diablo IV season 16 Tyrael's Gambit launches on December 1: Diablo 4 Season 16 Tyrael's Gambit: Everything New in 6 Minutes]]></description>
+    </item>
     <item>
       <title>Lord of Undead - Released into Early Access</title>
       <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60645</link>
@@ -43,15 +61,6 @@
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
       <description><![CDATA[The tactical J-RPG Memoria Rhapsody has been announced: Memoria Rhapsody - Official Announcement Trailer Outmaneuver enemies in gridless, turn-based battles with direct third-person control and active defenses. Build your party and lead them through a land divided by rival warlords in this story-driven tactical JRPG set in a Hellenistic fantasy world....]]></description>
-    </item>
-    <item>
-      <title>RPG General News - RPGs of 2027</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60641</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60641</guid>
-      <pubDate>Wed, 25 Nov 2026 17:58:52 GMT</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[WolfheartFPS presents RPG(ish) games of 2027: 2027 Will Be Unforgettable for RPG Fans (35 Upcoming PC Games) Timestamps: 00:00 Path of Exile 2 01:15 Divinity Early Access? 01:57 Warhammer 40k Dark Heresy 02:56 Warlock 05:42 Outward 2 07...]]></description>
     </item>
   </channel>
 </rss>
