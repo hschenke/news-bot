@@ -5,71 +5,89 @@
     <link>https://holli-news-bot.streamlit.app/?tab=ki</link>
     <description>Die von der Gemini KI kuratierten Top-Nachrichten aus allen Kategorien.</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:02:57 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/briefing.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Tech &amp; AI] Nvidia hits pause on chip shipments to Southeast Asia</title>
-      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192803</guid>
-      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[<p>Nvidia hat Herstellungspartner angewiesen, Server-Lieferungen nach Malaysia, Singapur, Thailand und Indonesien zu stoppen, da die USA den Druck erhöhen, KI-Chips aus China fernzuhalten.</p>]]></description>
+      <title>[Berlin] Raubüberfall auf Star-Tankstelle in Mahlsdorf – Täter erbeuten Bargeld und Zigaretten</title>
+      <link>https://www.instagram.com/p/DgPKoGXihxC/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13782014408560292895</guid>
+      <pubDate>Fri, 27 Nov 2026 23:56:46 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[<p>In der Nacht zum Freitag überfielen zwei maskierte Männer eine Star-Tankstelle in der Straße Alt-Mahlsdorf an der B1 und erbeuteten Bargeld sowie Zigaretten.</p>]]></description>
     </item>
     <item>
-      <title>[Tech &amp; AI] Grand Theft Auto VI proves why efficiency isn't a virtue</title>
-      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3190829</guid>
-      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[<p>Am selben Tag, an dem Anthropic an die Börse ging, wurde das aufwendig produzierte Videospiel GTA VI zu einem der erfolgreichsten Entertainment-Starts aller Zeiten.</p>]]></description>
+      <title>[Berlin] BVG veröffentlicht Pläne: Jetzt steht das Tram-Konzept für Mahlsdorf</title>
+      <link>https://www.tagesspiegel.de/berlin/bvg-veroffentlicht-plane-jetzt-steht-das-tram-konzept-fur-mahlsdorf-16329868.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16738360055716148961</guid>
+      <pubDate>Fri, 27 Nov 2026 17:31:58 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[<p>Die BVG stellt Pläne vor, wonach die Straßenbahn künftig nicht mehr vor dem S-Bahnhof Mahlsdorf wendet, sondern bis zum Hultschiner Damm verlängert wird.</p>]]></description>
     </item>
     <item>
-      <title>[Tech &amp; AI] Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
-      <link>https://huggingface.co/blog/video-trainium3</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/video-trainium3</guid>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[<p>Hugging Face demonstriert Videoerzeugung mit dem LTX-2.5-Modell auf AWS Trainium3-Chips und zeigt Performance-Vergleiche zu GPU-basierten Inferenz-Pipelines.</p>]]></description>
+      <title>[Berlin] Hertha: Die Wahrheit hinter den 15 Eigengewächsen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-berliner-weg-nachwuchs-talente-einsatzzeiten.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13073619056754803141</guid>
+      <pubDate>Fri, 27 Nov 2026 18:45:32 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Hertha BSC stellt mit 15 Spielern aus der eigenen Akademie den Bestwert der 2. Bundesliga, doch die Einsatzzeiten verteilen sich auf erstaunlich wenige Akteure.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC: Keeper Gersbeck über den Aufstieg, Bayern und sein Pech bei Elfmetern</title>
-      <link>https://www.morgenpost.de/sport/hertha/article413780521/interview-gersbeck.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15770237383506680418</guid>
-      <pubDate>Fri, 27 Nov 2026 14:07:18 +0000</pubDate>
+      <title>[Berlin] Eishockey: Eisbären siegen deutlich in Augsburg</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-augsburg-eisbaeren-berlin.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-augsburg-eisbaeren-berlin.html</guid>
+      <pubDate>Fri, 27 Nov 2026 21:37:50 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Die Eisbären Berlin gewinnen ihr Auswärtsspiel in Augsburg souverän und festigen ihre Tabellenführung in der DEL.</p>]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Raub auf Tankstelle - Berlin.de</title>
+      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3564063345456223593</guid>
+      <pubDate>Fri, 27 Nov 2026 14:42:08 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
+      <description><![CDATA[<p>Zwei maskierte Täter überfielen in der vergangenen Nacht eine Tankstelle in Mahlsdorf, bedrohten die 21-jährige Angestellte mit Messer und Pfefferspray und flüchteten mit Beute.</p>]]></description>
+    </item>
+    <item>
+      <title>[Fun] Viele Wochen schon ist der Handelsvertreter</title>
+      <link>https://www.hahaha.de/witze/menschen/fiese/9134/viele-wochen-schon-ist-der-handelsvertreter.html</link>
+      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/fiese/9134/viele-wochen-schon-ist-der-handelsvertreter.html</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fun</category>
+      <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
+      <description><![CDATA[<p>Viele Wochen schon ist der Handelsvertreter unterwegs. Eines Abends geht er in ein Bordell, wirft der Puffmutter eine Handvoll zerknüllter Scheine hin und verlangt: "Die Hässlichste, die Sie haben!" Die Chefin zählt schnell nach und bedeutet ihm, für soviel Geld könne er auch die Hübscheste bekommen. "Kein Interesse", brummt der Mann, "ich bin nicht geil - ich habe Heimweh!"</p>]]></description>
+    </item>
+    <item>
+      <title>[Fußball] Hertha BSC - Karlsruher SC live im Ticker</title>
+      <link>https://www.eurosport.de/fussball/2.-bundesliga/2026-2027/hertha-bsc-karlsruher-sc_mtc21893893/live.shtml</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12454758358415126270</guid>
+      <pubDate>Fri, 27 Nov 2026 23:42:35 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Torhüter Marius Gersbeck spricht vor dem Spiel gegen den befreundeten KSC über den Aufstiegsweg, seine Zeit beim FC Bayern und seine Elfmeter-Statistik.</p>]]></description>
+      <description><![CDATA[<p>Spitzenreiter Hertha BSC empfängt den Karlsruher SC im Olympiastadion zum 14. Spieltag der 2. Bundesliga (Anpfiff 13:00 Uhr).</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC: Leitl schwärmt von Seguin - "Er ist der strategische Fixpunkt"</title>
-      <link>https://www.tipico.de/wett-tipps/sportwetten-news/hertha-bsc-leitl-schwaermt-von-seguin-er-ist-der-strategische-fixpunkt</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17667680064318355243</guid>
-      <pubDate>Fri, 27 Nov 2026 11:28:50 +0000</pubDate>
+      <title>[Fußball] DFB-Pokal live im Free-TV: Dieser Sender zeigt Bayern gegen Hertha BSC</title>
+      <link>https://www.t-online.de/sport/fussball/dfb-pokal/id_101549306/dfb-pokal-live-im-free-tv-dieser-sender-zeigt-bayern-gegen-hertha-bsc.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2306349916514048913</guid>
+      <pubDate>Fri, 27 Nov 2026 16:18:35 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Trainer Stefan Leitl hebt die taktische Bedeutung von Mittelfeldspieler Paul Seguin hervor, der das Aufstiegs-Team als zentraler Spielmacher prägt.</p>]]></description>
+      <description><![CDATA[<p>Der FC Bayern München trifft im Achtelfinale des DFB-Pokals auf Hertha BSC; die Partie wird im Free-TV übertragen.</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Bis 2028: Ex-Schalker verlängert Vertrag – Rückkehr rückt näher</title>
-      <link>https://www.ruhr24.de/s04/fc-schalke-04-news-paul-seguin-hertha-bsc-rueckkehr-bundesliga-vertrag-verlaengerung-klausel-s04-94611215.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:297590941280903565</guid>
-      <pubDate>Fri, 27 Nov 2026 11:43:52 +0000</pubDate>
+      <title>[Fußball] Hertha verlängert Seguins Vertrag bis 2028</title>
+      <link>https://suaragarut.id/de/hertha-verlaengert-seguin-vertrag-2028</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17632465871622069298</guid>
+      <pubDate>Fri, 27 Nov 2026 15:44:50 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Paul Seguin hat seinen Vertrag bei Hertha BSC bis 2028 verlängert; mit dem wahrscheinlichen Aufstieg könnte er bald auf seinen Ex-Klub Schalke 04 treffen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Nach Diskriminierungsvorfällen: Union Berlin hält an Jens Härtel fest</title>
-      <link>https://www.transfermarkt.de/union-berlin-halt-an-hartel-fest-letzte-wochen-zur-reflexion-und-weiterbildung-genutzt-quot-/view/news/491354</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/union-berlin-halt-an-hartel-fest-letzte-wochen-zur-reflexion-und-weiterbildung-genutzt-quot-/view/news/491354</guid>
-      <pubDate>Fri, 27 Nov 2026 10:11:02 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Nach mehrwöchigem Funktionsverbot wegen diskriminierender Äußerungen erhält Trainer Jens Härtel beim 1. FC Union Berlin eine zweite Chance.</p>]]></description>
+      <description><![CDATA[<p>Mittelfeldspieler Paul Seguin bleibt Hertha BSC bis 2028 erhalten; Trainer Stefan Leitl bezeichnet ihn als strategischen Fixpunkt.</p>]]></description>
     </item>
     <item>
       <title>[Fußball] FC Bayern: Musiala erneut verletzt – Alte Verletzung aufgebrochen</title>
@@ -78,7 +96,25 @@
       <pubDate>Fri, 27 Nov 2026 14:34:37 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Jamal Musiala fällt beim FC Bayern für mehrere Wochen aus; bei dem 23-Jährigen wurde eine Muskelverletzung im rechten Oberschenkel diagnostiziert, eine alte Verletzung ist wieder aufgebrochen.</p>]]></description>
+      <description><![CDATA[<p>Jamal Musiala fällt beim FC Bayern für mehrere Wochen aus; bei dem 23-Jährigen wurde eine Muskelverletzung im rechten Oberschenkel diagnostiziert.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Tale of Ronin - New Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60652</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60652</guid>
+      <pubDate>Fri, 27 Nov 2026 14:28:57 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Neuer Trailer zum Indie-RPG "Tale of Ronin", in dem man als herrenloser Samurai durch ein sich veränderndes Land reist und die Folgen eigener Entscheidungen trägt.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] OpenPhantasie - Version 1.3 released</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60651</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60651</guid>
+      <pubDate>Fri, 27 Nov 2026 14:19:38 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[<p>Open-Source-Nachbau der SSI-Phantasie-Serie (Teile I–IV) in C#/MonoGame veröffentlicht; alle vier Spiele unter einer Oberfläche mit einheitlichen Optionen spielbar.</p>]]></description>
     </item>
     <item>
       <title>[Games] Pathfinder: Abomination Vaults - Cancelled</title>
@@ -87,7 +123,7 @@
       <pubDate>Fri, 27 Nov 2026 09:34:02 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Mortismal Gaming berichtet, dass das CRPG "Pathfinder: Abomination Vaults" eingestellt wurde und als "fast sicher tot" gilt.</p>]]></description>
+      <description><![CDATA[<p>Das CRPG "Pathfinder: Abomination Vaults" wurde laut Mortismal Gaming eingestellt; das Projekt gilt als so gut wie tot.</p>]]></description>
     </item>
     <item>
       <title>[Games] Final Fantasy Resonance - Devs surprised</title>
@@ -96,7 +132,7 @@
       <pubDate>Fri, 27 Nov 2026 09:27:30 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Die Entwickler von Final Fantasy Resonance zeigen sich überrascht von der sehr positiven Resonanz auf ihr HD-2D-Turn-Based-Adventure, die alle Erwartungen übertraf.</p>]]></description>
+      <description><![CDATA[<p>Die Entwickler von Final Fantasy Resonance (HD-2D, rundenbasiert) wurden von der überwältigend positiven Resonanz der Spieler überrascht.</p>]]></description>
     </item>
     <item>
       <title>[Games] Underkeep - Review @ RPGFan</title>
@@ -105,61 +141,52 @@
       <pubDate>Fri, 27 Nov 2026 08:58:37 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>RPGFan rezensiert den Dungeon-Crawler Underkeep mit Grid-basierter Erkundung, Umwelt-Rätseln und anpassbarer Partyerstellung im klassischen Fantasy-Setting.</p>]]></description>
+      <description><![CDATA[<p>RPGFan rezensiert den Dungeon-Crawler "Underkeep" mit Grid-basierter Erkundung, Automapping, Umgebungsrätseln und Party-Anpassung.</p>]]></description>
     </item>
     <item>
-      <title>[Fun] Sonntagmorgens. Der Vater will die Mutter</title>
-      <link>https://www.hahaha.de/witze/menschen/kinder/13599/sonntagmorgens-der-vater-will-die-mutter.html</link>
-      <guid isPermaLink="false">https://www.hahaha.de/witze/menschen/kinder/13599/sonntagmorgens-der-vater-will-die-mutter.html</guid>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Fun</category>
-      <source url="https://www.hahaha.de/witze/witzdestages.xml">Witz des Tages</source>
-      <description><![CDATA[<p>Sonntagmorgens. Der Vater will die Mutter besteigen, aber wohin mit dem fünfjährigen Sohn? Kurzerhand schickt der Vater ihn auf den Balkon: "Schau mal, was da so los ist und erzähl es uns." Der Vater ist gerade voll bei der Sache, als der Kleine ruft: "Schmidts haben sich ein neues Auto gekauft, einen Golf!" Keuchend antwortet der Vater: "Super, weiterschauen!" Zwei Minuten später meldet sich der Junior erneut: "Meiers bekommen gerade Besuch aus Freiburg!" Der Vater stöhnt: "O.k., beobachte weiter das Geschehen!" Nach weiteren drei Minuten verkündet der Kleine: "Die Meiers poppen gerade!" Der Vater: "Wie kommst du denn darauf?" - "Naja, die haben ihren Sohn auch gerade auf den Balkon geschickt."</p>]]></description>
+      <title>[Tech &amp; AI] SpaceX plant KI-Rechenzentrum »Colossus 3« für 50 Milliarden $ in Arizona</title>
+      <link>https://www.all-ai.de/news/news26/spacex-colossus-3-rechenzentrum</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/spacex-colossus-3-rechenzentrum</guid>
+      <pubDate>Fri, 27 Nov 2026 19:26:38 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>SpaceX will in Arizona für über 50 Mrd. $ das KI-Rechenzentrum "Colossus 3" mit neun Hallen und bis zu sechs Gigawatt Leistung errichten; Baubeginn ab März 2027 geplant.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] 2. Bundesliga: Unschlagbare Hertha empfängt Freunde vom Karlsruher SC</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-karlsruher-sc-ksc-fanfreundschaft-vorbericht.html</guid>
-      <pubDate>Thu, 26 Nov 2026 19:52:23 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Exakt 50 Jahre Fanfreundschaft feiern Hertha BSC und Karlsruher SC am Samstag im Olympiastadion; Spitzenreiter Hertha ist seit 11 Spielen ungeschlagen (11 Siege, 0 Niederlagen).</p>]]></description>
+      <title>[Tech &amp; AI] Ubisoft verlangt KI für neue Spiele gegen den Willen der Fans</title>
+      <link>https://www.all-ai.de/news/news26top/ubisoft-ki-fans</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ubisoft-ki-fans</guid>
+      <pubDate>Fri, 27 Nov 2026 15:50:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Ubisoft genehmigt neue Spielprojekte intern nur noch mit KI-Konzept; 85 % der befragten Spieler lehnen generative KI in Videospielen ab.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Bilanz nach Eklat bei Hertha-Spiel: Urteile und Stadionverbote</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-ausschreitungen-hertha-bsc-schalke-olympiastadion-polizei-fans-aufarbeitung-stadionverbote-verurteilungen-staatsanwaltschaft.html</guid>
-      <pubDate>Thu, 26 Nov 2026 17:46:25 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Zehn Monate nach den Ausschreitungen beim Zweitliga-Spiel Hertha BSC gegen FC Schalke 04 wurden Urteile gesprochen, Ermittlungen eingestellt und Stadionverbote verhängt.</p>]]></description>
+      <title>[Tech &amp; AI] SAP: Hacker kapern GitHub-Konten und manipulieren internen Quellcode</title>
+      <link>https://www.all-ai.de/news/news26top/sap-ki-agenten-manipulation</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/sap-ki-agenten-manipulation</guid>
+      <pubDate>Fri, 27 Nov 2026 15:34:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Angreifer erbeuteten Mitarbeiter-Tokens, kaperten SAP-GitHub-Projekte unter "Project Granite", kopierten und veränderten Quellcode; Verdacht auf KI-Agenten-Framework Artex.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Union Berlin hält nach Diskriminierungsvorfällen an Härtel fest</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/bundesliga-union-berlin-vorwurf-diskriminierung-jens-haertel.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/bundesliga-union-berlin-vorwurf-diskriminierung-jens-haertel.html</guid>
-      <pubDate>Fri, 27 Nov 2026 09:24:00 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Nach mehrwöchigem Funktionsverbot wegen diskriminierender Äußerungen erhält Trainer Jens Härtel beim 1. FC Union Berlin eine zweite Chance.</p>]]></description>
+      <title>[Tech &amp; AI] Ashton Kutcher: Frühe Anthropic-Wette ist jetzt 7 Milliarden Dollar wert</title>
+      <link>https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</guid>
+      <pubDate>Fri, 27 Nov 2026 15:24:55 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Sound Ventures (Kutcher) hält nach Anthropic-IPO Anteile im Wert von ~7 Mrd. $; Einstieg 2023 mit 35 Mio. $, Aufbau auf 435 Mio. $ und ~0,5 %.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Raub auf Tankstelle</title>
-      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</link>
-      <guid isPermaLink="false">/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</guid>
-      <pubDate>Fri, 27 Nov 2026 10:47:00 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.berlin.de/polizei/polizeimeldungen/index.php/rss">Polizeimeldungen Berlin</source>
-      <description><![CDATA[<p>In der Nacht wurde eine Tankstelle in Mahlsdorf an der Straße Alt-Mahlsdorf von zwei maskierten Männern überfallen; ein Täter bedrohte die 21-jährige Angestellte mit Messer und Pfefferspray, beide flüchteten mit Beute.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Handball-CL: Gidsel wirft Füchse Berlin zum Sieg gegen Melsungen</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/handball-champions-league-fuechse-berlin-mt-melsungen.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/handball-champions-league-fuechse-berlin-mt-melsungen.html</guid>
-      <pubDate>Fri, 27 Nov 2026 06:41:07 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Mathias Gidsel führte die Füchse Berlin in der Champions League zu einem Heimsieg gegen MT Melsungen und sicherte die Tabellenführung in der Gruppe.</p>]]></description>
+      <title>[Tech &amp; AI] Diese 3 KI Tools brauchst DU 2027. Vergiss ChatGPT und Claude!</title>
+      <link>https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</link>
+      <guid isPermaLink="false">https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</guid>
+      <pubDate>Fri, 27 Nov 2026 14:46:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Autor empfiehlt für 2027 Google Gemini Pro, ElevenLabs und Higgsfield als drei zentrale Abos für 90 % aller KI-Aufgaben (Text, deutsche Sprache, Avatare, Bilder, Video).</p>]]></description>
     </item>
   </channel>
 </rss>

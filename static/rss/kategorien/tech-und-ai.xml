@@ -5,9 +5,198 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unkernel: Real Linux kernel, compiled to WebAssembly</title>
+      <link>https://unkernel.dev</link>
+      <guid isPermaLink="false">https://unkernel.dev</guid>
+      <pubDate>Sat, 28 Nov 2026 03:19:20 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Atari Homebrew Awards Cancelled</title>
+      <link>https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</link>
+      <guid isPermaLink="false">https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</guid>
+      <pubDate>Sat, 28 Nov 2026 02:03:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Woman evicted after landlord's AI assistant told her she could delay rent</title>
+      <link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
+      <guid isPermaLink="false">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</guid>
+      <pubDate>Sat, 28 Nov 2026 01:32:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Google's DeepCrossAttention achieves comparable model quality up to 3x faster</title>
+      <link>https://research.google/blog/supercharging-transformer-residual-connections/</link>
+      <guid isPermaLink="false">https://research.google/blog/supercharging-transformer-residual-connections/</guid>
+      <pubDate>Fri, 27 Nov 2026 23:06:29 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Tabernetes: A Kubernetes cluster whose nodes are browser tabs</title>
+      <link>https://tabernet.es/</link>
+      <guid isPermaLink="false">https://tabernet.es/</guid>
+      <pubDate>Fri, 27 Nov 2026 23:00:30 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Source Control from Hell</title>
+      <link>https://frantic.im/git/</link>
+      <guid isPermaLink="false">https://frantic.im/git/</guid>
+      <pubDate>Fri, 27 Nov 2026 22:06:44 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>9/UX: a Macintosh-inspired desktop for 9front</title>
+      <link>https://progrium.github.io/9ux/</link>
+      <guid isPermaLink="false">https://progrium.github.io/9ux/</guid>
+      <pubDate>Fri, 27 Nov 2026 21:48:14 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>SessionGraph: Visualize all your coding agent sessions in one interactive graph</title>
+      <link>https://sessiongraph.ai/</link>
+      <guid isPermaLink="false">https://sessiongraph.ai/</guid>
+      <pubDate>Fri, 27 Nov 2026 21:07:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Prospero: Bloat-free, native AI coding harness with ImGui</title>
+      <link>https://github.com/skeeto/prospero</link>
+      <guid isPermaLink="false">https://github.com/skeeto/prospero</guid>
+      <pubDate>Fri, 27 Nov 2026 20:23:14 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</title>
+      <link>https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform</link>
+      <guid isPermaLink="false">https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform</guid>
+      <pubDate>Fri, 27 Nov 2026 19:42:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The AT&amp;T Unix PC (3B1) VM</title>
+      <link>https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/</link>
+      <guid isPermaLink="false">https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/</guid>
+      <pubDate>Fri, 27 Nov 2026 19:40:33 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Michael Nielsen took down his book on neural nets</title>
+      <link>https://neuralnetworksanddeeplearning.com/</link>
+      <guid isPermaLink="false">https://neuralnetworksanddeeplearning.com/</guid>
+      <pubDate>Fri, 27 Nov 2026 19:31:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>SpaceX plant KI-Rechenzentrum »Colossus 3« für 50 Milliarden $ in Arizona</title>
+      <link>https://www.all-ai.de/news/news26/spacex-colossus-3-rechenzentrum</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/spacex-colossus-3-rechenzentrum</guid>
+      <pubDate>Fri, 27 Nov 2026 19:26:38 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[SpaceX plant im US-Bundesstaat Arizona für über 50 Milliarden $ das KI-Rechenzentrum »Colossus 3« mit neun Hallen und bis zu sechs Gigawatt Leistung. Geschlossene Kühlkreisläufe mit Ventilatoren halten den täglichen Wasserverbrauch auf dem Niveau von höchstens 30 Einfamilienhäusern. Der Strombedarf entspricht fast 20% der gesamten Erzeugung Arizonas, übersteigt das lokale Angebot vor Ort aber um ein Vielfaches. Nach einem verdeckten Bauantrag über eine Tarnfirma und mangels festem Stromvertrag fordert Arizonas Generalstaatsanwältin einen Aufschub der Abstimmung am 9. Dezember. SpaceX – Cochise County Supercomputing Campus SpaceX – Stellungnahme an die Cochise County Planning Commission (PDF) Arizona Attorney General – Pressemitteilung von Kris Mayes zum geplanten SpaceX-Rechenzentrum Elon Musk will mit SpaceX für über 50 Milliarden $ das KI-Rechenzentrum »Colossus 3« in der Wüste von Arizona errichten. In neun Hallen mit bis zu sechs Gigawatt Leistung will der Konzern dort ab März 2027 eigene KI-Modelle trainieren. Anzeige Wasserkreislauf als Antwort auf Memphis Seit der Übernahme von Musks KI-Unternehmen xAI im Februar baut SpaceX seine Rechenzentren unter eigenem Dach aus. An ...]]></description>
+    </item>
+    <item>
+      <title>Convex skills send the user's app idea to a remote server without telling them</title>
+      <link>https://github.com/convex/convex-backend-skill/issues/64</link>
+      <guid isPermaLink="false">https://github.com/convex/convex-backend-skill/issues/64</guid>
+      <pubDate>Fri, 27 Nov 2026 18:02:45 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: DragDropMath – Learn math by feel</title>
+      <link>https://dragdropmath.com/</link>
+      <guid isPermaLink="false">https://dragdropmath.com/</guid>
+      <pubDate>Fri, 27 Nov 2026 17:56:28 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Ubisoft verlangt KI für neue Spiele gegen den Willen der Fans</title>
+      <link>https://www.all-ai.de/news/news26top/ubisoft-ki-fans</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ubisoft-ki-fans</guid>
+      <pubDate>Fri, 27 Nov 2026 15:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Ubisoft gibt neue Spieleprojekte intern nur noch frei, wenn die Entwicklerteams ein KI-Konzept vorlegen oder ihren Verzicht ausführlich begründen. Trotz offizieller Beteuerungen zur Freiwilligkeit treibt Konzernchef Yves Guillemot den Kurs nach rund 255 Millionen € Halbjahresverlust und Stellenabbau voran. Mit der neuen Tochterfirma Motherbrain entwickelt der Publisher zudem eigene sprachgesteuerte Spielfiguren mit Gedächtnis. Die Strategie steht im direkten Widerspruch zu den Käufern, da 85% der befragten Spieler generative KI in Videospielen ablehnen. Vertical Slice: Ubisoft's internal pitching process is becoming increasingly AI-pilled Ubisoft: Halbjahreszahlen 2026/27 und Ankündigung von Motherbrain Eurogamer: Ubisoft reportedly goes all-in on company-wide generative AI use Quantic Foundry: Gamer Sentiment Toward Generative AI in Video Games Golem.de: Ubisoft verlangt KI-Konzept für neue Spiele Kaum eine Zielgruppe lehnt generative KI so geschlossen ab wie Käufer von Videospielen. Ausgerechnet jetzt verlangt der angeschlagene Publisher Ubisoft für jedes neue Spielkonzept einen konkreten Plan zum KI-Einsatz. Wer darauf verzichten will, muss sich vor der Führungsebene ausführl...]]></description>
+    </item>
+    <item>
+      <title>Credit card skimming scripts using WebRTC found on popular shopping sites</title>
+      <link>https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</link>
+      <guid isPermaLink="false">https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</guid>
+      <pubDate>Fri, 27 Nov 2026 15:40:31 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>SAP: Hacker kapern GitHub-Konten und manipulieren internen Quellcode</title>
+      <link>https://www.all-ai.de/news/news26top/sap-ki-agenten-manipulation</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/sap-ki-agenten-manipulation</guid>
+      <pubDate>Fri, 27 Nov 2026 15:34:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Unbekannte haben über erbeutete Zugangs-Token von Mitarbeitern GitHub-Projekte von SAP gekapert und Quellcode kopiert sowie verändert. Unter dem Geheimnamen »Project Granite« sperrte SAP vorübergehend den GitHub-Zugriff, stoppte Auslieferungsprozesse und tauschte alle Signaturschlüssel aus. Konzernkreise vermuten hinter dem Angriff autonome KI-Agenten wie das Framework Artex, vor dem FBI, BSI, Microsoft und AWS jüngst warnten. Der Einbruch trifft SAP genau zu dem Zeitpunkt, an dem Vorstandschef Christian Klein für seinen KI-Kurs den Abbau von mindestens 10.000 Stellen plant. Der Spiegel: SAP wird Opfer von Hackerangriff Handelsblatt: SAP-IT-Sicherheitsvorfall – Verdächtige Aktivitäten identifiziert Microsoft Security Blog: What defenders need to know about the Artex agentic AI framework Bloomberg: SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring Angreifer haben Zugangs-Token von SAP-Mitarbeitern erbeutet und Entwicklungsprojekte auf GitHub gekapert. Mit den digitalen Schlüsseln bewegten sie sich laut Spiegel wie reguläre Entwickler. Dabei kopierten und veränderten sie internen Quellcode. Anzeige Notbremse unter »Project Granite« Intern bekämpft der Walldorfer Kon...]]></description>
+    </item>
+    <item>
+      <title>False computer-checked proofs</title>
+      <link>https://cr.yp.to/proofs/falseccp.html</link>
+      <guid isPermaLink="false">https://cr.yp.to/proofs/falseccp.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:26:09 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Ashton Kutcher: Frühe Anthropic-Wette ist jetzt 7 Milliarden Dollar wert</title>
+      <link>https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</guid>
+      <pubDate>Fri, 27 Nov 2026 15:24:55 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Die von Ashton Kutcher mitgegründete Beteiligungsfirma Sound Ventures hält nach Anthropics Börsengang Anteile im Wert von rund 7 Milliarden Dollar. Nach dem Einstieg mit 35 Millionen Dollar im Jahr 2023 baute der Fonds seine Position über Folgerunden auf 435 Millionen Dollar und rund 0,5 Prozent aus. Während der Großteil des Gewinns an externe Fondsanleger geht, rückt Kutchers Privatvermögen über seine Gewinnbeteiligung nahe an die Milliardenmarke. Kutcher selbst hat sich im Juli 2026 aus dem Tagesgeschäft zurückgezogen und investiert mit Decimal Capital nun früh in KI-Infrastruktur und Stromnetze. Bloomberg: The Biggest Winners in Anthropic's Landmark Public Offering The Hollywood Reporter: Ashton Kutcher Nears Billionaire Status Following Anthropic IPO Inc.com: Ashton Kutcher Made an Early Bet on Anthropic. His Investment Is Now Worth $7 Billion Billboard: Ashton Kutcher & Guy Oseary Launch $240M AI Investment Fund Der Rekord-Börsengang des KI-Unternehmens Anthropic beschert US-Schauspieler Ashton Kutcher und seiner Beteiligungsfirma Sound Ventures einen Milliardengewinn. Aus 435 Millionen $ Einsatz wurde ein Aktienpaket im Wert von rund 7 Milliarden $. Anzeige Wer am Milliard...]]></description>
+    </item>
+    <item>
+      <title>Show HN: bouncemarket – a live prediction market game for a bouncing ball</title>
+      <link>https://bouncemarket.minhanhday.com/</link>
+      <guid isPermaLink="false">https://bouncemarket.minhanhday.com/</guid>
+      <pubDate>Fri, 27 Nov 2026 15:01:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
     <item>
       <title>Diese 3 KI Tools brauchst DU 2027. Vergiss ChatGPT und Claude!</title>
       <link>https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</link>
@@ -18,31 +207,22 @@
       <description><![CDATA[GPT Image 2.6 Inhaltsverzeichnis ▾ Ressourcen ▾ Für 2027 decken Google Gemini Pro, ElevenLabs und Higgsfield rund 90% aller täglichen KI-Aufgaben für Text, deutsche Sprachausgabe, Avatare, Bilder und Videos ab. Google Gemini schlägt im 20$-Vergleich ChatGPT und Claude mit Gemini 4 Argon und Neon besonders bei deutschen Texten und enthält YouTube Lite, 5 TB Cloudspeicher sowie 10$ monatliches API-Guthaben. Als versteckte Highlights bietet das Gemini-Abo Zugriff auf Claude 5.5 in Google Antigravity sowie ab dem 2. Dezember die direkte Anbindung an externe KI-Agenten wie den Hermes Agent. ElevenLabs führt bei deutschen Stimmen (Artificial Analysis) und bietet heute Hörbücher, Flows, HeyGen-Avatar-Kopien und Vorlagen wie Chimära, während Higgsfield alle aktuellen Bild- und Videomodelle samt Templates bündelt. Google Gemini – Offizielle Plattform und Pro-Abo Logan Kilpatrick auf X – Gemini-Abo für externe KI-Agenten ab 2. Dezember ElevenLabs – KI-Stimmen, Studio, Flows, Avatare und Vorlagen Artificial Analysis – Unabhängige Benchmarks für Sprach- und TTS-Modelle Für 2027 habe ich meinen kompletten KI-Alltag auf drei zentrale Abos reduziert, mit denen ich rund 90% meiner gesamten Proj...]]></description>
     </item>
     <item>
-      <title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
-      <link>https://huggingface.co/blog/video-trainium3</link>
-      <guid isPermaLink="false">https://huggingface.co/blog/video-trainium3</guid>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <title>Rayshader 1.0: Exit the Matrix</title>
+      <link>https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</link>
+      <guid isPermaLink="false">https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:30:20 GMT</pubDate>
       <category>Tech &amp; AI</category>
-      <source url="https://huggingface.co/blog/feed.xml">Huggingface</source>
-      <description><![CDATA[]]></description>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
     </item>
     <item>
-      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
-      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3192803</guid>
-      <pubDate>Thu, 26 Nov 2026 20:03:54 GMT</pubDate>
+      <title>Paolo Soleri built a utopian eco-city in the Arizona desert</title>
+      <link>https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</link>
+      <guid isPermaLink="false">https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</guid>
+      <pubDate>Fri, 27 Nov 2026 13:30:20 GMT</pubDate>
       <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.]]></description>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
-      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3190829</guid>
-      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
-      <description><![CDATA[On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.]]></description>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
     </item>
   </channel>
 </rss>

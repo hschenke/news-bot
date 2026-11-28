@@ -5,9 +5,179 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Unkernel: Real Linux kernel, compiled to WebAssembly</title>
+      <link>https://unkernel.dev</link>
+      <guid isPermaLink="false">https://unkernel.dev</guid>
+      <pubDate>Sat, 28 Nov 2026 03:19:20 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Atari Homebrew Awards Cancelled</title>
+      <link>https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</link>
+      <guid isPermaLink="false">https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</guid>
+      <pubDate>Sat, 28 Nov 2026 02:03:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Woman evicted after landlord's AI assistant told her she could delay rent</title>
+      <link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
+      <guid isPermaLink="false">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</guid>
+      <pubDate>Sat, 28 Nov 2026 01:32:56 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Google's DeepCrossAttention achieves comparable model quality up to 3x faster</title>
+      <link>https://research.google/blog/supercharging-transformer-residual-connections/</link>
+      <guid isPermaLink="false">https://research.google/blog/supercharging-transformer-residual-connections/</guid>
+      <pubDate>Fri, 27 Nov 2026 23:06:29 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Tabernetes: A Kubernetes cluster whose nodes are browser tabs</title>
+      <link>https://tabernet.es/</link>
+      <guid isPermaLink="false">https://tabernet.es/</guid>
+      <pubDate>Fri, 27 Nov 2026 23:00:30 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Source Control from Hell</title>
+      <link>https://frantic.im/git/</link>
+      <guid isPermaLink="false">https://frantic.im/git/</guid>
+      <pubDate>Fri, 27 Nov 2026 22:06:44 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>9/UX: a Macintosh-inspired desktop for 9front</title>
+      <link>https://progrium.github.io/9ux/</link>
+      <guid isPermaLink="false">https://progrium.github.io/9ux/</guid>
+      <pubDate>Fri, 27 Nov 2026 21:48:14 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>SessionGraph: Visualize all your coding agent sessions in one interactive graph</title>
+      <link>https://sessiongraph.ai/</link>
+      <guid isPermaLink="false">https://sessiongraph.ai/</guid>
+      <pubDate>Fri, 27 Nov 2026 21:07:34 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Prospero: Bloat-free, native AI coding harness with ImGui</title>
+      <link>https://github.com/skeeto/prospero</link>
+      <guid isPermaLink="false">https://github.com/skeeto/prospero</guid>
+      <pubDate>Fri, 27 Nov 2026 20:23:14 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</title>
+      <link>https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform</link>
+      <guid isPermaLink="false">https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform</guid>
+      <pubDate>Fri, 27 Nov 2026 19:42:25 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>The AT&amp;T Unix PC (3B1) VM</title>
+      <link>https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/</link>
+      <guid isPermaLink="false">https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/</guid>
+      <pubDate>Fri, 27 Nov 2026 19:40:33 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Michael Nielsen took down his book on neural nets</title>
+      <link>https://neuralnetworksanddeeplearning.com/</link>
+      <guid isPermaLink="false">https://neuralnetworksanddeeplearning.com/</guid>
+      <pubDate>Fri, 27 Nov 2026 19:31:01 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Convex skills send the user's app idea to a remote server without telling them</title>
+      <link>https://github.com/convex/convex-backend-skill/issues/64</link>
+      <guid isPermaLink="false">https://github.com/convex/convex-backend-skill/issues/64</guid>
+      <pubDate>Fri, 27 Nov 2026 18:02:45 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: DragDropMath – Learn math by feel</title>
+      <link>https://dragdropmath.com/</link>
+      <guid isPermaLink="false">https://dragdropmath.com/</guid>
+      <pubDate>Fri, 27 Nov 2026 17:56:28 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Credit card skimming scripts using WebRTC found on popular shopping sites</title>
+      <link>https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</link>
+      <guid isPermaLink="false">https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</guid>
+      <pubDate>Fri, 27 Nov 2026 15:40:31 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>False computer-checked proofs</title>
+      <link>https://cr.yp.to/proofs/falseccp.html</link>
+      <guid isPermaLink="false">https://cr.yp.to/proofs/falseccp.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:26:09 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Show HN: bouncemarket – a live prediction market game for a bouncing ball</title>
+      <link>https://bouncemarket.minhanhday.com/</link>
+      <guid isPermaLink="false">https://bouncemarket.minhanhday.com/</guid>
+      <pubDate>Fri, 27 Nov 2026 15:01:50 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Rayshader 1.0: Exit the Matrix</title>
+      <link>https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</link>
+      <guid isPermaLink="false">https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:30:20 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
+    <item>
+      <title>Paolo Soleri built a utopian eco-city in the Arizona desert</title>
+      <link>https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</link>
+      <guid isPermaLink="false">https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</guid>
+      <pubDate>Fri, 27 Nov 2026 13:30:20 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
+      <description><![CDATA[Comments]]></description>
+    </item>
   </channel>
 </rss>

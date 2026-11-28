@@ -5,9 +5,45 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=AI+News</link>
     <description>RSS-Feed für die Quelle 'AI News' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-ai-news.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpaceX plant KI-Rechenzentrum »Colossus 3« für 50 Milliarden $ in Arizona</title>
+      <link>https://www.all-ai.de/news/news26/spacex-colossus-3-rechenzentrum</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26/spacex-colossus-3-rechenzentrum</guid>
+      <pubDate>Fri, 27 Nov 2026 19:26:38 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[SpaceX plant im US-Bundesstaat Arizona für über 50 Milliarden $ das KI-Rechenzentrum »Colossus 3« mit neun Hallen und bis zu sechs Gigawatt Leistung. Geschlossene Kühlkreisläufe mit Ventilatoren halten den täglichen Wasserverbrauch auf dem Niveau von höchstens 30 Einfamilienhäusern. Der Strombedarf entspricht fast 20% der gesamten Erzeugung Arizonas, übersteigt das lokale Angebot vor Ort aber um ein Vielfaches. Nach einem verdeckten Bauantrag über eine Tarnfirma und mangels festem Stromvertrag fordert Arizonas Generalstaatsanwältin einen Aufschub der Abstimmung am 9. Dezember. SpaceX – Cochise County Supercomputing Campus SpaceX – Stellungnahme an die Cochise County Planning Commission (PDF) Arizona Attorney General – Pressemitteilung von Kris Mayes zum geplanten SpaceX-Rechenzentrum Elon Musk will mit SpaceX für über 50 Milliarden $ das KI-Rechenzentrum »Colossus 3« in der Wüste von Arizona errichten. In neun Hallen mit bis zu sechs Gigawatt Leistung will der Konzern dort ab März 2027 eigene KI-Modelle trainieren. Anzeige Wasserkreislauf als Antwort auf Memphis Seit der Übernahme von Musks KI-Unternehmen xAI im Februar baut SpaceX seine Rechenzentren unter eigenem Dach aus. An ...]]></description>
+    </item>
+    <item>
+      <title>Ubisoft verlangt KI für neue Spiele gegen den Willen der Fans</title>
+      <link>https://www.all-ai.de/news/news26top/ubisoft-ki-fans</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ubisoft-ki-fans</guid>
+      <pubDate>Fri, 27 Nov 2026 15:50:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Ubisoft gibt neue Spieleprojekte intern nur noch frei, wenn die Entwicklerteams ein KI-Konzept vorlegen oder ihren Verzicht ausführlich begründen. Trotz offizieller Beteuerungen zur Freiwilligkeit treibt Konzernchef Yves Guillemot den Kurs nach rund 255 Millionen € Halbjahresverlust und Stellenabbau voran. Mit der neuen Tochterfirma Motherbrain entwickelt der Publisher zudem eigene sprachgesteuerte Spielfiguren mit Gedächtnis. Die Strategie steht im direkten Widerspruch zu den Käufern, da 85% der befragten Spieler generative KI in Videospielen ablehnen. Vertical Slice: Ubisoft's internal pitching process is becoming increasingly AI-pilled Ubisoft: Halbjahreszahlen 2026/27 und Ankündigung von Motherbrain Eurogamer: Ubisoft reportedly goes all-in on company-wide generative AI use Quantic Foundry: Gamer Sentiment Toward Generative AI in Video Games Golem.de: Ubisoft verlangt KI-Konzept für neue Spiele Kaum eine Zielgruppe lehnt generative KI so geschlossen ab wie Käufer von Videospielen. Ausgerechnet jetzt verlangt der angeschlagene Publisher Ubisoft für jedes neue Spielkonzept einen konkreten Plan zum KI-Einsatz. Wer darauf verzichten will, muss sich vor der Führungsebene ausführl...]]></description>
+    </item>
+    <item>
+      <title>SAP: Hacker kapern GitHub-Konten und manipulieren internen Quellcode</title>
+      <link>https://www.all-ai.de/news/news26top/sap-ki-agenten-manipulation</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/sap-ki-agenten-manipulation</guid>
+      <pubDate>Fri, 27 Nov 2026 15:34:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Unbekannte haben über erbeutete Zugangs-Token von Mitarbeitern GitHub-Projekte von SAP gekapert und Quellcode kopiert sowie verändert. Unter dem Geheimnamen »Project Granite« sperrte SAP vorübergehend den GitHub-Zugriff, stoppte Auslieferungsprozesse und tauschte alle Signaturschlüssel aus. Konzernkreise vermuten hinter dem Angriff autonome KI-Agenten wie das Framework Artex, vor dem FBI, BSI, Microsoft und AWS jüngst warnten. Der Einbruch trifft SAP genau zu dem Zeitpunkt, an dem Vorstandschef Christian Klein für seinen KI-Kurs den Abbau von mindestens 10.000 Stellen plant. Der Spiegel: SAP wird Opfer von Hackerangriff Handelsblatt: SAP-IT-Sicherheitsvorfall – Verdächtige Aktivitäten identifiziert Microsoft Security Blog: What defenders need to know about the Artex agentic AI framework Bloomberg: SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring Angreifer haben Zugangs-Token von SAP-Mitarbeitern erbeutet und Entwicklungsprojekte auf GitHub gekapert. Mit den digitalen Schlüsseln bewegten sie sich laut Spiegel wie reguläre Entwickler. Dabei kopierten und veränderten sie internen Quellcode. Anzeige Notbremse unter »Project Granite« Intern bekämpft der Walldorfer Kon...]]></description>
+    </item>
+    <item>
+      <title>Ashton Kutcher: Frühe Anthropic-Wette ist jetzt 7 Milliarden Dollar wert</title>
+      <link>https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</guid>
+      <pubDate>Fri, 27 Nov 2026 15:24:55 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Die von Ashton Kutcher mitgegründete Beteiligungsfirma Sound Ventures hält nach Anthropics Börsengang Anteile im Wert von rund 7 Milliarden Dollar. Nach dem Einstieg mit 35 Millionen Dollar im Jahr 2023 baute der Fonds seine Position über Folgerunden auf 435 Millionen Dollar und rund 0,5 Prozent aus. Während der Großteil des Gewinns an externe Fondsanleger geht, rückt Kutchers Privatvermögen über seine Gewinnbeteiligung nahe an die Milliardenmarke. Kutcher selbst hat sich im Juli 2026 aus dem Tagesgeschäft zurückgezogen und investiert mit Decimal Capital nun früh in KI-Infrastruktur und Stromnetze. Bloomberg: The Biggest Winners in Anthropic's Landmark Public Offering The Hollywood Reporter: Ashton Kutcher Nears Billionaire Status Following Anthropic IPO Inc.com: Ashton Kutcher Made an Early Bet on Anthropic. His Investment Is Now Worth $7 Billion Billboard: Ashton Kutcher & Guy Oseary Launch $240M AI Investment Fund Der Rekord-Börsengang des KI-Unternehmens Anthropic beschert US-Schauspieler Ashton Kutcher und seiner Beteiligungsfirma Sound Ventures einen Milliardengewinn. Aus 435 Millionen $ Einsatz wurde ein Aktienpaket im Wert von rund 7 Milliarden $. Anzeige Wer am Milliard...]]></description>
+    </item>
     <item>
       <title>Diese 3 KI Tools brauchst DU 2027. Vergiss ChatGPT und Claude!</title>
       <link>https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</link>

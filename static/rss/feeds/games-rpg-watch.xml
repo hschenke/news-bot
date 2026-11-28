@@ -5,9 +5,27 @@
     <link>https://holli-news-bot.streamlit.app/?category=Games&amp;feed=RPG-Watch</link>
     <description>RSS-Feed für die Quelle 'RPG-Watch' (Kategorie: Games).</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/games-rpg-watch.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tale of Ronin - New Trailer</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60652</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60652</guid>
+      <pubDate>Fri, 27 Nov 2026 14:28:57 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[Indie Games Hub shared a new trailer for Tale of Ronin: Tale of Ronin - Official Trailer A game about a fallen samurai carrying out his lord’s final request. Travel as a ronin through a changing land and face the consequences of your choices along the way....]]></description>
+    </item>
+    <item>
+      <title>OpenPhantasie - Version 1.3 released</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60651</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60651</guid>
+      <pubDate>Fri, 27 Nov 2026 14:19:38 GMT</pubDate>
+      <category>Games</category>
+      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
+      <description><![CDATA[A new open-source engine for SSI's Phantasie Series (I–IV)​ has been released. What is OpenPhantasie?​ OpenPhantasie is a ground-up recreation of the game engine, written in C# using MonoGame. It brings all four games together under a single interface, with a common set of options and a consistent experience....]]></description>
+    </item>
     <item>
       <title>Pathfinder: Abomination Vaults - Cancelled</title>
       <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</link>
