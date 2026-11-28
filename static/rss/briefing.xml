@@ -5,17 +5,35 @@
     <link>https://holli-news-bot.streamlit.app/?tab=ki</link>
     <description>Die von der Gemini KI kuratierten Top-Nachrichten aus allen Kategorien.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:22:40 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/briefing.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Berlin] Raubüberfall auf Star-Tankstelle in Mahlsdorf – Täter erbeuten Bargeld und Zigaretten</title>
-      <link>https://www.instagram.com/p/DgPKoGXihxC/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13782014408560292895</guid>
-      <pubDate>Fri, 27 Nov 2026 23:56:46 +0000</pubDate>
+      <title>[Berlin] Mega-Choreo und Zauber-Fußball: Hertha zerlegt auch Karlsruhe</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-hertha-bsc-karlsruher-sc-fanfreundschaft-liveticker-audiostream-spielbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-2-bundesliga-hertha-bsc-karlsruher-sc-fanfreundschaft-liveticker-audiostream-spielbericht.html</guid>
+      <pubDate>Sat, 28 Nov 2026 13:55:00 +0000</pubDate>
       <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>In der Nacht zum Freitag überfielen zwei maskierte Männer eine Star-Tankstelle in der Straße Alt-Mahlsdorf an der B1 und erbeuteten Bargeld sowie Zigaretten.</p>]]></description>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Hertha BSC gewinnt das Heimspiel gegen den Karlsruher SC mit 4:0 und bleibt in der 2. Bundesliga nach 13 Spieltagen ungeschlagen. Der Tabellenführer baut seine Serie auf elf Siege und ein Unentschieden aus.</p>]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Jetzt live: Kann Union Berlin in Mainz den freien Fall stoppen?</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-union-berlin-mainz-05-krisenduell-liveticker-audio-livestream-spielbericht.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-bundesliga-union-berlin-mainz-05-krisenduell-liveticker-audio-livestream-spielbericht.html</guid>
+      <pubDate>Sat, 28 Nov 2026 14:20:19 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Union Berlin steht in der Bundesliga unter Abstiegsdruck und muss bei Mainz 05 punkten, um den Anschluss an die Nichtabstiegsplätze zu halten. Bei einer Niederlage droht Trainer Mauro Lustrinelli die Entlassung.</p>]]></description>
+    </item>
+    <item>
+      <title>[Berlin] Hertha: Die Wahrheit hinter den 15 Eigengewächsen</title>
+      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-berliner-weg-nachwuchs-talente-einsatzzeiten.html</link>
+      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-berliner-weg-nachwuchs-talente-einsatzzeiten.html</guid>
+      <pubDate>Fri, 27 Nov 2026 18:40:00 +0000</pubDate>
+      <category>Berlin</category>
+      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
+      <description><![CDATA[<p>Obwohl Hertha BSC mit 15 Spielern aus der eigenen Akademie den Bestwert der 2. Bundesliga stellt, zeigt die Einsatzstatistik nach 14 Pflichtspielen, dass die Last auf erstaunlich wenigen Schultern ruht.</p>]]></description>
     </item>
     <item>
       <title>[Berlin] BVG veröffentlicht Pläne: Jetzt steht das Tram-Konzept für Mahlsdorf</title>
@@ -24,34 +42,16 @@
       <pubDate>Fri, 27 Nov 2026 17:31:58 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Die BVG stellt Pläne vor, wonach die Straßenbahn künftig nicht mehr vor dem S-Bahnhof Mahlsdorf wendet, sondern bis zum Hultschiner Damm verlängert wird.</p>]]></description>
+      <description><![CDATA[<p>Die BVG hat konkrete Pläne für die Straßenbahn-Anbindung am S-Bahnhof Mahlsdorf vorgelegt. Bisher endet die Tram rund 200 Meter vor dem Bahnhof in einer Wendeschleife.</p>]]></description>
     </item>
     <item>
-      <title>[Berlin] Hertha: Die Wahrheit hinter den 15 Eigengewächsen</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-berliner-weg-nachwuchs-talente-einsatzzeiten.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13073619056754803141</guid>
-      <pubDate>Fri, 27 Nov 2026 18:45:32 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Hertha BSC stellt mit 15 Spielern aus der eigenen Akademie den Bestwert der 2. Bundesliga, doch die Einsatzzeiten verteilen sich auf erstaunlich wenige Akteure.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Eishockey: Eisbären siegen deutlich in Augsburg</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-augsburg-eisbaeren-berlin.html</link>
-      <guid isPermaLink="false">https://www.rbb24.de/sport/beitrag/2026/11/eishockey-del-augsburg-eisbaeren-berlin.html</guid>
-      <pubDate>Fri, 27 Nov 2026 21:37:50 +0000</pubDate>
-      <category>Berlin</category>
-      <source url="https://www.rbb24.de/sport/index.xml/feed=rss.xml">Rbb Sport</source>
-      <description><![CDATA[<p>Die Eisbären Berlin gewinnen ihr Auswärtsspiel in Augsburg souverän und festigen ihre Tabellenführung in der DEL.</p>]]></description>
-    </item>
-    <item>
-      <title>[Berlin] Raub auf Tankstelle - Berlin.de</title>
-      <link>https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1744756.php</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3564063345456223593</guid>
-      <pubDate>Fri, 27 Nov 2026 14:42:08 +0000</pubDate>
+      <title>[Berlin] Maskierte überfallen Star-Tankstelle in Mahlsdorf</title>
+      <link>https://marzahn-hellersdorf.com/maskierte-ueberfallen-star-tankstelle-in-mahlsdorf/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8234677847711070370</guid>
+      <pubDate>Fri, 27 Nov 2026 20:01:16 +0000</pubDate>
       <category>Berlin</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/5122145494998449956">Mahlsdorf</source>
-      <description><![CDATA[<p>Zwei maskierte Täter überfielen in der vergangenen Nacht eine Tankstelle in Mahlsdorf, bedrohten die 21-jährige Angestellte mit Messer und Pfefferspray und flüchteten mit Beute.</p>]]></description>
+      <description><![CDATA[<p>Zwei maskierte Täter überfielen in der Nacht eine Star-Tankstelle an der Bundesstraße 1 in Mahlsdorf, räumten zwei Kassen aus und entwendeten Bargeld sowie Zigaretten.</p>]]></description>
     </item>
     <item>
       <title>[Fun] Viele Wochen schon ist der Handelsvertreter</title>
@@ -63,85 +63,121 @@
       <description><![CDATA[<p>Viele Wochen schon ist der Handelsvertreter unterwegs. Eines Abends geht er in ein Bordell, wirft der Puffmutter eine Handvoll zerknüllter Scheine hin und verlangt: "Die Hässlichste, die Sie haben!" Die Chefin zählt schnell nach und bedeutet ihm, für soviel Geld könne er auch die Hübscheste bekommen. "Kein Interesse", brummt der Mann, "ich bin nicht geil - ich habe Heimweh!"</p>]]></description>
     </item>
     <item>
-      <title>[Fußball] Hertha BSC - Karlsruher SC live im Ticker</title>
-      <link>https://www.eurosport.de/fussball/2.-bundesliga/2026-2027/hertha-bsc-karlsruher-sc_mtc21893893/live.shtml</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12454758358415126270</guid>
-      <pubDate>Fri, 27 Nov 2026 23:42:35 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Spitzenreiter Hertha BSC empfängt den Karlsruher SC im Olympiastadion zum 14. Spieltag der 2. Bundesliga (Anpfiff 13:00 Uhr).</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] DFB-Pokal live im Free-TV: Dieser Sender zeigt Bayern gegen Hertha BSC</title>
-      <link>https://www.t-online.de/sport/fussball/dfb-pokal/id_101549306/dfb-pokal-live-im-free-tv-dieser-sender-zeigt-bayern-gegen-hertha-bsc.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2306349916514048913</guid>
-      <pubDate>Fri, 27 Nov 2026 16:18:35 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Der FC Bayern München trifft im Achtelfinale des DFB-Pokals auf Hertha BSC; die Partie wird im Free-TV übertragen.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] Hertha verlängert Seguins Vertrag bis 2028</title>
-      <link>https://suaragarut.id/de/hertha-verlaengert-seguin-vertrag-2028</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17632465871622069298</guid>
-      <pubDate>Fri, 27 Nov 2026 15:44:50 +0000</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[<p>Mittelfeldspieler Paul Seguin bleibt Hertha BSC bis 2028 erhalten; Trainer Stefan Leitl bezeichnet ihn als strategischen Fixpunkt.</p>]]></description>
-    </item>
-    <item>
-      <title>[Fußball] FC Bayern: Musiala erneut verletzt – Alte Verletzung aufgebrochen</title>
-      <link>https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</guid>
-      <pubDate>Fri, 27 Nov 2026 14:34:37 +0000</pubDate>
+      <title>[Fußball] Hertha BSC schon Weihnachtsmeister – Erfolgreiche Kniat-Heimpremiere in Kiel</title>
+      <link>https://www.transfermarkt.de/hertha-bsc-schon-weihnachtsmeister-erfolgreiche-kniat-heimpremiere-in-kiel/view/news/491401</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/hertha-bsc-schon-weihnachtsmeister-erfolgreiche-kniat-heimpremiere-in-kiel/view/news/491401</guid>
+      <pubDate>Sat, 28 Nov 2026 14:11:01 +0000</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[<p>Jamal Musiala fällt beim FC Bayern für mehrere Wochen aus; bei dem 23-Jährigen wurde eine Muskelverletzung im rechten Oberschenkel diagnostiziert.</p>]]></description>
+      <description><![CDATA[<p>Hertha BSC sichert sich vor dem ersten Advent den inoffiziellen Titel als Herbstmeister der 2. Bundesliga. Die Berliner bleiben nach 13 Spieltagen ungeschlagen mit elf Siegen und zwei Unentschieden.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Tale of Ronin - New Trailer</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60652</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60652</guid>
-      <pubDate>Fri, 27 Nov 2026 14:28:57 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Neuer Trailer zum Indie-RPG "Tale of Ronin", in dem man als herrenloser Samurai durch ein sich veränderndes Land reist und die Folgen eigener Entscheidungen trägt.</p>]]></description>
+      <title>[Fußball] Fanfreundschaft zwischen Hertha und dem KSC: Bei aller Freundschaft</title>
+      <link>https://www.11freunde.de/2-bundesliga/fanfreundschaft-zwischen-hertha-und-dem-ksc-bei-aller-freundschaft-a-0f4e209f-0004-0001-0000-000009508033</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11353455791173207245</guid>
+      <pubDate>Sat, 28 Nov 2026 07:04:30 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[<p>Die Fanfreundschaft zwischen Hertha BSC und dem Karlsruher SC feiert ihr 50-jähriges Jubiläum. Das Duell im Olympiastadion stand ganz im Zeichen dieser besonderen Verbindung.</p>]]></description>
     </item>
     <item>
-      <title>[Games] OpenPhantasie - Version 1.3 released</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60651</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60651</guid>
-      <pubDate>Fri, 27 Nov 2026 14:19:38 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Open-Source-Nachbau der SSI-Phantasie-Serie (Teile I–IV) in C#/MonoGame veröffentlicht; alle vier Spiele unter einer Oberfläche mit einheitlichen Optionen spielbar.</p>]]></description>
+      <title>[Fußball] Chelsea-Krise unter Alonso hält an – Glasner fordert nach Nottinghams Sieg Bescheidenheit</title>
+      <link>https://www.transfermarkt.de/chelsea-krise-unter-alonso-halt-an-glasner-fordert-nach-nottinghams-sieg-bescheidenheit/view/news/491394</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/chelsea-krise-unter-alonso-halt-an-glasner-fordert-nach-nottinghams-sieg-bescheidenheit/view/news/491394</guid>
+      <pubDate>Sat, 28 Nov 2026 09:05:56 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Der FC Chelsea setzt seine Niederlagenserie in der Premier League unter Trainer Xabi Alonso fort. Nottingham Forest mit Coach Oliver Glasner gewann und mahnt trotz des Erfolgs zur Bescheidenheit.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Pathfinder: Abomination Vaults - Cancelled</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60650</guid>
-      <pubDate>Fri, 27 Nov 2026 09:34:02 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Das CRPG "Pathfinder: Abomination Vaults" wurde laut Mortismal Gaming eingestellt; das Projekt gilt als so gut wie tot.</p>]]></description>
+      <title>[Fußball] Thiago Silva verlängert mit 42 noch einmal bei Fluminense</title>
+      <link>https://www.transfermarkt.de/thiago-silva-verlangert-mit-42-bei-fluminense-neuer-vertrag-auch-fur-talent-wesley-nata/view/news/491392</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/thiago-silva-verlangert-mit-42-bei-fluminense-neuer-vertrag-auch-fur-talent-wesley-nata/view/news/491392</guid>
+      <pubDate>Sat, 28 Nov 2026 08:19:32 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Der 113-fache brasilianische Nationalspieler Thiago Silva bleibt Fluminense mindestens ein weiteres Jahr erhalten. Der 42-Jährige kehrt zum dritten Mal in seiner Karriere zu dem Klub zurück.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Final Fantasy Resonance - Devs surprised</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60649</guid>
-      <pubDate>Fri, 27 Nov 2026 09:27:30 +0000</pubDate>
-      <category>Games</category>
-      <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>Die Entwickler von Final Fantasy Resonance (HD-2D, rundenbasiert) wurden von der überwältigend positiven Resonanz der Spieler überrascht.</p>]]></description>
+      <title>[Fußball] Müller mit Vancouver in MLS-Playoffs weiter – Messi und Miami in erster Runde ausgeschieden</title>
+      <link>https://www.transfermarkt.de/muller-mit-vancouver-in-mls-playoffs-weiter-messi-und-miami-in-erster-runde-ausgeschieden/view/news/491391</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/muller-mit-vancouver-in-mls-playoffs-weiter-messi-und-miami-in-erster-runde-ausgeschieden/view/news/491391</guid>
+      <pubDate>Sat, 28 Nov 2026 07:53:37 +0000</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[<p>Thomas Müller erreicht mit den Vancouver Whitecaps die nächste Runde der MLS-Playoffs, während Lionel Messi mit Inter Miami bereits in der ersten Runde scheitert.</p>]]></description>
     </item>
     <item>
-      <title>[Games] Underkeep - Review @ RPGFan</title>
-      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</link>
-      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60648</guid>
-      <pubDate>Fri, 27 Nov 2026 08:58:37 +0000</pubDate>
+      <title>[Games] HARK THE GHOUL launches January 21, 2027 for PS5, Xbox Series, Switch 2, Switch, and PC</title>
+      <link>https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6614754372422069820</guid>
+      <pubDate>Fri, 27 Nov 2026 21:56:39 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
+      <description><![CDATA[<p>Der viktorianisch-gotische Dungeon-Crawler "Hark the Ghoul" erscheint am 21. Januar 2027 für PlayStation 5, Xbox Series, Nintendo Switch 2, Switch und PC via Steam.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] XboxDynasty on X: "Heroes of Might and Magic III Remake: Drei Spielstile verändern das ...</title>
+      <link>https://x.com/xboxdynasty/status/2126649718868517098</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1732413177524917317</guid>
+      <pubDate>Sat, 28 Nov 2026 12:21:44 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/6987430504538823876">Might &amp; Magic Alert</source>
+      <description><![CDATA[<p>Das Remake von Heroes of Might and Magic III soll drei verschiedene Spielstile bieten, die das Strategie-Erlebnis grundlegend verändern. Details zur Umsetzung wurden über den XboxDynasty-Account geteilt.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Titan Quest II - Final Early Access Update</title>
+      <link>https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60656</link>
+      <guid isPermaLink="false">https://rpgwatch.com/show/newsbit?rwsiteid=1&amp;newsbit=60656</guid>
+      <pubDate>Sat, 28 Nov 2026 06:50:48 +0000</pubDate>
       <category>Games</category>
       <source url="https://rpgwatch.com/files/rss1.xml">RPG-Watch</source>
-      <description><![CDATA[<p>RPGFan rezensiert den Dungeon-Crawler "Underkeep" mit Grid-basierter Erkundung, Automapping, Umgebungsrätseln und Party-Anpassung.</p>]]></description>
+      <description><![CDATA[<p>Mortismal Gaming hat das finale Early-Access-Update von Titan Quest II getestet, das Endgame-Inhalte, das Releasedatum und weitere Neuerungen umfasst.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] Queen's Domain is an onion, and one of 2026's most surprising releases</title>
+      <link>https://checkpointgaming.net/features/2026/11/queens-domain-is-an-onion-and-one-of-2026s-most-surprising-releases/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17458742978946492427</guid>
+      <pubDate>Sat, 28 Nov 2026 06:40:40 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
+      <description><![CDATA[<p>"Queen's Domain" wird als First-Person-Dungeon-Crawler beschrieben, der eher einem First-Person-Metroidvania ähnelt und als eine der überraschendsten Veröffentlichungen 2026 gilt.</p>]]></description>
+    </item>
+    <item>
+      <title>[Games] New Dungeon Crawler Carl Release Officially Set for 2027</title>
+      <link>https://www.polygon.com/dungeon-crawler-carl-new-comic-series-release-date-january-2027/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14063354722191989327</guid>
+      <pubDate>Sat, 28 Nov 2026 09:35:04 +0000</pubDate>
+      <category>Games</category>
+      <source url="https://www.google.com/alerts/feeds/04536167566068725751/1080678925900630527">Dungeon crawler</source>
+      <description><![CDATA[<p>Matt Dinnimans LitRPG-Serie "Dungeon Crawler Carl" erhält ab Januar 2027 eine fortlaufende Comic-Serie bei Vault Comics, die die Wartezeit auf Buch 9 überbrücken soll.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Sakana AI's CEO says its homegrown models are about more than Japan's national security</title>
+      <link>https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192694</guid>
+      <pubDate>Sat, 28 Nov 2026 14:00:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[<p>Sakana AI will mit eigenentwickelten KI-Modellen die industrielle Wettbewerbsfähigkeit Japans stärken, nicht nur nationale Sicherheitsinteressen bedienen.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Studie beziffert Risiko einer KI-Blase auf bis zu 97 Prozent</title>
+      <link>https://www.all-ai.de/news/news26top/studie-ki-blase-ende</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/studie-ki-blase-ende</guid>
+      <pubDate>Sat, 28 Nov 2026 13:20:00 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Ökonomen der University of Cambridge und London Business School sehen die Wahrscheinlichkeit einer KI-Blase an der Börse je nach Berechnung bei 40 % bis 97 %. Haupttreiber sei die Kreislauffinanzierung, bei der Konzerne wie Nvidia und Alphabet ihre eigenen Chip- und Cloud-Kunden mit Milliarden stützen.</p>]]></description>
+    </item>
+    <item>
+      <title>[Tech &amp; AI] Google verkauft Modell-Destillation als Cloud-Dienst</title>
+      <link>https://www.all-ai.de/news/news26top/google-modell-destillation</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-modell-destillation</guid>
+      <pubDate>Sat, 28 Nov 2026 12:05:02 +0000</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[<p>Google Cloud bietet das Anlernen kleinerer KI-Modelle durch größere Lehrermodelle (Destillation) nun offiziell als bezahlten Dienst an. Während Anthropic und OpenAI dies als Angriff bekämpfen, verdient Google an Rechenzeit und Modell-Antworten – bislang nur mit dem offenen Modell GLM 5.2 als Lehrer.</p>]]></description>
     </item>
     <item>
       <title>[Tech &amp; AI] SpaceX plant KI-Rechenzentrum »Colossus 3« für 50 Milliarden $ in Arizona</title>
@@ -150,16 +186,7 @@
       <pubDate>Fri, 27 Nov 2026 19:26:38 +0000</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>SpaceX will in Arizona für über 50 Mrd. $ das KI-Rechenzentrum "Colossus 3" mit neun Hallen und bis zu sechs Gigawatt Leistung errichten; Baubeginn ab März 2027 geplant.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Ubisoft verlangt KI für neue Spiele gegen den Willen der Fans</title>
-      <link>https://www.all-ai.de/news/news26top/ubisoft-ki-fans</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ubisoft-ki-fans</guid>
-      <pubDate>Fri, 27 Nov 2026 15:50:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Ubisoft genehmigt neue Spielprojekte intern nur noch mit KI-Konzept; 85 % der befragten Spieler lehnen generative KI in Videospielen ab.</p>]]></description>
+      <description><![CDATA[<p>SpaceX will in Arizona für über 50 Mrd. $ das KI-Rechenzentrum "Colossus 3" mit neun Hallen und bis zu sechs Gigawatt Leistung errichten. Der Strombedarf entspricht fast 20 % der gesamten Erzeugung Arizonas; die Generalstaatsanwältin fordert einen Aufschub der Abstimmung am 9. Dezember.</p>]]></description>
     </item>
     <item>
       <title>[Tech &amp; AI] SAP: Hacker kapern GitHub-Konten und manipulieren internen Quellcode</title>
@@ -168,25 +195,7 @@
       <pubDate>Fri, 27 Nov 2026 15:34:00 +0000</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Angreifer erbeuteten Mitarbeiter-Tokens, kaperten SAP-GitHub-Projekte unter "Project Granite", kopierten und veränderten Quellcode; Verdacht auf KI-Agenten-Framework Artex.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Ashton Kutcher: Frühe Anthropic-Wette ist jetzt 7 Milliarden Dollar wert</title>
-      <link>https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</link>
-      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/ashton-kutcher-anthropic-geld</guid>
-      <pubDate>Fri, 27 Nov 2026 15:24:55 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Sound Ventures (Kutcher) hält nach Anthropic-IPO Anteile im Wert von ~7 Mrd. $; Einstieg 2023 mit 35 Mio. $, Aufbau auf 435 Mio. $ und ~0,5 %.</p>]]></description>
-    </item>
-    <item>
-      <title>[Tech &amp; AI] Diese 3 KI Tools brauchst DU 2027. Vergiss ChatGPT und Claude!</title>
-      <link>https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</link>
-      <guid isPermaLink="false">https://www.all-ai.de/tools/ki-top-tools100/ki-tools-2027-chatgpt-claude-gemini</guid>
-      <pubDate>Fri, 27 Nov 2026 14:46:00 +0000</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
-      <description><![CDATA[<p>Autor empfiehlt für 2027 Google Gemini Pro, ElevenLabs und Higgsfield als drei zentrale Abos für 90 % aller KI-Aufgaben (Text, deutsche Sprache, Avatare, Bilder, Video).</p>]]></description>
+      <description><![CDATA[<p>Unbekannte erbeuteten Zugangs-Token von SAP-Mitarbeitern, kaperten GitHub-Projekte, kopierten und veränderten Quellcode. SAP sperrte unter dem Codenamen "Project Granite" den GitHub-Zugriff, stoppte Auslieferungen und tauschte alle Signaturschlüssel. Konzernkreise vermuten autonome KI-Agenten wie das Framework Artex hinter dem Angriff.</p>]]></description>
     </item>
   </channel>
 </rss>

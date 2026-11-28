@@ -5,7 +5,7 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=Hacker+News+%28Top%29</link>
     <description>RSS-Feed für die Quelle 'Hacker News (Top)' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:20:59 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-hacker-news-top.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -166,15 +166,6 @@
       <link>https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</link>
       <guid isPermaLink="false">https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</guid>
       <pubDate>Fri, 27 Nov 2026 14:30:20 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Paolo Soleri built a utopian eco-city in the Arizona desert</title>
-      <link>https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</link>
-      <guid isPermaLink="false">https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</guid>
-      <pubDate>Fri, 27 Nov 2026 13:30:20 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>

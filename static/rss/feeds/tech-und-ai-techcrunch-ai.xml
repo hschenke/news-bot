@@ -5,9 +5,17 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI&amp;feed=TechCrunch+AI</link>
     <description>RSS-Feed für die Quelle 'TechCrunch AI' (Kategorie: Tech &amp; AI).</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:20:59 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/feeds/tech-und-ai-techcrunch-ai.xml" rel="self" type="application/rss+xml" />
-
+    <item>
+      <title>Sakana AI’s CEO says its homegrown models are about more than Japan’s national security</title>
+      <link>https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192694</guid>
+      <pubDate>Sat, 28 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.]]></description>
+    </item>
   </channel>
 </rss>

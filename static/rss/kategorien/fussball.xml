@@ -5,26 +5,242 @@
     <link>https://holli-news-bot.streamlit.app/?category=Fu%C3%9Fball</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Fußball' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:20:59 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/fussball.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hertha BSC - Karlsruher SC live im Ticker - Fußball Ergebnisse, Statistiken &amp; Liveticker zum Spiel</title>
-      <link>https://www.eurosport.de/fussball/2.-bundesliga/2026-2027/hertha-bsc-karlsruher-sc_mtc21893893/live.shtml</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12454758358415126270</guid>
-      <pubDate>Fri, 27 Nov 2026 23:42:35 GMT</pubDate>
+      <title>Hertha BSC schon Weihnachtsmeister – Erfolgreiche Kniat-Heimpremiere in Kiel</title>
+      <link>https://www.transfermarkt.de/hertha-bsc-schon-weihnachtsmeister-erfolgreiche-kniat-heimpremiere-in-kiel/view/news/491401</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/hertha-bsc-schon-weihnachtsmeister-erfolgreiche-kniat-heimpremiere-in-kiel/view/news/491401</guid>
+      <pubDate>Sat, 28 Nov 2026 14:11:01 GMT</pubDate>
       <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Liveticker zu den Spielen der 2. Bundesliga bei Eurosport: Die komplette Übersicht zu Hertha BSC - Karlsruher SC mit Statistiken, Daten und Infos.]]></description>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Hertha BSC hat sich mit einem weiteren dominanten Auftritt in der 2. Bundesliga schon vor dem ersten Advent den inoffiziellen Titel als Weihnachtsmeister gesichert. Die ungeschlagenen Berliner...]]></description>
     </item>
     <item>
-      <title>Regionalliga: Etliche witterungsbedingte Absagen auch an diesem Spieltag - Kicker</title>
-      <link>https://www.kicker.de/regionalliga-etliche-witterungsbedingte-absagen-auch-an-diesem-spieltag-1275177/artikel</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17658922828694199585</guid>
-      <pubDate>Fri, 27 Nov 2026 21:34:07 GMT</pubDate>
+      <title>Vom Amateurfußball zum Rapid-Kapitän: Matthias Seidls steiniger Weg nach oben</title>
+      <link>https://www.transfermarkt.de/vom-amateurfussballer-zum-rapid-kapitan-seidls-steiniger-weg-nach-oben/view/news/491125</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/vom-amateurfussballer-zum-rapid-kapitan-seidls-steiniger-weg-nach-oben/view/news/491125</guid>
+      <pubDate>Sat, 28 Nov 2026 10:45:59 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Lange lief Rapid der Spitze hinterher, doch in dieser Saison scheint vieles aufzugehen. Erstmals seit Jahren führt der 32-fache österreichische Meister wieder souverän die Tabelle...]]></description>
+    </item>
+    <item>
+      <title>Mbappé-Bruder Ethan verlängert bei LOSC – Leitete Bayerns Slapstick-Tor in Königsklasse ein</title>
+      <link>https://www.transfermarkt.de/mbappe-bruder-ethan-verlangert-beim-losc-leitete-bayerns-slapstick-eigentor-ein/view/news/491396</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/mbappe-bruder-ethan-verlangert-beim-losc-leitete-bayerns-slapstick-eigentor-ein/view/news/491396</guid>
+      <pubDate>Sat, 28 Nov 2026 09:42:43 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Flügelstürmer Ethan Mbappé hat in dieser Saison seinen Marktwert erstmals in den achtstelligen Bereich auf 12 Millionen Euro verbessert. Nun verlängert sein Klub LOSC Lille...]]></description>
+    </item>
+    <item>
+      <title>Hertha BSC: Gersbeck spricht über besondere Verbindung - Karlsruhe</title>
+      <link>https://www.wochenblatt-reporter.de/karlsruhe/c-sport/hertha-bsc-gersbeck-spricht-ueber-besondere-verbindung_a955817</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3304654576114419162</guid>
+      <pubDate>Sat, 28 Nov 2026 09:20:45 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Der anhaltende Frost machte auch dem Grün im Chemnitzer Stadion an der Gellertstraße zu schaffen, die Begegnung gegen Hertha-Bubis wurde deshalb ...]]></description>
+      <description><![CDATA[Fußball. Hertha-Torhüter Marius Gersbeck steht vor einem besonderen Wiedersehen. Am 28. November dürfte er erstmals im Trikot von Hertha BSC gegen ...]]></description>
+    </item>
+    <item>
+      <title>2. Bundesliga heute: Hertha – KSC im Liveticker, TV &amp; Stream - SPORT1</title>
+      <link>https://www.sport1.de/news/fussball/2-bundesliga/2026/11/2-bundesliga-heute-hertha-ksc-live-im-tv-liveticker-livestream</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10828685532685831270</guid>
+      <pubDate>Sat, 28 Nov 2026 09:18:28 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC empfängt heute den Karlsruher SC. Der Anstoß ist um 13.00 Uhr im Berliner Olympiastadion. SPORT1 erklärt Ihnen, wo Sie das Spiel im TV, ...]]></description>
+    </item>
+    <item>
+      <title>Hertha BSC empfängt den KSC: 2. Bundesliga heute im Liveticker - Berliner Morgenpost</title>
+      <link>https://www.morgenpost.de/sport/hertha/article413795703/gelingt-hertha-bsc-im-freundschaftsduell-mit-dem-ksc-die-bayern-generalprobe.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10605732323736837321</guid>
+      <pubDate>Sat, 28 Nov 2026 09:14:12 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha BSC empfängt den Karlsruher SC im Olympiastadion. Mit dem Pokalspiel in München im Hinterkopf soll der nächste Ligasieg her.]]></description>
+    </item>
+    <item>
+      <title>„Das wäre der Oberknaller“: Bekommt Berlin bald drei Klubs in der Bundesliga?</title>
+      <link>https://www.berliner-zeitung.de/article/frauen-bundesliga-berlin-union-hertha-viktoria-derby-10578774</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10010315737016490425</guid>
+      <pubDate>Sat, 28 Nov 2026 09:08:25 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Investoren, Nachwuchs, Profiverträge: So wollen Viktoria Berlin, Hertha BSC und Union die Frauen-Bundesliga zur Berliner Derby-Liga machen.]]></description>
+    </item>
+    <item>
+      <title>Chelsea-Krise unter Alonso hält an – Glasner fordert nach Nottinghams Sieg Bescheidenheit</title>
+      <link>https://www.transfermarkt.de/chelsea-krise-unter-alonso-halt-an-glasner-fordert-nach-nottinghams-sieg-bescheidenheit/view/news/491394</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/chelsea-krise-unter-alonso-halt-an-glasner-fordert-nach-nottinghams-sieg-bescheidenheit/view/news/491394</guid>
+      <pubDate>Sat, 28 Nov 2026 09:05:56 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Der FC Chelsea setzt seine Niederlagenserie in der Premier League unter dem früheren Leverkusener Meistertrainer Xabi Alonso fort. Auch bei Nottingham Forest mit Coach Oliver Glasner –...]]></description>
+    </item>
+    <item>
+      <title>Hertha BSC: Neue Aufgabe gegen die KSCler am Samstag - News.de</title>
+      <link>https://www.news.de/sport/860226160/hertha-bsc-gegen-karlsruher-sc-am-28-11-2026-spielplan-fuer-naechste-spiele/1/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6174108917254680101</guid>
+      <pubDate>Sat, 28 Nov 2026 08:59:04 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Nächste Aufgabe für Hertha BSC: Die wichtigsten Infos vor dem Duell gegen den Karlsruher SC.]]></description>
+    </item>
+    <item>
+      <title>Hertha BSC: Zahlen und Fakten vor dem Spiel gegen Karlsruher SC - Qiez</title>
+      <link>https://www.qiez.de/hertha-bsc-zahlen-und-fakten-vor-dem-spiel-gegen-karlsruher-sc/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10088294868276183727</guid>
+      <pubDate>Sat, 28 Nov 2026 08:34:34 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha selbst belegt Tabellenplatz 1. Anpfiff ist am Samstag, den 28.11.2026 um 13.00 Uhr. Für die nächsten Spieltage sind noch Matches gegen Hannover ...]]></description>
+    </item>
+    <item>
+      <title>Thiago Silva verlängert mit 42 noch einmal bei Fluminense</title>
+      <link>https://www.transfermarkt.de/thiago-silva-verlangert-mit-42-bei-fluminense-neuer-vertrag-auch-fur-talent-wesley-nata/view/news/491392</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/thiago-silva-verlangert-mit-42-bei-fluminense-neuer-vertrag-auch-fur-talent-wesley-nata/view/news/491392</guid>
+      <pubDate>Sat, 28 Nov 2026 08:19:32 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Thiago Silva bleibt der Fußballwelt mindestens ein weiteres Jahr erhalten. Fluminense, wohin der 113-fache brasilianische Nationalspieler in diesem Jahr zum dritten Mal in seiner...]]></description>
+    </item>
+    <item>
+      <title>FC Bayern München - Hertha BSC Wett Tipp &amp; Quoten 01.12.2026 - Transfermarkt</title>
+      <link>https://www.transfermarkt.de/sportwetten/tipps/bayern-muenchen-vs-hertha-bsc-wett-tipp-01-12-2026/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13410258879742417991</guid>
+      <pubDate>Sat, 28 Nov 2026 08:08:36 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Wettquoten, Tipps & mehr zu Bayern vs. Hertha - DFB-Pokal 2026/2027.]]></description>
+    </item>
+    <item>
+      <title>Müller mit Vancouver in MLS-Playoffs weiter – Messi und Miami in erster Runde ausgeschieden</title>
+      <link>https://www.transfermarkt.de/muller-mit-vancouver-in-mls-playoffs-weiter-messi-und-miami-in-erster-runde-ausgeschieden/view/news/491391</link>
+      <guid isPermaLink="false">https://www.transfermarkt.de/muller-mit-vancouver-in-mls-playoffs-weiter-messi-und-miami-in-erster-runde-ausgeschieden/view/news/491391</guid>
+      <pubDate>Sat, 28 Nov 2026 07:53:37 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
+      <description><![CDATA[Lionel Messi ist raus, Thomas Müller ist weiter. Während Inter Miami schon in der ersten Runde der Playoffs in der nordamerikanischen MLS die Segel streichen musste, sind die Vancouver...]]></description>
+    </item>
+    <item>
+      <title>Hertha BSC - Karlsruher SC im Live-Stream und TV: Bewährungsprobe heute am 13 ... - News.de</title>
+      <link>https://www.news.de/sport/860221192/hertha-bsc-karlsruher-sc-heute-im-live-stream-tv-uebertragung-vorbericht-und-tabelle-am-28-11-2026-in-der-2-bundesliga-26-27/1/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16695893337691323194</guid>
+      <pubDate>Sat, 28 Nov 2026 07:40:57 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Das heutige Spiel Hertha BSC gegen Karlsruher SC am 13. Spieltag der 2. Bundesliga 26/27: Hier in unserem Vorbericht erfahren Sie alles zur ...]]></description>
+    </item>
+    <item>
+      <title>Hertha BSC - Karlsruher SC im Live-Stream und TV: Bewährungsprobe heute am 13 ... - AOL.de</title>
+      <link>https://www.aol.de/articles/hertha-bsc-karlsruher-sc-live-105802000.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2236772827937951662</guid>
+      <pubDate>Sat, 28 Nov 2026 07:35:47 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Der 13. Spieltag der 2. Bundesliga steht für die Teams von Hertha BSC und des Karlsruher SC in den Startlöchern.]]></description>
+    </item>
+    <item>
+      <title>Vorschau: Hertha BSC vs. KSC - Liga-Zwei.de</title>
+      <link>https://www.liga-zwei.de/vorschau-hertha-bsc-vs-ksc-3/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:662416754590361415</guid>
+      <pubDate>Sat, 28 Nov 2026 07:33:35 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[2. Bundesliga: Hertha BSC vs KSC am 28.11.2026 Wett Tipps, Quoten & Prognose zum Spiel. ✓ Jetzt Vorbericht lesen!]]></description>
+    </item>
+    <item>
+      <title>KSC kämpft gegen Hertha-Defensive und drohenden Absturz - ka-news</title>
+      <link>https://www.ka-news.de/ksc/ksc-kaempft-gegen-hertha-defensive-und-drohenden-absturz-115772301</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1434944204944311371</guid>
+      <pubDate>Sat, 28 Nov 2026 07:32:36 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Die Bilanz aus 30 direkten Duellen spricht gegen den KSC: Der letzte Auswärtssieg in Berlin liegt mehrere Jahrzehnte zurück. Hertha dominiert ...]]></description>
+    </item>
+    <item>
+      <title>KSC heute beim Tabellenersten Hertha BSC | HITRADIO OHR</title>
+      <link>https://www.hitradio-ohr.de/ksc-heute-beim-tabellenersten-hertha-bsc-3061991/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13718191101167930641</guid>
+      <pubDate>Sat, 28 Nov 2026 07:29:42 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Mehr als 4.800 KSC-Fans sind im Berliner Olympiastadion dabei: Der Karlsruher SC ist heute auswärts beim Tabellenersten Hertha BSC zu Gast.]]></description>
+    </item>
+    <item>
+      <title>Fanfreundschaft zwischen Hertha und dem KSC: Bei aller Freundschaft - 11FREUNDE</title>
+      <link>https://www.11freunde.de/2-bundesliga/fanfreundschaft-zwischen-hertha-und-dem-ksc-bei-aller-freundschaft-a-0f4e209f-0004-0001-0000-000009508033</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11353455791173207245</guid>
+      <pubDate>Sat, 28 Nov 2026 07:04:30 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha und der KSC!“, wird es an diesem Samstag wieder durch das Olympiastadion schallen. Woher rührt die Fanfreundschaft, die nun schon seit 50 ...]]></description>
+    </item>
+    <item>
+      <title>Fußball - Union im Krisenduell - Hertha gegen Karlsruher Freunde - Sport - SZ.de</title>
+      <link>https://www.sueddeutsche.de/sport/fussball-union-im-krisenduell-hertha-gegen-karlsruher-freunde-dpa.urn-newsml-dpa-com-20090101-261128-930-63810</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13296268743696894335</guid>
+      <pubDate>Sat, 28 Nov 2026 07:04:06 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha-Trainer Leitl gibt trotz eines Jubiläums eine deutliche Ansage an seine Mannschaft. Direkt aus dem dpa-Newskanal: Dieser Text wurde automatisch ...]]></description>
+    </item>
+    <item>
+      <title>Fußball: Union im Krisenduell - Hertha gegen Karlsruher Freunde - DIE ZEIT</title>
+      <link>https://www.zeit.de/news/2026-11/28/union-im-krisenduell-hertha-gegen-karlsruher-freunde</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2416063797333208201</guid>
+      <pubDate>Sat, 28 Nov 2026 07:03:24 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Hertha will Startrekord ausbauen. Dagegen will Hertha BSC seinen Startrekord von bisher elf Siegen und einem Remis in der eingleisigen zweiten Liga ...]]></description>
+    </item>
+    <item>
+      <title>Februar oder August 1976? Rätsel um 50 Jahre Hertha-KSC-Freundschaft - Berliner Kurier</title>
+      <link>https://www.berliner-kurier.de/article/februar-oder-august-1976-raetsel-um-50-jahre-hertha-ksc-freundschaft-10643229</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10029874865617293790</guid>
+      <pubDate>Sat, 28 Nov 2026 07:01:22 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Sonnabend (13 Uhr) steigt Deutschlands größtes Freundschaftsspiel in der Zweiten Liga. Die Fans von Hertha und dem KSC feiern ihre 50-jährige ...]]></description>
+    </item>
+    <item>
+      <title>Leitls Forderung an Hertha: "Ich habe keine Freunde in Karlsruhe" - TAG24</title>
+      <link>https://www.tag24.de/sport/fussball/verein/hertha-bsc/leitls-forderung-an-hertha-ich-habe-keine-freunde-in-karlsruhe-3553054</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17857411838449772209</guid>
+      <pubDate>Sat, 28 Nov 2026 06:51:49 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Setzt Hertha BSC die irre Ungeschlagen-Serie auch gegen den KSC fort? Beide Anhänger verbindet eine enge Fanfreundschaft. | TAG24.]]></description>
+    </item>
+    <item>
+      <title>Aufstellung heute: Hertha gegen den KSC, beginnt der Spitzenreiter unverändert?</title>
+      <link>https://www.fussballnationalmannschaft.net/hertha-ksc-aufstellung-2-bundesliga-123341778.html</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:694541570391233337</guid>
+      <pubDate>Sat, 28 Nov 2026 06:13:33 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Aufstellung Hertha gegen KSC am Samstag um 13.00 Uhr: So begannen beide zuletzt, wer fehlt und wann die offizielle Startelf kommt.]]></description>
+    </item>
+    <item>
+      <title>Hertha und der KSC: Eine Freundschaft, die nun ihr 50-Jähriges feiert - Fussballdaten</title>
+      <link>https://www.fussballdaten.de/news/hertha-ksc-freundschaft-nun-ihr-50-jaehriges-feiert/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8366904371342724937</guid>
+      <pubDate>Sat, 28 Nov 2026 06:01:19 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[Am Samstag ist es so weit: Der Karlsruher SC gastiert bei Hertha BSC. Es ist ein besonderes Spiel, denn die Fanfreundschaft feiert ihr 50-jähriges ...]]></description>
+    </item>
+    <item>
+      <title>Schafft Hertha BSC den 12 Sieg - Diebewertung.de</title>
+      <link>https://www.diebewertung.de/schafft-hertha-bsc-den-12-sieg/</link>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4989515394753333320</guid>
+      <pubDate>Sat, 28 Nov 2026 05:51:23 GMT</pubDate>
+      <category>Fußball</category>
+      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
+      <description><![CDATA[November 2026 Elf Siege, ein Unentschieden und zehn Punkte Vorsprung auf den ersten Verfolger. Hertha BSC geht mit einer ungewöhnlich klaren ...]]></description>
     </item>
     <item>
       <title>Dinkci &amp; Füllkrug retten Werder einen Punkt – Gladbach verspielt Zwei-Tore-Führung in Bremen</title>
@@ -36,25 +252,7 @@
       <description><![CDATA[Borussia Mönchengladbach hat in der Bundesliga den zweiten Saisonsieg doch noch aus der Hand gegeben. Beim 3:3 (1:1) bei Werder Bremen verspielte die Elf vom Niederrhein in der Schlussphase...]]></description>
     </item>
     <item>
-      <title>Die Wahrheit hinter den 15 Eigengewächsen im Hertha-Kader | sportschau.de</title>
-      <link>https://www.sportschau.de/regional/rbb/rbb-die-wahrheit-hinter-den-15-eigengewaechsen-im-hertha-kader-100.html?t={seek_to_second_number}</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13532873276123063044</guid>
-      <pubDate>Fri, 27 Nov 2026 20:47:30 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Die Wahrheit hinter den 15 Eigengewächsen im Hertha-Kader. Stand: 27.11.2026 • 00:00 Uhr. Herthas Auswechselbank beim Spiel in Braunschweig (imago ...]]></description>
-    </item>
-    <item>
-      <title>Liveticker Chemnitzer FC - Hertha BSC II | 18. Spieltag, Regionalliga Nordost 2026/2027 - sport.de</title>
-      <link>https://www.sport.de/fussball/deutschland-regionalliga-nordost/ma12278467/chemnitzer-fc_hertha-bsc-ii/liveticker/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3315574012856461449</guid>
-      <pubDate>Fri, 27 Nov 2026 20:45:31 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Liveticker mit allen Toren, Highlights und Statistiken zum Spiel Chemnitzer FC - Hertha BSC II am 27.11.2026 00:00. Regionalliga Nordost 18.]]></description>
-    </item>
-    <item>
-      <title>Stade Rennes trennt sich von Haise - Fünfter Trainerwechsel in einem Monat in Ligue 1</title>
+      <title>Stade Rennes trennt sich von Haise – Fünfter Trainerwechsel in einem Monat in Ligue 1</title>
       <link>https://www.transfermarkt.de/funfter-trainerwechsel-in-einem-monat-in-ligue-1-stade-rennes-trennt-sich-von-haise/view/news/491383</link>
       <guid isPermaLink="false">https://www.transfermarkt.de/funfter-trainerwechsel-in-einem-monat-in-ligue-1-stade-rennes-trennt-sich-von-haise/view/news/491383</guid>
       <pubDate>Fri, 27 Nov 2026 20:13:32 GMT</pubDate>
@@ -63,16 +261,7 @@
       <description><![CDATA[Franck Haise ist nicht mehr Trainer von Stade Rennes. Am Freitag verkündete der Ligue-1-Klub die Trennung vom 55-Jährigen, der den Posten erst im Februar übernommen hatte. Er ist der...]]></description>
     </item>
     <item>
-      <title>Warum dieses Fußball-Wochenende für Berlin entscheidend ist - radioeins</title>
-      <link>https://www.radioeins.de/programm/sendungen/der_schoene_morgen/bundesliga_kolumne/ausblick.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17630007605119821570</guid>
-      <pubDate>Fri, 27 Nov 2026 19:48:36 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Union Berlin taumelt Richtung Abstiegszone, Hertha BSC thront in der 2. Liga und Energie Cottbus rutscht gefährlich ab: rbb-Sportreporterin Tabea ...]]></description>
-    </item>
-    <item>
-      <title>2. Bundesliga: Nächster Nürnberg-Dämpfer in Heidenheim</title>
+      <title>2. Bundesliga: Nächster Nürnberg-Dämpfer beim 1. FC Heidenheim</title>
       <link>https://www.transfermarkt.de/nachster-nurnberg-dampfer-in-heidenheim-darmstadt-auch-in-bochum-auswarts-punktlos/view/news/491382</link>
       <guid isPermaLink="false">https://www.transfermarkt.de/nachster-nurnberg-dampfer-in-heidenheim-darmstadt-auch-in-bochum-auswarts-punktlos/view/news/491382</guid>
       <pubDate>Fri, 27 Nov 2026 19:35:49 GMT</pubDate>
@@ -81,202 +270,13 @@
       <description><![CDATA[Der 1. FC Nürnberg hat in der 2. Bundesliga erneut gepatzt und beim zuletzt kriselnden 1. FC Heidenheim verloren. Trotz teilweise klarer Überlegenheit unterlagen die Franken mit 1:3...]]></description>
     </item>
     <item>
-      <title>Die Wahrheit hinter den 15 Eigengewächsen im Hertha-Kader - rbb24</title>
-      <link>https://www.rbb24.de/sport/beitrag/2026/11/fussball-zweite-bundesliga-hertha-bsc-berliner-weg-nachwuchs-talente-einsatzzeiten.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13073619056754803141</guid>
-      <pubDate>Fri, 27 Nov 2026 18:45:32 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Mit 15 Kader-Spielern aus der eigenen Akademie stellt Hertha BSC den Bestwert der zweiten Bundesliga. Der Blick in die Einsatzstatistik nach den ...]]></description>
-    </item>
-    <item>
-      <title>WSC Hertha - Floridsdorfer AC Tipp &amp; beste Quoten | 29.11.2026 - Futbol24</title>
-      <link>https://www.futbol24.com/de/wett-tipps/vorschau/29-11-2026-wsc-hertha-floridsdorfer-ac-wett-tipp/</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7118926776012305343</guid>
-      <pubDate>Fri, 27 Nov 2026 18:45:07 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Wett Tipps zur 2. Liga Partie WSC Hertha und Floridsdorfer AC, Anpfiff am 29.11.2026 um 09:30.]]></description>
-    </item>
-    <item>
-      <title>Nmechas Vertrag bei Leeds United automatisch verlängert - Klausel greift</title>
+      <title>Nmechas Vertrag bei Leeds United automatisch verlängert – Klausel greift</title>
       <link>https://www.transfermarkt.de/erfolgsklausel-greift-nmechas-vertrag-bei-leeds-united-automatisch-verlangert/view/news/491381</link>
       <guid isPermaLink="false">https://www.transfermarkt.de/erfolgsklausel-greift-nmechas-vertrag-bei-leeds-united-automatisch-verlangert/view/news/491381</guid>
       <pubDate>Fri, 27 Nov 2026 18:36:12 GMT</pubDate>
       <category>Fußball</category>
       <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
       <description><![CDATA[Der Vertrag von Lukas Nmecha (27) bei Leeds United hat sich automatisch verlängert. Am Freitag bestätigte der Klub von Trainer Daniel Farke, dass der gebürtige Hamburger dank einer...]]></description>
-    </item>
-    <item>
-      <title>Regionalliga Nordost: Eine weitere Spielabsage steht fest - FuPa</title>
-      <link>https://www.fupa.net/news/regionalliga-nordost-eine-weitere-spielabsage-steht-fest-3235264</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2226008049320980468</guid>
-      <pubDate>Fri, 27 Nov 2026 17:28:06 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Das Spiel wurde abgesagt. Der Chemnitzer FC hat dies dazu veröffentlicht: "Spielabsage! Unser für Freitagabend angesetztes Heimspiel gegen Hertha BSC ...]]></description>
-    </item>
-    <item>
-      <title>„Ich lege mich fest: Hertha steigt auf“ - Berliner Morgenpost</title>
-      <link>https://www.morgenpost.de/video/article413798242/ich-lege-mich-fest-hertha-steigt-auf.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6783702381043269388</guid>
-      <pubDate>Fri, 27 Nov 2026 16:44:47 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[In der aktuellen Folge des „Immer Hertha“-Podcasts ordnen Inga Böddeling und Paul Gorgas die Erfolgsreihe von Hertha BSC im Detail ein.]]></description>
-    </item>
-    <item>
-      <title>DFB-Pokal live im Free-TV: Dieser Sender zeigt Bayern gegen Hertha BSC - T-Online</title>
-      <link>https://www.t-online.de/sport/fussball/dfb-pokal/id_101549306/dfb-pokal-live-im-free-tv-dieser-sender-zeigt-bayern-gegen-hertha-bsc.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2306349916514048913</guid>
-      <pubDate>Fri, 27 Nov 2026 16:18:35 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Der FC Bayern empfängt Hertha BSC im Achtelfinale des DFB-Pokals. t-online gibt eine Übersicht, wo Sie das Duell live sehen können.]]></description>
-    </item>
-    <item>
-      <title>Hertha verlängert Seguins Vertrag bis 2028 - SuaraGarut.ID</title>
-      <link>https://suaragarut.id/de/hertha-verlaengert-seguin-vertrag-2028</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17632465871622069298</guid>
-      <pubDate>Fri, 27 Nov 2026 15:44:50 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Paul Seguin bleibt Hertha BSC bis 2028 erhalten. Trainer Stefan Leitl schätzt den Mittelfeldspieler als strategischen Fixpunkt und wichtigen ...]]></description>
-    </item>
-    <item>
-      <title>TSV-1860-Ikone übernimmt seine Stammkneipe: "Bevor hier eine Dönerbude oder ein ...</title>
-      <link>https://www.abendzeitung-muenchen.de/sport/tsv1860/tsv-1860-ikone-uebernimmt-seine-stammkneipe-bevor-hier-eine-doenerbude-oder-ein-buecherladen-hereinkommt-art-1176114</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12858192625275194653</guid>
-      <pubDate>Fri, 27 Nov 2026 15:18:43 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Party mit Hertha gegen den KSC. Unterstützt wird er bei dem Projekt von einem Freund. Am Samstag (11 Uhr) steigt die offizielle Eröffnungsfeier mit ...]]></description>
-    </item>
-    <item>
-      <title>„Ich bin Sportler – natürlich will ich gewinnen“ | Hertha BSC</title>
-      <link>https://www.herthabsc.com/de/nachrichten/2026/11/wildcast-marius-gersbeck-bscksc-2627</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14225755132989275776</guid>
-      <pubDate>Fri, 27 Nov 2026 15:18:20 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Keine Frage: Marius Gersbeck steht ein besonderes Spiel bevor. Am Samstag (28.11.26, 13:00 Uhr, Tickets hier) hütet unser Keeper aller Voraussicht ...]]></description>
-    </item>
-    <item>
-      <title>Hertha BSC vor KSC-Spiel: Nur Gouram fehlt, sonst alle an Bord - Karlsruhe</title>
-      <link>https://www.wochenblatt-reporter.de/karlsruhe/c-sport/hertha-bsc-vor-ksc-spiel-nur-gouram-fehlt-sonst-alle-an-bord_a955430</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9308000373952097374</guid>
-      <pubDate>Fri, 27 Nov 2026 15:09:32 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Fußball. Hertha BSC empfängt den Karlsruher SC im Olympiastadion. Das Heimspiel ist für den 28. November um 13 Uhr angesetzt.]]></description>
-    </item>
-    <item>
-      <title>Judo-Bundesliga der Frauen: Hertha Walheim trifft im Halbfinale auf Speyer.</title>
-      <link>https://www.aachener-zeitung.de/lokales/region-aachen/aachen/nur-dabei-sein-reicht-walheim-nicht-mehr-die-judoka-der-hertha-kaempfen-im-final-four-der-judo-frauen-bundesliga/165089188.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8695566186060039806</guid>
-      <pubDate>Fri, 27 Nov 2026 15:07:02 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Judo-Bundesliga der Frauen: Zweimal war für die Judoka des TSV Hertha Walheim beim Final Four im Halbfinale Schluss. Nach 2025 und 2024 nehmen sie ...]]></description>
-    </item>
-    <item>
-      <title>Null Grad, darum läuft Hertha gegen den KSC trotzdem heiß - Berliner Kurier</title>
-      <link>https://www.berliner-kurier.de/article/null-grad-darum-laeuft-hertha-gegen-den-ksc-trotzdem-heiss-10642257</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6881078721182959174</guid>
-      <pubDate>Fri, 27 Nov 2026 15:02:39 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Spitzenreiter Hertha BSC hat die Zweite Liga durch Top-Fitness überrannt. Sonnabend (13 Uhr) gegen den Karlsruher SC soll der zwölfte Sieg her.]]></description>
-    </item>
-    <item>
-      <title>Der KSC bei der Hertha: Die Ausgangslage lässt kein Freundschaftsspiel zu - BNN</title>
-      <link>https://bnn.de/sport/ksc/ksc-bei-der-hertha-die-ausgangslage-laesst-kein-freundschaftsspiel-zu</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9733997485212343900</guid>
-      <pubDate>Fri, 27 Nov 2026 15:01:35 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Den Karlsruher SC und die Hertha trennen vor ihrem Duell im Olympiastadion 22 Punkte. Das soll nach Anpfiff am Samstag aber keine Rolle mehr ...]]></description>
-    </item>
-    <item>
-      <title>Schöttel-Nachfolge geklärt: Nachwuchsleiter Prödl neuer ÖFB-Sportdirektor</title>
-      <link>https://www.transfermarkt.de/ex-nationalspieler-prodl-neuer-ofb-sportdirektor-nachfolger-von-schottel/view/news/491376</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/ex-nationalspieler-prodl-neuer-ofb-sportdirektor-nachfolger-von-schottel/view/news/491376</guid>
-      <pubDate>Fri, 27 Nov 2026 14:59:28 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Der Österreichische Fußball-Bund (ÖFB) hat am Freitag seinen neuen Sportdirektor präsentiert: Sebastian Prödl konnte sich im Auswahlprozess durchsetzen. Der...]]></description>
-    </item>
-    <item>
-      <title>Pochettinos Einfluss: So plant Manchester United – Klarheit bei Fernandes</title>
-      <link>https://www.transfermarkt.de/so-plant-das-strauchelnde-man-united-fulhams-bassey-im-fokus-klarheit-bei-fernandes/view/news/491367</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/so-plant-das-strauchelnde-man-united-fulhams-bassey-im-fokus-klarheit-bei-fernandes/view/news/491367</guid>
-      <pubDate>Fri, 27 Nov 2026 14:52:07 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Das in Schlingern geratene Manchester United beschäftigt sich mit einer Verpflichtung von Calvin Bassey. Wie „The Athletic“ berichtet, steht der Innenverteidiger des FC Fulham weit...]]></description>
-    </item>
-    <item>
-      <title>FC Bayern: Musiala erneut verletzt – Alte Verletzung aufgebrochen</title>
-      <link>https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/musiala-fehlt-dem-fc-bayern-erneut-langer-alte-verletzung-wieder-aufgebrochen/view/news/491374</guid>
-      <pubDate>Fri, 27 Nov 2026 14:34:37 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Jamal Musiala muss beim FC Bayern erneut für mehrere Wochen aussetzen. Wie die Münchner am Freitag vermeldeten, wurde bei dem 23-Jährigen eine Muskelverletzung im rechten...]]></description>
-    </item>
-    <item>
-      <title>Das ist Hertha | Karlsruher SC</title>
-      <link>https://www.ksc.de/aktuelles/news/das-ist-hertha</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15930980476262321888</guid>
-      <pubDate>Fri, 27 Nov 2026 14:17:17 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[... Hertha und unsere langjährige Verbindung zur Alten Dame vorstellen. Alle Infos rund um die Namensherkunft der „Hertha“, das Olympiastadion, die ...]]></description>
-    </item>
-    <item>
-      <title>Kurvenwissen: Fakten zu #BSCKSC - Hertha BSC</title>
-      <link>https://www.herthabsc.com/de/nachrichten/2026/11/fakten-bscksc-2627</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11064076604845071263</guid>
-      <pubDate>Fri, 27 Nov 2026 14:12:21 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Erneut gilt dabei die in der bisherigen Saison bewährte Marschroute: Das nächste Spiel ist das wichtigste! Demzufolge betonte Stefan Leitl auch auf ...]]></description>
-    </item>
-    <item>
-      <title>Hertha BSC: Keeper Gersbeck über den Aufstieg, Bayern und sein Pech bei Elfmetern</title>
-      <link>https://www.morgenpost.de/sport/hertha/article413780521/interview-gersbeck.html</link>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15770237383506680418</guid>
-      <pubDate>Fri, 27 Nov 2026 14:07:18 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.google.de/alerts/feeds/04536167566068725751/1980631152170714655">Hertha Alert</source>
-      <description><![CDATA[Hertha BSC trifft am Samstag auf den befreundeten Karlsruher SC. Für Torhüter Marius Gersbeck aus mehreren Gründen eine besondere Partie.]]></description>
-    </item>
-    <item>
-      <title>Burnleys Sieglosserie stellt deutschen Heim-Negativrekord in Schatten</title>
-      <link>https://www.transfermarkt.de/kompanys-ex-klub-burnleys-sieglosserie-neun-spiele-langer-als-deutscher-heim-negativrekord/view/news/491348</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/kompanys-ex-klub-burnleys-sieglosserie-neun-spiele-langer-als-deutscher-heim-negativrekord/view/news/491348</guid>
-      <pubDate>Fri, 27 Nov 2026 12:42:54 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[24 Heimspiele, kein einziger Sieg: Der FC Burnley hat einen Negativlauf hingelegt, der im englischen Profifußball bis dato einmalig ist. Durch das 0:2 gegen Birmingham City unter der Woche...]]></description>
-    </item>
-    <item>
-      <title>Real Madrid: Auch Joker Brahim Díaz unterschreibt langfristig</title>
-      <link>https://www.transfermarkt.de/nachste-real-verlangerung-diaz-unterschreibt-langfristig-jedes-cl-spiel-eine-vorlage/view/news/491360</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/nachste-real-verlangerung-diaz-unterschreibt-langfristig-jedes-cl-spiel-eine-vorlage/view/news/491360</guid>
-      <pubDate>Fri, 27 Nov 2026 12:07:31 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Die Verlängerungs-Wochen bei Real Madrid gehen in die nächste Runde. Nun hat auch Offensivspieler Brahim Díaz einen neuen Vertrag unterzeichnet, der laut Angaben der...]]></description>
-    </item>
-    <item>
-      <title>Calvert-Lewin verlängert in Leeds – Auch Ex-Düsseldorfer Tanaka bleibt</title>
-      <link>https://www.transfermarkt.de/calvert-lewin-verlangert-in-leeds-unter-farke-erstmals-seit-2020-marktwert-gesteigert/view/news/491344</link>
-      <guid isPermaLink="false">https://www.transfermarkt.de/calvert-lewin-verlangert-in-leeds-unter-farke-erstmals-seit-2020-marktwert-gesteigert/view/news/491344</guid>
-      <pubDate>Fri, 27 Nov 2026 11:47:17 GMT</pubDate>
-      <category>Fußball</category>
-      <source url="https://www.transfermarkt.de/rss/news">Transfermarkt</source>
-      <description><![CDATA[Dieser Artikel erschien auf Transfermarkt in seiner ersten Fassung um 08:40 Uhr und wurde anschließend mit der Personalie Ao Tanaka aktualisiert. Der englische Nationalspieler Dominic...]]></description>
     </item>
   </channel>
 </rss>

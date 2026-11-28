@@ -5,9 +5,36 @@
     <link>https://holli-news-bot.streamlit.app/?category=Tech+%26+AI</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Tech &amp; AI' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:20:59 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/tech-und-ai.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sakana AI’s CEO says its homegrown models are about more than Japan’s national security</title>
+      <link>https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3192694</guid>
+      <pubDate>Sat, 28 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+      <description><![CDATA[Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.]]></description>
+    </item>
+    <item>
+      <title>Studie beziffert Risiko einer KI-Blase auf bis zu 97 Prozent</title>
+      <link>https://www.all-ai.de/news/news26top/studie-ki-blase-ende</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/studie-ki-blase-ende</guid>
+      <pubDate>Sat, 28 Nov 2026 13:20:00 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Ökonomen aus London und Cambridge beziffern die Wahrscheinlichkeit einer KI-Blase an der Börse für September 2026 je nach Berechnung auf 40% bis 97%. Grundlage ist eine KI-Auswertung von rund 800.000 Artikeln des Magazins »The Economist« seit 1843, geprüft an 22 historischen Finanzkrisen. Als größtes Risiko gilt die Kreislauffinanzierung, bei der Konzerne wie Nvidia und Alphabet ihre eigenen Chip- und Cloud-Kunden mit Milliarden stützen. Neue US-Exportregeln gegen chinesischen Cloud-Zugriff und Kursverluste bei Nvidia könnten bei kreditfinanzierten Rechenzentren eine Abwärtsspirale auslösen. University of Cambridge / London Business School: Crying Wolf – Media Warnings and the Predictability of Financial Bubbles (PDF) London Business School Think: Is the AI bubble about to burst? SSRN Working Paper: Grotteria, Monteiro & Yannelis (2026) Stehen KI-Aktien vor einem schweren Börsensturz? Ökonomen aus London und Cambridge sehen in einer neuen Studie mit bis zu 97% Wahrscheinlichkeit eine Finanzblase. Anzeige Wenn Tech-Konzerne ihre eigenen Kunden finanzieren Die Warnung trifft auf ein anfälliges Geschäftsmodell. Konzerne wie Nvidia, Alphabet und Amazon stecken Milliarden in junge KI...]]></description>
+    </item>
+    <item>
+      <title>Google verkauft Modell-Destillation als Cloud-Dienst</title>
+      <link>https://www.all-ai.de/news/news26top/google-modell-destillation</link>
+      <guid isPermaLink="false">https://www.all-ai.de/news/news26top/google-modell-destillation</guid>
+      <pubDate>Sat, 28 Nov 2026 12:05:02 GMT</pubDate>
+      <category>Tech &amp; AI</category>
+      <source url="https://www.all-ai.de/component/jmap/sitemap/rss?format=rss">AI News</source>
+      <description><![CDATA[Google Cloud bietet das Anlernen kleinerer KI-Modelle durch größere Lehrermodelle offiziell als bezahlten Dienst an. Während Anthropic und OpenAI solche Destillation als Angriff bekämpfen, verdient Google an Rechenzeit und Modell-Antworten mit. Als Lehrer schaltet Google bisher allerdings nur das offene Modell GLM 5.2 frei und hält die eigenen Gemini-Spitzenmodelle weiter unter Verschluss. Der Vorstoß stößt die Debatte neu an, warum KI-Unternehmen zwar das gesamte Web als Lehrmaterial nutzen, fremdes Lernen an ihren Ausgaben aber verbieten. Google Cloud Docs: Supervised and distillation fine-tuning for open models Clément Delangue auf X zu Googles Destillations-Angebot Anthropic: Detecting and preventing distillation attacks Google Gemini API Additional Terms of Service OfficeChai: Google Cloud Guide on Model Distillation vs. OpenAI and Anthropic Anthropic und OpenAI bekämpfen und sehen das Anlernen kleinerer KI-Modelle durch Destillation wiederholt als gezielten Angriff. Google wählt den umgekehrten Weg und verkauft genau diese Destillation als regulären Cloud-Dienst. Anzeige Vom verpönten Trick zum Bezahlprodukt Bei der Destillation beantwortet ein großes KI-Modell tausende Au...]]></description>
+    </item>
     <item>
       <title>Unkernel: Real Linux kernel, compiled to WebAssembly</title>
       <link>https://unkernel.dev</link>
@@ -211,15 +238,6 @@
       <link>https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</link>
       <guid isPermaLink="false">https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html</guid>
       <pubDate>Fri, 27 Nov 2026 14:30:20 GMT</pubDate>
-      <category>Tech &amp; AI</category>
-      <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
-      <description><![CDATA[Comments]]></description>
-    </item>
-    <item>
-      <title>Paolo Soleri built a utopian eco-city in the Arizona desert</title>
-      <link>https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</link>
-      <guid isPermaLink="false">https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona</guid>
-      <pubDate>Fri, 27 Nov 2026 13:30:20 GMT</pubDate>
       <category>Tech &amp; AI</category>
       <source url="https://news.ycombinator.com/rss">Hacker News (Top)</source>
       <description><![CDATA[Comments]]></description>

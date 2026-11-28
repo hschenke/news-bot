@@ -5,7 +5,7 @@
     <link>https://holli-news-bot.streamlit.app/?category=Fun</link>
     <description>Aggregierte Nachrichten für die Kategorie 'Fun' aus dem News Bot.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:20:59 GMT</lastBuildDate>
     <generator>News Bot RSS Engine</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/hschenke/news-bot@main/static/rss/kategorien/fun.xml" rel="self" type="application/rss+xml" />
     <item>
